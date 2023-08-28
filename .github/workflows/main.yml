@@ -1,1 +1,20 @@
-
+name: update
+on:
+  workflow_dispatch:
+permissions:
+    contents: write
+    discussions: write
+jobs:
+    prepare:
+        runs-on: ubuntu-22.04
+        steps:
+            - name: 准备环境
+              run: |
+                sudo apt install -y python
+                pip install wikiextractor
+            
+            - name: 获取Wikipedia page id
+              run: |
+                python .github/workflows/scripts/get_wikipedia_page_id.py
+                ls
+                cat wikipedia_page_id.txt
