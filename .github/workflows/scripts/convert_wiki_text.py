@@ -1,32 +1,39 @@
-import xml.etree.ElementTree as ET
-import opencc
 import re
+import opencc
 
-# 创建简繁转换器实例
-converter = opencc.OpenCC("t2s.json")  # t2s.json 是简体化配置文件
+# 创建 OpenCC 实例
+converter = opencc.OpenCC("t2s.json")
 
-# 读取维基百科的XML文件
-input_file = "zhwiki.xml"
-output_file = "zhwiki_simplified.xml"
+# 定义占位符和对应的日文内容的映射
+placeholder_map = {}
+current_placeholder = 0
 
-tree = ET.parse(input_file)
-root = tree.getroot()
+def replace_japanese(match):
+    global current_placeholder
+    placeholder = f"__PLACEHOLDER_{current_placeholder}__"
+    placeholder_map[placeholder] = match.group(0)
+    current_placeholder += 1
+    return placeholder
 
-# 正则表达式匹配日文内容的标记
-ja_pattern = re.compile(r"{{lang\|ja\|(.*?)}}")
+def replace_back(match):
+    return placeholder_map.get(match.group(0), match.group(0))
 
-# 遍历XML文档，将繁体字转换为简体，但跳过日文内容的标记
-for element in root.iter():
-    if element.text:  # 如果文本内容不为空
-        if not any(child.tag == "lang" and child.attrib.get("lang") == "ja" for child in element):
-            # 如果没有日文内容的标记，则进行转换
-            element.text = converter.convert(element.text)
-        else:
-            # 如果存在日文内容的标记，则跳过转换
-            ja_match = ja_pattern.search(element.text)
-            if ja_match:
-                ja_content = ja_match.group(1)
-                element.text = element.text.replace(ja_content, converter.convert(ja_content))
+# 读取输入文件并进行处理
+with open("zhwiki-vn.xml", "r", encoding="utf-8") as input_file:
+    content = input_file.read()
 
-# 将转换后的XML写入新文件
-tree.write(output_file, encoding="utf-8", xml_declaration=True)
+# 替换日文内容为占位符
+pattern = re.compile(r"\{\{lang\|ja\|[\s\S]*?}}", re.MULTILINE)
+content_with_placeholders = pattern.sub(replace_japanese, content)
+
+# 进行繁简转换
+converted_content = converter.convert(content_with_placeholders)
+
+# 替换占位符回原来的日文内容
+converted_content = re.sub(r"__PLACEHOLDER_\d+__", replace_back, converted_content)
+
+# 将转换后的内容写入输出文件
+with open("zhwiki-vn_simplified.xml", "w", encoding="utf-8") as output_file:
+    output_file.write(converted_content)
+
+print("繁简转换完成并已保存到zhwiki-vn_simplified.xml")
