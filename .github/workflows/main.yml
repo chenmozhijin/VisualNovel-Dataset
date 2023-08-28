@@ -10,7 +10,7 @@ jobs:
         steps:
             - name: 准备环境
               run: |
-                sudo apt install -y python
+                sudo apt install -y python3
                 pip install wikiextractor
             
             - name: 获取Wikipedia page id
