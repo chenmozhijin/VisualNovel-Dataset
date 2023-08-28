@@ -12,6 +12,10 @@ jobs:
               run: |
                 sudo apt install -y python3
                 pip install wikiextractor
+
+            
+            - name: 将存储库签出到运行器
+              uses: actions/checkout@v3
             
             - name: 获取Wikipedia page id
               run: |
