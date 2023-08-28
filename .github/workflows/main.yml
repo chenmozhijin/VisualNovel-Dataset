@@ -10,7 +10,7 @@ jobs:
         steps:
             - name: 准备环境
               run: |
-                sudo apt install -y python3
+                sudo apt install -y python3 bzip2
   
             - name: 将存储库签出到运行器
               uses: actions/checkout@v3
