@@ -11,14 +11,31 @@ jobs:
             - name: 准备环境
               run: |
                 sudo apt install -y python3
-                pip install wikiextractor
-
-            
+  
             - name: 将存储库签出到运行器
               uses: actions/checkout@v3
             
             - name: 获取Wikipedia page id
               run: |
                 python .github/workflows/scripts/get_wikipedia_page_id.py
-                ls
                 cat wikipedia_page_id.txt
+
+            - name: 安装依赖
+              run: |
+                #安装最新wikiextractor(旧版有错误)
+                mkdir -p /tmp/gitclone
+                cd /tmp/gitclone
+                git clone https://github.com/attardi/wikiextractor.git
+                cd wikiextractor
+                sudo python setup.py install
+                cd $GITHUB_WORKSPACE
+                #安装 opencc
+                pip install opencc
+
+            - name: 下载数据
+              run: |
+                mkdir -p workdir
+                cd workdir
+                curl -o zhwiki.xml.bz2 https://dumps.wikimedia.org/zhwiki/latest/zhwiki-latest-pages-articles-multistream.xml.bz2
+                bzip2 -d zhwiki.xml.bz2
+                ls -la $(find . -type d)
