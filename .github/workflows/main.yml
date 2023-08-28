@@ -5,20 +5,15 @@ permissions:
     contents: write
     discussions: write
 jobs:
-    prepare:
+    wikipedia:
         runs-on: ubuntu-22.04
         steps:
             - name: 准备环境
               run: |
-                sudo apt install -y python3 bzip2
+                sudo apt install -y python3 bzip2 aria2
   
             - name: 将存储库签出到运行器
               uses: actions/checkout@v3
-            
-            - name: 获取Wikipedia page id
-              run: |
-                python .github/workflows/scripts/get_wikipedia_page_id.py
-                cat wikipedia_page_id.txt
 
             - name: 安装依赖
               run: |
@@ -36,6 +31,57 @@ jobs:
               run: |
                 mkdir -p workdir
                 cd workdir
-                curl -o zhwiki.xml.bz2 https://dumps.wikimedia.org/zhwiki/latest/zhwiki-latest-pages-articles-multistream.xml.bz2
+                aria2c -o zhwiki.xml.bz2 -x 15 -s 8 --file-allocation=falloc https://dumps.wikimedia.org/zhwiki/latest/zhwiki-latest-pages-articles-multistream.xml.bz2
                 bzip2 -d zhwiki.xml.bz2
                 ls -la $(find . -type d)
+
+            - name: 获取Wikipedia page id
+              run: |
+                cd workdir
+                python $GITHUB_WORKSPACE/.github/workflows/scripts/get_wikipedia_page_id.py
+                cat wikipedia_page_id.txt
+
+            - name: 获取匹配数据
+              run: |
+                cd workdir
+                bash $GITHUB_WORKSPACE/.github/workflows/scripts/get_wikipedia_page.sh
+                # 将 zhwiki.xml 的第一行和最后一行插入到 zhwiki-vn.xml 中
+                { head -n 1 zhwiki.xml; cat zhwiki-vn.xml; tail -n 1 zhwiki.xml; } > zhwiki-vn-tmp.xml && mv zhwiki-vn-tmp.xml zhwiki-vn.xml
+
+            - name: 简繁转换
+              run: |
+                cd workdir
+                python $GITHUB_WORKSPACE/.github/workflows/scripts/convert_wiki_text.py
+
+            - name: 提取并清理文本
+              run: |
+                cd workdir
+                wikiextractor -o $GITHUB_WORKSPACE/workdir/zhwiki-vn zhwiki-vn_simplified.xml
+
+            - name: 上传文本
+              if: success() || failure()
+              uses: actions/upload-artifact@v3
+              with:
+                  name: 文本
+                  path: "workdir/zhwiki-vn"
+
+            - name: 上传page_id
+              if: success() || failure()
+              uses: actions/upload-artifact@v3
+              with:
+                  name: page_id
+                  path: "workdir/wikipedia_page_id.txt"
+            
+            - name: 上传匹配数据
+              if: success() || failure()
+              uses: actions/upload-artifact@v3
+              with:
+                  name: 匹配数据
+                  path: "workdir/zhwiki-vn.xml"
+
+            - name: 上传简繁转换数据
+              if: success() || failure()
+              uses: actions/upload-artifact@v3
+              with:
+                  name: 简繁转换数据
+                  path: "workdir/zhwiki-vn_simplified.xml"
