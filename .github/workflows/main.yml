@@ -13,10 +13,10 @@ jobs:
 
             - name: 安装依赖
               run: |
-                #安装最新wikiextractor(旧版有错误)
+                #安装最新修改版wikiextractor(旧版有错误)
                 mkdir -p /tmp/gitclone
                 cd /tmp/gitclone
-                git clone https://github.com/attardi/wikiextractor.git
+                git clone https://github.com/chenmozhijin/wikiextractor.git
                 cd wikiextractor
                 sudo python setup.py install
                 cd $GITHUB_WORKSPACE
@@ -34,7 +34,7 @@ jobs:
             - name: 获取Wikipedia page id
               run: |
                 cd workdir
-                python $GITHUB_WORKSPACE/.github/workflows/scripts/get_wikipedia_page_id.py
+                python $GITHUB_WORKSPACE/.github/workflows/scripts/get_wiki_page_id.py zh-wikipedia
                 cat wikipedia_page_id.txt
 
             - name: 获取匹配数据
@@ -51,21 +51,23 @@ jobs:
               run: |
                 cd workdir
                 wikiextractor -o $GITHUB_WORKSPACE/workdir/zhwiki-vn -b 1G zhwiki-vn_simplified.xml
-                wikiextractor -o $GITHUB_WORKSPACE/workdir/zhwiki-vn-json --json -b 1G zhwiki-vn_simplified.xml
+                wikiextractor -o $GITHUB_WORKSPACE/workdir/zhwiki-vn-json --json --preserve-unicode -b 1G zhwiki-vn_simplified.xml
+                cat zhwiki-vn/* zhwiki-vn_simplified.txt
+                cat zhwiki-vn-json/* zhwiki-vn_simplified.json
 
             - name: 上传文本
               if: success() || failure()
               uses: actions/upload-artifact@v3
               with:
                   name: 文本
-                  path: "workdir/zhwiki-vn"
+                  path: "workdir/zhwiki-vn_simplified.txt"
 
             - name: 上传json文本
               if: success() || failure()
               uses: actions/upload-artifact@v3
               with:
-                  name: 文本
-                  path: "workdir/zhwiki-vn-json"
+                  name: json文本
+                  path: "workdir/zhwiki-vn_simplified.json"
 
             - name: 上传page_id
               if: success() || failure()
