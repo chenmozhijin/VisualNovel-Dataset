@@ -26,7 +26,7 @@ jobs:
                 cd $GITHUB_WORKSPACE
                 #安装 opencc
                 pip install opencc
-                pip install wget
+                pip install pywget
 
             - name: 下载数据
               run: |
