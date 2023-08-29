@@ -26,13 +26,14 @@ jobs:
                 cd $GITHUB_WORKSPACE
                 #安装 opencc
                 pip install opencc
+                pip install wget
 
             - name: 下载数据
               run: |
                 mkdir -p workdir
                 cd workdir
-                aria2c -o zhwiki.xml.bz2 -x 15 -s 8 --file-allocation=falloc https://dumps.wikimedia.org/zhwiki/latest/zhwiki-latest-pages-articles-multistream.xml.bz2
-                bzip2 -d zhwiki.xml.bz2
+                python $GITHUB_WORKSPACE/.github/workflows/scripts/dl.py
+                bzip2 -d *.bz2
                 ls -la $(find . -type d)
 
             - name: 获取Wikipedia page id
