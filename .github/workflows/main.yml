@@ -39,7 +39,7 @@ jobs:
               run: |
                 cd workdir
                 python $GITHUB_WORKSPACE/.github/workflows/scripts/get_wiki_page_id.py zh-wikipedia
-                cat wikipedia_page_id.txt
+                cat zh-wikipedia-page_ids.txt
 
             - name: 获取匹配数据
               run: |
@@ -78,7 +78,7 @@ jobs:
               uses: actions/upload-artifact@v3
               with:
                   name: page_id
-                  path: "workdir/wikipedia_page_id.txt"
+                  path: "workdir/zh-wikipedia-page_ids.txt"
             
             - name: 上传匹配数据
               if: success() || failure()
