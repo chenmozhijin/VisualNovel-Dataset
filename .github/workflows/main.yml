@@ -7,11 +7,7 @@ permissions:
 jobs:
     wikipedia:
         runs-on: ubuntu-22.04
-        steps:
-            - name: 准备环境
-              run: |
-                sudo apt install -y python3 bzip2 aria2
-  
+        steps: 
             - name: 将存储库签出到运行器
               uses: actions/checkout@v3
 
@@ -26,9 +22,8 @@ jobs:
                 cd $GITHUB_WORKSPACE
                 #安装 opencc
                 pip install opencc
-                pip install pywget
 
-            - name: 下载数据
+            - name: 下载并解压数据
               run: |
                 mkdir -p workdir
                 cd workdir
