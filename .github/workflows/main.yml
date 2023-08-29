@@ -106,6 +106,7 @@ jobs:
 
             - name: 获取moegirl page id
               run: |
+                mkdir -p workdir
                 cd workdir
                 python $GITHUB_WORKSPACE/.github/workflows/scripts/get_wiki_page_id.py moegirl
                 cat moegirl-page_ids.txt
