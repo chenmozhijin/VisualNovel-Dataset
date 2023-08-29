@@ -123,7 +123,6 @@ jobs:
                 cd $GITHUB_WORKSPACE/workdir/moegirl-archive/
                 sed -i 's/^input("按Enter开始。")/#input("按Enter开始。")/' moegirl_archive.py
                 sed -i 's/^input("完成。")/#input("完成。")/' moegirl_archive.py
-                cat moegirl_archive.py
                 python moegirl_archive.py
 
             - name: 上传萌娘百科存档数据
