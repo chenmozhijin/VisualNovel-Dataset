@@ -3,7 +3,7 @@
 # 设置要处理的文件和输出文件
 input_file="wikipedia_page_id.txt"
 output_file="zhwiki-vn.xml"
-max_parallel_processes=8  # 设置最大并行进程数量
+max_parallel_processes=16  # 设置最大并行进程数量
 
 # 删除旧的输出文件（如果需要）
 rm -f "$output_file"
