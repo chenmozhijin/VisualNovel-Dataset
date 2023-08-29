@@ -9,7 +9,7 @@ wikis = {
     },
     'moegirl': {
         'api_url': 'https://zh.moegirl.org.cn/api.php',
-        'categories': ['恋爱冒险游戏', '视觉小说']  # 示例分类名，根据实际需求修改
+        'categories': ['恋爱冒险游戏', '视觉小说','Little_Busters!','AIR','Angel_Beats','CLANNAD','Charlotte','Harmonia(Key)#','Kanon','LOOPERS','MOON.','LUNARiA_-Virtualized_Moonchild-','ONE～辉之季节～','Rewrite','Summer_Pockets','星之梦','星之终途','ATRI','爱上火车','初音岛','9-nine-','常轨脱离Creative','住在拔作岛上的贫乳应该如何是好？','苍之彼方的四重奏','美少女万华镜','缘之空','Palette作品','灰色系列','少女领域','千恋万花','柚子社作品']  # 示例分类名，根据实际需求修改
     }
 }
 
