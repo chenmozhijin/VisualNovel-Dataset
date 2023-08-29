@@ -33,7 +33,7 @@ jobs:
                 mkdir -p workdir
                 cd workdir
                 python $GITHUB_WORKSPACE/.github/workflows/scripts/dl.py
-                bzip2 -d *.bz2
+                bzip2 -dv *.bz2
                 ls -la $(find . -type d)
 
             - name: 获取Wikipedia page id
