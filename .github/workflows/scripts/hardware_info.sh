@@ -1,0 +1,21 @@
+#!/bin/bash
+echo -e "-----------------------------------------------------------------------------\n"
+echo -e "温馨提示："
+echo -e "GitHub Actions运行器使用CPU的型号不一定相同,运行器性能不同将会影响处理速度。\n"
+echo -e "-----------------------------------------------------------------------------\n"
+echo -e "运行器硬件信息\n"
+echo -e "-----------------------------------CPU信息-----------------------------------\n"
+echo "物理CPU数量:$(cat /proc/cpuinfo| grep "physical id"| sort| uniq| wc -l)"
+echo "CPU核心数量:$(cat /proc/cpuinfo |grep "cores"|uniq|awk '{print $4}')"
+echo "CPU线程数量:$(cat /proc/cpuinfo |grep "processor"|wc -l)"
+echo -e "CPU型号:$(cat /proc/cpuinfo | grep 'model name' | sort | uniq |sed 's/.*://') \n"
+echo -e "-----------------------------------内存信息-----------------------------------\n"
+echo "内存总量:$(grep MemTotal /proc/meminfo|sed 's/.*://')"
+echo "空闲内存量:$(grep MemFree /proc/meminfo|sed 's/.*://')"
+echo "内存详细信息："
+free -m
+echo -e ""
+echo -e "-----------------------------------硬盘信息-----------------------------------\n"
+df --total  -Th
+echo -e ""
+echo -e "-----------------------------------------------------------------------------\n"
