@@ -1,7 +1,6 @@
 import requests
 import re
-import threading
-import pywget
+import subprocess
 
 # 请求网页内容
 url = 'https://dumps.wikimedia.org/zhwiki/latest/'
@@ -22,36 +21,25 @@ download_urls = set([
 # 对下载链接进行排序
 sorted_download_urls = sorted(download_urls)
 
-# 定义下载函数
-def download_file(url):
-    try:
-        pywget.download(url)
-        print(f"Downloaded: {url}")
-    except Exception as e:
-        print(f"Failed to download: {url}")
-        print(f"Error: {e}")
-        print("Retrying...")
-        download_file(url)  # 递归进行重试
+# 设置aria2下载参数
+aria2_args = [
+    'aria2c',
+    '-x', '16',  # 16线程下载
+    '-j', '5',   # 最大同时下载任务数
+    '--retry-wait', '5',  # 下载失败后重试等待时间
+]
 
-# 设置并发线程数
-max_threads = 4
-
-# 多线程下载
-threads = []
+# 下载每个链接
 for download_url in sorted_download_urls:
-    # 控制并发线程数
-    while len(threads) >= max_threads:
-        for thread in threads:
-            if not thread.is_alive():
-                threads.remove(thread)
-                break
+    aria2_args.append(download_url)
 
-    thread = threading.Thread(target=download_file, args=(download_url,))
-    threads.append(thread)
-    thread.start()
+    try:
+        # 调用aria2命令行下载工具
+        subprocess.run(aria2_args, check=True)
+    except subprocess.CalledProcessError as e:
+        print(f"下载失败: {e}")
+    
+    # 移除当前链接，以便添加下一个链接
+    aria2_args.pop()
 
-# 等待所有线程完成
-for thread in threads:
-    thread.join()
-
-print("All downloads completed.")
+print("下载完成")
