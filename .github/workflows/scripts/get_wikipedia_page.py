@@ -22,9 +22,7 @@ def read_page_ids(filename):
 def extract_page(args):
     file, page_id = args
     command = f"extractPage --id {page_id} {file} >> zhwiki-vn.xml"
-    print(f"执行extractPage命令:{command}")
     subprocess.run(command, shell=True)
-    print(f"执行extractPage命令:{command}完成")
     with processed_ids.get_lock():
         processed_ids.value += 1
         processed_percent = (processed_ids.value / total_valid_ids) * 100
@@ -75,12 +73,13 @@ if __name__ == "__main__":
     # 步骤5：对每个页面ID进行处理，使用多线程同时执行
     pool = Pool(processes=4)  # 4个并发线程，可以根据需要调整
 
+    print("开始处理")
+
     for page_id in page_ids:
         found_matching_file = False
         for file in matching_files:
             start_id, end_id = re.findall(r'(\d+)', file)[-2:]
             if int(start_id) <= int(page_id) <= int(end_id):
-                print(f"{page_id}在{start_id}-{end_id}的范围内")
                 pool.apply_async(extract_page, ((file, page_id),))
                 found_matching_file = True
                 break

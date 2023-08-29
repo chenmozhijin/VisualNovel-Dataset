@@ -11,6 +11,10 @@ jobs:
             - name: 将存储库签出到运行器
               uses: actions/checkout@v3
 
+            - name: 输出运行器硬件信息
+              run: |
+                bash $GITHUB_WORKSPACE/.github/workflows/scripts/hardware_info.sh
+
             - name: 安装依赖
               run: |
                 #安装最新修改版wikiextractor(旧版有错误)
@@ -52,22 +56,22 @@ jobs:
                 cd workdir
                 wikiextractor -o $GITHUB_WORKSPACE/workdir/zhwiki-vn -b 1G zhwiki-vn_simplified.xml
                 wikiextractor -o $GITHUB_WORKSPACE/workdir/zhwiki-vn-json --json --preserve-unicode -b 1G zhwiki-vn_simplified.xml
-                cat zhwiki-vn/* zhwiki-vn_simplified.txt
-                cat zhwiki-vn-json/* zhwiki-vn_simplified.json
+                cat zhwiki-vn/* zh-wikipedia-vn.txt
+                cat zhwiki-vn-json/* zh-wikipedia-vn.json
 
             - name: 上传文本
               if: success() || failure()
               uses: actions/upload-artifact@v3
               with:
                   name: 文本
-                  path: "workdir/zhwiki-vn_simplified.txt"
+                  path: "workdir/zh-wikipedia-vn.txt"
 
             - name: 上传json文本
               if: success() || failure()
               uses: actions/upload-artifact@v3
               with:
                   name: json文本
-                  path: "workdir/zhwiki-vn_simplified.json"
+                  path: "workdir/zh-wikipedia-vn.json"
 
             - name: 上传page_id
               if: success() || failure()
