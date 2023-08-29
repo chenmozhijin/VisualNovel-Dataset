@@ -93,3 +93,40 @@ jobs:
               with:
                   name: 简繁转换数据
                   path: "workdir/zhwiki-vn_simplified.xml"
+
+    moegirl:
+        runs-on: ubuntu-22.04
+        steps: 
+            - name: 将存储库签出到运行器
+              uses: actions/checkout@v3
+
+            - name: 输出运行器硬件信息
+              run: |
+                bash $GITHUB_WORKSPACE/.github/workflows/scripts/hardware_info.sh
+
+            - name: 获取moegirl page id
+              run: |
+                cd workdir
+                python $GITHUB_WORKSPACE/.github/workflows/scripts/get_wiki_page_id.py moegirl
+                cat moegirl-page_ids.txt
+                
+
+            - name: 克隆萌娘百科存档工具
+              run: |
+                cd workdir
+                git clone https://github.com/huxiangyou/moegirl-archive.git
+
+            - name: 运行萌娘百科存档工具
+              run: |
+                sed 's/^/[M___]	/g' $GITHUB_WORKSPACE/workdir/moegirl-page_ids.txt > $GITHUB_WORKSPACE/workdir/moegirl-archive/PAGELIST.txt
+                cd $GITHUB_WORKSPACE/workdir/moegirl-archive/
+                sed -i 's/^input("按Enter开始。")/#input("按Enter开始。")/' moegirl_archive.py
+                sed -i 's/^input("完成。")/#input("完成。")/' moegirl_archive.py
+                python moegirl_archive.py
+
+            - name: 上传萌娘百科存档数据
+              if: success() || failure()
+              uses: actions/upload-artifact@v3
+              with:
+                  name: 萌娘百科存档数据
+                  path: "$GITHUB_WORKSPACE/workdir/moegirl-archive/archive" 
