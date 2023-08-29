@@ -40,7 +40,7 @@ if __name__ == "__main__":
         print(*matching_files, sep = "\n")
 
     # 步骤2：读取页面ID文件
-    page_id_file = "wikipedia_page_id.txt"
+    page_id_file = "zh-wikipedia-page_ids.txt"
     page_ids = read_page_ids(page_id_file)
 
     if not page_ids:

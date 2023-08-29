@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 设置要处理的文件和输出文件
-input_file="wikipedia_page_id.txt"
+input_file="zh-wikipedia-page_ids.txt"
 output_file="zhwiki-vn.xml"
 max_parallel_processes=16  # 设置最大并行进程数量
 
