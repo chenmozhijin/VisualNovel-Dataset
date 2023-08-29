@@ -51,6 +51,7 @@ jobs:
               run: |
                 cd workdir
                 wikiextractor -o $GITHUB_WORKSPACE/workdir/zhwiki-vn -b 1G zhwiki-vn_simplified.xml
+                wikiextractor -o $GITHUB_WORKSPACE/workdir/zhwiki-vn-json --json -b 1G zhwiki-vn_simplified.xml
 
             - name: 上传文本
               if: success() || failure()
@@ -58,6 +59,13 @@ jobs:
               with:
                   name: 文本
                   path: "workdir/zhwiki-vn"
+
+            - name: 上传json文本
+              if: success() || failure()
+              uses: actions/upload-artifact@v3
+              with:
+                  name: 文本
+                  path: "workdir/zhwiki-vn-json"
 
             - name: 上传page_id
               if: success() || failure()
