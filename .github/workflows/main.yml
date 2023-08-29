@@ -50,7 +50,7 @@ jobs:
             - name: 提取并清理文本
               run: |
                 cd workdir
-                wikiextractor -o $GITHUB_WORKSPACE/workdir/zhwiki-vn zhwiki-vn_simplified.xml
+                wikiextractor -o $GITHUB_WORKSPACE/workdir/zhwiki-vn -b 1G zhwiki-vn_simplified.xml
 
             - name: 上传文本
               if: success() || failure()
