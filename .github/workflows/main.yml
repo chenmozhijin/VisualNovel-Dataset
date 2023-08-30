@@ -56,8 +56,8 @@ jobs:
                 cd workdir
                 wikiextractor -o $GITHUB_WORKSPACE/workdir/zhwiki-vn -b 1G zhwiki-vn_simplified.xml
                 wikiextractor -o $GITHUB_WORKSPACE/workdir/zhwiki-vn-json --json --preserve-unicode -b 1G zhwiki-vn_simplified.xml
-                cat zhwiki-vn/* zh-wikipedia-vn.txt
-                cat zhwiki-vn-json/* zh-wikipedia-vn.json
+                cat $(find zhwiki-vn -type f) > zh-wikipedia-vn.txt
+                cat $(find zhwiki-vn-json -type f) >  zh-wikipedia-vn.json
 
             - name: 上传文本
               if: success() || failure()
@@ -130,4 +130,4 @@ jobs:
               uses: actions/upload-artifact@v3
               with:
                   name: 萌娘百科存档数据
-                  path: "$GITHUB_WORKSPACE/workdir/moegirl-archive/archive" 
+                  path: "${{ github.workspace }}/workdir/moegirl-archive/archive" 
