@@ -140,10 +140,12 @@ jobs:
               run: |
                 pip install mwparserfromhell
 
-            - name: 转换合并萌娘百科存档
+            - name: 合并萌娘百科存档
               run: |
                 cd workdir
-                python $GITHUB_WORKSPACE/.github/workflows/scripts/merge_json_files.py $GITHUB_WORKSPACE/workdir/moegirl-archive/archive/ moegirl-vn.json
+                mkdir -p $GITHUB_WORKSPACE/workdir/output
+                cp $(find $GITHUB_WORKSPACE/workdir/moegirl-archive/archive/ -type f ! -name '!.txt' ! -name 'Template:*' ! -name 'Category:*') $GITHUB_WORKSPACE/workdir/output
+                python $GITHUB_WORKSPACE/.github/workflows/scripts/merge_json_files.py $GITHUB_WORKSPACE/workdir/output moegirl-vn.json
 
             - name: 上传萌娘百科存档数据
               if: success() || failure()
