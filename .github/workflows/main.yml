@@ -26,6 +26,7 @@ jobs:
                 cd $GITHUB_WORKSPACE
                 #安装 opencc
                 pip install opencc
+                pip install mwparserfromhell
 
             - name: 下载并解压数据
               run: |
@@ -57,41 +58,53 @@ jobs:
                 wikiextractor -o $GITHUB_WORKSPACE/workdir/zhwiki-vn -b 1G zhwiki-vn_simplified.xml
                 wikiextractor -o $GITHUB_WORKSPACE/workdir/zhwiki-vn-json --json --preserve-unicode -b 1G zhwiki-vn_simplified.xml
                 cat $(find zhwiki-vn -type f) > zh-wikipedia-vn.txt
-                cat $(find zhwiki-vn-json -type f) >  zh-wikipedia-vn.json
+                cat $(find zhwiki-vn-json -type f) >  zh-wikipedia-vn.jsonl
 
-            - name: 上传文本
+            - name: 转换为json并进一步处理
+              run: |
+                python $GITHUB_WORKSPACE/.github/workflows/scripts/convert_jsonl_to_json.py --input zh-wikipedia-vn.jsonl --output zh-wikipedia-vn.json
+                python $GITHUB_WORKSPACE/.github/workflows/scripts/modify.py --input zh-wikipedia-vn.json --output zh-wikipedia-vn.json --source zh-wikipedia
+
+            - name: 上传zh-wikipedia文本
               if: success() || failure()
               uses: actions/upload-artifact@v3
               with:
-                  name: 文本
+                  name: zh-wikipedia文本
                   path: "workdir/zh-wikipedia-vn.txt"
 
-            - name: 上传json文本
+            - name: 上传zh-wikipedia的jsonl文本
               if: success() || failure()
               uses: actions/upload-artifact@v3
               with:
-                  name: json文本
-                  path: "workdir/zh-wikipedia-vn.json"
+                  name: zh-wikipedia-jsonl
+                  path: "workdir/zh-wikipedia-vn.jsonl"
 
-            - name: 上传page_id
+            - name: 上传zh-wikipedia的json文本
               if: success() || failure()
               uses: actions/upload-artifact@v3
               with:
-                  name: page_id
+                  name: zh-wikipedia-json
+                  path: "workdir/zh-wikipedia-vn.json"
+                  
+            - name: 上传zh-wikipedia-page_id
+              if: success() || failure()
+              uses: actions/upload-artifact@v3
+              with:
+                  name: zh-wikipedia-page_id
                   path: "workdir/zh-wikipedia-page_ids.txt"
             
-            - name: 上传匹配数据
+            - name: 上传zh-wikipedia匹配数据
               if: success() || failure()
               uses: actions/upload-artifact@v3
               with:
-                  name: 匹配数据
+                  name: zh-wikipedia匹配数据
                   path: "workdir/zhwiki-vn.xml"
 
-            - name: 上传简繁转换数据
+            - name: 上传zh-wikipedia简繁转换数据
               if: success() || failure()
               uses: actions/upload-artifact@v3
               with:
-                  name: 简繁转换数据
+                  name: zh-wikipedia简繁转换数据
                   path: "workdir/zhwiki-vn_simplified.xml"
 
     moegirl:
@@ -115,15 +128,22 @@ jobs:
             - name: 克隆萌娘百科存档工具
               run: |
                 cd workdir
-                git clone https://github.com/huxiangyou/moegirl-archive.git
+                git clone https://github.com/chenmozhijin/moegirl-archive.git
 
             - name: 运行萌娘百科存档工具
               run: |
                 sed 's/^/[M___]	/g' $GITHUB_WORKSPACE/workdir/moegirl-page_ids.txt > $GITHUB_WORKSPACE/workdir/moegirl-archive/PAGELIST.txt
                 cd $GITHUB_WORKSPACE/workdir/moegirl-archive/
-                sed -i 's/^input("按Enter开始。")/#input("按Enter开始。")/' moegirl_archive.py
-                sed -i 's/^input("完成。")/#input("完成。")/' moegirl_archive.py
                 python moegirl_archive.py
+
+            - name: 安装依赖
+              run: |
+                pip install mwparserfromhell
+
+            - name: 转换合并萌娘百科存档
+              run: |
+                cd workdir
+                python $GITHUB_WORKSPACE/.github/workflows/scripts/merge_json_files.py $GITHUB_WORKSPACE/workdir/moegirl-archive/archive/ moegirl-vn.json
 
             - name: 上传萌娘百科存档数据
               if: success() || failure()
@@ -131,3 +151,53 @@ jobs:
               with:
                   name: 萌娘百科存档数据
                   path: "${{ github.workspace }}/workdir/moegirl-archive/archive" 
+
+            - name: 上传萌娘百科的json文本
+              if: success() || failure()
+              uses: actions/upload-artifact@v3
+              with:
+                  name: moegirl-json
+                  path: "workdir/moegirl-vn.json"
+
+    push: 
+        needs: [wikipedia,moegirl]
+        runs-on: ubuntu-22.04
+        steps:
+          - name: 将存储库签出到运行器
+            uses: actions/checkout@v3
+            with:
+                path: push
+
+          - name: 下载zh-wikipedia-json文本
+            uses: actions/download-artifact@v3
+            with:
+                name: zh-wikipedia-json
+
+          - name: 下载moegirl-json文本
+            uses: actions/download-artifact@v3
+            with:
+                name: moegirl-json
+
+          - name: 复制
+            run: |
+                mkdir -p push/data
+                mkdir -p merge
+                cp -f zh-wikipedia-vn.json push/data/zh-wikipedia.json
+                cp -f moegirl-vn.json push/data/moegirl-vn.json
+                cp -f zh-wikipedia-vn.json merge/zh-wikipedia.json
+                cp -f moegirl-vn.json merge/moegirl-vn.json
+                python $GITHUB_WORKSPACE/push/.github/workflows/scripts/merge_json_files.py merge all-vn.json
+                cp -f all-vn.json push/data/all-vn.json
+
+          - name: 上传
+            id: upload
+            run: |
+                cd push
+                git config user.name "github-actions[bot]"
+                git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+                git add .
+                git commit -m "update$(TZ='Asia/Shanghai' date +@%Y%m%d)"
+                git push 
+
+          - name: 检测
+            run: ls -la $(find $GITHUB_WORKSPACE -type d)
