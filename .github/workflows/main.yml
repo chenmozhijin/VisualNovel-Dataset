@@ -62,6 +62,7 @@ jobs:
 
             - name: 转换为json并进一步处理
               run: |
+                cd workdir
                 python $GITHUB_WORKSPACE/.github/workflows/scripts/convert_jsonl_to_json.py --input zh-wikipedia-vn.jsonl --output zh-wikipedia-vn.json
                 python $GITHUB_WORKSPACE/.github/workflows/scripts/modify.py --input zh-wikipedia-vn.json --output zh-wikipedia-vn.json --source zh-wikipedia
 

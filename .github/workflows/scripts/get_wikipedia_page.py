@@ -69,11 +69,19 @@ if __name__ == "__main__":
     if os.path.exists("zhwiki-vn.xml"):
         print("删除已存在的zhwiki-vn.xml文件")
         os.remove("zhwiki-vn.xml")
+    if os.path.exists("template.xml"):
+        print("删除已存在的template.xml文件")
+        os.remove("template.xml")
+
+    for matching_file in matching_files:
+        command = f"extractPage --id null --template {matching_file} > template.xml"
+        subprocess.run(command, shell=True)
+        print(f"读取 {matching_file} 中的模板完成")
 
     # 步骤5：对每个页面ID进行处理，使用多线程同时执行
     pool = Pool(processes=4)  # 4个并发线程，可以根据需要调整
 
-    print("开始处理")
+    print("开始处理页面")
 
     for page_id in page_ids:
         found_matching_file = False
