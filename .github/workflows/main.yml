@@ -145,7 +145,7 @@ jobs:
               run: |
                 cd workdir
                 mkdir -p $GITHUB_WORKSPACE/workdir/output
-                cp $(find $GITHUB_WORKSPACE/workdir/moegirl-archive/archive/ -type f ! -name '!.txt' ! -name 'Template:*' ! -name 'Category:*') $GITHUB_WORKSPACE/workdir/output
+                rsync -av --exclude='!.txt' --exclude='Template*' --exclude='Category*' $GITHUB_WORKSPACE/workdir/moegirl-archive/archive/ $GITHUB_WORKSPACE/workdir/output/
                 python $GITHUB_WORKSPACE/.github/workflows/scripts/merge_json_files.py $GITHUB_WORKSPACE/workdir/output moegirl-vn.json
 
             - name: 上传萌娘百科存档数据
