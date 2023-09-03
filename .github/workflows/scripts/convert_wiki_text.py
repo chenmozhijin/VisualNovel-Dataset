@@ -23,7 +23,7 @@ with open("zhwiki-vn.xml", "r", encoding="utf-8") as input_file:
     content = input_file.read()
 
 # 替换日文内容为占位符
-pattern = re.compile(r"\{\{lang\|ja\|[\s\S]*?}}", re.MULTILINE)
+pattern = re.compile(r"\{\{[Ll]ang-[jekfr][ranou]\|([^}{|]+)\|([^}{|]+)\}\}|\{\{[Ll]ang-[jekfr][ranou]\|([^}{]+)\}\}|\{\{[Ll]ang\|[jekfr][ranou]\|((?:[^}{]|\n)+)\}\}", re.MULTILINE)
 content_with_placeholders = pattern.sub(replace_japanese, content)
 
 # 进行繁简转换
