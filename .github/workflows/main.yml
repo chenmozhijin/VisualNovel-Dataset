@@ -120,6 +120,7 @@ jobs:
 
             - name: 克隆工具
               run: |
+                mkdir -p workdir
                 cd workdir
                 git clone https://github.com/chenmozhijin/mediawikiextractor
                 - name: 安装依赖
