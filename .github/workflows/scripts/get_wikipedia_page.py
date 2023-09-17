@@ -3,6 +3,7 @@ import subprocess
 import re
 from multiprocessing import Pool, Value
 
+
 # 获取运行目录下的所有符合文件名格式的文件
 def get_matching_files():
     matching_files = []
@@ -12,11 +13,13 @@ def get_matching_files():
             matching_files.append(filename)
     return matching_files
 
+
 # 读取页面ID文件
 def read_page_ids(filename):
     with open(filename, 'r') as file:
         page_ids = [line.strip() for line in file]
     return page_ids
+
 
 # 执行extractPage命令
 def extract_page(args):
@@ -28,6 +31,7 @@ def extract_page(args):
         processed_percent = (processed_ids.value / total_valid_ids) * 100
         print(f"进度：{processed_ids.value}/{total_valid_ids} ({processed_percent:.2f}%) - 处理页面ID {page_id}")
 
+
 if __name__ == "__main__":
     # 步骤1：获取运行目录下的文件名为"zhwiki-latest-pages-articles-multistream$(文件id).xml-p$(开始页id)p$(结束页id)"格式的文件
     matching_files = get_matching_files()
@@ -37,7 +41,7 @@ if __name__ == "__main__":
         exit()
     else:
         print("处理以下文件：")
-        print(*matching_files, sep = "\n")
+        print(*matching_files, sep="\n")
 
     # 步骤2：读取页面ID文件
     page_id_file = "zh-wikipedia-page_ids.txt"
@@ -79,7 +83,7 @@ if __name__ == "__main__":
         print(f"读取 {matching_file} 中的模板完成")
 
     # 步骤5：对每个页面ID进行处理，使用多线程同时执行
-    pool = Pool(processes=4)  # 4个并发线程，可以根据需要调整
+    pool = Pool(processes=16)  # 4个并发线程，可以根据需要调整
 
     print("开始处理页面")
 
