@@ -130,7 +130,6 @@ jobs:
 
             - name: 运行工具
               run: |
-                cat $GITHUB_WORKSPACE/.github/workflows/config/config.json > $GITHUB_WORKSPACE/workdir/moegirl-archive/mediawikiextractor
                 cd $GITHUB_WORKSPACE/workdir/mediawikiextractor/
                 python mediawikiextractor.py --config $GITHUB_WORKSPACE/.github/workflows/config/config.json --output $GITHUB_WORKSPACE/workdir/moegirl-vn.json
 
