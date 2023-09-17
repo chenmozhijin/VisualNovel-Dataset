@@ -123,9 +123,10 @@ jobs:
                 mkdir -p workdir
                 cd workdir
                 git clone https://github.com/chenmozhijin/mediawikiextractor
-                - name: 安装依赖
-                run: |
-                  pip install regex requests
+
+            - name: 安装依赖
+              run: |
+                pip install regex requests
 
             - name: 运行工具
               run: |
