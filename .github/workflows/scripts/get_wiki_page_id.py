@@ -9,9 +9,10 @@ wikis = {
     },
     'moegirl': {
         'api_url': 'https://zh.moegirl.org.cn/api.php',
-        'categories': ['恋爱冒险游戏', '视觉小说','Little_Busters!','AIR','Angel_Beats','CLANNAD','Charlotte','Harmonia(Key)#','Kanon','LOOPERS','MOON.','LUNARiA_-Virtualized_Moonchild-','ONE～辉之季节～','Rewrite','Summer_Pockets','星之梦','星之终途','ATRI','爱上火车','初音岛','9-nine-','常轨脱离Creative','住在拔作岛上的贫乳应该如何是好？','苍之彼方的四重奏','美少女万华镜','缘之空','Palette作品','灰色系列','少女领域','千恋万花','柚子社作品']  # 示例分类名，根据实际需求修改
+        'categories': ['恋爱冒险游戏', '视觉小说', 'Little_Busters!', 'AIR', 'Angel_Beats', 'CLANNAD', 'Charlotte', 'Harmonia(Key)#', 'Kanon', 'LOOPERS', 'MOON.', 'LUNARiA_-Virtualized_Moonchild-', 'ONE～辉之季节～', 'Rewrite', 'Summer_Pockets', '星之梦', '星之终途', 'ATRI', '爱上火车', '初音岛', '9-nine-', '常轨脱离Creative', '住在拔作岛上的贫乳应该如何是好？', '苍之彼方的四重奏', '美少女万华镜', '缘之空', 'Palette作品', '灰色系列', '少女领域', '千恋万花', '柚子社作品']  # 示例分类名，根据实际需求修改
     }
 }
+
 
 def get_page_ids(api_url, category):
     # 设置请求参数
@@ -40,6 +41,7 @@ def get_page_ids(api_url, category):
 
     return page_ids
 
+
 def main():
     parser = argparse.ArgumentParser(description='获取多个百科指定分类下的页面ID')
     parser.add_argument('wiki', choices=wikis.keys(), help='要获取页面ID的百科')
@@ -65,6 +67,7 @@ def main():
             file.write(f'{page_id}\n')
 
     print(f'已存储{args.wiki}页面ID数量：{len(all_page_ids)}')
+
 
 if __name__ == '__main__':
     main()

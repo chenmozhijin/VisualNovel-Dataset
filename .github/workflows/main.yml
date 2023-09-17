@@ -118,42 +118,19 @@ jobs:
               run: |
                 bash $GITHUB_WORKSPACE/.github/workflows/scripts/hardware_info.sh
 
-            - name: 获取moegirl page id
-              run: |
-                mkdir -p workdir
-                cd workdir
-                python $GITHUB_WORKSPACE/.github/workflows/scripts/get_wiki_page_id.py moegirl
-                cat moegirl-page_ids.txt
-                
-
-            - name: 克隆萌娘百科存档工具
+            - name: 克隆工具
               run: |
                 cd workdir
-                git clone https://github.com/chenmozhijin/moegirl-archive.git
+                git clone https://github.com/chenmozhijin/mediawikiextractor
+                - name: 安装依赖
+                run: |
+                  pip install regex requests
 
-            - name: 运行萌娘百科存档工具
+            - name: 运行工具
               run: |
-                sed 's/^/[M___]	/g' $GITHUB_WORKSPACE/workdir/moegirl-page_ids.txt > $GITHUB_WORKSPACE/workdir/moegirl-archive/PAGELIST.txt
-                cd $GITHUB_WORKSPACE/workdir/moegirl-archive/
-                python moegirl_archive.py
-
-            - name: 安装依赖
-              run: |
-                pip install mwparserfromhell
-
-            - name: 合并萌娘百科存档
-              run: |
-                cd workdir
-                mkdir -p $GITHUB_WORKSPACE/workdir/output
-                rsync -av --exclude='!.txt' --exclude='Template*' --exclude='Category*' $GITHUB_WORKSPACE/workdir/moegirl-archive/archive/ $GITHUB_WORKSPACE/workdir/output/
-                python $GITHUB_WORKSPACE/.github/workflows/scripts/merge_json_files.py $GITHUB_WORKSPACE/workdir/output moegirl-vn.json
-
-            - name: 上传萌娘百科存档数据
-              if: success() || failure()
-              uses: actions/upload-artifact@v3
-              with:
-                  name: 萌娘百科存档数据
-                  path: "${{ github.workspace }}/workdir/moegirl-archive/archive" 
+                cat $GITHUB_WORKSPACE/.github/workflows/config/config.json > $GITHUB_WORKSPACE/workdir/moegirl-archive/mediawikiextractor
+                cd $GITHUB_WORKSPACE/workdir/mediawikiextractor/
+                python mediawikiextractor.py --config $GITHUB_WORKSPACE/.github/workflows/config/config.json --output $GITHUB_WORKSPACE/workdir/moegirl-vn.json
 
             - name: 上传萌娘百科的json文本
               if: success() || failure()

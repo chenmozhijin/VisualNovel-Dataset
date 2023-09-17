@@ -32,13 +32,15 @@ aria2_args = [
 # 下载每个链接
 for download_url in sorted_download_urls:
     aria2_args.append(download_url)
+    while True:
+        try:
+            # 调用aria2命令行下载工具
+            subprocess.run(aria2_args, check=True)
+        except subprocess.CalledProcessError as e:
+            print(f"下载失败: {e},正在重试。")
+        else:
+            break
 
-    try:
-        # 调用aria2命令行下载工具
-        subprocess.run(aria2_args, check=True)
-    except subprocess.CalledProcessError as e:
-        print(f"下载失败: {e}")
-    
     # 移除当前链接，以便添加下一个链接
     aria2_args.pop()
 
