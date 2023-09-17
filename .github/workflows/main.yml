@@ -126,7 +126,7 @@ jobs:
 
             - name: 安装依赖
               run: |
-                pip install regex requests
+                pip install regex requests opencc
 
             - name: 运行工具
               run: |
