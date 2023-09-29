@@ -5,7 +5,7 @@ permissions:
     contents: write
     discussions: write
 jobs:
-    wikipedia:
+    ja-wikipedia:
         runs-on: ubuntu-22.04
         steps: 
             - name: 将存储库签出到运行器
@@ -15,98 +15,27 @@ jobs:
               run: |
                 bash $GITHUB_WORKSPACE/.github/workflows/scripts/hardware_info.sh
 
-            - name: 安装依赖
-              run: |
-                #安装最新修改版wikiextractor(旧版有错误)
-                mkdir -p /tmp/gitclone
-                cd /tmp/gitclone
-                git clone https://github.com/chenmozhijin/wikiextractor.git
-                cd wikiextractor
-                sudo python setup.py install
-                cd $GITHUB_WORKSPACE
-                #安装 opencc
-                pip install opencc
-                pip install mwparserfromhell
-
-            - name: 下载并解压数据
+            - name: 克隆工具
               run: |
                 mkdir -p workdir
                 cd workdir
-                python $GITHUB_WORKSPACE/.github/workflows/scripts/dl.py
-                bzip2 -dv *.bz2
-                ls -la $(find . -type d)
+                git clone https://github.com/chenmozhijin/mediawikiextractor
 
-            - name: 获取Wikipedia page id
+            - name: 安装依赖
               run: |
-                cd workdir
-                python $GITHUB_WORKSPACE/.github/workflows/scripts/get_wiki_page_id.py zh-wikipedia
-                cat zh-wikipedia-page_ids.txt
+                pip install regex requests opencc html2text markdown
 
-            - name: 获取匹配数据
+            - name: 运行工具
               run: |
-                cd workdir
-                python $GITHUB_WORKSPACE/.github/workflows/scripts/get_wikipedia_page.py
+                cd $GITHUB_WORKSPACE/workdir/mediawikiextractor/
+                python mediawikiextractor.py --config $GITHUB_WORKSPACE/.github/workflows/config/ja-wikipedia.json --output $GITHUB_WORKSPACE/workdir/ja-wikipedia-vn.json
 
-            - name: 简繁转换
-              run: |
-                cd workdir
-                python $GITHUB_WORKSPACE/.github/workflows/scripts/convert_wiki_text.py
-
-            - name: 提取并清理文本
-              run: |
-                cd workdir
-                wikiextractor -o $GITHUB_WORKSPACE/workdir/zhwiki-vn -b 1G zhwiki-vn_simplified.xml
-                wikiextractor -o $GITHUB_WORKSPACE/workdir/zhwiki-vn-json --json --preserve-unicode -b 1G zhwiki-vn_simplified.xml
-                cat $(find zhwiki-vn -type f) > zh-wikipedia-vn.txt
-                cat $(find zhwiki-vn-json -type f) >  zh-wikipedia-vn.jsonl
-
-            - name: 转换为json并进一步处理
-              run: |
-                cd workdir
-                python $GITHUB_WORKSPACE/.github/workflows/scripts/convert_jsonl_to_json.py --input zh-wikipedia-vn.jsonl --output zh-wikipedia-vn.json
-                python $GITHUB_WORKSPACE/.github/workflows/scripts/modify.py --input zh-wikipedia-vn.json --output zh-wikipedia-vn.json --source zh-wikipedia
-
-            - name: 上传zh-wikipedia文本
+            - name: 上传维基百科的json文本
               if: success() || failure()
               uses: actions/upload-artifact@v3
               with:
-                  name: zh-wikipedia文本
-                  path: "workdir/zh-wikipedia-vn.txt"
-
-            - name: 上传zh-wikipedia的jsonl文本
-              if: success() || failure()
-              uses: actions/upload-artifact@v3
-              with:
-                  name: zh-wikipedia-jsonl
-                  path: "workdir/zh-wikipedia-vn.jsonl"
-
-            - name: 上传zh-wikipedia的json文本
-              if: success() || failure()
-              uses: actions/upload-artifact@v3
-              with:
-                  name: zh-wikipedia-json
-                  path: "workdir/zh-wikipedia-vn.json"
-                  
-            - name: 上传zh-wikipedia-page_id
-              if: success() || failure()
-              uses: actions/upload-artifact@v3
-              with:
-                  name: zh-wikipedia-page_id
-                  path: "workdir/zh-wikipedia-page_ids.txt"
-            
-            - name: 上传zh-wikipedia匹配数据
-              if: success() || failure()
-              uses: actions/upload-artifact@v3
-              with:
-                  name: zh-wikipedia匹配数据
-                  path: "workdir/zhwiki-vn.xml"
-
-            - name: 上传zh-wikipedia简繁转换数据
-              if: success() || failure()
-              uses: actions/upload-artifact@v3
-              with:
-                  name: zh-wikipedia简繁转换数据
-                  path: "workdir/zhwiki-vn_simplified.xml"
+                  name: ja-wikipedia-json
+                  path: "workdir/ja-wikipedia-vn.json"
 
     moegirl:
         runs-on: ubuntu-22.04
@@ -126,12 +55,12 @@ jobs:
 
             - name: 安装依赖
               run: |
-                pip install regex requests opencc
+                pip install regex requests opencc html2text markdown
 
             - name: 运行工具
               run: |
                 cd $GITHUB_WORKSPACE/workdir/mediawikiextractor/
-                python mediawikiextractor.py --config $GITHUB_WORKSPACE/.github/workflows/config/config.json --output $GITHUB_WORKSPACE/workdir/moegirl-vn.json
+                python mediawikiextractor.py --config $GITHUB_WORKSPACE/.github/workflows/config/moegirl.json --output $GITHUB_WORKSPACE/workdir/moegirl-vn.json
 
             - name: 上传萌娘百科的json文本
               if: success() || failure()
@@ -141,7 +70,7 @@ jobs:
                   path: "workdir/moegirl-vn.json"
 
     push: 
-        needs: [wikipedia,moegirl]
+        needs: [ja-wikipedia,moegirl]
         runs-on: ubuntu-22.04
         steps:
           - name: 将存储库签出到运行器
@@ -152,7 +81,7 @@ jobs:
           - name: 下载zh-wikipedia-json文本
             uses: actions/download-artifact@v3
             with:
-                name: zh-wikipedia-json
+                name: ja-wikipedia-json
 
           - name: 下载moegirl-json文本
             uses: actions/download-artifact@v3
@@ -163,9 +92,9 @@ jobs:
             run: |
                 mkdir -p push/data
                 mkdir -p merge
-                cp -f zh-wikipedia-vn.json push/data/zh-wikipedia.json
+                cp -f ja-wikipedia-vn.json push/data/ja-wikipedia.json
                 cp -f moegirl-vn.json push/data/moegirl-vn.json
-                cp -f zh-wikipedia-vn.json merge/zh-wikipedia.json
+                cp -f ja-wikipedia-vn.json merge/ja-wikipedia.json
                 cp -f moegirl-vn.json merge/moegirl-vn.json
                 python $GITHUB_WORKSPACE/push/.github/workflows/scripts/merge_json_files.py merge all-vn.json
                 cp -f all-vn.json push/data/all-vn.json
