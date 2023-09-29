@@ -23,7 +23,7 @@ jobs:
 
             - name: 安装依赖
               run: |
-                pip install regex requests opencc html2text markdown
+                pip install -r $GITHUB_WORKSPACE/workdir/mediawikiextractor/requirements.txt
 
             - name: 运行工具
               run: |
@@ -55,7 +55,7 @@ jobs:
 
             - name: 安装依赖
               run: |
-                pip install regex requests opencc html2text markdown
+                pip install -r $GITHUB_WORKSPACE/workdir/mediawikiextractor/requirements.txt
 
             - name: 运行工具
               run: |
