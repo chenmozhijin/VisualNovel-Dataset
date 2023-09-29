@@ -1,0 +1,13 @@
+{
+        "name": "日本维基",
+        "source": "ja-wikipedia",
+        "site_url": "https://ja.wikipedia.org/w/index.php",
+        "api": "https://ja.wikipedia.org/w/api.php",
+        "output_format": ["plain","markdown"],
+        "page_ids": [700147,74899,50412,12961,3423360,101342,245139,4417369,3542862,658941,740511,632466],
+        "categories": ["美少女ゲーム","ギャルゲー","恋愛アドベンチャーゲーム","CLANNAD","D.C._〜ダ・カーポ〜","WHITE_ALBUM","EVEシリーズ"],
+        "exclude_ids": [],
+        "exclude_categories": [],
+        "exclude_titles": ["Category:.*","Template:.*","User:.*"],
+        "cleaning_rule": ["#* *脚注  \\[  編集  \\].*","#* *外部リンク  \\[  編集  \\].*","\\[  編集  \\]","\\[[0-9]+\\]"]
+}
