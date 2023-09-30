@@ -2,8 +2,8 @@ name: update
 on:
   workflow_dispatch:
     inputs:
-      Incremental_update:
-        description: 'Incremental update'
+      incremental_update:
+        description: '增量更新'
         required: true
         type: boolean
 permissions:
@@ -31,7 +31,7 @@ jobs:
                 pip install -r $GITHUB_WORKSPACE/workdir/mediawikiextractor/requirements.txt
 
             - name: 增量更新
-              if: ${{ inputs.Incremental_update == 'true' }}
+              if: ${{ inputs.incremental_update }}
               run: |
                 cp -rf $GITHUB_WORKSPACE/data/ja-wikipedia.json $GITHUB_WORKSPACE/workdir/ja-wikipedia-vn.json
 
@@ -68,7 +68,7 @@ jobs:
                 pip install -r $GITHUB_WORKSPACE/workdir/mediawikiextractor/requirements.txt
 
             - name: 增量更新
-              if: ${{ inputs.Incremental_update == 'true' }}
+              if: ${{ inputs.incremental_update }}
               run: |
                 cp -rf $GITHUB_WORKSPACE/data/moegirl-vn.json $GITHUB_WORKSPACE/workdir/moegirl-vn.json
 
