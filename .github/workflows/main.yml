@@ -1,5 +1,7 @@
 name: update
 on:
+  schedule:
+    - cron: '0 0 1 * *'
   workflow_dispatch:
     inputs:
       incremental_update:
@@ -25,6 +27,8 @@ jobs:
                 mkdir -p workdir
                 cd workdir
                 git clone https://github.com/chenmozhijin/mediawikiextractor
+                git clone https://github.com/chenmozhijin/html2text.git
+                cp -RT html2text/html2text mediawikiextractor/html2text
 
             - name: 安装依赖
               run: |
@@ -62,6 +66,8 @@ jobs:
                 mkdir -p workdir
                 cd workdir
                 git clone https://github.com/chenmozhijin/mediawikiextractor
+                git clone https://github.com/chenmozhijin/html2text.git
+                cp -RT html2text/html2text mediawikiextractor/html2text
 
             - name: 安装依赖
               run: |
@@ -103,26 +109,42 @@ jobs:
             with:
                 name: moegirl-json
 
-          - name: 复制
+          - name: 复制与拆分
             run: |
                 mkdir -p push/data
-                mkdir -p merge
-                cp -f ja-wikipedia-vn.json push/data/ja-wikipedia.json
-                cp -f moegirl-vn.json push/data/moegirl-vn.json
-                cp -f ja-wikipedia-vn.json merge/ja-wikipedia.json
-                cp -f moegirl-vn.json merge/moegirl-vn.json
-                python $GITHUB_WORKSPACE/push/.github/workflows/scripts/merge_json_files.py merge all-vn.json
-                cp -f all-vn.json push/data/all-vn.json
+                mkdir -p upload/data
+                cp -f ja-wikipedia-vn.json upload/data/ja-wikipedia.json
+                cp -f moegirl-vn.json upload/data/moegirl-vn.json
+                python $GITHUB_WORKSPACE/push/.github/workflows/scripts/json_to_files.py ja-wikipedia-vn.json push/data/ja-wikipedia
+                python $GITHUB_WORKSPACE/push/.github/workflows/scripts/json_to_files.py moegirl-vn.json push/data/moegirl
 
-          - name: 上传
-            id: upload
+          - name: 推送
+            id: push
             run: |
-                sudo apt install git-lfs
                 cd push
                 git config user.name "github-actions[bot]"
                 git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
                 git add .
-                git commit -m "更新于$(TZ='Asia/Shanghai' date +%Y/%m/%d/%H:%M)" && git push &&  echo "有更改，更新成功"||echo "无更改" 
+                git commit -m "更新于$(TZ='Asia/Shanghai' date +%Y/%m/%d/%H:%M)" && git push &&  echo "upload=true" >> "$GITHUB_OUTPUT" ||echo "upload=false" >> "$GITHUB_OUTPUT"
+                cat $GITHUB_OUTPUT
+
+          - name: 生成 release 相关信息
+            id: release-info
+            if: steps.push.outputs.upload == 'true'
+            run: |
+              echo 爬取完成于$(date +"%Y-%m-%d %H:%M") >> upload/release.txt
+              echo "RELEASE_NAME=VisualNovel-Dataset v$(date +"%Y.%m.%d-%H:%M")" >> "$GITHUB_OUTPUT"
+              echo "RELEASE_TAG_NAME=v$(date +"%Y.%m.%d-%H:%M")" >> "$GITHUB_OUTPUT"
+              
+
+          - name: 上传json到 Release
+            if: steps.push.outputs.upload == 'true'
+            uses: softprops/action-gh-release@v0.1.15
+            with:
+             name: ${{ steps.release-info.outputs.RELEASE_NAME }}
+             tag_name: ${{ steps.release-info.outputs.RELEASE_TAG_NAME }}
+             files: upload/data/*
+             body_path: upload/release.txt
 
           - name: 检测
             run: ls -la $(find $GITHUB_WORKSPACE -type d)
