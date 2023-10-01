@@ -1,0 +1,137 @@
+片轮少女
+原名  かたわ少女
+官方译名  片轮少女
+类型  ADV
+平台  Windows
+Mac OS X
+Linux
+分级  R-18
+开发  Four Leaf Studios
+发行  Four Leaf Studios
+制作人  delta、Raide、yujovi
+程序  delta
+音乐  Blue123、NicolArmarfi
+发行时间  2012年1月4日
+“
+Can you see what I see?
+Can you face your fears?
+”  
+《片轮少女》  （英语：  Katawa Shoujo  ，日语：  かたわ少女  ）是由  Four Leaf Studios
+（四叶游戏制作室）使用开源的RenPy推出的一款  Galgame  ，平台为Windows，Mac OS X和Linux
+X86，第一章于2009年4月29日发布，完全版于2012年1月4日发布。游戏的完全汉化版在2016年07月09日完成。
+此游戏是在  知识共享(Creative Commons) 署名-非商业性使用-禁止演绎 3.0 协议  下发布的。
+目录
+
+1  原作介绍 
+1.1  创作灵感 
+1.1.1  剧情简介 
+1.1.2  STAFF 
+1.2  相关音乐 
+
+
+2  注意事项 
+3  注释及外部链接 
+
+原作介绍
+创作灵感
+《片轮少女》构思的最早起源出自于 Raita(即日本同人社团“绝对少女”的本庄雷太)在2000年的一本同人志《Schuppen Harnische》
+中最后一页的一款残疾校园恋爱游戏的游戏设定稿。
+设定稿图片  
+2006
+年，有个自称男护士的网友发帖说刚接收了一个7岁的日系混血女孩，她在一场车祸中失去了双亲，失去了一边眼睛，除了一只手臂外已经没有四肢。这个帖子迅速引起了4chan/b/版和/a/版对残疾少女的画作的大量需求，很快这两个版开始被义肢眼罩少女及熟女帖刷屏，不时时还有些“玩坏了”或“截肢女孩”的坑帖来凑热闹。
+2007年1月，这张游戏设定稿被上传到了4chan，这就好像一个火星一般引燃了4chan，很快，一批网友开始自发组织成一个国际性的业余游戏开发小组，即四叶工作室（Four
+Leaf Studios），来将Raita的这张游戏设定稿变为现实。这个计划就叫做Katawa Shoujo(片轮少女)，又称Disability
+Girls（副标题）。
+剧情简介
+主角中井久夫原本是一个有着正常生活的普通男孩，但一次先天性心肌缺损引发的意外迫使他长期住院，之后不得不转到一个“有健全医疗与看护设施”的特殊残疾人学校。尽管困难重重，他还是交上了新的朋友，并逐渐适应了这里的生活。片轮少女中共有5条主线，分别为茨崎笑美线、池泽华子线、
+砂藤莉莉  线、手冢琳线和羽加道静音线。
+STAFF
+
+作者： 
+静音线作者：Anonymous22 
+琳线作者：Aura 
+华子线作者：cpl_crud 
+莉莉线作者：Suriko 
+笑美线作者：TheHivemind 
+
+
+编辑：Kagami 、Losstarot 、Silentcook 
+音乐：Blue123 、NicolArmarfi 
+FMV动画：Mike Inel 
+美术：gebyy-terar、Kamifish 、moekki、pimmy、raemz、Raide 
+美术辅助：climatic 、Doomfest 、yujovi 
+技术：delta 
+
+制作：cpl_crud 、Suriko 
+
+
+感谢：abscess、Anonymous、Celiest、ContinualNaba、Dark_Mercury、DuaneMoody、Fink、frumplstlskn、Ismuth、Juno、Japesland、kekekeke、konflikti、Magaran、Mirage_GSM、OverCoat、Peorth、Petaru、silentkyon、skim、stirfriedweasel、Syureria、TcDohl、tottori、VCR 
+
+
+特别感谢：hir、PyTom 、RAITA、replicated 
+
+
+翻译： 
+
+西班牙语：abscess、forseti、Carlithium、Alkhaz、Brooke、MrA、rockprogrelatino、promolic1、wolf224、Shocku、lead 
+法语：Kawa Soft、Jisa、Saya Akya、Wyrine、Thibaud、Enzan、Fairy、Toto、Animus、Mop 
+日语：a-park、Ace Toyoda、an tuck、Blackmountain Big、colul、Daice、EEE boy、gaksh、hardwired Okano、hatayan、hir、Koumoto、KyoDong Ryo、laich、Mirai、Nishimori Reo、Nagi、naita、Rushhh、tomoya、TextAdventureFreak、TK、zig5z7、秋茄子トマト、ゴン太 
+
+
+
+相关音乐
+游戏音乐收录在《Katawa Shoujo Enigmatic Box of Sound》中，曲目列表请展开查看。
+曲目列表  
+曲目列表
+Lullaby of Open Eyes 
+Cold Iron 
+Damage 
+Caged Heart 
+Fripperies 
+School Days 
+The Student Council 
+Ease 
+Daylight 
+Ah Eh I Oh You 
+Stride 
+Out of the Loop 
+Nocturne 
+Raindrops and Puddles 
+Generic Happy Music 
+Hokabi 
+Concord 
+Everyday Fantasy 
+High Tension 
+Standing Tall 
+Passing of Time 
+Romance in Andante 
+Wiosna 
+Parity 
+Afternoon 
+Air Guitar 
+Painful History 
+Aria de l'Etoile 
+To Become One 
+Cloudland Swing 
+Three Stars 
+Teatime, Fast Forward 
+2x400m Relay 
+Jitter 
+Innocence 
+Red Velvet 
+Sarabande from BWV1010, Musicbox 
+Moment of Decision 
+Breathlessly 
+Comfort 
+Friendship 
+Shadow of the Truth 
+Letting my Heart Speak 
+Romance in Andante II 
+Spin 
+Focus
+
+注意事项
+然而应该注意的是，
+在现实中，任何疾病都是严肃的，某种程度上说并不“萌”。请萌百编辑者在编写此类条目时避免恶搞和过度调侃，以免对三次元同病患者造成心理伤害。
+也正因为如此，在以残疾美少女为主角的Galgame《  片轮少女
+》发行后，曾经引起极大争议。原因就是有些网友们觉得把身体缺陷拿来当作萌点是不妥当的。另外，无论是在二次元还是三次元，残疾人里面的高富帅、白富美备受追捧，而矮穷挫则几乎无人问津。将残疾的萌娘刻画得很可爱，也容易引起一些女权主义者的批评，认为这样可能引导人们只会因为她们外表美而关心、爱护她们，而不是因为她们本身生活需要帮助。
