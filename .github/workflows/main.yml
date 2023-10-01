@@ -37,7 +37,9 @@ jobs:
             - name: 增量更新
               if: ${{ inputs.incremental_update }}
               run: |
-                curl -s -L --retry 6 https://github.com/${{ github.repository }}/releases/latest/ja-wikipedia.json -o $GITHUB_WORKSPACE/workdir/ja-wikipedia.json -nv
+                latest_ver="$(curl -s -L --retry 6 https://api.github.com/repos/${{ github.repository }}/releases 2>/dev/null | grep -E 'tag_name' | sed -e 's/    "tag_name": "//' -e 's/",//' | sed -n '1p')"
+                echo latest_ver=$latest_ver
+                curl -s -L --retry 6 https://github.com/${{ github.repository }}/releases/download/${latest_ver}/ja-wikipedia.json -o $GITHUB_WORKSPACE/workdir/ja-wikipedia.json -nv
 
             - name: 运行工具
               run: |
@@ -76,7 +78,9 @@ jobs:
             - name: 增量更新
               if: ${{ inputs.incremental_update }}
               run: |
-                curl -s -L --retry 6 https://github.com/${{ github.repository }}/releases/latest/moegirl.json -o $GITHUB_WORKSPACE/workdir/moegirl.json -nv
+                latest_ver="$(curl -s -L --retry 6 https://api.github.com/repos/${{ github.repository }}/releases 2>/dev/null | grep -E 'tag_name' | sed -e 's/    "tag_name": "//' -e 's/",//' | sed -n '1p')"
+                echo latest_ver=$latest_ver
+                curl -s -L --retry 6 https://github.com/${{ github.repository }}/releases/download/${latest_ver}/moegirl.json -o $GITHUB_WORKSPACE/workdir/moegirl.json -nv
 
             - name: 运行工具
               run: |
