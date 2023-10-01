@@ -1,0 +1,47 @@
+青箱
+类型  写实风格  视觉小说
+平台  Windows、macOS、Android、iOS
+开发  Lunatic Works
+发行  Lunatic Works、旅人计划
+制作人  wangrunnan
+编剧  街心公园
+程序  huisedenanhai、zhouhy
+美工  SDown减速慢行、woctordho
+音乐  寒汛
+引擎  Unity、能叶Nova
+发行时间  2020年7月23日  
+《  青箱  》是由  Lunatic Works  制作的一部写实风格  视觉小说  。共十四章，剧本量在12万字左右，不包含剧情选项。
+目录
+
+1  剧情简介 
+2  制作人员 
+3  注释 
+4  外部链接 
+
+剧情简介
+故事发生在一座名为平桦岛的小岛上。男主角谭延在高中毕业后离开家乡来到城市，蜗居在狭小的公寓里，每天在便利店打工。他和父母关系不好，没有朋友和恋人，做着重复而无聊的工作勉强度日。失去了梦想的谭延，本以为自己会被永远囚禁在这“箱子”之中，却因为一次偶然的机会，找到了改变一切的契机。
+宽屏模式  显示视频
+制作人员
+
+导演·制作人：wangrunnan 
+剧本：街心公园 
+剧本协力：wangrunnan、woctordho 
+
+
+演出：woctordho 
+人物原画：SDown减速慢行、awu 
+美术：woctordho 
+美术协力：熙诺、SecureCl、Kandelaar 
+
+
+音乐：寒汛 
+音效：寒汛、woctordho 
+程序：huisedenanhai、zhouhy、woctordho 
+UI设计：一盒、huisedenanhai 
+UI设计协力：zhouhy、shuya 
+
+
+配音导演：wangrunnan 
+配音：果果（饰阿雪）、  闲踏梧桐  （饰穆乐萱）、  瞳音  （饰周先生） 
+
+注释
