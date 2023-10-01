@@ -37,19 +37,19 @@ jobs:
             - name: 增量更新
               if: ${{ inputs.incremental_update }}
               run: |
-                cp -rf $GITHUB_WORKSPACE/data/ja-wikipedia.json $GITHUB_WORKSPACE/workdir/ja-wikipedia-vn.json
+                curl -s -L --retry 6 https://github.com/${{ github.repository }}/releases/latest/ja-wikipedia.json -o $GITHUB_WORKSPACE/workdir/ja-wikipedia.json -nv
 
             - name: 运行工具
               run: |
                 cd $GITHUB_WORKSPACE/workdir/mediawikiextractor/
-                python mediawikiextractor.py --config $GITHUB_WORKSPACE/.github/workflows/config/ja-wikipedia.json --output $GITHUB_WORKSPACE/workdir/ja-wikipedia-vn.json
+                python mediawikiextractor.py --config $GITHUB_WORKSPACE/.github/workflows/config/ja-wikipedia.json --output $GITHUB_WORKSPACE/workdir/ja-wikipedia.json
 
             - name: 上传维基百科的json文本
               if: success() || failure()
               uses: actions/upload-artifact@v3
               with:
                   name: ja-wikipedia-json
-                  path: "workdir/ja-wikipedia-vn.json"
+                  path: "workdir/ja-wikipedia.json"
 
     moegirl:
         runs-on: ubuntu-22.04
@@ -76,19 +76,19 @@ jobs:
             - name: 增量更新
               if: ${{ inputs.incremental_update }}
               run: |
-                cp -rf $GITHUB_WORKSPACE/data/moegirl-vn.json $GITHUB_WORKSPACE/workdir/moegirl-vn.json
+                curl -s -L --retry 6 https://github.com/${{ github.repository }}/releases/latest/moegirl.json -o $GITHUB_WORKSPACE/workdir/moegirl.json -nv
 
             - name: 运行工具
               run: |
                 cd $GITHUB_WORKSPACE/workdir/mediawikiextractor/
-                python mediawikiextractor.py --config $GITHUB_WORKSPACE/.github/workflows/config/moegirl.json --output $GITHUB_WORKSPACE/workdir/moegirl-vn.json
+                python mediawikiextractor.py --config $GITHUB_WORKSPACE/.github/workflows/config/moegirl.json --output $GITHUB_WORKSPACE/workdir/moegirl.json
 
             - name: 上传萌娘百科的json文本
               if: success() || failure()
               uses: actions/upload-artifact@v3
               with:
                   name: moegirl-json
-                  path: "workdir/moegirl-vn.json"
+                  path: "workdir/moegirl.json"
 
     push: 
         needs: [ja-wikipedia,moegirl]
@@ -113,10 +113,10 @@ jobs:
             run: |
                 mkdir -p push/data
                 mkdir -p upload/data
-                cp -f ja-wikipedia-vn.json upload/data/ja-wikipedia.json
-                cp -f moegirl-vn.json upload/data/moegirl-vn.json
-                python $GITHUB_WORKSPACE/push/.github/workflows/scripts/json_to_files.py ja-wikipedia-vn.json push/data/ja-wikipedia
-                python $GITHUB_WORKSPACE/push/.github/workflows/scripts/json_to_files.py moegirl-vn.json push/data/moegirl
+                cp -f ja-wikipedia.json upload/data/ja-wikipedia.json
+                cp -f moegirl.json upload/data/moegirl.json
+                python $GITHUB_WORKSPACE/push/.github/workflows/scripts/json_to_files.py ja-wikipedia.json push/data/ja-wikipedia
+                python $GITHUB_WORKSPACE/push/.github/workflows/scripts/json_to_files.py moegirl.json push/data/moegirl
 
           - name: 推送
             id: push
@@ -133,8 +133,8 @@ jobs:
             if: steps.push.outputs.upload == 'true'
             run: |
               echo 爬取完成于$(date +"%Y-%m-%d %H:%M") >> upload/release.txt
-              echo "RELEASE_NAME=VisualNovel-Dataset v$(date +"%Y.%m.%d-%H:%M")" >> "$GITHUB_OUTPUT"
-              echo "RELEASE_TAG_NAME=v$(date +"%Y.%m.%d-%H:%M")" >> "$GITHUB_OUTPUT"
+              echo "RELEASE_NAME=VisualNovel-Dataset v$(date +"%y.%m.%d-%H%M")" >> "$GITHUB_OUTPUT"
+              echo "RELEASE_TAG_NAME=v$(date +"%y.%m.%d-%H%M")" >> "$GITHUB_OUTPUT"
               
 
           - name: 上传json到 Release
