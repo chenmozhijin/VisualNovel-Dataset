@@ -1,4 +1,4 @@
-ソーサレス*アライヴ! 〜the World's End Fallen Star〜!  |  対応機種  |  Microsoft Windows  7  /  8  /  8.1  /  10   
+ソーサレス*アライヴ! 〜the World's End Fallen Star〜  |  対応機種  |  Microsoft Windows  7  /  8  /  8.1  /  10   
 ---|---  
 発売元  |  Fluorite   
 キャラクターデザイン  |  早川ハルイ、庄名泉石、桜みさき、美咲ゆう   
@@ -16,7 +16,7 @@ CGモード  |  あり
 オートモード  |  あり   
 テンプレートを表示  
   
-『 **ソーサレス*アライヴ! 〜the World's End Fallen Star〜!** 』は、  DMM
+『 **ソーサレス*アライヴ! 〜the World's End Fallen Star〜** 』は、  DMM
 のDiGinationのレーベル、Fluoriteより  2019年  1月25日  に発売された  18禁  美少女アドベンチャーゲーム  。
 
 ##  概要  

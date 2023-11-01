@@ -23,7 +23,8 @@ Chatte noireLOGO
 
 2017年，成立子品牌 **NEKO WORK H** ，负责制作R-18作品。处女作《LOVE³ -Love Cube-》于2019年07月25日发售。
 
-2018年，成立子品牌 **Chatte noire** 。处女作《  贽の匣庭  》预计于2023年发售。
+2018年，成立子品牌 **Chatte noire** 。处女作《  贄の匣庭
+》（赘之匣庭）预计于2024年春发售，目前steam商店作品页已经开放，SekaiProject业已宣布将代理制作官方中文。
 
 ##  目录
 

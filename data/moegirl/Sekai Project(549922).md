@@ -107,7 +107,7 @@ Sakura Nova  |  Winged Cloud  |  2016-10-21
 Love, Guitars, and the Nashville Skyline  |  Cosmillica  |  2016-11-23   
 Japanese School Life  |  code:jp  |  2016-11-23   
 WORLD END ECONOMiCA episode.01  |  Spicy Tails  |  2016-12-22   
-克洛的时钟  |  Purple software  |  2017-03-01   
+柯罗的怀表  |  Purple software  |  2017-03-01   
 PacaPlus  |  PacoProject  |  2017-03-31   
 伴星  |  Narrator  |  2017-04-01   
 The Falconers: Moonlight  |  Bionic Penguin  |  2017-04-19   
@@ -207,13 +207,15 @@ QUALIA ～约定的轨迹～  |  PURESIS  |  2023-02-03
 龙姬混~日子3  |  Whirlpool  |  2023-03-14   
 NTR幻想之我的藤木同学  |  Kurenaibook  |  2023-04-08   
 妹的圣域  |  feng  |  2023-06-27   
+巧克甜恋2  |  Cabbage Soft  |  2023-06-29   
+棉花糖☆妹妹☆魅魔  |  Orcsoft  |  2023-09-23   
+学校的圣域  |  feng  |  2023第四季度   
 始于谎言的夏日恋情  |  LYCORIS  |  2023   
+贽之匣庭  |  Chatte Noire  |  2024第一季度   
 猫忍之心SPIN!  |  Whirlpool  |  TBA   
 全ての恋に、花束を。  |  Cosmillica  |  TBA   
 染红的街道  |  feng  |  TBA   
-巧克甜恋2  |  Cabbage Soft  |  TBA   
 娇小少女的小夜曲  |  feng  |  TBA   
-学校的圣域  |  feng  |  TBA   
 '하나'님의 캠퍼스 라이프!  |  Limited Factory  |  TBA   
 HAPPY SAIN† SHEOL  |  半径122pxの冥土  |  TBA   
 春开，意遥遥。  |  Sumikko Soft  |  TBA   
@@ -225,13 +227,14 @@ Memory's Dogma CODE:01  |  LizArts  |  TBA
 记忆信条：代码  系列  |  LizArts  |  TBA   
 Narcissu ~Lumière éternelle edition~  |  Stage☆nana  |  TBA   
 猫娘乐园  |  NEKO WORKs  |  TBA   
-贄の匣庭  |  Chatte Noire  |  TBA   
 女仆咖啡帕露菲  重置版  |  戏画  |  TBA   
 Rewrite Harvest festa!  |  Key  |  TBA   
 サナララR  |  猫猫社  |  TBA   
 由梦想与色彩编织而成  |  feng  |  TBA   
 ずっと前から女子でした  |  feng  |  TBA   
   
+  * 此外，Sekai Project于2015年7月宣布5个新的代理作品，其中包括《  天神乱漫  》  [9]  。然而此后Sekai Project方面便不再有关于此作的任何消息，自2018年起NekoNyan及HIKARI FIELD成为  YUZU SOFT  的传统外文发行商，不知此作将作何安排。 
+
 ###  其他游戏
 
 |  作品名  |  开发商  |  发售时间  |  类型   
@@ -269,4 +272,5 @@ Lys and Ruka's Magical Bag  |  desunoya  |  2022-08-06  |  PUZ
 寻找爱丽丝！  |  illuCalab  |  2023-01-28  |  ACT   
 Sunrider 4: The Captain's Return  |  Love in Space  |  2023-02-09  |  RPG   
 复兴游记  |  ShiroKuroSoft  |  2023-03-25  |  RPG   
+LOOP LOOP ROOM  |  desunoya  |  2023-08-01  |  ACT   
   

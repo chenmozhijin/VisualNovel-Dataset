@@ -38,7 +38,5 @@ SSS团队友：  仲村由理  、  音无结弦  、  日向秀树  等
 
 在OVA1中展现了多动的真正用处
 
-  
-
   1. ↑  https://www.bilibili.com/video/BV1Z84y1h7hP 
 

@@ -180,7 +180,7 @@ CV：  冰上恭子
     * 作曲：  下川直哉 
     * 歌：AKKO 
 
-  * PS版OP「Feeling Heart」 
+  * PS版OP「  Feeling Heart  」 
     * 作词：须谷尚子 
     * 作曲：  下川直哉 
     * 歌：中司雅美 
@@ -225,7 +225,7 @@ Memories～」。两期动画都惊人地被做成13集正片+7集sp的形式。
 
 #####  相关音乐
 
-  * OP  「Feeling Heart」 
+  * OP  「  Feeling Heart  」 
     * 作词：须谷尚子 
     * 作曲·编曲：  下川直哉 
     * 歌：中司雅美 

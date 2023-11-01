@@ -1,7 +1,3 @@
-**本文介绍的是：日本Galgame公司**  
-关于： _VOCALOID P主_  
-参见条目：「 ** Circus  ** 」
-
 |  CIRCUS  
 ---  
 名称  |  CIRCUS   

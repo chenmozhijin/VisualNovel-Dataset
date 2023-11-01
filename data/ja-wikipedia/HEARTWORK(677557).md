@@ -16,7 +16,7 @@
 画面サイズ  |  640×480   
 音楽フォーマット  |  MIDI   
 キャラクターボイス  |  あり   
-OVA：HEARTWORK  Symphony of Destrucion  
+OVA：HEARTWORK  
 キャラクターデザイン  |  小山知洋   
 アニメーション制作  |  九州ネットワークアニメーション   
 話数  |  全3話   

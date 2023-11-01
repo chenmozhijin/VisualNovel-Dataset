@@ -96,7 +96,7 @@ ANGEL・CORE  |  ジャンル  |  本格ミリタリーADV
 
 ##  関連商品  
 
-  * ドラマCD ANGEL・CORE エンゼル・コア（2002年9月19日） 
+  * ドラマCD ANGEL・CORE〜エンゼル・コア〜（2002年9月19日） 
   * ANGEL・CORE 設定原画集（2002年6月20日、コンパス） 
   * ANGEL・CORE ORIGINAL SOUND TRACK（2003年4月25日、FXCL-1003） 
   * ANGEL・CORE〜銀十字〜 Maxi Single（  木蓮  、GEE-0001） 

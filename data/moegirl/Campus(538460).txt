@@ -1,19 +1,26 @@
-株式会社Campus/Aino+Links  
+此页面中存在需要长期更新的内容及资料列表，现存条目中资料未必是最新。
+另请编辑者注意：请不要在人物历程等相关内容中悬挂此模板。具体使用方法详见  模板说明文档  。
+株式会社Campus/Aino+Links/Archive  
 Campus
-Aino+Links  
-名称  Campus/Aino+Links
+Aino+Links
+Archive  
+名称  Campus/Aino+Links/Archive
 别名  学院社
 类型  Galgame会社
 成立时间  2015年7月17日
-母公司  Light
+母公司  Light（Campus）
+AKABEi SOFT2  （Campus、Aino+Links）
+NEXTON（Archive）
 主要作品  四季谎言系列
 《  创作少女的恋爱公式  》
 相关人物  工藤启介（剧本负责）
 相关公司  Greenwood（母公司的母公司）
-AKABEi SOFT2  （姊妹会社）
+AKABEi SOFT2（姊妹会社）
 网址  Campus官网
-Aino+Links官网  
-Campus/Aino+Links  是日本的一家  Galgame  制作会社，代表作为  四季谎言系列  及《  创作少女的恋爱公式  》。
+Aino+Links官网
+Archive官网  
+Campus/Aino+Links/Archive  是日本的  一家  （  三家  ）  Galgame  制作会社，代表作为  四季谎言系列
+（Campus）及《  创作少女的恋爱公式  》（Aino+Links）。
 目录
 
 1  简介 
@@ -23,14 +30,16 @@ Campus/Aino+Links  是日本的一家  Galgame  制作会社，代表作为  四
 
 
 3  其他 
+4  外部链接 
 
 简介
 Campus成立于2015年，是著名中二系galgame厂商Light在2015年于其15周年之际推出的子品牌，主要制作低价galgame。同年11月27日，Campus发布其处女作《
 春天的谎言-passing momories-  》。
 2017年，Campus的母公司Light的母公司Greenwood宣布破产，随后在同年3月31日，Campus转移到Akabei
 Soft2旗下作为姊妹品牌继续运行。  负责剧本的工藤启介在推上吐槽“还好自己没有失业。”
-但虽然Campus并未宣布解散，后来其核心班底改组为了Aino+Links，仍是Akabei
-Soft2的旗下品牌。Aino+Links于2021年11月26日发布处女作也是唯一一作《创作少女的恋爱公式》后，其成员宣布离职。因而可以认为目前Campus与Aino+Links已处于实质上的解散状态。
+在制作了数部作品后，其核心班底改组为Aino+Links  [1]  ，仍是Akabei
+Soft2的旗下品牌。Aino+Links于2021年11月26日发布处女作（也是唯一一作）《创作少女的恋爱公式》后，其成员宣布离职。2023年11月，其班底又组成了Archive
+[1]  ，为NEXTON的旗下品牌，宣布了处女作《アンラベル·トリガー》。
 作品列表
 Galgame
 
@@ -63,6 +72,12 @@ Aino+Links
 
 
 創作彼女の恋愛公式  （创作少女的恋爱公式）2021年11月26日 
+
+
+Archive 
+
+
+アンラベル・トリガー  发布时间待定 
 
 
 游戏衍生音乐

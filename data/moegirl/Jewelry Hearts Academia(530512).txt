@@ -32,18 +32,19 @@ Soft  制作发行的恋爱文字冒险游戏。游戏于2022年7月29日发行�
 3  学园介绍 
 4  用语解说 
 5  故事章节 
-6  STAFF 
-7  CAST 
-8  相关音乐 
-8.1  专辑 
-8.2  OP (主题曲) 
-8.3  2nd OP 
-8.4  插入曲 
-8.5  片尾曲 
+6  其他 
+7  STAFF 
+8  CAST 
+9  相关音乐 
+9.1  专辑 
+9.2  OP (主题曲) 
+9.3  2nd OP 
+9.4  插入曲 
+9.5  片尾曲 
 
 
-9  画廊 
-10  注释及外部链接 
+10  画廊 
+11  注释及外部链接 
 
 原作历程
 
@@ -143,6 +144,10 @@ CHAPTER - XII：ATLAS ACADEMIAL FRONTLINE
 CHAPTER - XIII：SECRET MISSION 
 CHAPTER - XIV：TOTAL ECLIPSE 
 FINAL CHAPTER：WE WILL WING WONDER WORLD 
+
+其他
+
+2023年4月29日，本作和网络RPG游戏《  天啓パラドクス  》联动，联动角色为四名女主角  「天啓パラドクス」と「ジュエリー・ハーツ・アカデミア」がコラボ！アリアンナやメアのPickUPガチャ「輝け--私の意志」を開催  . 2023-09-29  （日本語）  .  。 
 
 STAFF
 

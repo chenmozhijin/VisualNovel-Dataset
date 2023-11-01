@@ -117,5 +117,3 @@ Girls Dead Monster所创作、演唱的歌曲（按专辑）：
     * Last Song  、  Hot Meal  、  God Bless You 
   * 专辑5：《一番の宝物 ～Yui final ver.～》 
     * 一番の宝物 ～Yui final ver.～  、  Storm Song  、  Day Game 
-
-  

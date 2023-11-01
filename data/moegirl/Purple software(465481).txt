@@ -15,6 +15,7 @@ Purple software  是隶属于  Clear Blue  的一个游戏品牌，通称“紫�
 2  作品列表 
 2.1  Purple 
 2.2  Purple software 
+2.3  Purple software delight 
 
 
 3  注释与外部链接 
@@ -136,7 +137,7 @@ tiro  アブカワオサム
 こもわた遙華  （SD原画）  森崎亮人  アブカワオサム
 18FD  2014年2月28日  幸福噩梦 Fragmentation Dream  ハピメア Fragmentation Dream
 18FD  2023年5月26日  幸福噩梦 REGRET END  ハピメア REGRET END
-19  2015年4月24日  克洛的时钟  クロノクロック  月杜尋
+19  2015年4月24日  柯罗的怀表  クロノクロック  月杜尋
 克
 こもわた遙華  （SD原画）  御影
 溝淵涼  アブカワオサム
@@ -167,3 +168,10 @@ tiro  アブカワオサム
 山口たこ
 25  2022年10月28日  CRIMINAL BORDER  クリミナルボーダー  さめまんま
 CHIHIRO（SD原画）  かずきふみ  
+Purple software delight
+序号  发售日期  作品名  原名  原画  剧本  音乐
+1  2010年9月24日  Orange Memories  Orange Memories  七海綾音
+zinno
+水瀬凛  三門右京
+壬硯白
+2  2011年4月28日  Primary Step  Primary Step  しばゆき  tiro  

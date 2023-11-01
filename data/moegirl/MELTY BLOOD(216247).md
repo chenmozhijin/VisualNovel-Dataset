@@ -325,3 +325,5 @@ SHIELD成立，而爱尔奎特要求空中EX-SHIELD成立。
 《MELTY BLOOD2nd》
 
 皆由桐岛たける作画
+
+  
