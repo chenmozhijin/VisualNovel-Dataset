@@ -127,5 +127,3 @@ UNiSONSHIFT:Blossom作品
   * 虽然UNiSONSHIFT的名气不算小，但是主社却没有知名的代表作，反而是子品牌Blossom制作的七色星露、时钟机关三部曲较有名气。 
   * UNiSONSHIFT自从单独成立了几个子品牌之后，基本分成了两个制作团队，分别是以伊东杂音和水月陵为核心的blossom，与以织泽明史和Angle Note为核心的accent。而从Flyable CandyHeart问世之后，伊东杂音逐渐退出了UNiSONSHIFT的游戏制作。 
   * 不过巧合的是，作为UNiSONSHIFT两大金字招牌的伊东杂音与水月陵的出生地是一样的，都是兵库北；在当时这个地方  还没有现在这么火  …… 
-
-  

@@ -1,7 +1,7 @@
 茸雪
 官方译名  Tiny Snow
 类型  视觉小说
-平台  PC-  Steam
+平台  PC-  Steam  /Epic
 Nintendo Switch
 开发  橘子班
 总监  Luke
@@ -24,7 +24,8 @@ NVL Maker Unity
 《  茸雪  》（英文：  Tiny Snow  ）是  橘子班  制作的短篇  视觉小说  ，为“#workshop
 短篇三部曲”的首作，于2019年2月28日于Steam上线。
 2021年12月23日，游戏增加了英文版和繁体中文版，引擎由  kirikiri  换为了  Unity  [1]
-。2023年2月14日，本作包含于《梦见雪花》（Dream of tiny snow）中于Switch港区和美区发布。
+。2023年2月14日，本作包含于《梦见雪花》（Dream of tiny
+snow）中于Switch港区和美区发布；4月7日《梦见雪花》上架Epic，成为了Epic上的第一款Galgame。
 目录
 
 1  剧情介绍 
@@ -111,4 +112,5 @@ bilibili对本作相关的视频执行严格删除。这被普遍猜测认为可
 
 Steam商店页面 
 
+Epic上的梦见雪花～Dream of Tiny Snow～ 
 没谈过恋爱还敢做Galgame？悲催情史与《茸雪》的诞生 

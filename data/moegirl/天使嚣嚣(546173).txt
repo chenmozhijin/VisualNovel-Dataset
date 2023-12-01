@@ -49,14 +49,14 @@ Tenshi Souzou "Angelic Chaos" RE-BOOT!  ）是由  YUZU SOFT  制作的  Galgame
 事事一如既往，本以为又是平淡无奇的一天。
 ……结果它不是。  
 「我是天使，肩负天之使命的天使」  
-突然有个女孩儿，白翼如雪，仙姿玉貌，毫无征兆地降临在我眼前。
+突然有个  女孩儿  ，白翼如雪，仙姿玉貌，毫无征兆地降临在我眼前。
 她说她是天使。  
 「谷风李空，我此行就是为了来找你。
 因为你——是魔王的转世」  
 她说我上辈子是异世界的魔王。
 还没等我搞清楚状况，鸡犬不宁的日子就已经找上门来。  
 ——前世重现。
-——异世界的访客。
+——  异世界的  访客  。
 以及……  
 「啊？为什么啊？不是吧，这也太……怎么会这样啊……？」  
 不仅风平浪静的日常一去不复返，连那么重要的东西也说没就没了。
@@ -173,12 +173,62 @@ CAST
 谷风由月  ：  神無月ほのか 
 
 相关音乐
-游戏OP
-FUN FUN RE-BOOT
- 作词：羽生みいな (AngelNote) 
- 作曲：Famishin（ゆずソフト） 
- 编曲：井ノ原 智 (AngelNote) 
- 演唱：QUARTET☆RE-BOOT!（  乃爱  、  天音  、  来海  、  辉耶  ）
+
+
+游戏原声带：  天使☆騒々 RE-BOOT! ORIGINAL SOUNDTRACK 
+
+
+游戏OP：  FUN FUN RE-BOOT 
+
+作词：羽生みいな (AngelNote) 
+作曲：Famishin（ゆずソフト） 
+编曲：井ノ原 智 (AngelNote) 
+演唱：  QUARTET☆RE-BOOT(白雪乃愛・谷風天音 ・小雲雀来海・星河かぐ耶) 
+
+
+ED1（白雪乃爱）：  Call My Name 
+作词：羽生みいな(Angel Note) 
+作曲：Famishin 
+编曲：  佐々倉マコト(Angel Note) 
+演唱：  白雪乃愛(CV：瀬戸乃マリエ ) 
+
+
+ED2（谷风天音）：  ねえ。 
+作词：  葉月(Angel Note) 
+作曲：Famishin 
+编曲：椎名俊介(Angel Note) 
+演唱：  葉月(Angel Note) 
+
+
+ED3（小云雀来海）：  以心伝心ジャーニー 
+作词：羽生みいな(Angel Note) 
+作曲：Famishin 
+编曲：森まもる(Angel Note) 
+演唱：霜月はるか 
+
+
+ED4（星河辉耶）：  DIVE 
+作词：Riryka(Angel Note) 
+作曲：Famishin 
+编曲：Meis Clauson(Angel Note) 
+演唱：Riryka(Angel Note) 
+
+
+ED5（高楯欧丽叶）：  幸せの魔法 
+作词：中山マミ(Angel Note) 
+作曲：Famishin 
+编曲：井ノ原智(Angel Note) 
+演唱：月城花梨 
+
+
+ED6（百里风实花）：  wish 
+作词：ange(Angel Note) 
+作曲：Famishin 
+编曲：Luca 
+演唱：  百里風実花(CV：明羽杏子) 
+吉他：  ミヤケリョウ 
+
+
 
 作品梗
 倒计时21日
@@ -207,5 +257,5 @@ FUN FUN RE-BOOT
 百里风实花
 三国彩里
 其他
-自2022年12月9日 (五) 02:37创建以来共有730 人投票。
+自2022年12月9日 (五) 02:37创建以来共有746 人投票。
 poll-id 645A638DAEF592883D692C88F6F5D0F7

@@ -12,7 +12,8 @@ Little Lovers SHE SO GAME  |  ジャンル  |  高校生活テーブルトーク
 テンプレートを表示  
   
 『 **Little Lovers SHE SO GAME** 』（リトルラバーズ シーソーゲーム）は、1999年9月2日に  日経映像  ・  NTT出版
-より発売された  プレイステーション  用  テーブルトークRPG  。『  Little Lovers  』の関連作品である。
+より発売された  プレイステーション  用  テーブルトークRPG  。PC版『  Little Lovers  』の世界を舞台にした  ボードゲーム
+  。
 
 ##  概要  
 

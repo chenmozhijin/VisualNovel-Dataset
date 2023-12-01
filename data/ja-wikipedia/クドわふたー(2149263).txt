@@ -2,10 +2,12 @@
 加筆  をお願いします。  （  2021年1月  ）  
 クドわふたー
 ゲーム：クドわふたー
-クドわふたー -Converted Edition-
+クドわふたー Converted Edition
 ゲームジャンル  恋愛アドベンチャーゲーム
-対応機種  Windows  /  2000  /  XP  /  Vista  /  7  /  8
-PSP  、  PS Vita  （Converted Edition）
+対応機種  Microsoft Windows  /  2000  /  XP  /  Vista  /  7  /  8
+PlayStation Portable  （Converted Edition）
+PlayStation Vita  （同上）
+Nintendo Switch  （同上）
 ゲームエンジン  RealLive
 開発元  Key
 発売元  ビジュアルアーツ
@@ -19,9 +21,10 @@ PSP  、  PS Vita  （Converted Edition）
 2013年3月29日（BDPG版）
 2013年6月28日（PC・全年齢対象版）
 2013年12月19日（PS Vita）
+2023年11月22日（Switch）
 レイティング  ソフ倫  ：18禁（PC）
 ソフ倫：15歳以上推奨 (PC・全年齢対象版)
-CERO  ：  C  （15才以上対象）  （PSP、PS Vita）
+CERO  ：  C  （15才以上対象）  （Converted Edition）
 コンテンツアイコン  セクシャル
 キャラクター名設定  不可
 エンディング数  1+2
@@ -64,9 +67,10 @@ visualstyle  Vol.13』の特集において概要が発表された  [注 1]
 キャラクターや舞台などの設定は基本的に『リトルバスターズ!
 エクスタシー』本編に準じる。ただし、ストーリーは本編中のある時点から本編とは異なる分岐したものの延長にあるため、  パラレルワールド
 的な位置付けである。登場しないキャラクターに関しても、セリフの中で言及されていることがある。なお、本編キャラクターのほとんどは帰省中のため登場しない。
-後に18禁要素を削除し、新たなビジュアルやイベントを追加して  PSP  と  PS Vita  に移植された『クドわふたー -Converted
-Edition-』が発売された。また、Windows用にも『CE』と同じ内容の『クドわふたー
-全年齢対象版』が発売された。さらに、2013年3月29日にはあそべる! BD-GAMEシリーズの一つとして  BDPG  版も発売された。
+後に18禁要素を削除し新たなビジュアルやイベントを追加した『クドわふたー Converted Edition』が  PlayStation Portable
+、  PlayStation Vita  、  Nintendo Switch
+向けに移植された。また、Windows用にも『CE』と同じ内容の『クドわふたー 全年齢対象版』が発売され、2013年3月29日にはあそべる! BD-
+GAMEシリーズの一つとして  BDPG  版も発売された。
 あらすじ  
 この節にあるあらすじは作品内容に比して不十分です  。  あらすじの書き方  を参考にして、  物語全体の流れ  が理解できるように（  ネタバレ
 も含めて）、  著作権  を  侵害  しないよう  ご自身の言葉で  加筆を行なってください  。  （  2021年1月  ）（  使い方  ）  

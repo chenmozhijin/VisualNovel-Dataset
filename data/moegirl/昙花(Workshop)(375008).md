@@ -2,7 +2,7 @@
 ---  
 官方译名  |  Epiphyllum in Love   
 类型  |  视觉小说   
-平台  |  PC-  Steam  Nintendo Switch   
+平台  |  PC-  Steam  /Epic  Nintendo Switch   
 开发  |  橘子班   
 制作人  |  龙之咲HD   
 编剧  |  秋思恋雨、被炒的炒饭   
@@ -22,7 +22,8 @@
 《 **昙花** 》（英文： **Epiphyllum in Love** ）是  橘子班  制作的短篇  视觉小说  ，为“#workshop
 短篇三部曲”的最终章，游戏于2020年3月17日在Steam上发售。
 
-2023年2月14日，本作包含于《梦见雪花》（Dream of tiny snow）中于Switch港区和美区发布。
+2023年2月14日，本作包含于《梦见雪花》（Dream of tiny
+snow）中于Switch港区和美区发布；4月7日《梦见雪花》上架Epic，成为了Epic上的第一款Galgame。
 
 ##  目录
 
