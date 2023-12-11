@@ -35,7 +35,7 @@ jobs:
                 pip install -r $GITHUB_WORKSPACE/workdir/mediawikiextractor/requirements.txt
 
             - name: 增量更新
-              if: ${{ inputs.incremental_update }} || ${{ github.event_name == 'schedule' }}
+              if: ${{ inputs.incremental_update || github.event_name == 'schedule' }}
               run: |
                 latest_ver="$(curl -s -L --retry 6 https://api.github.com/repos/${{ github.repository }}/releases 2>/dev/null | grep -E 'tag_name' | sed -e 's/    "tag_name": "//' -e 's/",//' | sed -n '1p')"
                 echo latest_ver=$latest_ver
@@ -76,7 +76,7 @@ jobs:
                 pip install -r $GITHUB_WORKSPACE/workdir/mediawikiextractor/requirements.txt
 
             - name: 增量更新
-              if: ${{ inputs.incremental_update }} || ${{ github.event_name == 'schedule' }}
+              if: ${{ inputs.incremental_update || github.event_name == 'schedule' }}
               run: |
                 latest_ver="$(curl -s -L --retry 6 https://api.github.com/repos/${{ github.repository }}/releases 2>/dev/null | grep -E 'tag_name' | sed -e 's/    "tag_name": "//' -e 's/",//' | sed -n '1p')"
                 echo latest_ver=$latest_ver
