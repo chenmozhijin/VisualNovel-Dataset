@@ -1,8 +1,8 @@
-|  **基本资料**  
----  
-用语名称  |  Dream End   
-其他表述  |  梦结局   
-相关条目  |  Good End  、  Dead End  、  True End  、  Bed End  、  Normal End  、  Bad End   
+|  **基本资料**  ||
+|---|---|
+|用语名称  |  Dream End   |
+|其他表述  |  梦结局   |
+|相关条目  |  Good End  、  Dead End  、  True End  、  Bed End  、  Normal End  、  Bad End   |
   
 **Dream End** 也即是 **梦结局** ，适用范围为  泛ACG  界。表示作品中剧情全部为主角的梦境或者幻想，并不存在于主角所处的世界。
 

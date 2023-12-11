@@ -1,11 +1,11 @@
 关于同名内容，见  Nostalgia  。
 
-|  Nostalgia  
----  
-演唱  |  Lia   
-作曲  |  麻枝准   
-填词  |  麻枝准   
-编曲  |  冈部亮   
+|  Nostalgia  ||
+|---|---|
+|演唱  |  Lia   |
+|作曲  |  麻枝准   |
+|填词  |  麻枝准   |
+|编曲  |  冈部亮   |
 收录专辑  
 《  Natukage／nostalgia  》  《  enigmatic LIA2  》  
   

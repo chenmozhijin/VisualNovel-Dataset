@@ -1,16 +1,16 @@
-|  **tone work's**  
----  
-名称  |  tone work's   
-类型  |  GALGAME品牌   
-前身  |  裸足少女（VA旗下品牌）   
-成立时间  |  2012年   
-总部地址  |  日本大阪   
-母公司  |  VISUAL ARTS   
-主要作品  |  《  银色，遥远  》《  相逢在明月映照的彼岸  》   
-创办人  |  马场隆博   
-相关人物  |  水月陵  、  魁  、  丘野塔野  、  竹下智博   
-相关会社  |  key  、  SAGA PLANETS   
-网址  |  https://toneworks.product.co.jp   
+|  **tone work's**  ||
+|---|---|
+|名称  |  tone work's   |
+|类型  |  GALGAME品牌   |
+|前身  |  裸足少女（VA旗下品牌）   |
+|成立时间  |  2012年   |
+|总部地址  |  日本大阪   |
+|母公司  |  VISUAL ARTS   |
+|主要作品  |  《  银色，遥远  》《  相逢在明月映照的彼岸  》   |
+|创办人  |  马场隆博   |
+|相关人物  |  水月陵  、  魁  、  丘野塔野  、  竹下智博   |
+|相关会社  |  key  、  SAGA PLANETS   |
+|网址  |  https://toneworks.product.co.jp   |
   
 **tone work's** 是日本游戏制作公司，动画企划公司  VISUAL ARTS  旗下的  galgame  品牌，于2012年成立。
 

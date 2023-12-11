@@ -1,21 +1,21 @@
-|  Vampires' Melody  
----  
-常用译名  |  吸血鬼的旋律   
-类型  |  视觉小说   
-平台  |  Windows、MacOS   
-分级  |  全年龄   
-开发  |  AsicxArt   
-发行  |  SakuraGame   
-总监  |  AnzioComm   
-制作人  |  AnzioComm   
-角色设计  |  AnzioComm   
-编剧  |  画囮   
-程序  |  AnzioComm   
-美工  |  Akuma/Remembersics   
-音乐  |  project lights   
-引擎  |  Unity   
-发行时间  |  2020年10月3日   
-相关作品  |  Fox Hime  、  Fox Hime ZERO  、  茸茸便利店   
+|  Vampires' Melody  ||
+|---|---|
+|常用译名  |  吸血鬼的旋律   |
+|类型  |  视觉小说   |
+|平台  |  Windows、MacOS   |
+|分级  |  全年龄   |
+|开发  |  AsicxArt   |
+|发行  |  SakuraGame   |
+|总监  |  AnzioComm   |
+|制作人  |  AnzioComm   |
+|角色设计  |  AnzioComm   |
+|编剧  |  画囮   |
+|程序  |  AnzioComm   |
+|美工  |  Akuma/Remembersics   |
+|音乐  |  project lights   |
+|引擎  |  Unity   |
+|发行时间  |  2020年10月3日   |
+|相关作品  |  Fox Hime  、  Fox Hime ZERO  、  茸茸便利店   |
   
 《 _**Vampires' Melody** _ 》是由  AsicxArt  制作发行的一款穿越题材  纯爱  向  视觉小说
 ，于2020年10月3日发售。该作是  AsicxArt  继  Fox Hime  、  Fox Hime ZERO  、  茸茸便利店

@@ -1,29 +1,27 @@
-|  Summer Pockets  
----  
-  
-ジャンル  |  恋愛   
-ゲーム：Summer Pockets  Summer Pockets REFLECTION BLUE  
-ゲームジャンル  |  恋愛アドベンチャー   
-対応機種  |  Microsoft Windows  7  /  8  /  10  Android  4.4+ /  iOS  8.0  Nintendo Switch  /  PlayStation 4   
-ゲームエンジン  |  SiglusEngine   
-開発・発売元  |  PC・スマホ：  Key  /  ビジュアルアーツ  Switch・PS4：  プロトタイプ   
-プロデューサー  |  馬場隆博（エグゼクティブ）  丘野塔也   
-ディレクター  |  魁   
-キャラクターデザイン  |  メイン：  Na-Ga  、  和泉つばす  、  永山ゆうのん  サブ：ふむゆん  SDキャラ：えんぎよし   
-プロジェクト起案・原案  |  麻枝准  （原案）   
-シナリオ  |  新島夕、魁、ハサマ   
-音楽  |  折戸伸治  、麻枝准、どんまる  竹下智博  、  水月陵   
-メディア  |  PC：  DVD-ROM  PS4：  Blu-ray Disc   
-ディスクレス起動  |  可   
-プレイ人数  |  1人   
-発売日  |  **第1作** PC：2018年6月29日  iOS：2018年12月17日  Android：2018年12月19日  Switch：2019年6月20日  Steam：2020年2月6日  **REFLECTION BLUE** PC：2020年6月26日  Android：2020年8月20日  iOS：2021年4月27日  Switch：2021年7月1日  PS4：2022年7月1日   
-レイティング  |  EOCS  ：全年齢対象（PC）  12+（iOS）  16+（Android）  CERO  ：  **C** （15才以上対象）  （Switch・PS4    ）   
-コンテンツアイコン  |  Switch・PS4：セクシャル   
-キャラクター名設定  |  不可   
-エンディング数  |  6（第1作）  10（REFLECTION BLUE）   
-セーブファイル数  |  1000   
-画面サイズ  |  1920×1080   
-キャラクターボイス  |  主人公以外フルボイス  主人公パートボイス   
+|  Summer Pockets  |
+|---|
+|ジャンル    恋愛<br>ゲーム：Summer Pockets  Summer Pockets REFLECTION BLUE  |
+|ゲームジャンル    恋愛アドベンチャー|
+|対応機種    Microsoft Windows  7  /  8  /  10  Android  4.4+ /  iOS  8.0  Nintendo Switch  /  PlayStation 4|
+|ゲームエンジン    SiglusEngine|
+|開発・発売元    PC・スマホ：  Key  /  ビジュアルアーツ  Switch・PS4：  プロトタイプ|
+|プロデューサー    馬場隆博（エグゼクティブ）  丘野塔也|
+|ディレクター    魁|
+|キャラクターデザイン    メイン：  Na-Ga  、  和泉つばす  、  永山ゆうのん  サブ：ふむゆん  SDキャラ：えんぎよし|
+|プロジェクト起案・原案    麻枝准  （原案）|
+|シナリオ    新島夕、魁、ハサマ|
+|音楽    折戸伸治  、麻枝准、どんまる  竹下智博  、  水月陵|
+|メディア    PC：  DVD-ROM  PS4：  Blu-ray Disc|
+|ディスクレス起動    可|
+|プレイ人数    1人|
+|発売日    **第1作** PC：2018年6月29日  iOS：2018年12月17日  Android：2018年12月19日  Switch：2019年6月20日  Steam：2020年2月6日  **REFLECTION BLUE** PC：2020年6月26日  Android：2020年8月20日  iOS：2021年4月27日  Switch：2021年7月1日  PS4：2022年7月1日|
+|レイティング    EOCS  ：全年齢対象（PC）  12+（iOS）  16+（Android）  CERO  ：  **C** （15才以上対象）  （Switch・PS4    ）|
+|コンテンツアイコン    Switch・PS4：セクシャル|
+|キャラクター名設定    不可|
+|エンディング数    6（第1作）  10（REFLECTION BLUE）|
+|セーブファイル数    1000|
+|画面サイズ    1920×1080|
+|キャラクターボイス    主人公以外フルボイス  主人公パートボイス   <br>|
 インターネットラジオ：サマポケききこみラジオ  
 配信期間  |  2018年2月27日 -   
 配信サイト  |  YouTube   

@@ -1,11 +1,11 @@
-|  Purrfect Apawcalypse  
----  
-本名  |  Purrfect Apawcalypse   
-别名  |  完美末日   
-标签  |  猫  、  狗  、  furry  可爱  、  血浆  、  LGBTQ   
-制作  |  90%Studios   
-平台  |  Windows  /  macOS   
-类型  |  视觉小说   
+|  Purrfect Apawcalypse  ||
+|---|---|
+|本名  |  Purrfect Apawcalypse   |
+|别名  |  完美末日   |
+|标签  |  猫  、  狗  、  furry  可爱  、  血浆  、  LGBTQ   |
+|制作  |  90%Studios   |
+|平台  |  Windows  /  macOS   |
+|类型  |  视觉小说   |
   
 《  Purrfect Apawcalypse  》，由  90％Studios  创作的萌系血浆恋爱猫狗轻喜剧系列游戏。
 

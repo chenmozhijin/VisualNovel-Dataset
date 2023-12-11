@@ -1,17 +1,17 @@
 **此页面中存在需要长期更新的内容及资料列表，现存条目中资料未必是最新。**  
 另请编辑者注意：请不要在人物历程等相关内容中悬挂此模板。具体使用方法详见  模板说明文档  。
 
-|  HOOKSOFT  
----  
-名称  |  HOOKSOFT   
-别名  |  钩子社   
-类型  |  Galgame公司   
-前身  |  Ting-A-Bell  HOOK   
-成立时间  |  2000年4月   
-母公司  |  Robo Planning   
-主要作品  |  LOVELY QUEST  放学后的灰姑娘   
-相关公司  |  SMEE  ASa Project  TJR   
-网址  |  https://www.hook-net.jp/   
+|  HOOKSOFT  ||
+|---|---|
+|名称  |  HOOKSOFT   |
+|别名  |  钩子社   |
+|类型  |  Galgame公司   |
+|前身  |  Ting-A-Bell  HOOK   |
+|成立时间  |  2000年4月   |
+|母公司  |  Robo Planning   |
+|主要作品  |  LOVELY QUEST  放学后的灰姑娘   |
+|相关公司  |  SMEE  ASa Project  TJR   |
+|网址  |  https://www.hook-net.jp/   |
   
 **HOOKSOFT** （日语：  **フックソフト** ）是日本的  Galgame  制作公司，隶属于株式会社Robo
 Planning，作品多为纯爱主题的校园恋爱喜剧。

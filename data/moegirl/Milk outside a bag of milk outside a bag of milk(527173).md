@@ -1,15 +1,15 @@
 **本作及其前作主题较为沉重，且包含精神障碍发作的内容，阅读时可能感到不适。**
 
-|  Milk outside a bag of milk outside a bag of milk  
----  
-原名  |  Milk outside a bag of milk outside a bag of milk   
-常用译名  |  袋外袋外奶   
-类型  |  视觉小说   
-平台  |  Windows  、  macOS  、  Linux   
-开发  |  Nikita Kryukov   
-发行  |  Nikita Kryukov   
-发行时间  |  2021年12月16日   
-相关作品  |  Milk inside a bag of milk inside a bag of milk   
+|  Milk outside a bag of milk outside a bag of milk  ||
+|---|---|
+|原名  |  Milk outside a bag of milk outside a bag of milk   |
+|常用译名  |  袋外袋外奶   |
+|类型  |  视觉小说   |
+|平台  |  Windows  、  macOS  、  Linux   |
+|开发  |  Nikita Kryukov   |
+|发行  |  Nikita Kryukov   |
+|发行时间  |  2021年12月16日   |
+|相关作品  |  Milk inside a bag of milk inside a bag of milk   |
   
 《 **Milk outside a bag of milk outside a bag of milk** 》是一款由  Nikita Kryukov
 开发的  视觉小说  ，也是《 ** Milk inside a bag of milk inside a bag of milk  **

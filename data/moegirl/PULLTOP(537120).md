@@ -1,17 +1,17 @@
 **此页面中存在需要长期更新的内容及资料列表，现存条目中资料未必是最新。**  
 另请编辑者注意：请不要在人物历程等相关内容中悬挂此模板。具体使用方法详见  模板说明文档  。
 
-|  PULLTOP  
----  
-名称  |  PULLTOP   
-别名  |  拉环社、易拉罐社   
-类型  |  Galgame会社   
-成立时间  |  2002年   
-总部地址  |  东京都  千代田区   
-母公司  |  WillPlus   
-子公司  |  PULLTOP LATTE  PULLTOP Air   
-主要作品  |  《  遥仰凰华  》  《  仰望夜空的星辰  》   
-网址  |  http://www.pulltop.com/   
+|  PULLTOP  ||
+|---|---|
+|名称  |  PULLTOP   |
+|别名  |  拉环社、易拉罐社   |
+|类型  |  Galgame会社   |
+|成立时间  |  2002年   |
+|总部地址  |  东京都  千代田区   |
+|母公司  |  WillPlus   |
+|子公司  |  PULLTOP LATTE  PULLTOP Air   |
+|主要作品  |  《  遥仰凰华  》  《  仰望夜空的星辰  》   |
+|网址  |  http://www.pulltop.com/   |
   
 **PULLTOP** 是日本WillPlus株式会社旗下的  galgame  制作公司。
 

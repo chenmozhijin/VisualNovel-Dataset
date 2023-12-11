@@ -1,13 +1,13 @@
-|  YUZUSOFT SOUR  
----  
-名称  |  ゆずソフトSOUR   
-别名  |  酸柚子   
-类型  |  Galgame品牌   
-成立时间  |  2021年   
-总部地址  |  大阪   
-母公司  |  株式会社ユノス   
-相关公司  |  YUZU SOFT   
-网址  |  http://www.yuzusoft-sour.com   
+|  YUZUSOFT SOUR  ||
+|---|---|
+|名称  |  ゆずソフトSOUR   |
+|别名  |  酸柚子   |
+|类型  |  Galgame品牌   |
+|成立时间  |  2021年   |
+|总部地址  |  大阪   |
+|母公司  |  株式会社ユノス   |
+|相关公司  |  YUZU SOFT   |
+|网址  |  http://www.yuzusoft-sour.com   |
   
 **YUZUSOFT SOUR** 是  YUZU SOFT  的全年龄向品牌。
 

@@ -1,14 +1,14 @@
-|  **SILKY'S PLUS**  
----  
-名称  |  SILKY'S PLUS   
-类型  |  galgame品牌   
-前身  |  SILKY'S   
-成立时间  |  2014年6月17日   
-母公司  |  Night Wind   
-主要作品  |  异想魅惑  ，  冬滚滚   
-相关人物  |  君岛青  ，  渡边僚一   
-相关会社  |  elf  ，  SILKY'S SAKURA  ，  NightWind   
-网址  |  http://www.silkysplus.jp   
+|  **SILKY'S PLUS**  ||
+|---|---|
+|名称  |  SILKY'S PLUS   |
+|类型  |  galgame品牌   |
+|前身  |  SILKY'S   |
+|成立时间  |  2014年6月17日   |
+|母公司  |  Night Wind   |
+|主要作品  |  异想魅惑  ，  冬滚滚   |
+|相关人物  |  君岛青  ，  渡边僚一   |
+|相关会社  |  elf  ，  SILKY'S SAKURA  ，  NightWind   |
+|网址  |  http://www.silkysplus.jp   |
   
 ##  概要
 

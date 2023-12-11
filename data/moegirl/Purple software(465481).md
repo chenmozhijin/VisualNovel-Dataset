@@ -1,15 +1,15 @@
 **此页面中存在需要长期更新的内容及资料列表，现存条目中资料未必是最新。**  
 另请编辑者注意：请不要在人物历程等相关内容中悬挂此模板。具体使用方法详见  模板说明文档  。
 
-|  Purple software  
----  
-名称  |  Purple software   
-别名  |  紫社   
-类型  |  游戏制作公司   
-成立时间  |  1998年   
-母公司  |  Clear Blue Communications   
-相关公司  |  参见  Clear Blue Communications   
-网址  |  https://www.purplesoftware.jp/   
+|  Purple software  ||
+|---|---|
+|名称  |  Purple software   |
+|别名  |  紫社   |
+|类型  |  游戏制作公司   |
+|成立时间  |  1998年   |
+|母公司  |  Clear Blue Communications   |
+|相关公司  |  参见  Clear Blue Communications   |
+|网址  |  https://www.purplesoftware.jp/   |
   
 **Purple software** 是隶属于  Clear Blue  的一个游戏品牌，通称“紫社”。
 

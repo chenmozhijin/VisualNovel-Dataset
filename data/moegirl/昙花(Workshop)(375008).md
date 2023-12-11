@@ -1,18 +1,18 @@
-|  昙花  
----  
-官方译名  |  Epiphyllum in Love   
-类型  |  视觉小说   
-平台  |  PC-  Steam  /Epic  Nintendo Switch   
-开发  |  橘子班   
-制作人  |  龙之咲HD   
-编剧  |  秋思恋雨、被炒的炒饭   
-音乐  |  REEKUM、SaulRobinson   
-引擎  |  NVL Maker Unity   
-模式  |  单人游戏   
-系列  |  #workshop 短篇三部曲   
-发行时间  |  2020年3月17日  2023年2月14日（Switch）   
-相关作品  |  茸雪  、  梦末   
-|  “  | 
+|  昙花  ||
+|---|---|
+|官方译名  |  Epiphyllum in Love   |
+|类型  |  视觉小说   |
+|平台  |  PC-  Steam  /Epic  Nintendo Switch   |
+|开发  |  橘子班   |
+|制作人  |  龙之咲HD   |
+|编剧  |  秋思恋雨、被炒的炒饭   |
+|音乐  |  REEKUM、SaulRobinson   |
+|引擎  |  NVL Maker Unity   |
+|模式  |  单人游戏   |
+|系列  |  #workshop 短篇三部曲   |
+|发行时间  |  2020年3月17日  2023年2月14日（Switch）   |
+|相关作品  |  茸雪  、  梦末   |
+||  “|
 
 一所学校，一个女孩  一束昙花，一叠明信片  一段温馨却又模糊的记忆  还有……  一个不需要后悔的世界 </br>
 

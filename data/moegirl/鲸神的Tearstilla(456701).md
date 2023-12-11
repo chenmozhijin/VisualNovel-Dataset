@@ -1,21 +1,17 @@
-|  鲸神的Tearstilla  
----  
-原名  |  鯨神のティアスティラ   
-常用译名  |  鲸神的Tearstilla、鲸神   
-类型  |  鲸神大人与实现愿望之岛上学园的恋爱ADV   
-平台  |  Windows、PlayStation Vita   
-分级  |  PC：  |  EOCS  :  |  \- 18岁以下禁止   
----|---  
-PSV：  |  CERO  :  |  \- 17岁以上   
----|---  
-开发  |  Whirlpool   
-发行  |  Whirlpool   
-Piacci（PSV）  
-模式  |  单人单机   
-发行时间  |  2015年2月27日 (PC)   
-2016年7月28日 (PS Vita)  
-相关作品  |  凉风的消散  、  Girls in Black   
-|  “  |  **
+|  鲸神的Tearstilla  ||
+|---|---|
+|原名  |  鯨神のティアスティラ   |
+|常用译名  |  鲸神的Tearstilla、鲸神   |
+|类型  |  鲸神大人与实现愿望之岛上学园的恋爱ADV   |
+|平台  |  Windows、PlayStation Vita   |
+|分级  |  PC：    EOCS  :    \- 18岁以下禁止|
+|PSV：  |  CERO  :    \- 17岁以上|
+|开发  |  Whirlpool   |
+|发行  |  Whirlpool   <br>Piacci（PSV）  |
+|模式  |  单人单机   |
+|发行时间  |  2015年2月27日 (PC)   <br>2016年7月28日 (PS Vita)  |
+|相关作品  |  凉风的消散  、  Girls in Black   |
+||  “    **|
 
 无论怎样的愿望都能实现，你想许什么愿呢？ </br>
 

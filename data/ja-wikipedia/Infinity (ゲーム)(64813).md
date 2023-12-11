@@ -1,19 +1,18 @@
-|  infinity  
----  
-ジャンル  |  恋愛アドベンチャー   
-ゲーム：infinity  Never7 -the end of infinity-  
-対応機種  |  PlayStation  ドリームキャスト  Windows 98/Me/2000  PlayStation 2  PlayStation Portable  Android 2.1  iPhone   
-開発元  |  KID  サイバーフロント   
-発売元  |  KID  サクセス(SuperLite2000)  サイバーフロント  5pb.Games（PCダウンロード版）   
-キャラクターデザイン  |  影崎夕那   
-シナリオ  |  打越鋼太郎   
-音楽  |  阿保剛   
-プレイ人数  |  1   
-発売日  |  2000年3月23日(オリジナル PS)  2000年12月21日(DC)  2001年10月26日(PC)  2002年5月23日(ドリコレDC)  2003年6月26日(PS2)  2004年9月2日(SuperLite2000)  2009年3月12日(PSP)  2015年12月25日(PCダウンロード版)   
-レイティング  |  CERO  ：  **C** （15才以上対象）   
-コンテンツアイコン  |  恋愛   
-キャラクター名設定  |  不可   
-キャラクターボイス  |  全員（主人公以外）   
+|  infinity  ||
+|---|---|
+|ジャンル  |  恋愛アドベンチャー   <br>ゲーム：infinity  Never7 -the end of infinity-  |
+|対応機種  |  PlayStation  ドリームキャスト  Windows 98/Me/2000  PlayStation 2  PlayStation Portable  Android 2.1  iPhone   |
+|開発元  |  KID  サイバーフロント   |
+|発売元  |  KID  サクセス(SuperLite2000)  サイバーフロント  5pb.Games（PCダウンロード版）   |
+|キャラクターデザイン  |  影崎夕那   |
+|シナリオ  |  打越鋼太郎   |
+|音楽  |  阿保剛   |
+|プレイ人数  |  1   |
+|発売日  |  2000年3月23日(オリジナル PS)  2000年12月21日(DC)  2001年10月26日(PC)  2002年5月23日(ドリコレDC)  2003年6月26日(PS2)  2004年9月2日(SuperLite2000)  2009年3月12日(PSP)  2015年12月25日(PCダウンロード版)   |
+|レイティング  |  CERO  ：  **C** （15才以上対象）   |
+|コンテンツアイコン  |  恋愛   |
+|キャラクター名設定  |  不可   |
+|キャラクターボイス  |  全員（主人公以外）   |
 テンプレート  \-  ノート  
   
 『 **infinity** 』（インフィニティ）は、  KID  より  2000年  3月23日  に  PlayStation  で発売された

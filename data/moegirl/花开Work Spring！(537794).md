@@ -1,23 +1,17 @@
-|  花开Work Spring！  
----  
-原名  |  花咲ワークスプリング!   
-常用译名  |  花开Work Spring！   
-类型  |  ADV   
-平台  |  Windows  PlayStation Vita  PlayStation 4  Android、iOS  Nintendo Switch   
-分级  |  PC：  |  EOCS  :  |  \- 18岁以下禁止   
----|---  
-PSV、PS4、NS：  |  CERO  :  |  \- 17岁以上   
----|---  
-Android、iOS：全年龄  
-开发  |  SAGA PLANETS   
-发行  |  SAGA PLANETS（PC）   
-ENTERGRAM（PSV/PS4/NS）  
-萌えAPP（Android、iOS）  
-音乐  |  水月陵    
-Arte Refact  
-PMMK  
-模式  |  单人单机   
-发行时间  |  2015年3月27日（PC）   
+|  花开Work Spring！  ||
+|---|---|
+|原名  |  花咲ワークスプリング!   |
+|常用译名  |  花开Work Spring！   |
+|类型  |  ADV   |
+|平台  |  Windows  PlayStation Vita  PlayStation 4  Android、iOS  Nintendo Switch   |
+|分级  |  PC：    EOCS  :    \- 18岁以下禁止|
+|PSV、PS4、NS：  |  CERO  :    \- 17岁以上|
+|<br>Android、iOS：全年龄  |
+|开发  |  SAGA PLANETS   |
+|发行  |  SAGA PLANETS（PC）   <br>ENTERGRAM（PSV/PS4/NS）  <br>萌えAPP（Android、iOS）  |
+|音乐  |  水月陵    <br>Arte Refact  <br>PMMK  |
+|模式  |  单人单机   |
+|发行时间  |  2015年3月27日（PC）   |
 2017年4月27日（PSV）  
 2018年3月2日（Android）  
 2017年7月7日（iOS）  

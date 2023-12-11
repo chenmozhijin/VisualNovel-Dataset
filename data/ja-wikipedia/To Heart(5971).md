@@ -1,32 +1,28 @@
-|  ToHeart  
----  
-  
-ジャンル  |  学園  、  恋愛   
-ゲーム：To Heart（アダルトゲーム版）（A）  ToHeart（PS版）（B）  ToHeart PSE（PC版）（C）
-ToHeart（PS2版）（D）  ToHeart PORTABLE（PSP版）（E）  ToHeart PORTABLE
-AQUAPRICE2800（PSP版）（F）  
-ゲームジャンル  |  ビジュアルノベル  （A,E,F）  ADV  （ノベル形式）（B,C,D）   
-対応機種  |  Windows 95  /  98  （A）  Windows 98  /  ME  /  2000  /  XP  （Arp,C）  PlayStation  （B）  PlayStation 2  （D）  PlayStation Portable  （E,F）   
-必要環境  |  （A）  CPU  :  Pentium  100MHz以上  （2000/XP:300MHz以上）  メモリ:16MB以上  （2000/XP:128MB以上）  HDD容量:40MB以上  （C）  CPU:PentiumIII 500MHz以上  メモリ:64MB以上  （2000/XP:128MB以上）  HDD容量:1.5GB以上  ドライブ:DVD-ROM 2倍速以上   
-発売元  |  Leaf  （A）  AQUAPLUS  （B,C,D,E,F）   
-キャラクターデザイン  |  水無月徹  、  ラー・YOU  （河田優）   
-シナリオ  |  髙橋龍也  、  青紫  （青村早紀）  原田宇陀児  （PS版、PSE、PS2版）   
-音楽  |  石川真也、中上和英、  下川直哉   
-メディア  |  CD-ROM1枚（A）  CD-ROM2枚（B）  DVD-ROM1枚（C,D）  UMD  （E,F）   
-プレイ人数  |  1人  1 - 2人（B,C,D・ミニゲーム）   
-発売日  |  1997年5月23日（A）  1999年3月25日（B）  2003年6月19日（Arp）  2003年6月27日（C）  2004年12月28日（D）  2009年7月30日（E）  2011年10月27日（F）   
-レイティング  |  18禁（A）  全年齢（B,C）  CERO  12（D）  CERO C（E）  CERO B（F）   
-コンテンツアイコン  |  恋愛・セクシャル（D,F）  セクシャル（E）   
-キャラクター名設定  |  主人公が可能   
-エンディング数  |  10（A）、11（B,C,D,E,F）   
-セーブファイル数  |  5（A）、10/1ブロック（B）  100（C,E,F）、150（D）   
-セーブファイル容量  |  300KB（D）   
-画面サイズ  |  640×480  256色（A）  640×480 FullColor（C）   
-全画面表示モード  |  あり（A,C）   
-音楽フォーマット  |  CD-DA  （A）、  PCM  （B,C,D）   
-キャラクターボイス  |  なし(A)、主人公以外（B,C,D）   
-その他  |  「(Arp)」はリニューアルパッケージ版   
-|  **漫画**  
+|  ToHeart  |
+|---|
+|ジャンル    学園  、  恋愛<br>ゲーム：To Heart（アダルトゲーム版）（A）  ToHeart（PS版）（B）  ToHeart PSE（PC版）（C）<br>ToHeart（PS2版）（D）  ToHeart PORTABLE（PSP版）（E）  ToHeart PORTABLE<br>AQUAPRICE2800（PSP版）（F）  |
+|ゲームジャンル    ビジュアルノベル  （A,E,F）  ADV  （ノベル形式）（B,C,D）|
+|対応機種    Windows 95  /  98  （A）  Windows 98  /  ME  /  2000  /  XP  （Arp,C）  PlayStation  （B）  PlayStation 2  （D）  PlayStation Portable  （E,F）|
+|必要環境    （A）  CPU  :  Pentium  100MHz以上  （2000/XP:300MHz以上）  メモリ:16MB以上  （2000/XP:128MB以上）  HDD容量:40MB以上  （C）  CPU:PentiumIII 500MHz以上  メモリ:64MB以上  （2000/XP:128MB以上）  HDD容量:1.5GB以上  ドライブ:DVD-ROM 2倍速以上|
+|発売元    Leaf  （A）  AQUAPLUS  （B,C,D,E,F）|
+|キャラクターデザイン    水無月徹  、  ラー・YOU  （河田優）|
+|シナリオ    髙橋龍也  、  青紫  （青村早紀）  原田宇陀児  （PS版、PSE、PS2版）|
+|音楽    石川真也、中上和英、  下川直哉|
+|メディア    CD-ROM1枚（A）  CD-ROM2枚（B）  DVD-ROM1枚（C,D）  UMD  （E,F）|
+|プレイ人数    1人  1 - 2人（B,C,D・ミニゲーム）|
+|発売日    1997年5月23日（A）  1999年3月25日（B）  2003年6月19日（Arp）  2003年6月27日（C）  2004年12月28日（D）  2009年7月30日（E）  2011年10月27日（F）|
+|レイティング    18禁（A）  全年齢（B,C）  CERO  12（D）  CERO C（E）  CERO B（F）|
+|コンテンツアイコン    恋愛・セクシャル（D,F）  セクシャル（E）|
+|キャラクター名設定    主人公が可能|
+|エンディング数    10（A）、11（B,C,D,E,F）|
+|セーブファイル数    5（A）、10/1ブロック（B）  100（C,E,F）、150（D）|
+|セーブファイル容量    300KB（D）|
+|画面サイズ    640×480  256色（A）  640×480 FullColor（C）|
+|全画面表示モード    あり（A,C）|
+|音楽フォーマット    CD-DA  （A）、  PCM  （B,C,D）|
+|キャラクターボイス    なし(A)、主人公以外（B,C,D）|
+|その他    「(Arp)」はリニューアルパッケージ版|
+|**漫画**  <br>|
 ---  
 漫画  
 作者  |  高雄右京   
@@ -694,13 +690,9 @@ AT-X  |  2001年5月5日 - 8月1日  |  水曜 12:30 - 13:00
 奈良県  |  奈良テレビ  |  2004年10月21日 - 2005年1月13日  |  木曜 24:25 - 24:55  |  独立UHF局  |   
 熊本県  |  熊本放送  |  2004年10月25日 - 2005年1月17日  |  月曜 26:20 - 26:50  |  TBS系列  |   
 日本全域  |  GYAO!  |  2005年12月19日 - 12月26日  |  月曜 12:00 更新  |  ネット配信  |   
-|  アニメ魂  
----  
-前番組  |  番組名  |  次番組   
-  
-月は東に日は西に  〜Operation Sanctuary〜
-
-|
+|  アニメ魂  |||
+|---|---|---|
+|前番組  |  番組名  |  次番組   <br>  <br>月は東に日は西に  〜Operation Sanctuary〜<br>|
 
 To Heart  〜Remember my Memories〜
 

@@ -1,18 +1,15 @@
-|  智代After ～It's a Wonderful Life～  
----  
-原名  |  智代アフター ～It's a Wonderful Life～   
-常用译名  |  智代After ～It's a Wonderful Life～   
-类型  |  恋爱冒险游戏   
-平台  |  MicroSoft Windows  PlayStation 2  PlayStation Portable  Xbox 360  PlayStation 3  Android  Nintendo Switch   
-分级  |  PC初版：  |  EOCS  :  |  \- 18岁以下禁止   
----|---  
-PC纪念版：全年龄  
-主机：  |  CERO  :  |  \- 12岁以上   
----|---  
-开发  |  Key   
-发行  |  PC/Android：Key   
-主机：Prototype  
-发行时间  |  Windows：2005年11月25日   
+|  智代After ～It's a Wonderful Life～  ||
+|---|---|
+|原名  |  智代アフター ～It's a Wonderful Life～   |
+|常用译名  |  智代After ～It's a Wonderful Life～   |
+|类型  |  恋爱冒险游戏   |
+|平台  |  MicroSoft Windows  PlayStation 2  PlayStation Portable  Xbox 360  PlayStation 3  Android  Nintendo Switch   |
+|分级  |  PC初版：    EOCS  :    \- 18岁以下禁止|
+|<br>PC纪念版：全年龄  |
+|主机：  |  CERO  :    \- 12岁以上|
+|开发  |  Key   |
+|发行  |  PC/Android：Key   <br>主机：Prototype  |
+|发行时间  |  Windows：2005年11月25日   |
 PS2：2007年1月25日  
 PSP：2009年3月19日  
 纪念版：2010年4月30日  

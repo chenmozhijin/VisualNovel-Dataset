@@ -15,22 +15,19 @@
 
 ##  曲目收录
 
-|  曲目列表  
----  
-曲序  |  曲目  |  时长   
-1\.  |  Crow Song  |  4:08   
-2\.  |  Alchemy  |  4:16   
-3\.  |  ** My Song  ** |  4:53   
-  
-**总时长：**
-
-|  \-  
+|  曲目列表  |||
+|---|---|---|
+|曲序  |  曲目  |  时长   |
+|1\.  |  Crow Song  |  4:08   |
+|2\.  |  Alchemy  |  4:16   |
+|3\.  |  ** My Song  ** |  4:53   <br>  <br>**总时长：**<br>|
+||  \-  |
   
 ##  参见
 
-|  Girls Dead Monster单曲CD  
----  
-前一作  |  本作  |  后一作   
-无  |  **Crow Song** |  Thousand Enemies   
+|  Girls Dead Monster单曲CD  |||
+|---|---|---|
+|前一作  |  本作  |  后一作   |
+|无  |  **Crow Song** |  Thousand Enemies   |
   
   1. ↑  Ｃｒｏｗ Ｓｏｎｇ／Ｇｉｒｌｓ Ｄｅａｄ Ｍｏｎｓｔｅｒ-レビュー一覧-ORICON STYLE ミュージック  . （  原始内容  存档于2014-01-10）  （日本語）  . 

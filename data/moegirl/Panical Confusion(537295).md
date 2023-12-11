@@ -1,12 +1,12 @@
-|  Panical Confusion  
----  
-原名  |  パニカル・コンフュージョン   
-类型  |  ADV   
-平台  |  Windows   
-分级  |  R-18   
-开发  |  Escu:de   
-发行  |  Escu:de   
-发行时间  |  2015年3月27日   
+|  Panical Confusion  ||
+|---|---|
+|原名  |  パニカル・コンフュージョン   |
+|类型  |  ADV   |
+|平台  |  Windows   |
+|分级  |  R-18   |
+|开发  |  Escu:de   |
+|发行  |  Escu:de   |
+|发行时间  |  2015年3月27日   |
   
 《 **Panical Confusion** 》（日语：  **パニカル・コンフュージョン** ）是由  Escu:de
 制作发行的一款恋爱冒险游戏，于2015年3月27日发售。

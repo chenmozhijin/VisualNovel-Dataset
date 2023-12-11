@@ -1,22 +1,16 @@
-|  Happiness!2 樱花盛典  
----  
-原名  |  はぴねす!2 Sakura Celebration   
-官方译名  |  Happiness!2 樱花盛典   
-类型  |  心动不已的魔法学园  ADV   
-平台  |  Windows  Nintendo Switch   
-分级  |  PC：  |  EOCS  :  |  \- 18岁以下禁止   
----|---  
-开发  |  Windmill Oasis   
-发行  |  Windmill Oasis（PC）   
-ARES  （Switch）  
-HIKARI FIELD  （PC中文版）  
-Sol Press（PC英文版）  
-引擎  |  CatSystem2   
-模式  |  单人单机   
-发行时间  |  2019年2月22日（PC）   
-2022年3月24日（Switch）  
-2020年4月24日（PC中文版）  
-相关作品  |  《  Happiness!  》   
+|  Happiness!2 樱花盛典  ||
+|---|---|
+|原名  |  はぴねす!2 Sakura Celebration   |
+|官方译名  |  Happiness!2 樱花盛典   |
+|类型  |  心动不已的魔法学园  ADV   |
+|平台  |  Windows  Nintendo Switch   |
+|分级  |  PC：    EOCS  :    \- 18岁以下禁止|
+|开发  |  Windmill Oasis   |
+|发行  |  Windmill Oasis（PC）   <br>ARES  （Switch）  <br>HIKARI FIELD  （PC中文版）  <br>Sol Press（PC英文版）  |
+|引擎  |  CatSystem2   |
+|模式  |  单人单机   |
+|发行时间  |  2019年2月22日（PC）   <br>2022年3月24日（Switch）  <br>2020年4月24日（PC中文版）  |
+|相关作品  |  《  Happiness!  》   |
   
 **《Happiness!2 樱花盛典》** （日语：  **はぴねす!2 Sakura Celebration** ）是一部由Windmill
 Oasis制作的  Galgame  。

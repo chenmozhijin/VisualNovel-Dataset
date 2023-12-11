@@ -1,12 +1,12 @@
-|  AKABEi SOFT2  
----  
-别名  |  AB2   
-类型  |  Galgame公司   
-前身  |  同人社团AKABEiSOFT   
-总部地址  |  日本  福冈县福冈市   
-子公司  |  Hibiki Works  、  Applique  等   
-主要作品  |  车轮之国，向日葵的少女  、  G弦上的魔王   
-网址  |  http://www.akabeesoft2.com/   
+|  AKABEi SOFT2  ||
+|---|---|
+|别名  |  AB2   |
+|类型  |  Galgame公司   |
+|前身  |  同人社团AKABEiSOFT   |
+|总部地址  |  日本  福冈县福冈市   |
+|子公司  |  Hibiki Works  、  Applique  等   |
+|主要作品  |  车轮之国，向日葵的少女  、  G弦上的魔王   |
+|网址  |  http://www.akabeesoft2.com/   |
   
 **AKABEi SOFT2** （日语：  **あかべぇそふとつぅ** ）是位于  日本  福冈县福冈市
 的有限责任公司，主要从事成人游戏的制作，前身是同人社团AKABEiSOFT。

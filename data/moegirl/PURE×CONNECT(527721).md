@@ -1,14 +1,14 @@
-|  PURE×CONNECT  
----  
-原名  |  ピュア×コネクト  PURE×CONNECT   
-常用译名  |  与她×心渐近   
-类型  |  恋爱ADV   
-平台  |  Windows Vista/7/8   
-分级  |  R-18   
-开发  |  SMEE   
-发行  |  SMEE   
-发行时间  |  2015年05月29日（本篇）  2021年12月24日（HD重置）   
-相关作品  |  Making＊Lovers   
+|  PURE×CONNECT  ||
+|---|---|
+|原名  |  ピュア×コネクト  PURE×CONNECT   |
+|常用译名  |  与她×心渐近   |
+|类型  |  恋爱ADV   |
+|平台  |  Windows Vista/7/8   |
+|分级  |  R-18   |
+|开发  |  SMEE   |
+|发行  |  SMEE   |
+|发行时间  |  2015年05月29日（本篇）  2021年12月24日（HD重置）   |
+|相关作品  |  Making＊Lovers   |
   
 《 **PURE×CONNECT** 》（日语：  **ピュア×コネクト** ）是由  SMEE  制作并于2015年05月29日发行的一款
 Galgame  ，其在2021年12月24日发布HD重制版。

@@ -1,23 +1,19 @@
 ToHeart2  > ToHeart2 AnotherDays
 
-|  ToHeart2 AnotherDays  
----  
-原名  |  ToHeart2 -AnotherDays-   
-常用译名  |  心之彼端2 另一天   
-类型  |  ADV   
-平台  |  PlayStation 3、Windows   
-分级  |  Win：  |  EOCS  :  |  \- 18岁以下禁止   
----|---  
-PS3：  |  CERO  :  |  \- 17岁以上   
----|---  
-开发  |  Leaf   
-发行  |  Leaf（PC）   
-AQUAPLUS（PS3）  
-模式  |  单人单机   
-发行时间  |  2005年12月9日（PC）   
-2011年09月22日（PS3）  
-改编载体  |  OVA、漫画   
-相关作品  |  ToHeart2   
+|  ToHeart2 AnotherDays  ||
+|---|---|
+|原名  |  ToHeart2 -AnotherDays-   |
+|常用译名  |  心之彼端2 另一天   |
+|类型  |  ADV   |
+|平台  |  PlayStation 3、Windows   |
+|分级  |  Win：    EOCS  :    \- 18岁以下禁止|
+|PS3：  |  CERO  :    \- 17岁以上|
+|开发  |  Leaf   |
+|发行  |  Leaf（PC）   <br>AQUAPLUS（PS3）  |
+|模式  |  单人单机   |
+|发行时间  |  2005年12月9日（PC）   <br>2011年09月22日（PS3）  |
+|改编载体  |  OVA、漫画   |
+|相关作品  |  ToHeart2   |
   
 《 **ToHeart2 AnotherDays** 》是  Leaf  开发的一款游戏，PS3版与  ToHeart2
 打包发售，并有OVA、漫画等衍生作品。

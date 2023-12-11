@@ -1,10 +1,10 @@
-|  Camp Buddy  
----  
-原名  |  Camp Buddy   
-常用译名  |  露营伙伴、营地好基友、野营搭档   
-类型  |  BL  向AVG   
-平台  |  Windows  、  安卓   
-分级  | 
+|  Camp Buddy  ||
+|---|---|
+|原名  |  Camp Buddy   |
+|常用译名  |  露营伙伴、营地好基友、野营搭档   |
+|类型  |  BL  向AVG   |
+|平台  |  Windows  、  安卓   |
+|分级  | |
 
 R-18  
   

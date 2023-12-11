@@ -1,18 +1,17 @@
-|  PrismRhythm  
----  
-原名  |  PrismRhythm   
-常用译名  |  七色旋律   
-类型  |  ADV   
-平台  |  Windows   
-分级  |  |  EOCS  :  |  \- 18岁以下禁止   
----|---  
-开发  |  Lump of Sugar   
-发行  |  Lump of Sugar   
-引擎  |  Ethornell   
-模式  |  单人单机   
-发行时间  |  2010年4月2日   
-相关作品  |  Diamic Days   
-|  “  |  **
+|  PrismRhythm  ||
+|---|---|
+|原名  |  PrismRhythm   |
+|常用译名  |  七色旋律   |
+|类型  |  ADV   |
+|平台  |  Windows   |
+|分级  |    EOCS  :    \- 18岁以下禁止|
+|开发  |  Lump of Sugar   |
+|发行  |  Lump of Sugar   |
+|引擎  |  Ethornell   |
+|模式  |  单人单机   |
+|发行时间  |  2010年4月2日   |
+|相关作品  |  Diamic Days   |
+||  “    **|
 
 ♪Welcome to the world with kindness！  </br>
 

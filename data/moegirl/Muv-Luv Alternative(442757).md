@@ -1,24 +1,19 @@
 Muv-Luv系列  > Muv-Luv Alternative
 
-|  Muv-Luv Alternative  
----  
-原名  |  マブラヴ オルタネイティヴ   
-官方译名  |  Muv-Luv Alternative   
-类型  |  galgame   
-平台  |  Microsoft Windows  Xbox 360  PlayStation 3  PlayStation Vita   
-分级  |  |  CERO  :  |  \- 17岁以上   
----|---  
-ESRB  :  |  \- 成熟   
-（Xbox 360、PS3、PSV）  
-开发  |  âge   
-发行  |  âge  、Degica、  Sekai Project  (Windows)   
-5pb.（Xbox 360、PS3、PSV）  
-总监  |  吉宗钢纪   
-编剧  |  吉宗钢纪   
-鬼畜人タムー  
-松永北斗  
-程序  |  号滋树   
-音乐  |  渡来亚人   
+|  Muv-Luv Alternative  ||
+|---|---|
+|原名  |  マブラヴ オルタネイティヴ   |
+|官方译名  |  Muv-Luv Alternative   |
+|类型  |  galgame   |
+|平台  |  Microsoft Windows  Xbox 360  PlayStation 3  PlayStation Vita   |
+|分级  |    CERO  :    \- 17岁以上|
+|ESRB  :  |  \- 成熟   <br>（Xbox 360、PS3、PSV）  |
+|开发  |  âge   |
+|发行  |  âge  、Degica、  Sekai Project  (Windows)   <br>5pb.（Xbox 360、PS3、PSV）  |
+|总监  |  吉宗钢纪   |
+|编剧  |  吉宗钢纪   <br>鬼畜人タムー  <br>松永北斗  |
+|程序  |  号滋树   |
+|音乐  |  渡来亚人   |
 河野阳吾  
 须藤贤一  
 影山浩宣  
@@ -99,24 +94,24 @@ Luv Alternative剧情。
 
 ###  电视动画
 
-|  Muv-Luv Alternative  
----  
-原名  |  マブラヴ オルタネイティヴ   
-译名  |  Muv-Luv Alternative   
-地区  |  日本   
-首播时间  |  1期：2021年10月6日~12月21日  2期：2022年10月5日-12月22日   
-总话数  |  12话   
-制作公司  |  FLAGSHIP LINE、  梦太公司  ×  Graphinica   
-监督  |  西本由纪夫   
-编剧  |  浦畑达彦   
-角色设计  |  谷拓也   
-音乐  |  EVAN CALL   
-出品  |  Alternative第三计划   
-主要声优  |  神木孝一  楠木灯  奈波果林  伊藤美来  田中贵子  Lynn   
-代理发行  |  木棉花国际   
-播放平台  |  日本：富士电视台、BS富士、AT-X；FOD（网络配信） 等   
-播放状态  |  已完结   
-相关作品  |  Muv-Luv   
+|  Muv-Luv Alternative  ||
+|---|---|
+|原名  |  マブラヴ オルタネイティヴ   |
+|译名  |  Muv-Luv Alternative   |
+|地区  |  日本   |
+|首播时间  |  1期：2021年10月6日~12月21日  2期：2022年10月5日-12月22日   |
+|总话数  |  12话   |
+|制作公司  |  FLAGSHIP LINE、  梦太公司  ×  Graphinica   |
+|监督  |  西本由纪夫   |
+|编剧  |  浦畑达彦   |
+|角色设计  |  谷拓也   |
+|音乐  |  EVAN CALL   |
+|出品  |  Alternative第三计划   |
+|主要声优  |  神木孝一  楠木灯  奈波果林  伊藤美来  田中贵子  Lynn   |
+|代理发行  |  木棉花国际   |
+|播放平台  |  日本：富士电视台、BS富士、AT-X；FOD（网络配信） 等   |
+|播放状态  |  已完结   |
+|相关作品  |  Muv-Luv   |
   
 
 《Muv-Luv Alternative》的电视动画版于2021年10月6日播出。

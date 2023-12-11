@@ -1,9 +1,9 @@
-|  **基本资料**  
----  
-用语名称  |  Bad End、バッドエンド   
-其他表述  |  BE   
-用语出处  |  未知(大概是galgame)   
-相关条目  |  Good End  、  Dead End  、  True End  、  Bed End  、  Normal End  、  Bad_End   
+|  **基本资料**  ||
+|---|---|
+|用语名称  |  Bad End、バッドエンド   |
+|其他表述  |  BE   |
+|用语出处  |  未知(大概是galgame)   |
+|相关条目  |  Good End  、  Dead End  、  True End  、  Bed End  、  Normal End  、  Bad_End   |
   
 **Bad End** 简单的说是 **坏结局** ，适用范围为  泛ACG  界，缩写形式为BE。  nice boat ！  日语写法为「バッドエンド」
 

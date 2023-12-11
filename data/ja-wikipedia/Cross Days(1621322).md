@@ -1,24 +1,24 @@
 デイズシリーズ  > **Cross Days**
 
-Cross Days(PC/DL)  Cross Days DVDPG(DVDPG)  Cross Days UMD-PG Edition(UMDPG)  |   
----  
-ジャンル  |  アニメーション  恋愛アドベンチャーゲーム   
-対応機種  |  Windows XP  /  Vista  /  7  (PC/  DL  )  DVDプレーヤー(DVDPG)  PSP  (UMDPG)   
-開発元  |  オーバーフロー(PC/DL)  アイチェリー(DVDPG)  ixia(UMD-PG)   
-発売元  |  オーバーフロー  (PC)  アイチェリー  (DVDPG)  Palace(UMDPG)   
-発売日  |  2010年  3月19日  (PC)  2011年  4月28日  (DVDPG)  2011年  7月29日  (UMDPG)  2012年  1月6日  [注 1]  (DL)   
-レイティング  |  18禁   
-キャラクター名設定  |  なし   
-メディア  |  DVD-ROM(PC)  DVD(DVDPG)  UMD(UMDPG)   
-画面サイズ  |  800×600/フルカラー(PC/DL)   
-BGMフォーマット  |  PCM  オーディオ   
-キャラクターボイス  |  フルボイス   
-CGモード  |  なし   
-音楽モード  |  なし   
-回想モード  |  あり   
-メッセージスキップ  |  あり   
-オートモード  |  あり   
-備考  |  [注 2]   
+Cross Days(PC/DL)  Cross Days DVDPG(DVDPG)  Cross Days UMD-PG Edition(UMDPG)  |   ||
+|---|---|
+|ジャンル  |  アニメーション  恋愛アドベンチャーゲーム   |
+|対応機種  |  Windows XP  /  Vista  /  7  (PC/  DL  )  DVDプレーヤー(DVDPG)  PSP  (UMDPG)   |
+|開発元  |  オーバーフロー(PC/DL)  アイチェリー(DVDPG)  ixia(UMD-PG)   |
+|発売元  |  オーバーフロー  (PC)  アイチェリー  (DVDPG)  Palace(UMDPG)   |
+|発売日  |  2010年  3月19日  (PC)  2011年  4月28日  (DVDPG)  2011年  7月29日  (UMDPG)  2012年  1月6日  [注 1]  (DL)   |
+|レイティング  |  18禁   |
+|キャラクター名設定  |  なし   |
+|メディア  |  DVD-ROM(PC)  DVD(DVDPG)  UMD(UMDPG)   |
+|画面サイズ  |  800×600/フルカラー(PC/DL)   |
+|BGMフォーマット  |  PCM  オーディオ   |
+|キャラクターボイス  |  フルボイス   |
+|CGモード  |  なし   |
+|音楽モード  |  なし   |
+|回想モード  |  あり   |
+|メッセージスキップ  |  あり   |
+|オートモード  |  あり   |
+|備考  |  [注 2]   |
 テンプレートを表示  
   
 『 **Cross Days** 』（クロスデイズ）は、  2010年  3月19日  に  オーバーフロー  より発売された  アダルトゲーム

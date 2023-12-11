@@ -1,15 +1,15 @@
-|  Vampires' Melody 2  
----  
-原名  |  Vampires' Melody 2   
-类型  |  ADV   
-平台  |  Windows   
-开发  |  AsicxArt   
-发行  |  SakuraGame   
-编剧  |  画囮   
-程序  |  AnzioComm   
-美工  |  Akuma、Remembersics   
-模式  |  单人单机   
-相关作品  |  Vampires' Melody   
+|  Vampires' Melody 2  ||
+|---|---|
+|原名  |  Vampires' Melody 2   |
+|类型  |  ADV   |
+|平台  |  Windows   |
+|开发  |  AsicxArt   |
+|发行  |  SakuraGame   |
+|编剧  |  画囮   |
+|程序  |  AnzioComm   |
+|美工  |  Akuma、Remembersics   |
+|模式  |  单人单机   |
+|相关作品  |  Vampires' Melody   |
   
 《 **Vampires' Melody 2** 》是由  AsicxArt  制作发行的一款穿越题材  Galgame  ，为游戏《  Vampires'
 Melody  》续作，接续本篇流放荒岛的结局后的故事，于2023年9月28日发售。

@@ -1,18 +1,18 @@
-|  ANGEL TYPE  
----  
-常用译名  |  **天使之兆**  
-类型  |  galgame   
-平台  |  PC，（windows8.1及以上不支持），ROM–DVD   
-分级  |  R18   
-开发  |  Aeris，minori（后半）   
-发行  |  minori feat. Aeris（minori）   
-总监  |  古我望   
-角色设计  |  八树隼一郎   
-编剧  |  古我望   
-程序  |  小曾根雷太   
-引擎  |  Musica   
-模式  |  单人   
-发行时间  |  2005年3月25日   
+|  ANGEL TYPE  ||
+|---|---|
+|常用译名  |  **天使之兆**  |
+|类型  |  galgame   |
+|平台  |  PC，（windows8.1及以上不支持），ROM–DVD   |
+|分级  |  R18   |
+|开发  |  Aeris，minori（后半）   |
+|发行  |  minori feat. Aeris（minori）   |
+|总监  |  古我望   |
+|角色设计  |  八树隼一郎   |
+|编剧  |  古我望   |
+|程序  |  小曾根雷太   |
+|引擎  |  Musica   |
+|模式  |  单人   |
+|发行时间  |  2005年3月25日   |
   
 《 **ANGEL TYPE** 》是由  Aeris  和  minori  制作（minori feat. Aeris）与发行的一款  galgame
 ，于2005年3月25日发售。

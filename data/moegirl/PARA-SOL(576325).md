@@ -1,17 +1,16 @@
-|  PARA-SOL  
----  
-类型  |  ADV   
-平台  |  windows   
-分级  |  |  EOCS  :  |  \- 18岁以下禁止   
----|---  
-开发  |  ROOT   
-发行  |  ROOT   
-制作人  |  Carnelian   
-角色设计  |  CARNELIAN  /天宫ぽらん   
-编剧  |  宙形安久里   
-音乐  |  Kim's Soundroom   
-模式  |  单人   
-发行时间  |  2010年7月23日   
+|  PARA-SOL  ||
+|---|---|
+|类型  |  ADV   |
+|平台  |  windows   |
+|分级  |    EOCS  :    \- 18岁以下禁止|
+|开发  |  ROOT   |
+|发行  |  ROOT   |
+|制作人  |  Carnelian   |
+|角色设计  |  CARNELIAN  /天宫ぽらん   |
+|编剧  |  宙形安久里   |
+|音乐  |  Kim's Soundroom   |
+|模式  |  单人   |
+|发行时间  |  2010年7月23日   |
   
 《 **PARA-SOL** 》是由  ORBIT  旗下  ROOT  于2010年7月23日发售的恋爱冒险类型日本  成人游戏  ，ROOT的最后一作。
 

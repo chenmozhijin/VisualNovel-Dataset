@@ -1,19 +1,16 @@
-|  
----  
-原名  |  LUNARiA -Virtualized Moonchild-   
-类型  |  Kinetic Novel   
-平台  |  Windows、Android、iOS  [1]   
-分级  |  |  IARC  :  |  \- 3岁以上   
----|---  
-（全年龄）  
-|  iOS:  |  **9+** \- 9岁以上   
----|---  
-开发  |  Key   
-发行  |  VISUAL ARTS   
-发行时间  |  2021年12月24日（PC）   
-2022年2月24日（Android、iOS）  
-|  “  |  キミと駆ける。奇跡だけを信じて――  |  ”   
----|---|---  
+|  ||
+|---|---|
+|原名  |  LUNARiA -Virtualized Moonchild-   |
+|类型  |  Kinetic Novel   |
+|平台  |  Windows、Android、iOS  [1]   |
+|分级  |    IARC  :    \- 3岁以上|
+|<br>（全年龄）  |
+||  iOS:    **9+** \- 9岁以上|
+|开发  |  Key   |
+|发行  |  VISUAL ARTS   |
+|发行时间  |  2021年12月24日（PC）   <br>2022年2月24日（Android、iOS）  |
+||  “    キミと駆ける。奇跡だけを信じて――    ”|
+|---|------|
   
 《 **LUNARiA -Virtualized Moonchild-** 》是  Key  于2021年发行的一部  视觉小说  游戏。
 

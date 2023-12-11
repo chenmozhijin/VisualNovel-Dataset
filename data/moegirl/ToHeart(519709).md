@@ -1,14 +1,14 @@
-|  To Heart  
----  
-原名  |  To Heart   
-译名  |  心之彼端，同班同学，回忆永恒，青春万岁，青春纪事   
-类型  |  Galgame   
-平台  |  Windows  PlayStation  PlayStation 2  PlayStation Portable   
-开发  |  Leaf   
-发行  |  Leaf、  Aquaplus   
-发行时间  |  1997年05月23日(Windows)  1999年03月25日(PS1)  2004年12月28日(PS2)  2009年07月30日(PSP)   
-改编载体  |  动画   
-相关作品  |  雫  、  Routes  、  ToHeart2   
+|  To Heart  ||
+|---|---|
+|原名  |  To Heart   |
+|译名  |  心之彼端，同班同学，回忆永恒，青春万岁，青春纪事   |
+|类型  |  Galgame   |
+|平台  |  Windows  PlayStation  PlayStation 2  PlayStation Portable   |
+|开发  |  Leaf   |
+|发行  |  Leaf、  Aquaplus   |
+|发行时间  |  1997年05月23日(Windows)  1999年03月25日(PS1)  2004年12月28日(PS2)  2009年07月30日(PSP)   |
+|改编载体  |  动画   |
+|相关作品  |  雫  、  Routes  、  ToHeart2   |
   
 「 **To Heart** 」是  Leaf  制作的一部  视觉小说
 作品，最早于1997年发布于Windows平台。后来游戏经历了反复发布，也产生了TV动画、广播剧等衍生作品。

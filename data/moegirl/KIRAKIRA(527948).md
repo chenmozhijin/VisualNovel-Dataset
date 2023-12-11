@@ -1,19 +1,15 @@
-|  ** キラ☆キラ  **  
----  
-原名  |  キ  （  KI  ）  ラ  （  RA  ）  ☆  キ  （  KI  ）  ラ  （  RA  ）   
-译名  |  KIRA☆KIRA 煌煌舞台   
-类型  |  Galgame   
-平台  |  Windows  PS2  IOS, Android   
-分级  |  PC：R-18  PS2：  |  CERO  :  |  \- 15岁以上   
----|---  
-Android：16岁以上  
-iOS：17岁以上  
-开发  |  OVERDRIVE   
-发行  |  OVERDRIVE   
-发行时间  |  2007年11月22日   
-2009年2月26日（PS2）  
-2017年12月12日（Android、iOS）  
-相关作品  |  《  DEARDROPS  》《  MUSICUS!  》   
+|  ** キラ☆キラ  **  ||
+|---|---|
+|原名  |  キ  （  KI  ）  ラ  （  RA  ）  ☆  キ  （  KI  ）  ラ  （  RA  ）   |
+|译名  |  KIRA☆KIRA 煌煌舞台   |
+|类型  |  Galgame   |
+|平台  |  Windows  PS2  IOS, Android   |
+|分级  |  PC：R-18  PS2：    CERO  :    \- 15岁以上|
+|<br>Android：16岁以上  <br>iOS：17岁以上  |
+|开发  |  OVERDRIVE   |
+|发行  |  OVERDRIVE   |
+|发行时间  |  2007年11月22日   <br>2009年2月26日（PS2）  <br>2017年12月12日（Android、iOS）  |
+|相关作品  |  《  DEARDROPS  》《  MUSICUS!  》   |
   
 《 **KIRA☆KIRA 煌煌舞台** 》（日语：  **キラ☆キラ** ；英语：  _**KIRA☆KIRA** _ ）是  OVERDRIVE
 制作的一部  Galgame  作品，最早于2007年发布于  Windows  平台，后来累经移植和再发售。

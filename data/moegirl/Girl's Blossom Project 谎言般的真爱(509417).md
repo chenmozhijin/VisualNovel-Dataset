@@ -1,23 +1,21 @@
 诚邀各位加入萌百Girs Blossom Project主题编辑交流QQ群： ** 750427313  ** （入群前请注明萌百ID）
 
-|  本条目中所使用的数据或歌词，其著作权属于Bushiroad Inc.、Craft Egg Inc.或其他著作权人，仅以介绍为目的引用。  
----  
-  
-|  
----  
-原名  |  Girl's Blossom Project〜嘘のようなホントの恋〜   
-官方译名  |  Girl's Blossom Project～如梦似幻的真实之恋～  Girl's Blossom Project ~ Unbelievable Real Love ~ </br>  
-常用译名  |  Girl's Blossom Project～谎言般的真爱～   
-类型  |  恋爱模拟ADV   
-平台  |  iOS、Android、Windows   
-开发  |  Craft Egg  、iMel   
-发行  |  Bushiroad  Bilibili（简中服）   
-美工  |  Craft Egg  、iMel、べっこ   
-引擎  |  Artemis   
-发行时间  |  日服：2022年 **4月1日** 简中服：2023年 **4月1日**  
-相关作品  |  《  BanG Dream! 少女乐团派对！  》   
-|  “  |  **这是假的吗？现实？ 在盛开的樱花树下，你又会选择和谁一起？ ** |  ”   
----|---|---  
+|  本条目中所使用的数据或歌词，其著作权属于Bushiroad Inc.、Craft Egg Inc.或其他著作权人，仅以介绍为目的引用。  |
+|---|
+|<br>---  |
+|原名    Girl's Blossom Project〜嘘のようなホントの恋〜|
+|官方译名    Girl's Blossom Project～如梦似幻的真实之恋～  Girl's Blossom Project ~ Unbelievable Real Love ~ </br>|
+|常用译名    Girl's Blossom Project～谎言般的真爱～|
+|类型    恋爱模拟ADV|
+|平台    iOS、Android、Windows|
+|开发    Craft Egg  、iMel|
+|发行    Bushiroad  Bilibili（简中服）|
+|美工    Craft Egg  、iMel、べっこ|
+|引擎    Artemis|
+|发行时间    日服：2022年 **4月1日** 简中服：2023年 **4月1日**|
+|相关作品    《  BanG Dream! 少女乐团派对！  》|
+|“    **这是假的吗？现实？ 在盛开的樱花树下，你又会选择和谁一起？ **   ”|
+|---------  <br>|
   
 《 **Girl's Blossom Project～如梦似幻的真实之恋～** 》（日语： ** Girl's Blossom
 Project〜嘘のようなホントの恋〜  ** ）是由  Craft Egg  制作的一部  Galgame  。

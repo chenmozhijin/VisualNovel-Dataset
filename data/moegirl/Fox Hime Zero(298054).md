@@ -1,21 +1,19 @@
-|  Fox Hime Zero  
----  
-原名  |  Fox Hime Zero   
-平台  |  Win/Mac  iOS/Android   
-分级  |  |  iOS:  |  **12+** \- 12岁以上   
----|---  
-开发  |  AsicxArt   
-发行  |  SakuraGame   
-制作人  |  AnzioComm  Remembersics   
-程序  |  AnzioComm   
-美工  |  Remembersics   
-引擎  |  Unity 3D   
-系列  |  Fox Hime   
-发行时间  |  Win/Mac：2018年5月24日   
-iOS/Android：2018年10月23日  
-相关作品  |  Fox Hime   
-|  “  |  **所以，如果说好了在一起，我想要的可不只是你的这一生......** |  ”   
----|---|---  
+|  Fox Hime Zero  ||
+|---|---|
+|原名  |  Fox Hime Zero   |
+|平台  |  Win/Mac  iOS/Android   |
+|分级  |    iOS:    **12+** \- 12岁以上|
+|开发  |  AsicxArt   |
+|发行  |  SakuraGame   |
+|制作人  |  AnzioComm  Remembersics   |
+|程序  |  AnzioComm   |
+|美工  |  Remembersics   |
+|引擎  |  Unity 3D   |
+|系列  |  Fox Hime   |
+|发行时间  |  Win/Mac：2018年5月24日   <br>iOS/Android：2018年10月23日  |
+|相关作品  |  Fox Hime   |
+||  “    **所以，如果说好了在一起，我想要的可不只是你的这一生......**   ”|
+|---|------|
   
 **Fox Hime Zero** 是中国的一部以“灵狐  小狐狸  ”为题材的原创恋爱养成游戏，由  AsicxArt  开发，  SakuraGame
 代理发行，Win/Mac版于2018年5月24日上架Steam平台。Fox Hime Zero是Fox Hime系列的第二作，作为其前作  Fox Hime

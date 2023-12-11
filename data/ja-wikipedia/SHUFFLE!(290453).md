@@ -5,26 +5,25 @@
 この項目には性的な表現や記述が含まれます。  免責事項  もお読みください。  
   
 ---|---  
-|  SHUFFLE!  
----  
-ジャンル  |  恋愛   
-ゲーム：SHUFFLE! (Win)  SHUFFLE! ON THE STAGE (PS2)  SHUFFLE! Essence+ (Win)  
-ゲームジャンル  |  恋愛アドベンチャーゲーム   
-対応機種  |  Windows  98  /  Me  /  2000  /  XP  PlayStation 2  Windows XP/  Vista  (Essence+)   
-開発元  |  Navel  (Win)  VRIDGE  （PS2・移植）   
-発売元  |  Navel (Win)  角川書店  (PS2)   
-キャラクターデザイン  |  西又葵  、  鈴平ひろ   
-ディスクレス起動  |  可 (Win)   
-アクチベーション  |  不要   
-発売日  |  2004年  1月30日  (Win)  2005年  10月20日  (PS2)  2009年  10月30日  (Win)   
-レイティング  |  18禁 (Win)  CERO15 (PS2)   
-コンテンツアイコン  |  セクシャル (PS2)   
-キャラクター名設定  |  不可   
-エンディング数  |  5 (Win)  8 (PS2)  12 (Essence+)   
-セーブファイル数  |  32+クイック3+拡張無制限 (Win)  50 (PS2)  100+クイック10  +AUTO10+拡張無制限 (Essence+)   
-画面サイズ  |  800x600、フルカラー (32bit)   
-キャラクターボイス  |  主人公以外   
-|  **漫画**  
+|  SHUFFLE!  ||
+|---|---|
+|ジャンル  |  恋愛   <br>ゲーム：SHUFFLE! (Win)  SHUFFLE! ON THE STAGE (PS2)  SHUFFLE! Essence+ (Win)  |
+|ゲームジャンル  |  恋愛アドベンチャーゲーム   |
+|対応機種  |  Windows  98  /  Me  /  2000  /  XP  PlayStation 2  Windows XP/  Vista  (Essence+)   |
+|開発元  |  Navel  (Win)  VRIDGE  （PS2・移植）   |
+|発売元  |  Navel (Win)  角川書店  (PS2)   |
+|キャラクターデザイン  |  西又葵  、  鈴平ひろ   |
+|ディスクレス起動  |  可 (Win)   |
+|アクチベーション  |  不要   |
+|発売日  |  2004年  1月30日  (Win)  2005年  10月20日  (PS2)  2009年  10月30日  (Win)   |
+|レイティング  |  18禁 (Win)  CERO15 (PS2)   |
+|コンテンツアイコン  |  セクシャル (PS2)   |
+|キャラクター名設定  |  不可   |
+|エンディング数  |  5 (Win)  8 (PS2)  12 (Essence+)   |
+|セーブファイル数  |  32+クイック3+拡張無制限 (Win)  50 (PS2)  100+クイック10  +AUTO10+拡張無制限 (Essence+)   |
+|画面サイズ  |  800x600、フルカラー (32bit)   |
+|キャラクターボイス  |  主人公以外   |
+||  **漫画**  |
 ---  
 漫画：SHUFFLE! -DAYS IN THE BLOOM-  
 原作・原案など  |  Navel   

@@ -1,29 +1,19 @@
-|  Gift  
----  
-原名  |  Gift  prism（移植版副标题）   
-常用译名  |  永不消失的彩虹   
-类型  |  ADV   
-平台  |  Windows、PlayStation 2、PlayStation Portable、iOS   
-分级  |  Win：  |  EOCS  :  |  \- 18岁以下禁止   
----|---  
-PS2：  |  CERO  :  |  \- 12岁以上   
----|---  
-PSP：  |  CERO  :  |  \- 15岁以上   
----|---  
-iOS:  |  **12+** \- 12岁以上   
-开发  |  MOONSTONE   
-发行  |  MOONSTONE（PC）   
-Sweets（PS2）  
-CYBERFRONT（PSP）  
-M-Trix（iOS）  
-模式  |  单人单机   
-发行时间  |  2005年5月27日（初回限定版）   
-2005年6月10日（通常版）  
-2006年10月19日（PS2）  
-2009年4月28日（iOS）  
-2012年2月2日（PSP）  
-改编载体  |  轻小说、漫画、动画   
-相关作品  |  Gift 虹色的故事   
+|  Gift  ||
+|---|---|
+|原名  |  Gift  prism（移植版副标题）   |
+|常用译名  |  永不消失的彩虹   |
+|类型  |  ADV   |
+|平台  |  Windows、PlayStation 2、PlayStation Portable、iOS   |
+|分级  |  Win：    EOCS  :    \- 18岁以下禁止|
+|PS2：  |  CERO  :    \- 12岁以上|
+|PSP：  |  CERO  :    \- 15岁以上|
+|iOS:  |  **12+** \- 12岁以上   |
+|开发  |  MOONSTONE   |
+|发行  |  MOONSTONE（PC）   <br>Sweets（PS2）  <br>CYBERFRONT（PSP）  <br>M-Trix（iOS）  |
+|模式  |  单人单机   |
+|发行时间  |  2005年5月27日（初回限定版）   <br>2005年6月10日（通常版）  <br>2006年10月19日（PS2）  <br>2009年4月28日（iOS）  <br>2012年2月2日（PSP）  |
+|改编载体  |  轻小说、漫画、动画   |
+|相关作品  |  Gift 虹色的故事   |
   
 《 **Gift** 》（日语：  Gift 〜ギフト〜  ）是  MOONSTONE  开发的一款  GALGAME
 ，移植版副标题为prism，并有Fan disc、轻小说、漫画、动画等衍生作品。
@@ -145,19 +135,19 @@ story、同人图、小说，但最令人震撼的是里面居然有Cosplay图�
   
 ###  动画版
 
-|  Gift 永不消失的彩虹  
----  
-原名  |  Gift 〜eternal rainbow〜   
-译名  |  永不消失的彩虹   
-地区  |  日本   
-首播时间  |  2006年10月5日~12月21日   
-总话数  |  12+1   
-制作公司  |  OLM TEAM IWASA   
-监督  |  木宫茂   
-角色设计  |  田中基树   
-音乐  |  HALF H·P STUDIO   
-播放平台  |  日本：TOKYO MX、KBS京都、tvk   
-播放状态  |  完结   
+|  Gift 永不消失的彩虹  ||
+|---|---|
+|原名  |  Gift 〜eternal rainbow〜   |
+|译名  |  永不消失的彩虹   |
+|地区  |  日本   |
+|首播时间  |  2006年10月5日~12月21日   |
+|总话数  |  12+1   |
+|制作公司  |  OLM TEAM IWASA   |
+|监督  |  木宫茂   |
+|角色设计  |  田中基树   |
+|音乐  |  HALF H·P STUDIO   |
+|播放平台  |  日本：TOKYO MX、KBS京都、tvk   |
+|播放状态  |  完结   |
   
 TV动画 **Gift 永不消失的彩虹** 于2006年10月5日由TOKYO MX电视台播放。共计12+1话，最后1话以OVA形式在2007年单独发售。
 

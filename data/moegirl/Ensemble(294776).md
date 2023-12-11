@@ -1,12 +1,12 @@
-|  ensemble  
----  
-名称  |  ensemble   
-别名  |  音符社   
-类型  |  GALGAME公司   
-成立时间  |  2008年   
-总部地址  |  東京都豊島区南池袋3-16-7 MKビル5F   
-母公司  |  WillPlus   
-网址  |  http://www.ensemble-game.com  也是ensemble-sweet的官网   
+|  ensemble  ||
+|---|---|
+|名称  |  ensemble   |
+|别名  |  音符社   |
+|类型  |  GALGAME公司   |
+|成立时间  |  2008年   |
+|总部地址  |  東京都豊島区南池袋3-16-7 MKビル5F   |
+|母公司  |  WillPlus   |
+|网址  |  http://www.ensemble-game.com  也是ensemble-sweet的官网   |
   
 **ensemble** 是WillPlus（株式会社ヴューズ）旗下的  galgame  制作公司。
 

@@ -1,17 +1,17 @@
-|  Nursery Rhyme  
----  
-原名  |  Nursery Rhyme -ナーサリィ☆ライム-   
-常用译名  |  恋之童谣   
-类型  |  ADV   
-平台  |  Windows   
-分级  |  18禁   
-开发  |  Lump of Sugar   
-发行  |  Lump of Sugar   
-引擎  |  Ethornell   
-模式  |  单人单机   
-发行时间  |  2005年11月25日   
-相关作品  |  游魂   
-|  “  |  **
+|  Nursery Rhyme  ||
+|---|---|
+|原名  |  Nursery Rhyme -ナーサリィ☆ライム-   |
+|常用译名  |  恋之童谣   |
+|类型  |  ADV   |
+|平台  |  Windows   |
+|分级  |  18禁   |
+|开发  |  Lump of Sugar   |
+|发行  |  Lump of Sugar   |
+|引擎  |  Ethornell   |
+|模式  |  单人单机   |
+|发行时间  |  2005年11月25日   |
+|相关作品  |  游魂   |
+||  “    **|
 
 甘く ほろ苦く———それは優しい恋物語。  </br>
 

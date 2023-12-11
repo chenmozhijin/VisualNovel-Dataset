@@ -277,32 +277,29 @@ A・キニアン（アリス・キニアン）
 BALDR BRINGER オリジナルサウンドトラック「Fetal Movement」
 
      初回版にはオリジナルサウンドトラック「Fetal Movement」が特典として添付された。オープニングテーマ「real-Reality」のショートバージョン、挿入歌「Grace Blaze」のショートバージョン、エンディングテーマ「Dive into the gate」のフルバージョンに加え、作中の全BGMが収録されている    。 
-     収録曲  |   
----  
-#  |  タイトル  |  作詞  |  作曲  |  時間   
-1  .  |  「  real-Reality (short ver.)  」  (歌：KOTOKO)  |  KOTOKO  |  C.G mix  |  2:11   
-2  .  |  「  Creation  」  |  |  新井健史  |  3:19   
-3  .  |  「  Dream On  」  |  |  新井健史  |  5:43   
-4  .  |  「  Floating Points  」  |  |  新井健史  |  5:23   
-5  .  |  「  BEYOND  」  |  |  新井健史  |  2:45   
-6  .  |  「  I.I.I.  」  |  |  新井健史  |  4:28   
-7  .  |  「  District "Hope"  」  |  |  新井健史  |  3:12   
-8  .  |  「  CHECKMATE!  」  |  |  新井健史  |  4:40   
-9  .  |  「  A Forest of Identification  」  |  |  新井健史  |  5:06   
-10  .  |  「  Negative Optimist  」  |  |  新井健史  |  3:01   
-11  .  |  「  Heartless Purge  」  |  |  新井健史  |  3:46   
-12  .  |  「  Grace Blaze (short ver.)  」  (歌：逢瀬アキラ)  |  逢瀬アキラ  |  逢瀬アキラ  |  2:54   
-13  .  |  「  AWAKE  」  |  |  新井健史  |  5:20   
-14  .  |  「  Afterimage  」  |  |  新井健史  |  3:16   
-15  .  |  「  You bring the light  」  |  |  新井健史  |  3:46   
-16  .  |  「  Killing Yourself to Live  」  |  |  新井健史  |  5:44   
-17  .  |  「  New Dawn  」  |  |  新井健史  |  4:03   
-18  .  |  「  Chances are I'll find you somewhere  」  |  |  新井健史  |  3:18   
-19  .  |  「  Dive into the gate  」  (歌：RINA)  |  RINA  |  高瀬一矢  |  3:53   
-  
-合計時間:
-
-|  75:48  
+     収録曲  |   |||||
+|---|---|---|---|---|
+|#  |  タイトル  |  作詞  |  作曲  |  時間   |
+|1  .  |  「  real-Reality (short ver.)  」  (歌：KOTOKO)  |  KOTOKO  |  C.G mix  |  2:11   |
+|2  .  |  「  Creation  」  |  |  新井健史  |  3:19   |
+|3  .  |  「  Dream On  」  |  |  新井健史  |  5:43   |
+|4  .  |  「  Floating Points  」  |  |  新井健史  |  5:23   |
+|5  .  |  「  BEYOND  」  |  |  新井健史  |  2:45   |
+|6  .  |  「  I.I.I.  」  |  |  新井健史  |  4:28   |
+|7  .  |  「  District "Hope"  」  |  |  新井健史  |  3:12   |
+|8  .  |  「  CHECKMATE!  」  |  |  新井健史  |  4:40   |
+|9  .  |  「  A Forest of Identification  」  |  |  新井健史  |  5:06   |
+|10  .  |  「  Negative Optimist  」  |  |  新井健史  |  3:01   |
+|11  .  |  「  Heartless Purge  」  |  |  新井健史  |  3:46   |
+|12  .  |  「  Grace Blaze (short ver.)  」  (歌：逢瀬アキラ)  |  逢瀬アキラ  |  逢瀬アキラ  |  2:54   |
+|13  .  |  「  AWAKE  」  |  |  新井健史  |  5:20   |
+|14  .  |  「  Afterimage  」  |  |  新井健史  |  3:16   |
+|15  .  |  「  You bring the light  」  |  |  新井健史  |  3:46   |
+|16  .  |  「  Killing Yourself to Live  」  |  |  新井健史  |  5:44   |
+|17  .  |  「  New Dawn  」  |  |  新井健史  |  4:03   |
+|18  .  |  「  Chances are I'll find you somewhere  」  |  |  新井健史  |  3:18   |
+|19  .  |  「  Dive into the gate  」  (歌：RINA)  |  RINA  |  高瀬一矢  |  3:53   <br>  <br>合計時間:<br>|
+||  75:48  |
   
 ##  反響  
 

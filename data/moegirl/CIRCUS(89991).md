@@ -1,12 +1,12 @@
-|  CIRCUS  
----  
-名称  |  CIRCUS   
-别名  |  马戏团   
-类型  |  GALGAME公司   
-成立时间  |  1999年11月11日   
-母公司  |  有限会社CIRCUS（ - 2012年）  株式会社S.O.F.T. - 2015年）  株式会社CIRCUS（2013年 - ）  株式会社moby-dick（2015年 - ）   
-主要作品  |  D.C.（初音岛）系列  、  Aries   
-网址  |  https://circus-co.jp/   
+|  CIRCUS  ||
+|---|---|
+|名称  |  CIRCUS   |
+|别名  |  马戏团   |
+|类型  |  GALGAME公司   |
+|成立时间  |  1999年11月11日   |
+|母公司  |  有限会社CIRCUS（ - 2012年）  株式会社S.O.F.T. - 2015年）  株式会社CIRCUS（2013年 - ）  株式会社moby-dick（2015年 - ）   |
+|主要作品  |  D.C.（初音岛）系列  、  Aries   |
+|网址  |  https://circus-co.jp/   |
   
 **CIRCUS** （  サーカス  ）是著名的  galgame
 游戏公司，最初属有限会社CIRCUS名下，经多次改组和体制变更后，现属株式会社CIRCUS与株式会社moby-dick名下。

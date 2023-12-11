@@ -1,11 +1,11 @@
-|  Rosebleu  
----  
-名称  |  Rosebleu   
-类型  |  Galgame公司   
-成立时间  |  2008年   
-母公司  |  Chartreux   
-主要作品  |  微小地牢   
-网址  |  https://www.rosebleu.jp/   
+|  Rosebleu  ||
+|---|---|
+|名称  |  Rosebleu   |
+|类型  |  Galgame公司   |
+|成立时间  |  2008年   |
+|母公司  |  Chartreux   |
+|主要作品  |  微小地牢   |
+|网址  |  https://www.rosebleu.jp/   |
   
 **Rosebleu** 是青猫和あごバリア从Navel辞职后创立于2008年的游戏品牌，已于2016年停止活动。
 

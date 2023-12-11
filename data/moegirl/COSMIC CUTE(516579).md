@@ -1,11 +1,11 @@
-|  COSMIC CUTE  
----  
-名称  |  COSMIC CUTE   
-类型  |  Galgame  公司   
-母公司  |  AKABEi_SOFT2   
-主要作品  |  LOVESICK PUPPIES -仆らは恋するために生まれてきた   
-相关会社  |  Applique   
-网址  |  http://www.cosmiccute.com   
+|  COSMIC CUTE  ||
+|---|---|
+|名称  |  COSMIC CUTE   |
+|类型  |  Galgame  公司   |
+|母公司  |  AKABEi_SOFT2   |
+|主要作品  |  LOVESICK PUPPIES -仆らは恋するために生まれてきた   |
+|相关会社  |  Applique   |
+|网址  |  http://www.cosmiccute.com   |
   
 **COSMIC CUTE** 是 ** AKABEiSOFT2  ** 旗下的  Galgame  制作公司，其代表作有  LOVESICK
 PUPPIES -我们为了恋爱而诞生-  ，青梅完胜天降教科书级作品的制作公司  。

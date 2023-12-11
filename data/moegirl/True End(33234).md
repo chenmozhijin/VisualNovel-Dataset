@@ -1,9 +1,9 @@
-|  **基本资料**  
----  
-用语名称  |  True End   
-其他表述  |  TE、トゥルーエンド、真相END、Real End、正史结局   
-用语出处  |  未知   
-相关条目  |  Good End  、  Bad End  、  Dead End  、  Bed End  、  Normal End   
+|  **基本资料**  ||
+|---|---|
+|用语名称  |  True End   |
+|其他表述  |  TE、トゥルーエンド、真相END、Real End、正史结局   |
+|用语出处  |  未知   |
+|相关条目  |  Good End  、  Bad End  、  Dead End  、  Bed End  、  Normal End   |
   
 **True End** 就是通常所说的 **真实结局** ，也可以写成「 **真相结局（真相END）** 」、「 **Real End** 」、「
 **正史结局（正史END）** 」。适用范围为  泛ACG  界，某种情况下代表 **完美结局** ，缩写形式为TE。

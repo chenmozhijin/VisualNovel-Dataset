@@ -1,13 +1,13 @@
 **此条目介绍的作品或其衍生作品中有至少一项尚未完结。**  
 萌娘百科不是新闻的搜集处。欢迎在情报相对明朗并确认资料来源准确性后  编辑更新  。
 
-|  The Smoke Room  
----  
-原名  |  The Smoke Room   
-常用译名  |  吸烟室   
-类型  |  视觉小说   
-平台  |  Microsoft Windows  MacOS  Linux  Android   
-分级  | 
+|  The Smoke Room  ||
+|---|---|
+|原名  |  The Smoke Room   |
+|常用译名  |  吸烟室   |
+|类型  |  视觉小说   |
+|平台  |  Microsoft Windows  MacOS  Linux  Android   |
+|分级  | |
 
 R-18  
   

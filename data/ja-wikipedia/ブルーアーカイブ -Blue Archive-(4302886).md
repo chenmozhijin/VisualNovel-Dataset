@@ -1,18 +1,16 @@
-|  ブルーアーカイブ -Blue Archive-  
----  
-  
-ジャンル  |  学園   
-ゲーム  
-ゲームジャンル  |  学園×青春×物語RPG  日常で奇跡を見つけるRPG  シミュレーションRPG     
-対応機種  |  iOS  Android   
-開発元  |  NEXON Games   
-発売元  |  Yostar  NEXON Korea    Shanghai Yostar   
-プロデューサー  |  キム・ヨンハ     
-アートディレクター  |  キム・イン     
-シナリオ  |  isakusan   
-音楽  |  ミツキヨ  、KARUT、  Nor   
-発売日  |  2021年2月4日    2021年11月9日  2023年8月3日   
-レイティング  |  **Android版** IARC：12+    ESRB  ：  T（13歳以上）    CADPA:16+   
+|  ブルーアーカイブ -Blue Archive-  |
+|---|
+|ジャンル    学園<br>ゲーム  |
+|ゲームジャンル    学園×青春×物語RPG  日常で奇跡を見つけるRPG  シミュレーションRPG  |
+|対応機種    iOS  Android|
+|開発元    NEXON Games|
+|発売元    Yostar  NEXON Korea    Shanghai Yostar|
+|プロデューサー    キム・ヨンハ  |
+|アートディレクター    キム・イン  |
+|シナリオ    isakusan|
+|音楽    ミツキヨ  、KARUT、  Nor|
+|発売日    2021年2月4日    2021年11月9日  2023年8月3日|
+|レイティング    **Android版** IARC：12+    ESRB  ：  T（13歳以上）    CADPA:16+   <br>|
 漫画：ブルーアーカイブ 便利屋68業務日誌  Request;hatchout  
 原作・原案など  |  ブルーアーカイブ   
 作画  |  野際かえで   

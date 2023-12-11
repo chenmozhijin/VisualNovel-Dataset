@@ -1,18 +1,17 @@
-|  Magical☆Dears  
----  
-原名  |  マジカル☆ディアーズ   
-常用译名  |  Magical☆Dears   
-类型  |  ADV   
-平台  |  Windows   
-分级  |  |  EOCS  :  |  \- 18岁以下禁止   
----|---  
-开发  |  Navel honeybell   
-发行  |  Navel honeybell   
-引擎  |  QLIE   
-模式  |  单人单机   
-发行时间  |  2015年11月27日   
-|  “  |  ** これは君と探す、恋の魔法の物語。  ** |  ”   
----|---|---  
+|  Magical☆Dears  ||
+|---|---|
+|原名  |  マジカル☆ディアーズ   |
+|常用译名  |  Magical☆Dears   |
+|类型  |  ADV   |
+|平台  |  Windows   |
+|分级  |    EOCS  :    \- 18岁以下禁止|
+|开发  |  Navel honeybell   |
+|发行  |  Navel honeybell   |
+|引擎  |  QLIE   |
+|模式  |  单人单机   |
+|发行时间  |  2015年11月27日   |
+||  “    ** これは君と探す、恋の魔法の物語。  **   ”|
+|---|------|
   
 《 **Magical☆Dears** 》是由 ** Navel honeybell  ** 制作的一款  Galgame  。
 

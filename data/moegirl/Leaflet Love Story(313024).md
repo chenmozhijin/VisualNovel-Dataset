@@ -1,15 +1,15 @@
-|  Leaflet Love Story  
----  
-类型  |  视觉小说   
-平台  |  PC-  Steam   
-开发  |  G+工程团  & 橘子班   
-总监  |  喵之妖妖罗小黑   
-编剧  |  海潮探长   
-美工  |  巫贼   
-音乐  |  StudioKannazuki   
-引擎  |  The NVL Maker   
-模式  |  单人游戏   
-发行时间  |  2018年8月20日   
+|  Leaflet Love Story  ||
+|---|---|
+|类型  |  视觉小说   |
+|平台  |  PC-  Steam   |
+|开发  |  G+工程团  & 橘子班   |
+|总监  |  喵之妖妖罗小黑   |
+|编剧  |  海潮探长   |
+|美工  |  巫贼   |
+|音乐  |  StudioKannazuki   |
+|引擎  |  The NVL Maker   |
+|模式  |  单人游戏   |
+|发行时间  |  2018年8月20日   |
   
 **《Leaflet Love Story》** 是  G+工程团  & 橘子班  制作  视觉小说  ，在Steam上由PeriScope
 Game代理发布。作品背景为大学校园，原角色原画设定也是符合相关背景，唯之后更改为萌系画风。

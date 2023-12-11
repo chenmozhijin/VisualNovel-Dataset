@@ -74,18 +74,16 @@ Acceleration of SUGURI  |  ジャンル  |  対戦型ハイスピード  シュ�
 
 ##  Acceleration of SUGURI X-Edition  
 
-|  評価  
----  
-|  集計結果  
----  
-媒体  |  結果   
-GameRankings  |  68.80%     
-Metacritic  |  61/100     
-レビュー結果  
-媒体  |  結果   
-オールゲーム  |     
-GameSpot  |     
-Game Industry  |     
+|  評価  ||
+|---|---|
+||  集計結果  <br>---  |
+|媒体  |  結果   |
+|GameRankings  |  68.80%     |
+|Metacritic  |  61/100     <br>レビュー結果  |
+|媒体  |  結果   |
+|オールゲーム  |     |
+|GameSpot  |     |
+|Game Industry  |     |
   
 新キャラとシナリオモードが追加された拡張パックで、ネットワークを介した通信対戦も可能。起動には、『Acceleration of
 SUGURI』が必要でこのソフト単体では起動できない。『X-Edition』と『Acceleration of

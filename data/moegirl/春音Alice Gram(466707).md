@@ -1,30 +1,21 @@
 |  “  |  春の足音  に耳を澄まして——あなたとちがす  恋と秘密  の学園物語  |  ”   
 ---|---|---  
-|  春音Alice＊Gram  
----  
-原名  |  春音アリス＊グラム  Snow Drop（移植版副标题）   
-常用译名  |  春音Alice＊Gram   
-类型  |  ADV   
-平台  |  Windows、PlayStation Vita、PlayStation 4、Android、iOS   
-分级  |  PC：  |  EOCS  :  |  \- 18岁以下禁止   
----|---  
-移动端：  |  IARC  :  |  \- 16岁以上   
----|---  
-iOS:  |  **17+** \- 17岁以上   
-Snow Drop：  |  CERO  :  |  \- 15岁以上   
----|---  
-开发  |  NanaWind   
-发行  |  NanaWind   
-Entergram（主机版）  
-萌App（日语移动端）  
-引擎  |  吉里吉里   
-模式  |  单人单机   
-发行时间  |  2017年06月30日（PC）   
-2019年03月28日（PS4/PSV）  
-2020年02月14日（Android）  
-2020年03月13日（iOS）  
-2020年11月27日（合集逆移植）  
-相关作品  |  爱丽娅的明日盛典！  、  白恋Sakura * Gram   
+|  春音Alice＊Gram  ||
+|---|---|
+|原名  |  春音アリス＊グラム  Snow Drop（移植版副标题）   |
+|常用译名  |  春音Alice＊Gram   |
+|类型  |  ADV   |
+|平台  |  Windows、PlayStation Vita、PlayStation 4、Android、iOS   |
+|分级  |  PC：    EOCS  :    \- 18岁以下禁止|
+|移动端：  |  IARC  :    \- 16岁以上|
+|iOS:  |  **17+** \- 17岁以上   |
+|Snow Drop：  |  CERO  :    \- 15岁以上|
+|开发  |  NanaWind   |
+|发行  |  NanaWind   <br>Entergram（主机版）  <br>萌App（日语移动端）  |
+|引擎  |  吉里吉里   |
+|模式  |  单人单机   |
+|发行时间  |  2017年06月30日（PC）   <br>2019年03月28日（PS4/PSV）  <br>2020年02月14日（Android）  <br>2020年03月13日（iOS）  <br>2020年11月27日（合集逆移植）  |
+|相关作品  |  爱丽娅的明日盛典！  、  白恋Sakura * Gram   |
   
 《 **春音Alice＊Gram** -Spring is just around the corner.-》是  NanaWind  开发的一款
 Galgame  ，于2017年6月30日发售，并有  Fan Disc  《  白恋Sakura * Gram  》、广播剧等衍生作品。

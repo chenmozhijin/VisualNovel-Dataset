@@ -1,19 +1,17 @@
-|  Rewrite  
----  
-常用译名  |  改写 ~~、罚抄~~  
-类型  |  Galgame   
-平台  |  PC、PlayStation Vita、PlayStation Portable、PlayStation3、PlayStation4   
-分级  |  **PC初版** ：全年龄  PS3、PSP、PSV、PS4：  |  CERO  :  |  \- 15岁以上   
----|---  
-开发  |  Key   
-发行  |  VisualArt's   
-角色设计  |  樋上至   
-编剧  |  田中ロミオ（田中罗密欧）、   
-龙骑士07、都乃河勇人  
-音乐  |  折户伸治  、  麻枝准  、井内舞子、细井聪司、  水月陵   
-引擎  |  Siglus   
-模式  |  单人   
-发行时间  |  2011年6月24日 (PC初回限定)   
+|  Rewrite  ||
+|---|---|
+|常用译名  |  改写 ~~、罚抄~~  |
+|类型  |  Galgame   |
+|平台  |  PC、PlayStation Vita、PlayStation Portable、PlayStation3、PlayStation4   |
+|分级  |  **PC初版** ：全年龄  PS3、PSP、PSV、PS4：    CERO  :    \- 15岁以上|
+|开发  |  Key   |
+|发行  |  VisualArt's   |
+|角色设计  |  樋上至   |
+|编剧  |  田中ロミオ（田中罗密欧）、   <br>龙骑士07、都乃河勇人  |
+|音乐  |  折户伸治  、  麻枝准  、井内舞子、细井聪司、  水月陵   |
+|引擎  |  Siglus   |
+|模式  |  单人   |
+|发行时间  |  2011年6月24日 (PC初回限定)   |
 2011年9月30日 (PC通常)  
 2014年4月17日 (PSP)  
 2014年8月24日 (PSV)  
@@ -254,23 +252,21 @@ feata!》上架  Steam  平台并为此于Kickstarter上发起总目标为18万�
 
 ##  Rewrite Harvest festa!
 
-|  Rewrite Harvest festa!  
----  
-常用译名  |  ~~改写丰收祭~~  
-类型  |  Galgame   
-平台  |  PC、PlayStation Vita   
-分级  |  15+（PC）  |  CERO  :  |  \- 17岁以上   
----|---  
-（PSV）  
-开发  |  Key   
-发行  |  VisualArt's   
-角色设计  |  樋上至   
-编剧  |  田中ロミオ（田中罗密欧）、   
-龙骑士07、都乃河勇人  
-音乐  |  折户伸治  、  麻枝准  、井内舞子、细井聪司、  水月陵  、三轮学   
-引擎  |  Siglus   
-模式  |  单人   
-发行时间  |  2012年7月27日（PC）   
+|  Rewrite Harvest festa!  ||
+|---|---|
+|常用译名  |  ~~改写丰收祭~~  |
+|类型  |  Galgame   |
+|平台  |  PC、PlayStation Vita   |
+|分级  |  15+（PC）    CERO  :    \- 17岁以上|
+|<br>（PSV）  |
+|开发  |  Key   |
+|发行  |  VisualArt's   |
+|角色设计  |  樋上至   |
+|编剧  |  田中ロミオ（田中罗密欧）、   <br>龙骑士07、都乃河勇人  |
+|音乐  |  折户伸治  、  麻枝准  、井内舞子、细井聪司、  水月陵  、三轮学   |
+|引擎  |  Siglus   |
+|模式  |  单人   |
+|发行时间  |  2012年7月27日（PC）   |
 2017年5月18日（PSV）  
   
 《Rewrite》的Fan DiscPC版于2012年7月27日发售，PSV移植版于2017年5月18日发售。PSV版追加了部分PC版没有的角色语音。

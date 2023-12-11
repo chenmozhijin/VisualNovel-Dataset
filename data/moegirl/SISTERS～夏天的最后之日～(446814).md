@@ -1,21 +1,19 @@
-|  SISTERS～夏の最後の日～  
----  
-原名  |  SISTERS～夏の最後の日～   
-译名  |  SISTERS～夏天的最后之日～   
-类型  |  Galgame   
-平台  |  Windows   
-分级  |  |  EOCS  :  |  \- 18岁以下禁止   
----|---  
-开发  |  Jellyfish   
-发行  |  ShootingStar   
-总监  |  滝美梨香   
-制作人  |  bucci   
-角色设计  |  神坂公平   
-编剧  |  立吹まゆか   
-音乐  |  ham, szak, nio   
-发行时间  |  2011年4月28日(初回版)   
-2013年2月22日(Ultra版)  
-相关作品  |  《  GREEN ~秋空のスクリーン~  》   
+|  SISTERS～夏の最後の日～  ||
+|---|---|
+|原名  |  SISTERS～夏の最後の日～   |
+|译名  |  SISTERS～夏天的最后之日～   |
+|类型  |  Galgame   |
+|平台  |  Windows   |
+|分级  |    EOCS  :    \- 18岁以下禁止|
+|开发  |  Jellyfish   |
+|发行  |  ShootingStar   |
+|总监  |  滝美梨香   |
+|制作人  |  bucci   |
+|角色设计  |  神坂公平   |
+|编剧  |  立吹まゆか   |
+|音乐  |  ham, szak, nio   |
+|发行时间  |  2011年4月28日(初回版)   <br>2013年2月22日(Ultra版)  |
+|相关作品  |  《  GREEN ~秋空のスクリーン~  》   |
 《  LOVERS ~恋に落ちたら…~  》  
   
 《 **SISTERS～夏天的最后之日～** 》（日语：  **夏の最後の日** ）是由  Jellyfish  制作的一款AVG/ADV游戏。

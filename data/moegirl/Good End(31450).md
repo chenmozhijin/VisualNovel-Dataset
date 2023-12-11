@@ -1,9 +1,9 @@
-|  **基本资料**  
----  
-用语名称  |  Good End   
-其他表述  |  GE、HE、グッドエンド、ハッピーエンド、FIN   
-用语出处  |  未知   
-相关条目  |  Bad End  、  True End  、  Dead End  、  Bed End  、  Normal End   
+|  **基本资料**  ||
+|---|---|
+|用语名称  |  Good End   |
+|其他表述  |  GE、HE、グッドエンド、ハッピーエンド、FIN   |
+|用语出处  |  未知   |
+|相关条目  |  Bad End  、  True End  、  Dead End  、  Bed End  、  Normal End   |
   
 **Good End** 简单的说是 **好结局** ，适用范围为  泛ACG  界，也可以理解为Happy
 End，所以缩写形式有GE和HE两种。日语写法为「  グッドエンド  」、「  ハッピーエンド  」。

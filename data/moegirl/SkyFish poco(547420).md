@@ -1,13 +1,13 @@
 **此页面中存在需要长期更新的内容及资料列表，现存条目中资料未必是最新。**  
 另请编辑者注意：请不要在人物历程等相关内容中悬挂此模板。具体使用方法详见  模板说明文档  。
 
-|  株式会社SkyFish poco  
----  
-名称  |  SkyFish poco   
-类型  |  Galgame会社   
-母公司  |  SkyFish   
-主要作品  |  《  喵咪喵咪喵  》  《  喵咖啡玛奇朵  》等   
-网址  |  http://www.sky-fish.jp/sf-poco/poco_index.html   
+|  株式会社SkyFish poco  ||
+|---|---|
+|名称  |  SkyFish poco   |
+|类型  |  Galgame会社   |
+|母公司  |  SkyFish   |
+|主要作品  |  《  喵咪喵咪喵  》  《  喵咖啡玛奇朵  》等   |
+|网址  |  http://www.sky-fish.jp/sf-poco/poco_index.html   |
   
 **SkyFish poco** 是日本的一家  R-18  Galgame  制作会社，代表作有《  喵咪喵咪喵  》、《  喵咖啡玛奇朵  》等。
 

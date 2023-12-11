@@ -1,22 +1,19 @@
-|  Happy Live Show Up!  
----  
-原名  |  ハッピーライヴ ショウアップ！   
-官方译名  |  Happy Live Show Up!   
-常用译名  |  ~~ harashow  ~~  
-类型  |  一定，要实现自己的梦想！恋爱与青春的表演ADV  [注 1]   
-平台  |  Windows   
-分级  |  |  EOCS  :  |  \- 18岁以下禁止   
----|---  
-开发  |  FAVORITE   
-发行  |  FAVORITE   
-Syawase Works、Seikei Production(steam)  
-引擎  |  QLIE   
-模式  |  单人单机   
-发行时间  |  2021年5月28日   
-2023年3月10日（Steam）  
-相关作品  |  《Happy Live Show Up 安可!!》   
-|  “  |  ** これは、仲間たちと共に一つの太陽を作り出す物語——  ** |  ”   
----|---|---  
+|  Happy Live Show Up!  ||
+|---|---|
+|原名  |  ハッピーライヴ ショウアップ！   |
+|官方译名  |  Happy Live Show Up!   |
+|常用译名  |  ~~ harashow  ~~  |
+|类型  |  一定，要实现自己的梦想！恋爱与青春的表演ADV  [注 1]   |
+|平台  |  Windows   |
+|分级  |    EOCS  :    \- 18岁以下禁止|
+|开发  |  FAVORITE   |
+|发行  |  FAVORITE   <br>Syawase Works、Seikei Production(steam)  |
+|引擎  |  QLIE   |
+|模式  |  单人单机   |
+|发行时间  |  2021年5月28日   <br>2023年3月10日（Steam）  |
+|相关作品  |  《Happy Live Show Up 安可!!》   |
+||  “    ** これは、仲間たちと共に一つの太陽を作り出す物語——  **   ”|
+|---|------|
   
 《 **Happy Live Show Up!** 》是  FAVORITE  开发的一款  Galgame  ，F社你变了啊
 ，官方中文版由SyawaseWorks代理发行，并有Fandisc等衍生作品。

@@ -1,18 +1,18 @@
-|  TrymenT ―献给渴望改变的你―  
----  
-原名  |  TrymenT ―今を変えたいと願うあなたへ―   
-译名  |  TrymenT ―献给渴望改变的你―  TrymenT -YoU KnowS ThE DeaR KnowS-   
-类型  |  重返校园ADV   
-平台  |  Windows   
-分级  |  全年龄   
-开发  |  RASK   
-发行  |  RASK  （日）  HIKARI FIELD  （Steam）   
-总监  |  雫将维   
-编剧  |  雫将维，绪乃山葵   
-音乐  |  虾咖喱伯爵  ，海龟   
-发行时间  |  2020年02月20日  （AlphA篇）   
-改编载体  |  小说   
-相关作品  |  《  Re:LieF～献给亲爱的你～  》   
+|  TrymenT ―献给渴望改变的你―  ||
+|---|---|
+|原名  |  TrymenT ―今を変えたいと願うあなたへ―   |
+|译名  |  TrymenT ―献给渴望改变的你―  TrymenT -YoU KnowS ThE DeaR KnowS-   |
+|类型  |  重返校园ADV   |
+|平台  |  Windows   |
+|分级  |  全年龄   |
+|开发  |  RASK   |
+|发行  |  RASK  （日）  HIKARI FIELD  （Steam）   |
+|总监  |  雫将维   |
+|编剧  |  雫将维，绪乃山葵   |
+|音乐  |  虾咖喱伯爵  ，海龟   |
+|发行时间  |  2020年02月20日  （AlphA篇）   |
+|改编载体  |  小说   |
+|相关作品  |  《  Re:LieF～献给亲爱的你～  》   |
   
 《 **TrymenT ―献给渴望改变的你―** 》（日语：  **TrymenT ―今を変えたいと願うあなたへ―** ；英语：  _**TrymenT
 -YoU KnowS ThE DeaR KnowS-** _ ）是由  RASK  制作的一部  Galgame  。

@@ -1,12 +1,11 @@
-|  梦现Re:Master  
----  
-原名  |  夢現Re:Master   
-平台  |  Nintendo Switch  Windows  PlayStation Vita   
-分级  |  |  CERO  :  |  \- 17岁以上   
----|---  
-开发  |  工画堂   
-发行时间  |  2019年6月13日   
-相关作品  |  梦现Re:After   
+|  梦现Re:Master  ||
+|---|---|
+|原名  |  夢現Re:Master   |
+|平台  |  Nintendo Switch  Windows  PlayStation Vita   |
+|分级  |    CERO  :    \- 17岁以上|
+|开发  |  工画堂   |
+|发行时间  |  2019年6月13日   |
+|相关作品  |  梦现Re:After   |
   
 《 **梦现Re:Master** 》（日语：  **夢現Re:Master** ，英语：  _**Yumeutsutsu Re:Master** _
 ）是一款由  工画堂  开发的游戏，于2019年6月13日在Nintendo Switch、Steam和PSV平台上发售。

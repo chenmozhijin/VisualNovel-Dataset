@@ -1,15 +1,15 @@
 **此页面中存在需要长期更新的内容及资料列表，现存条目中资料未必是最新。**  
 另请编辑者注意：请不要在人物历程等相关内容中悬挂此模板。具体使用方法详见  模板说明文档  。
 
-|  CRYSTALiA  
----  
-名称  |  CRYSTALiA   
-别名  |  水晶社、白毛社   
-类型  |  Galgame工作室   
-成立时间  |  2017年6月底   
-母公司  |  AMUSE CRAFT   
-主要作品  |  《  羁绊辉耀的恋之伊吕波  》系列等   
-网址  |  http://crystalia.amusecraft.com/   
+|  CRYSTALiA  ||
+|---|---|
+|名称  |  CRYSTALiA   |
+|别名  |  水晶社、白毛社   |
+|类型  |  Galgame工作室   |
+|成立时间  |  2017年6月底   |
+|母公司  |  AMUSE CRAFT   |
+|主要作品  |  《  羁绊辉耀的恋之伊吕波  》系列等   |
+|网址  |  http://crystalia.amusecraft.com/   |
   
 **CRYSTALiA** （日语： ** クリスタリア  ** ），俗称水晶社，是AMUSE CRAFT旗下的萌系  Galgame  品牌。
 

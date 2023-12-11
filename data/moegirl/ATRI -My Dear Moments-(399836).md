@@ -9,26 +9,22 @@
   
   
 
-|  ATRI -My Dear Moments-  
----  
-原名  |  ATRI -My Dear Moments-   
-常用译名  |  亚托莉 -我挚爱的时光-   
-类型  |  ADV   
-平台  |  Windows、Nintendo Switch、Android、iOS   
-分级  |  PC：全年龄  Switch：  |  CERO  :  |  \- 15岁以上   
----|---  
-  
-Android：16+  
-iOS：12+  
-开发  |  Frontwing  ×  枕   
-发行  |  ANIPLEX.EXE  （PC）   
-iMel Inc.（Switch、Android、iOS）  
-总监  |  SCA-自   
-制作人  |  島田紘希   
-角色设计  |  ゆさの  、  基4   
-编剧  |  紺野アスタ   
-程序  |  長谷川恵理  (mil grafico)   
-美工  |  わいっしゅ  (背景)   
+|  ATRI -My Dear Moments-  ||
+|---|---|
+|原名  |  ATRI -My Dear Moments-   |
+|常用译名  |  亚托莉 -我挚爱的时光-   |
+|类型  |  ADV   |
+|平台  |  Windows、Nintendo Switch、Android、iOS   |
+|分级  |  PC：全年龄  Switch：    CERO  :    \- 15岁以上|
+|<br>  <br>Android：16+  <br>iOS：12+  |
+|开发  |  Frontwing  ×  枕   |
+|发行  |  ANIPLEX.EXE  （PC）   <br>iMel Inc.（Switch、Android、iOS）  |
+|总监  |  SCA-自   |
+|制作人  |  島田紘希   |
+|角色设计  |  ゆさの  、  基4   |
+|编剧  |  紺野アスタ   |
+|程序  |  長谷川恵理  (mil grafico)   |
+|美工  |  わいっしゅ  (背景)   |
 田口まこと  (SD原画)  
 音乐  |  松本文紀   
 发行时间  |  2020年6月19日  [1]   

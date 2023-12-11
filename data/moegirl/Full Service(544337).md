@@ -1,10 +1,10 @@
-|  Full Service  
----  
-原名  |  Full Service   
-常用译名  |  全面服务   
-类型  |  视觉小说   
-平台  |  Windows  、  MacOS  、  安卓   
-分级  | 
+|  Full Service  ||
+|---|---|
+|原名  |  Full Service   |
+|常用译名  |  全面服务   |
+|类型  |  视觉小说   |
+|平台  |  Windows  、  MacOS  、  安卓   |
+|分级  | |
 
 R-18  
   

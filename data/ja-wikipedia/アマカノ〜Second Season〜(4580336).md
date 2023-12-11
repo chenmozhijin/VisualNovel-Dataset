@@ -1,16 +1,15 @@
-|  アマカノ  
----  
-ジャンル  |  学園  、  恋愛   
-ゲーム：アマカノ  アマカノ〜Second Season〜  アマカノ+  アマカノ〜Second Season〜+  アマカノ2  アマカノ2+  
-ゲームジャンル  |  恋愛アドベンチャーゲーム   
-対応機種  |  Windows  Vista  /  7  /  8  （アマカノ、SS）  Windows Vista/7/8/  8.1  /  10  （+）  Windows 7/8/8.1/10（SS+）  Windows 8.1/10（2）  Windows 10/11（2+）  Nintendo Switch  （アマカノ Switch版）   
-発売元  |  PC：  あざらしそふと  Switch：  アレス   
-メディア  |  DVD-ROM   
-発売日  |  2014年  12月19日  （アマカノ）  2015年  12月25日  （SS）  2016年  12月22日  （+）  2017年  12月22日（SS+）  2020年  4月24日  （2）  2023年  4月28日  （2+）  2022年  11月24日  （アマカノ Switch版）   
-レイティング  |  PC：18禁  Switch：  CERO  ：  **D** （17才以上対象）   
-コンテンツアイコン  |  Switch：恋愛、セクシャル   
-キャラクター名設定  |  ヒロイン不可、主人公のみ可   
-画面サイズ  |  1024×768以上（アマカノ、SS、+、SS+）  1280×720以上（2、2+）   
+|  アマカノ  ||
+|---|---|
+|ジャンル  |  学園  、  恋愛   <br>ゲーム：アマカノ  アマカノ〜Second Season〜  アマカノ+  アマカノ〜Second Season〜+  アマカノ2  アマカノ2+  |
+|ゲームジャンル  |  恋愛アドベンチャーゲーム   |
+|対応機種  |  Windows  Vista  /  7  /  8  （アマカノ、SS）  Windows Vista/7/8/  8.1  /  10  （+）  Windows 7/8/8.1/10（SS+）  Windows 8.1/10（2）  Windows 10/11（2+）  Nintendo Switch  （アマカノ Switch版）   |
+|発売元  |  PC：  あざらしそふと  Switch：  アレス   |
+|メディア  |  DVD-ROM   |
+|発売日  |  2014年  12月19日  （アマカノ）  2015年  12月25日  （SS）  2016年  12月22日  （+）  2017年  12月22日（SS+）  2020年  4月24日  （2）  2023年  4月28日  （2+）  2022年  11月24日  （アマカノ Switch版）   |
+|レイティング  |  PC：18禁  Switch：  CERO  ：  **D** （17才以上対象）   |
+|コンテンツアイコン  |  Switch：恋愛、セクシャル   |
+|キャラクター名設定  |  ヒロイン不可、主人公のみ可   |
+|画面サイズ  |  1024×768以上（アマカノ、SS、+、SS+）  1280×720以上（2、2+）   |
 OVA：アマカノ  
 原作  |  あざらしそふと   
 監督  |  獅子龍天馬   
@@ -184,59 +183,53 @@ CD
 
   * アマカノ オリジナルサウンドトラック（2015年4月24日発売、AZAREC-001、あざらしそふと） 
 
-     トラックリスト  |   
----  
-#  |  タイトル  |  作詞  |  作曲  |  時間   
-1  .  |  「  snow crystal  」  (歌：Duca)  |  |  ANZIE  |  4:07   
-2  .  |  「  snow crystal -off vocal-  」  |  |  ANZIE  |  4:07   
-3  .  |  「  深雪の巫女姫  」  |  |  sawamurah  |  1:47   
-4  .  |  「  お茶目な先輩  」  |  |  sawamurah  |  2:52   
-5  .  |  「  こはるびより  」  |  |  sawamurah  |  2:03   
-6  .  |  「  雪国の晴れ間  」  |  |  chokix  |  4:04   
-7  .  |  「  暮雪に肩寄せて  」  |  |  sawamurah  |  2:17   
-8  .  |  「  こたつに入ろう  」  |  |  sawamurah  |  2:03   
-9  .  |  「  想い、ひとつに  」  |  |  sawamurah  |  2:43   
-10  .  |  「  ふれあうココロ  」  |  |  sawamurah  |  2:36   
-11  .  |  「  あたたかな雪  」  |  |  chokix  |  5:08   
-12  .  |  「  凍てつくぬくもり  」  |  |  sawamurah  |  2:41   
-13  .  |  「  寒夜  」  |  |  sawamurah  |  2:10   
-14  .  |  「  吹雪  」  |  |  sawamurah  |  2:56   
-15  .  |  「  雪どけはすぐそこに  」  |  |  sawamurah  |  3:31   
-16  .  |  「  はじまり  」  |  |  chokix  |  3:43   
-17  .  |  「  snow crystal -orgel-  」  |  |  sawamurah、ANZIE  |  1:49   
-18  .  |  「  Only my love  」  (歌：大島はるな)  |  |  斎藤悠弥  |  5:17   
-19  .  |  「  Only my love -off vocal-  」  |  |  斎藤悠弥  |  5:15   
-  
-合計時間:
-
-|  61:09  
+     トラックリスト  |   |||||
+|---|---|---|---|---|
+|#  |  タイトル  |  作詞  |  作曲  |  時間   |
+|1  .  |  「  snow crystal  」  (歌：Duca)  |  |  ANZIE  |  4:07   |
+|2  .  |  「  snow crystal -off vocal-  」  |  |  ANZIE  |  4:07   |
+|3  .  |  「  深雪の巫女姫  」  |  |  sawamurah  |  1:47   |
+|4  .  |  「  お茶目な先輩  」  |  |  sawamurah  |  2:52   |
+|5  .  |  「  こはるびより  」  |  |  sawamurah  |  2:03   |
+|6  .  |  「  雪国の晴れ間  」  |  |  chokix  |  4:04   |
+|7  .  |  「  暮雪に肩寄せて  」  |  |  sawamurah  |  2:17   |
+|8  .  |  「  こたつに入ろう  」  |  |  sawamurah  |  2:03   |
+|9  .  |  「  想い、ひとつに  」  |  |  sawamurah  |  2:43   |
+|10  .  |  「  ふれあうココロ  」  |  |  sawamurah  |  2:36   |
+|11  .  |  「  あたたかな雪  」  |  |  chokix  |  5:08   |
+|12  .  |  「  凍てつくぬくもり  」  |  |  sawamurah  |  2:41   |
+|13  .  |  「  寒夜  」  |  |  sawamurah  |  2:10   |
+|14  .  |  「  吹雪  」  |  |  sawamurah  |  2:56   |
+|15  .  |  「  雪どけはすぐそこに  」  |  |  sawamurah  |  3:31   |
+|16  .  |  「  はじまり  」  |  |  chokix  |  3:43   |
+|17  .  |  「  snow crystal -orgel-  」  |  |  sawamurah、ANZIE  |  1:49   |
+|18  .  |  「  Only my love  」  (歌：大島はるな)  |  |  斎藤悠弥  |  5:17   |
+|19  .  |  「  Only my love -off vocal-  」  |  |  斎藤悠弥  |  5:15   <br>  <br>合計時間:<br>|
+||  61:09  |
   
   * アマカノ〜Second Season〜 オリジナルサウンドトラック（2015年12月25日発売、AZAREC-002、あざらしそふと） 
 
-     トラックリスト  |   
----  
-#  |  タイトル  |  作詞  |  作曲  |  時間   
-1  .  |  「  雪の街 キミと  」  (歌：Duca)  |  |  ANZIE  |  5:26   
-2  .  |  「  雪の街 キミと (off vocal)  」  |  |  ANZIE  |  5:26   
-3  .  |  「  雪の街 キミと (instrumental)  」  |  |  ANZIE  |  5:26   
-4  .  |  「  純情ノラ猫カノジョ  」  |  |  sawamurah  |  1:31   
-5  .  |  「  その後輩、小悪魔につき  」  |  |  sawamurah  |  3:15   
-6  .  |  「  図書館の座敷童  」  |  |  sawamurah  |  2:04   
-7  .  |  「  ほわっつあっぷ?  」  |  |  sawamurah  |  1:54   
-8  .  |  「  のんびり雪国  」  |  |  sawamurah  |  1:50   
-9  .  |  「  Nice Skiing Weather  」  |  |  sawamurah  |  1:55   
-10  .  |  「  SNOW FESTIVAL!!  」  |  |  sawamurah  |  2:18   
-11  .  |  「  溶け合うほどに  」  |  |  sawamurah  |  2:48   
-12  .  |  「  雪の街 キミと (orgel)  」  |  |  ANZIE  |  3:58   
-13  .  |  「  snow crystal 〜Acoustic Arrange〜  」  |  |  ANZIE  |  4:11   
-14  .  |  「  snow crystal 〜Acoustic Arrange〜 (off vocal)  」  |  |  ANZIE  |  4:11   
-15  .  |  「  2人のシンフォニー  」  (歌：大島はるな)  |  |  斎藤悠弥  |  3:12   
-16  .  |  「  2人のシンフォニー (off vocal)  」  |  |  斎藤悠弥  |  3:12   
-17  .  |  「  2人のシンフォニー (instrumental)  」  |  |  斎藤悠弥  |  3:12   
-  
-合計時間:
-
-|  55:49  
+     トラックリスト  |   |||||
+|---|---|---|---|---|
+|#  |  タイトル  |  作詞  |  作曲  |  時間   |
+|1  .  |  「  雪の街 キミと  」  (歌：Duca)  |  |  ANZIE  |  5:26   |
+|2  .  |  「  雪の街 キミと (off vocal)  」  |  |  ANZIE  |  5:26   |
+|3  .  |  「  雪の街 キミと (instrumental)  」  |  |  ANZIE  |  5:26   |
+|4  .  |  「  純情ノラ猫カノジョ  」  |  |  sawamurah  |  1:31   |
+|5  .  |  「  その後輩、小悪魔につき  」  |  |  sawamurah  |  3:15   |
+|6  .  |  「  図書館の座敷童  」  |  |  sawamurah  |  2:04   |
+|7  .  |  「  ほわっつあっぷ?  」  |  |  sawamurah  |  1:54   |
+|8  .  |  「  のんびり雪国  」  |  |  sawamurah  |  1:50   |
+|9  .  |  「  Nice Skiing Weather  」  |  |  sawamurah  |  1:55   |
+|10  .  |  「  SNOW FESTIVAL!!  」  |  |  sawamurah  |  2:18   |
+|11  .  |  「  溶け合うほどに  」  |  |  sawamurah  |  2:48   |
+|12  .  |  「  雪の街 キミと (orgel)  」  |  |  ANZIE  |  3:58   |
+|13  .  |  「  snow crystal 〜Acoustic Arrange〜  」  |  |  ANZIE  |  4:11   |
+|14  .  |  「  snow crystal 〜Acoustic Arrange〜 (off vocal)  」  |  |  ANZIE  |  4:11   |
+|15  .  |  「  2人のシンフォニー  」  (歌：大島はるな)  |  |  斎藤悠弥  |  3:12   |
+|16  .  |  「  2人のシンフォニー (off vocal)  」  |  |  斎藤悠弥  |  3:12   |
+|17  .  |  「  2人のシンフォニー (instrumental)  」  |  |  斎藤悠弥  |  3:12   <br>  <br>合計時間:<br>|
+||  55:49  |
   
   * アマカノ+ オリジナルサウンドトラック（2017年6月30日発売、AZAREC-004、あざらしそふと） 
   * アマカノ～Second Season～+ オリジナルサウンドトラック（2017年12月22日発売、AZAREC-005、あざらしそふと） 

@@ -151,35 +151,32 @@ CGモード  |  あり
 Timepiece Ensemble オリジナルサウンドトラック
 
      2014年  4月29日  、キャラクターコンテンツ総合見本市「Character1 2014」で販売された。主題歌2曲と全BGMの計22曲が収録されている。 
-     収録曲  |   
----  
-#  |  タイトル  |  作詞  |  作曲  |  時間   
-1  .  |  「  Piece of Time  」  (歌：nao)  |  秋田うと  |  大川茂伸  |  4:04   
-2  .  |  「  Happy Rising  」  |  |  大川茂伸  |  4:00   
-3  .  |  「  Square Wave Festa  」  |  |  大川茂伸  |  3:18   
-4  .  |  「  coochy-coo doze  」  |  |  大川茂伸  |  3:33   
-5  .  |  「  The Morning Kettle  」  |  |  大川茂伸  |  3:35   
-6  .  |  「  Second Hand’s Walking  」  |  |  大川茂伸  |  3:37   
-7  .  |  「  Sunny Spot Running  」  |  |  大川茂伸  |  3:44   
-8  .  |  「  Diamond Dust  」  |  |  大川茂伸  |  3:37   
-9  .  |  「  Tipsy Lips  」  |  |  大川茂伸  |  3:37   
-10  .  |  「  Night Swallowtail  」  |  |  大川茂伸  |  3:27   
-11  .  |  「  One-eyed Owl  」  |  |  大川茂伸  |  3:46   
-12  .  |  「  Nocturne Op.9 Nr.2 in Es-dur - Takemitsu Version  」  |  |  大川茂伸  |  3:37   
-13  .  |  「  Silhouette on the Heart  」  |  |  大川茂伸  |  3:22   
-14  .  |  「  Girl Meets Ghost  」  |  |  大川茂伸  |  3:55   
-15  .  |  「  We are alone  」  |  |  大川茂伸  |  3:24   
-16  .  |  「  Long Good-bye  」  |  |  大川茂伸  |  3:50   
-17  .  |  「  Glance  」  |  |  大川茂伸  |  2:57   
-18  .  |  「  Welcome to Cafe Bergamot!  」  |  |  大川茂伸  |  3:02   
-19  .  |  「  Huygens Logics  」  |  |  大川茂伸  |  1:52   
-20  .  |  「  Dream of Chronometer  」  |  |  大川茂伸  |  3:27   
-21  .  |  「  Piano Sonata L118 - Takemitsu Version  」  |  |  大川茂伸  |  4:52   
-22  .  |  「  モノクローム  」  (歌：nao)  |  秋田うと  |  大川茂伸  |  5:58   
-  
-合計時間:
-
-|  80:34  
+     収録曲  |   |||||
+|---|---|---|---|---|
+|#  |  タイトル  |  作詞  |  作曲  |  時間   |
+|1  .  |  「  Piece of Time  」  (歌：nao)  |  秋田うと  |  大川茂伸  |  4:04   |
+|2  .  |  「  Happy Rising  」  |  |  大川茂伸  |  4:00   |
+|3  .  |  「  Square Wave Festa  」  |  |  大川茂伸  |  3:18   |
+|4  .  |  「  coochy-coo doze  」  |  |  大川茂伸  |  3:33   |
+|5  .  |  「  The Morning Kettle  」  |  |  大川茂伸  |  3:35   |
+|6  .  |  「  Second Hand’s Walking  」  |  |  大川茂伸  |  3:37   |
+|7  .  |  「  Sunny Spot Running  」  |  |  大川茂伸  |  3:44   |
+|8  .  |  「  Diamond Dust  」  |  |  大川茂伸  |  3:37   |
+|9  .  |  「  Tipsy Lips  」  |  |  大川茂伸  |  3:37   |
+|10  .  |  「  Night Swallowtail  」  |  |  大川茂伸  |  3:27   |
+|11  .  |  「  One-eyed Owl  」  |  |  大川茂伸  |  3:46   |
+|12  .  |  「  Nocturne Op.9 Nr.2 in Es-dur - Takemitsu Version  」  |  |  大川茂伸  |  3:37   |
+|13  .  |  「  Silhouette on the Heart  」  |  |  大川茂伸  |  3:22   |
+|14  .  |  「  Girl Meets Ghost  」  |  |  大川茂伸  |  3:55   |
+|15  .  |  「  We are alone  」  |  |  大川茂伸  |  3:24   |
+|16  .  |  「  Long Good-bye  」  |  |  大川茂伸  |  3:50   |
+|17  .  |  「  Glance  」  |  |  大川茂伸  |  2:57   |
+|18  .  |  「  Welcome to Cafe Bergamot!  」  |  |  大川茂伸  |  3:02   |
+|19  .  |  「  Huygens Logics  」  |  |  大川茂伸  |  1:52   |
+|20  .  |  「  Dream of Chronometer  」  |  |  大川茂伸  |  3:27   |
+|21  .  |  「  Piano Sonata L118 - Takemitsu Version  」  |  |  大川茂伸  |  4:52   |
+|22  .  |  「  モノクローム  」  (歌：nao)  |  秋田うと  |  大川茂伸  |  5:58   <br>  <br>合計時間:<br>|
+||  80:34  |
 「柳橋 桜織」抱き枕カバー
 
      キャラクター人気投票で1位の5120票を獲得した柳橋桜織の抱き枕カバー    。なお、2位は3908票で月夜野ちあら、3位は1488票で湯島十和子（第3回人気投票）    。 

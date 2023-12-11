@@ -1,10 +1,10 @@
-|  Camp Buddy: Scoutmaster Season  
----  
-原名  |  Camp Buddy: Scoutmaster Season   
-常用译名  |  Camp Buddy:教官季等   
-类型  |  㚻向视觉小说   
-平台  |  Microsoft Windows  MacOS  Android   
-分级  | 
+|  Camp Buddy: Scoutmaster Season  ||
+|---|---|
+|原名  |  Camp Buddy: Scoutmaster Season   |
+|常用译名  |  Camp Buddy:教官季等   |
+|类型  |  㚻向视觉小说   |
+|平台  |  Microsoft Windows  MacOS  Android   |
+|分级  | |
 
 R-18  
   

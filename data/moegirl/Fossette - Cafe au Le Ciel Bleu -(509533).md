@@ -1,16 +1,16 @@
-|  Fossette - Cafe au Le Ciel Bleu -  
----  
-原名  |  フォセット - Cafe au Le Ciel Bleu -   
-常用译名  |  女仆咖啡Fossette   
-类型  |  ADV   
-平台  |  Windows   
-分级  |  PC：R18   
-开发  |  戏画   
-发行  |  戏画   
-编剧  |  丸户史明  with 企画屋、味盐ロケッツ with 企画屋、木绪なち   
-美工  |  ねこにゃん   
-发行时间  |  2006年12月22日   
-相关作品  |  《  女仆咖啡巧克拉  》  《  女仆咖啡帕露菲  》  《  青空下的约定  》   
+|  Fossette - Cafe au Le Ciel Bleu -  ||
+|---|---|
+|原名  |  フォセット - Cafe au Le Ciel Bleu -   |
+|常用译名  |  女仆咖啡Fossette   |
+|类型  |  ADV   |
+|平台  |  Windows   |
+|分级  |  PC：R18   |
+|开发  |  戏画   |
+|发行  |  戏画   |
+|编剧  |  丸户史明  with 企画屋、味盐ロケッツ with 企画屋、木绪なち   |
+|美工  |  ねこにゃん   |
+|发行时间  |  2006年12月22日   |
+|相关作品  |  《  女仆咖啡巧克拉  》  《  女仆咖啡帕露菲  》  《  青空下的约定  》   |
   
 **Fossette - Cafe au Le Ciel Bleu -** 是由戏画开发的《  女仆咖啡巧克拉  》、《  女仆咖啡帕露菲  》和《
 青空下的约定  》的  Fan Disc  ，于2006年12月22日发售。

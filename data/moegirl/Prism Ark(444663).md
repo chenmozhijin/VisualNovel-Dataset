@@ -1,22 +1,16 @@
-|  Prism Ark  
----  
-原名  |  プリズム・アーク   
-常用译名  |  Prism Ark   
-类型  |  SRPG、ADV   
-平台  |  Windows、PlayStation 2   
-分级  |  Win：  |  EOCS  :  |  \- 18岁以下禁止   
----|---  
-PS2：  |  CERO  :  |  \- 15岁以上   
----|---  
-开发  |  PajamasSoft   
-发行  |  PajamasSoft（PC）   
-5pb.（PS2）  
-模式  |  单人单机   
-发行时间  |  2006年8月25日（初回限定）   
-2006年9月22日（通常）  
-2007年3月2日（Remaster）  
-2008年4月24日（PS2）  
-相关作品  |  前作：  PRISM HEART   
+|  Prism Ark  ||
+|---|---|
+|原名  |  プリズム・アーク   |
+|常用译名  |  Prism Ark   |
+|类型  |  SRPG、ADV   |
+|平台  |  Windows、PlayStation 2   |
+|分级  |  Win：    EOCS  :    \- 18岁以下禁止|
+|PS2：  |  CERO  :    \- 15岁以上|
+|开发  |  PajamasSoft   |
+|发行  |  PajamasSoft（PC）   <br>5pb.（PS2）  |
+|模式  |  单人单机   |
+|发行时间  |  2006年8月25日（初回限定）   <br>2006年9月22日（通常）  <br>2007年3月2日（Remaster）  <br>2008年4月24日（PS2）  |
+|相关作品  |  前作：  PRISM HEART   |
   
 《 **Prism Ark** 》是  PajamasSoft  开发的一款策略  角色扮演游戏  ，PC版副标题  Prism Heart
 2指出这是该作品的续作，并有FanDisc、动画、漫画等衍生作品。
@@ -140,19 +134,19 @@ PRISM ARK共有6部FanDisc。
   
 ###  动画版
 
-|  PRISM ARK  
----  
-原名  |  PRISM ARK   
-译名  |  骑士战场   
-地区  |  日本   
-首播时间  |  2007年10月7日~12月23日   
-总话数  |  12   
-制作公司  |  FRONTLINE   
-监督  |  大张正己   
-角色设计  |  江端里沙   
-音乐  |  远藤成树、三轮学   
-播放平台  |  日本：千叶电视台、神奈川电视台、TOKYO MX、爱知电视台、埼玉电视台、SUN电视台、AT-X   
-播放状态  |  完结   
+|  PRISM ARK  ||
+|---|---|
+|原名  |  PRISM ARK   |
+|译名  |  骑士战场   |
+|地区  |  日本   |
+|首播时间  |  2007年10月7日~12月23日   |
+|总话数  |  12   |
+|制作公司  |  FRONTLINE   |
+|监督  |  大张正己   |
+|角色设计  |  江端里沙   |
+|音乐  |  远藤成树、三轮学   |
+|播放平台  |  日本：千叶电视台、神奈川电视台、TOKYO MX、爱知电视台、埼玉电视台、SUN电视台、AT-X   |
+|播放状态  |  完结   |
   
 TV动画于2007年10月在独立UHF局首播，共计12话。
 

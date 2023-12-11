@@ -1,14 +1,11 @@
 デイズシリーズ  > **School Days**
 
-|  School Days  
----  
-  
-ジャンル  |  美少女ゲーム   
-ゲーム：School Days(PC/DVD-PG)  School Days L×H(PS2)  School Days UMD-PG
-Edition(UMD-PG)  School Days HQ(HQ/HQDL)  
-ゲームジャンル  |  フルアニメーションアドベンチャーゲーム   
-対応機種  |  Windows 98SE  /  Me  /  XP  /  Vista  (  PC  )  DVDプレーヤー  (  DVD-PG  )  PlayStation 2  (PS2)  PSP  (  UMD-PG  )  Windows XP/Vista/  7  (HQ/HQ  DL  )   
-必要環境  |  以下のとおり 
+|  School Days  |
+|---|
+|ジャンル    美少女ゲーム<br>ゲーム：School Days(PC/DVD-PG)  School Days L×H(PS2)  School Days UMD-PG<br>Edition(UMD-PG)  School Days HQ(HQ/HQDL)  |
+|ゲームジャンル    フルアニメーションアドベンチャーゲーム|
+|対応機種    Windows 98SE  /  Me  /  XP  /  Vista  (  PC  )  DVDプレーヤー  (  DVD-PG  )  PlayStation 2  (PS2)  PSP  (  UMD-PG  )  Windows XP/Vista/  7  (HQ/HQ  DL  )|
+|必要環境    以下のとおり <br>|
 
   * CPU  ： 
     * Pentium 4  1GHz以上(PC) 

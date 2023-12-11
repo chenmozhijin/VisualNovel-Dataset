@@ -40,13 +40,13 @@ TYPE-MOON旗下月姬系列的2D格斗游戏系列作品，并有广播剧CD和�
 
 ###  (无印)
 
-|  MELTY BLOOD  
----  
-原名  |  MELTY BLOOD   
-平台  |  Windows 95/98   
-开发  |  渡边制作所/TYPE-MOON   
-发行  |  渡边制作所   
-发行时间  |  2002年12月(C63)   
+|  MELTY BLOOD  ||
+|---|---|
+|原名  |  MELTY BLOOD   |
+|平台  |  Windows 95/98   |
+|开发  |  渡边制作所/TYPE-MOON   |
+|发行  |  渡边制作所   |
+|发行时间  |  2002年12月(C63)   |
   
 2002年的冬CM(C63)发表的作品。通称「メルブラ」( _merubura_ )。TYPE-MOON与渡边制作所(当时均为同人社团)协同开发、  月姬
 、  歌月十夜  角色登场的2D格斗游戏。作为格斗游戏却包含剧情  至今没有填完的大坑  。为了与同系列后续作品区分，本作一般称为「无印」。
@@ -64,13 +64,13 @@ TYPE-MOON旗下月姬系列的2D格斗游戏系列作品，并有广播剧CD和�
 
 ###  Re·ACT
 
-|  MELTY BLOOD Re·ACT  
----  
-原名  |  MELTY BLOOD Re·ACT   
-平台  |  Windows 95/98   
-开发  |  渡边制作所、TYPE-MOON   
-发行  |  渡边制作所   
-发行时间  |  2004年5月（月咏宴）   
+|  MELTY BLOOD Re·ACT  ||
+|---|---|
+|原名  |  MELTY BLOOD Re·ACT   |
+|平台  |  Windows 95/98   |
+|开发  |  渡边制作所、TYPE-MOON   |
+|发行  |  渡边制作所   |
+|发行时间  |  2004年5月（月咏宴）   |
   
      2004年5月发售的追加disk。MELTY BLOOD本篇之后的故事。以「白い猫と黑い猫」的谣言为主轴。 
 
@@ -85,13 +85,13 @@ TYPE-MOON旗下月姬系列的2D格斗游戏系列作品，并有广播剧CD和�
 
 ###  Act Cadenza
 
-|  MELTY BLOOD Act Cadenza  
----  
-原名  |  MELTY BLOOD Act Cadenza   
-平台  |  街机（Sega Naomi）  PlayStation 2   
-开发  |  TYPE-MOON、Ecole Software   
-发行  |  SEGA   
-发行时间  |  2005年3月25日（AC版）  2006年8月10日（PS2版）  2007年7月27日（PC版）   
+|  MELTY BLOOD Act Cadenza  ||
+|---|---|
+|原名  |  MELTY BLOOD Act Cadenza   |
+|平台  |  街机（Sega Naomi）  PlayStation 2   |
+|开发  |  TYPE-MOON、Ecole Software   |
+|发行  |  SEGA   |
+|发行时间  |  2005年3月25日（AC版）  2006年8月10日（PS2版）  2007年7月27日（PC版）   |
   
 从此作开始，为街机平台首发，并移植到了PS2平台。2005年3月开始运营。经verA、verB等数次调整。为外传故事。
 
@@ -105,13 +105,13 @@ TYPE-MOON旗下月姬系列的2D格斗游戏系列作品，并有广播剧CD和�
 
 ###  Actress Again
 
-|  MELTY BLOOD Actress Again  
----  
-原名  |  MELTY BLOOD Actress Again   
-平台  |  街机 （Sega Naomi）  PlayStation 2   
-开发  |  TYPE-MOON、Ecole Software   
-发行  |  SEGA（街机）  Ecole Software （PS2）   
-发行时间  |  2008年9月19日（AC版）  2009年8月20日（PS2版）   
+|  MELTY BLOOD Actress Again  ||
+|---|---|
+|原名  |  MELTY BLOOD Actress Again   |
+|平台  |  街机 （Sega Naomi）  PlayStation 2   |
+|开发  |  TYPE-MOON、Ecole Software   |
+|发行  |  SEGA（街机）  Ecole Software （PS2）   |
+|发行时间  |  2008年9月19日（AC版）  2009年8月20日（PS2版）   |
   
      2008年发布的新版本。『MELTY BLOOD』系列的第4作。 
 
@@ -121,13 +121,13 @@ TYPE-MOON旗下月姬系列的2D格斗游戏系列作品，并有广播剧CD和�
 
 ###  Actress Again Current Code
 
-|  MELTY BLOOD Actress Again Current Code  
----  
-原名  |  MELTY BLOOD Actress Again Current Code   
-平台  |  街机 （Sega Ringwide）  Microsoft Windows   
-开发  |  TYPE-MOON、Ecole Software   
-发行  |  SEGA (街机版)  Arc System Works (Steam)   
-发行时间  |  2010年7月29日（AC版）  2011年8月12日（PC版 / 『Carnival Phantasm 3rd Season』初回限定版特典）  2016年4月20日 (Steam)   
+|  MELTY BLOOD Actress Again Current Code  ||
+|---|---|
+|原名  |  MELTY BLOOD Actress Again Current Code   |
+|平台  |  街机 （Sega Ringwide）  Microsoft Windows   |
+|开发  |  TYPE-MOON、Ecole Software   |
+|发行  |  SEGA (街机版)  Arc System Works (Steam)   |
+|发行时间  |  2010年7月29日（AC版）  2011年8月12日（PC版 / 『Carnival Phantasm 3rd Season』初回限定版特典）  2016年4月20日 (Steam)   |
   
      2010年发布的追加版本。   
 
@@ -138,17 +138,16 @@ TYPE-MOON旗下月姬系列的2D格斗游戏系列作品，并有广播剧CD和�
 ###  Type Lumina
 
      主条目：  MELTY BLOOD TYPE LUMINA 
-|  MELTY BLOOD TYPE LUMINA  
----  
-原名  |  MELTY BLOOD TYPE LUMINA   
-平台  |  PlayStation 4  Xbox One  Nintendo Switch  Microsoft Windows  (  Steam  )   
-分级  |  |  CERO  :  |  \- 15岁以上   
----|---  
-ESRB  :  |  \- 青少年   
-PEGI  :  |  \- 16岁以上   
-开发  |  FRENCH-BREAD   
-发行  |  Lasengle   
-发行时间  |  2021年9月30日   
+|  MELTY BLOOD TYPE LUMINA  ||
+|---|---|
+|原名  |  MELTY BLOOD TYPE LUMINA   |
+|平台  |  PlayStation 4  Xbox One  Nintendo Switch  Microsoft Windows  (  Steam  )   |
+|分级  |    CERO  :    \- 15岁以上|
+|ESRB  :  |  \- 青少年   |
+|PEGI  :  |  \- 16岁以上   |
+|开发  |  FRENCH-BREAD   |
+|发行  |  Lasengle   |
+|发行时间  |  2021年9月30日   |
   
 随着《月姬R》的新情报一同放出的新版MB，剧情设定在《月姬R》之前。
 

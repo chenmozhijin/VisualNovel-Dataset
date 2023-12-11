@@ -8,24 +8,23 @@
 ジャパンサーチ  **·** TWL  （  2007年11月  ）  
   
 ---|---  
-|  智代アフター  〜It's a Wonderful Life〜  
----  
-ジャンル  |  恋愛アドベンチャー   
-ゲーム：智代アフター  〜It's a Wonderful Life〜  
-ゲームジャンル  |  恋愛アドベンチャーゲーム   
-対応機種  |  Windows  98  /  2000  /  Me  /  XP  PlayStation 2  (PS2)  PlayStation Portable  (PSP)  Xbox 360  (XB360)  PlayStation 3  (PS3)  Android  Nintendo Switch  (Switch)   
-発売元  |  Windows・Android：  Key  PS2・PSP・XB360・PS3・Switch：  プロトタイプ   
-キャラクターデザイン  |  樋上いたる  、  フミオ   
-シナリオ  |  麻枝准、  樫田レオ  、  都乃河勇人  （CS Editionにおいて、追加シナリオを担当）   
-音楽  |  折戸伸治  、  戸越まごめ  、麻枝准、  井内舞子  、清水由紀   
-発売日  |  Windows：2005年11月25日  同メモリアルエディション：2010年4月30日  PS2：2007年1月25日  PSP：2009年3月19日  XB360：2010年9月22日  PS3：2012年7月29日  Android：2013年2月28日  Switch：2020年9月10日   
-レイティング  |  Windows：18歳未満禁止  同メモリアルエディション：全年齢対象  PS2・PSP・XB360・PS3：  CERO  ：  **B** （12才以上対象）  Android：16歳以上     
-コンテンツアイコン  |  （PS2版に記載）  恋愛  セクシャル   
-キャラクター名設定  |  不可   
-エンディング数  |  4   
-セーブファイル数  |  30   
-画面サイズ  |  Windows、PS2:800x600  PSP版:480x272  XB360・PS3:HD相当   
-キャラクターボイス  |  主人公以外フルボイス（通常版・PS2）  主人公含めフルボイス(PSP・XB360・ME・PS3)   
+|  智代アフター  〜It's a Wonderful Life〜  ||
+|---|---|
+|ジャンル  |  恋愛アドベンチャー   <br>ゲーム：智代アフター  〜It's a Wonderful Life〜  |
+|ゲームジャンル  |  恋愛アドベンチャーゲーム   |
+|対応機種  |  Windows  98  /  2000  /  Me  /  XP  PlayStation 2  (PS2)  PlayStation Portable  (PSP)  Xbox 360  (XB360)  PlayStation 3  (PS3)  Android  Nintendo Switch  (Switch)   |
+|発売元  |  Windows・Android：  Key  PS2・PSP・XB360・PS3・Switch：  プロトタイプ   |
+|キャラクターデザイン  |  樋上いたる  、  フミオ   |
+|シナリオ  |  麻枝准、  樫田レオ  、  都乃河勇人  （CS Editionにおいて、追加シナリオを担当）   |
+|音楽  |  折戸伸治  、  戸越まごめ  、麻枝准、  井内舞子  、清水由紀   |
+|発売日  |  Windows：2005年11月25日  同メモリアルエディション：2010年4月30日  PS2：2007年1月25日  PSP：2009年3月19日  XB360：2010年9月22日  PS3：2012年7月29日  Android：2013年2月28日  Switch：2020年9月10日   |
+|レイティング  |  Windows：18歳未満禁止  同メモリアルエディション：全年齢対象  PS2・PSP・XB360・PS3：  CERO  ：  **B** （12才以上対象）  Android：16歳以上     |
+|コンテンツアイコン  |  （PS2版に記載）  恋愛  セクシャル   |
+|キャラクター名設定  |  不可   |
+|エンディング数  |  4   |
+|セーブファイル数  |  30   |
+|画面サイズ  |  Windows、PS2:800x600  PSP版:480x272  XB360・PS3:HD相当   |
+|キャラクターボイス  |  主人公以外フルボイス（通常版・PS2）  主人公含めフルボイス(PSP・XB360・ME・PS3)   |
 テンプレート  \-  ノート  
 プロジェクト  |  美少女ゲーム系  ・  漫画   
 ポータル  |  コンピュータゲーム  ・  漫画   

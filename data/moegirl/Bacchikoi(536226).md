@@ -1,10 +1,10 @@
-|  Bacchikoi  
----  
-原名  |  Bacchikoi   
-常用译名  |  黑猴子棒球   
-类型  |  视觉小说   
-平台  |  Windows、MacOS、Android   
-分级  | 
+|  Bacchikoi  ||
+|---|---|
+|原名  |  Bacchikoi   |
+|常用译名  |  黑猴子棒球   |
+|类型  |  视觉小说   |
+|平台  |  Windows、MacOS、Android   |
+|分级  | |
 
 R-18  
   

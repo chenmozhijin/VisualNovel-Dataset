@@ -8,26 +8,24 @@
 dlib.jp  **·** ジャパンサーチ  **·** TWL  （  2023年5月  ）  
   
 ---|---  
-|  クリムゾン・エンパイア  〜Circumstance to serve a noble〜  
----  
-ジャンル  |  恋愛アドベンチャーゲーム   
-ゲーム  
-対応機種  |  Windows 2000/XP/Vista、PS2、PSP   
-修正パッチ  |  あり   
-開発元  |  QuinRose   
-発売元  |  QuinRose   
-プレイ人数  |  1人   
-発売日  |  2008年12月13日（Win）  2010年12月16日（PS2）  2011年8月25日（PSP）   
-レイティング  |  全年齢（Win）  CERO  ：  **B** （12才以上対象）  （PS2、PSP）   
-キャラクターボイス  |  あり   
-ゲーム：クリムゾン・ロワイヤル  〜Circumstance to serve a noble〜  
-対応機種  |  Windows 2000/XP/Vista   
-修正パッチ  |  あり   
-発売元  |  QuinRose   
-プレイ人数  |  1人   
-発売日  |  2009年8月8日   
-レイティング  |  全年齢   
-キャラクターボイス  |  あり   
+|  クリムゾン・エンパイア  〜Circumstance to serve a noble〜  ||
+|---|---|
+|ジャンル  |  恋愛アドベンチャーゲーム   <br>ゲーム  |
+|対応機種  |  Windows 2000/XP/Vista、PS2、PSP   |
+|修正パッチ  |  あり   |
+|開発元  |  QuinRose   |
+|発売元  |  QuinRose   |
+|プレイ人数  |  1人   |
+|発売日  |  2008年12月13日（Win）  2010年12月16日（PS2）  2011年8月25日（PSP）   |
+|レイティング  |  全年齢（Win）  CERO  ：  **B** （12才以上対象）  （PS2、PSP）   |
+|キャラクターボイス  |  あり   <br>ゲーム：クリムゾン・ロワイヤル  〜Circumstance to serve a noble〜  |
+|対応機種  |  Windows 2000/XP/Vista   |
+|修正パッチ  |  あり   |
+|発売元  |  QuinRose   |
+|プレイ人数  |  1人   |
+|発売日  |  2009年8月8日   |
+|レイティング  |  全年齢   |
+|キャラクターボイス  |  あり   |
 漫画  
 原作・原案など  |  QuinRose   
 作画  |  双葉はづき   

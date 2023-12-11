@@ -8,34 +8,32 @@ CiNii  **·** J-STAGE  **·** NDL  **·** dlib.jp  **·** ジャパンサーチ 
 2019年3月  ）  
   
 ---|---  
-|  DEARDROPS  
----  
-ジャンル  |  美少女ゲーム   
-ゲーム：DEARDROPS（PC）  DEARDROPS OVERDRIVE EDITION（Android/iOS）  DEARDROPS
-DISTORTION（PSP）  d2b vs DEARDROPS 〜Cross the Future〜 （PC）  
-ゲームジャンル  |  青春  恋愛  ロックンロール  AVG   
-対応機種  |  Windows XP  /  Vista  /  7  （32ビット）（PC）  PlayStation Portable  Android  iOS   
-ゲームエンジン  |  Ethornell   
-開発元  |  OVERDRIVE   
-発売元  |  OVERDRIVE（PC）  サイバーフロント  （PSP）   
-プロデューサー  |  竹内"bamboo"博   
-キャラクターデザイン  |  藤丸   
-シナリオ  |  那倉怜司   
-音楽  |  DEARDROPS   
-メディア  |  DVD-ROM  （PC）  UMD  （PSP）   
-ディスクレス起動  |  可   
-プレイ人数  |  1人   
-発売日  |  2010年  6月18日  （PC）  2011年  3月10日  （PSP）  2017年  12月12日  （Android/iOS）   
-レイティング  |  ソフ倫  ：18禁（PC）  CERO  ：C（PSP）  Android：16歳以上  iOS：17歳以上   
-コンテンツアイコン  |  恋愛、セクシャル（PSP）   
-キャラクター名設定  |  不可   
-エンディング数  |  4（PC）  6（PSP）   
-セーブファイル数  |  100（PC）  64（PSP）   
-セーブファイル容量  |  544KB以上（PSP）   
-画面サイズ  |  800x600 ハイカラー以上（PC）   
-全画面表示モード  |  あり   
-音楽フォーマット  |  Ogg Vorbis  （PC）   
-キャラクターボイス  |  主人公以外   
+|  DEARDROPS  ||
+|---|---|
+|ジャンル  |  美少女ゲーム   <br>ゲーム：DEARDROPS（PC）  DEARDROPS OVERDRIVE EDITION（Android/iOS）  DEARDROPS<br>DISTORTION（PSP）  d2b vs DEARDROPS 〜Cross the Future〜 （PC）  |
+|ゲームジャンル  |  青春  恋愛  ロックンロール  AVG   |
+|対応機種  |  Windows XP  /  Vista  /  7  （32ビット）（PC）  PlayStation Portable  Android  iOS   |
+|ゲームエンジン  |  Ethornell   |
+|開発元  |  OVERDRIVE   |
+|発売元  |  OVERDRIVE（PC）  サイバーフロント  （PSP）   |
+|プロデューサー  |  竹内"bamboo"博   |
+|キャラクターデザイン  |  藤丸   |
+|シナリオ  |  那倉怜司   |
+|音楽  |  DEARDROPS   |
+|メディア  |  DVD-ROM  （PC）  UMD  （PSP）   |
+|ディスクレス起動  |  可   |
+|プレイ人数  |  1人   |
+|発売日  |  2010年  6月18日  （PC）  2011年  3月10日  （PSP）  2017年  12月12日  （Android/iOS）   |
+|レイティング  |  ソフ倫  ：18禁（PC）  CERO  ：C（PSP）  Android：16歳以上  iOS：17歳以上   |
+|コンテンツアイコン  |  恋愛、セクシャル（PSP）   |
+|キャラクター名設定  |  不可   |
+|エンディング数  |  4（PC）  6（PSP）   |
+|セーブファイル数  |  100（PC）  64（PSP）   |
+|セーブファイル容量  |  544KB以上（PSP）   |
+|画面サイズ  |  800x600 ハイカラー以上（PC）   |
+|全画面表示モード  |  あり   |
+|音楽フォーマット  |  Ogg Vorbis  （PC）   |
+|キャラクターボイス  |  主人公以外   |
 ゲーム：d2b vs DEARDROPS 〜Cross the Future〜  
 ゲームジャンル  |  ファンディスク（  AVG  ）   
 対応機種  |  Windows XP/Vista/7   
@@ -58,12 +56,12 @@ DISTORTION（PSP）  d2b vs DEARDROPS 〜Cross the Future〜 （PC）
 キャラクターボイス  |  主人公以外   
 その他  |  シングルCD付属   
 テンプレート  \-  ノート  
-|  DEARDROPS  
----  
-ジャンル  |  ロック  J-POP   
-活動期間  |  2010年  \-   
-レーベル  |  ランティス   
-メンバー  |  芳谷律穂（  ボーカル  ）  菅沼 翔一（  ギター  、  ヴァイオリン  ）  大場弥生（ギター）  権田英嗣（  ベース  ）  珠野りむ（  ドラム  ）   
+|  DEARDROPS  ||
+|---|---|
+|ジャンル  |  ロック  J-POP   |
+|活動期間  |  2010年  \-   |
+|レーベル  |  ランティス   |
+|メンバー  |  芳谷律穂（  ボーカル  ）  菅沼 翔一（  ギター  、  ヴァイオリン  ）  大場弥生（ギター）  権田英嗣（  ベース  ）  珠野りむ（  ドラム  ）   |
   
 『 **DEARDROPS** 』（ディアドロップス）は、成人向け  ゲーム  ブランド・  OVERDRIVE  （オーバードライブ）製作の
 アダルトゲーム  。  2010年  4月23日  発売予定だったが、延期して同年  6月18日  発売となった。

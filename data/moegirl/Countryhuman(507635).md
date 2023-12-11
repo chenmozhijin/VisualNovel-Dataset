@@ -1,9 +1,9 @@
-|  **基本资料**  
----  
-用语名称  |  Countryhuman   
-其他表述  |  countryhumans、ch、国拟（国家拟人）   
-用语出处  |  DeviantArt  [1]   
-相关条目  |  countryfurry  、  波兰球   
+|  **基本资料**  ||
+|---|---|
+|用语名称  |  Countryhuman   |
+|其他表述  |  countryhumans、ch、国拟（国家拟人）   |
+|用语出处  |  DeviantArt  [1]   |
+|相关条目  |  countryfurry  、  波兰球   |
   
 **Countryhuman** 是指将国际组织和国家（或地区）等以拟人的方式表现出来的艺术形式，类似于波兰球；
 

@@ -1,20 +1,17 @@
-|  爱丽娅的明日盛典！Flowering Sky  
----  
-原名  |  Alia's Carnival! Flowering Sky   
-官方译名  |  爱丽娅的明日盛典！Flowering Sky   
-常用译名  |  爱莉娅嘉年华！花绽晴空   
-类型  |  ADV   
-平台  |  Windows、PlayStation Vita/7/8、Android、iOS   
-分级  |  PC：  |  EOCS  :  |  \- 18岁以下禁止   
----|---  
-Android、iOS：全年龄  
-开发  |  NanaWind   
-发行  |  NanaWind   
-萌App（日语移动端）  
-HIKARI FIELD  （steam）  
-引擎  |  吉里吉里   
-模式  |  单人单机   
-发行时间  |  2015年5月29日（PC）   
+|  爱丽娅的明日盛典！Flowering Sky  ||
+|---|---|
+|原名  |  Alia's Carnival! Flowering Sky   |
+|官方译名  |  爱丽娅的明日盛典！Flowering Sky   |
+|常用译名  |  爱莉娅嘉年华！花绽晴空   |
+|类型  |  ADV   |
+|平台  |  Windows、PlayStation Vita/7/8、Android、iOS   |
+|分级  |  PC：    EOCS  :    \- 18岁以下禁止|
+|<br>Android、iOS：全年龄  |
+|开发  |  NanaWind   |
+|发行  |  NanaWind   <br>萌App（日语移动端）  <br>HIKARI FIELD  （steam）  |
+|引擎  |  吉里吉里   |
+|模式  |  单人单机   |
+|发行时间  |  2015年5月29日（PC）   |
 2017年2月10日（Android）  
 2017年2月24日（iOS）  
 2023年6月21日（Steam）  

@@ -1,12 +1,12 @@
-|  冬日童话  
----  
-原名  |  Winter Tale   
-常用译名  |  冬日童话   
-类型  |  视觉小说   
-平台  |  Win、Linux、Mac   
-开发  |  Erogame Project   
-发行时间  |  2010年   
-相关作品  |  《  永恒之夏  》   
+|  冬日童话  ||
+|---|---|
+|原名  |  Winter Tale   |
+|常用译名  |  冬日童话   |
+|类型  |  视觉小说   |
+|平台  |  Win、Linux、Mac   |
+|开发  |  Erogame Project   |
+|发行时间  |  2010年   |
+|相关作品  |  《  永恒之夏  》   |
   
 **Winter tale** 是俄罗斯游戏开发团体  Erogame Project  2010年发布的短篇  视觉小说  。是作品《  永恒之夏
 》的番外。

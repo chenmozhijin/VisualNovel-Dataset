@@ -1,14 +1,14 @@
-|  Forest  
----  
-类型  |  ADV   
-平台  |  Windows   
-分级  |  R-18   
-开发  |  Liar-soft   
-发行  |  Liar-soft   
-编剧  |  星空流星  、  高尾登山  、  木村航   
-美工  |  大石龙子   
-音乐  |  杂音工房NOISE   
-发行时间  |  2004年2月13日   
+|  Forest  ||
+|---|---|
+|类型  |  ADV   |
+|平台  |  Windows   |
+|分级  |  R-18   |
+|开发  |  Liar-soft   |
+|发行  |  Liar-soft   |
+|编剧  |  星空流星  、  高尾登山  、  木村航   |
+|美工  |  大石龙子   |
+|音乐  |  杂音工房NOISE   |
+|发行时间  |  2004年2月13日   |
   
 **Forest** 是由  Liar-soft  开发的一款  Galgame  。
 

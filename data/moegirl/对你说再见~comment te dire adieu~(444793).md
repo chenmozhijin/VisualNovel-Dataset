@@ -1,11 +1,11 @@
-|  对你说再见~comment te dire adieu~  
----  
-原名  |  さよならを教えて ～comment te dire adieu～   
-常用译名  |  对你说再见～comment te dire adieu～  sayo教   
-平台  |  Microsoft Windows  Android   
-开发  |  CRAFTWORK   
-发行  |  CRAFTWORK   
-发行时间  |  2001年3月2日   
+|  对你说再见~comment te dire adieu~  ||
+|---|---|
+|原名  |  さよならを教えて ～comment te dire adieu～   |
+|常用译名  |  对你说再见～comment te dire adieu～  sayo教   |
+|平台  |  Microsoft Windows  Android   |
+|开发  |  CRAFTWORK   |
+|发行  |  CRAFTWORK   |
+|发行时间  |  2001年3月2日   |
   
 **《对你说再见～comment te dire adieu～》** （日语： ** さよならを教えて ～comment te dire adieu～
 ** ）是由craftwork制作，Visual Art's于2001年3月2日发行的一款  精神污染、电波狂气的  致郁系  游戏。

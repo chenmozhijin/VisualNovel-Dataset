@@ -97,13 +97,12 @@ Finger Lickin’ Good Dating Simulator  （  英語版  ）
 
 ##  評価と展望  
 
-|  評価  
----  
-|  レビュー結果  
----  
-媒体  |  結果   
-TheGamer  |  3.5/5     
-TechRaptor  |  7.5/10     
+|  評価  ||
+|---|---|
+||  レビュー結果  <br>---  |
+|媒体  |  結果   |
+|TheGamer  |  3.5/5     |
+|TechRaptor  |  7.5/10     |
   
 ライターのCass Marshallは『Polygon』にて、他の多くのスタジオであれば  エイプリルフール  の  ジョーク  や  イースター・エッグ
 として存在するものだが、『DbD』の飢えたファン層とそれを理解したBehaviour Interactiveによって本作が生み出されたとしている  

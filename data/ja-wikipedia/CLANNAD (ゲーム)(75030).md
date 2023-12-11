@@ -1,28 +1,26 @@
-|  CLANNAD  
----  
-  
-ジャンル  |  恋愛アドベンチャー   
-ゲーム  
-対応機種  |  Windows  98  /  2000  /  Me  /  XP  (PC)  Windows 2000/XP/  Vista  /  7  （PCフルボイス）  PlayStation 2  、  PlayStation 3  PlayStation Portable  、  Xbox 360  SoftBank 3G  、  FOMA  、  Android  PlayStation Vita  、  PlayStation 4  Steam  (英語版)、  Nintendo Switch   
-開発元  |  Key   
-発売元  |  Key/  ビジュアルアーツ  (PC,Android)  インターチャネル・ホロン  (現  ガンホー・ワークス  、PS2)  プロトタイプ  (360/PSP/PS3/SoftBank 3G/  FOMA/Android/PS4/Switch)  Sekai Project  (Steam 英語版)   
-プロデューサー  |  馬場隆博（エグゼクティブプロデューサー）   
-キャラクターデザイン  |  樋上いたる   
-プロジェクト起案・原案  |  麻枝准  （企画）   
-シナリオ  |  麻枝准、  涼元悠一  、  魁  、（丘野塔也）   
-音楽  |  折戸伸治  、  戸越まごめ  、麻枝准   
-メディア  |  DVD-ROM  1枚組（PC版共通/Xbox 360）  Blu-ray Disc  1枚組 (PS3/PS4)   
-発売日  |  2004年4月28日（PC初回限定版）  2004年8月6日（PC通常版）  2006年2月23日 (PS2)  2008年2月29日（PCフルボイス）  2008年5月29日 (PSP)  2008年8月28日 (360)  2010年5月28日（PCメモリアルエディション）  2011年4月21日 (PS3)  2012年9月18日 (Android}  2014年8月14日 (PS Vita)  2015年11月24日 (Steam 英語版)  2018年6月14日 (PS4)  2019年7月4日 (Switch)   
-売上本数  |  41,722本 (PS2)    14,885本 (PS3)     
-レイティング  |  全年齢対象 (PC)  CERO  (C) 15才以上対象  (PS3/PS2/PSP)  (15) 15才以上対象（PS2旧版）   
-コンテンツアイコン  |  恋愛、セクシャル、麻薬 (PS3/PS2/PSP/360)   
-キャラクター名設定  |  可（PC/PCフルボイス）   
-エンディング数  |  13   
-セーブファイル数  |  100   
-画面サイズ  |  480x272 (PSP)  640x448 (PS2)  640x480 (PC)  800x480 (Android)  800x600（PCフルボイス)  960×544 (PS Vita)  1280x720 (Xbox 360/PS3)  1920×1080 (PS4/Switch)   
-音楽フォーマット  |  PCM (PC)   
-キャラクターボイス  |  主人公以外あり（PS2/PCフルボイス/PSP/360/  PS3/VITA/PS4/Switch）   
-その他  |  **対応映像出力** 720p (D4) まで (Xbox 360/PS3)  **対応音声出力** リニアPCM  5.1ch  (PS3)  DTS Digital Surround  5.1ch  (PS3)  ドルビーデジタル  5.1ch  (Xbox 360/PS3)   
+|  CLANNAD  |
+|---|
+|ジャンル    恋愛アドベンチャー<br>ゲーム  |
+|対応機種    Windows  98  /  2000  /  Me  /  XP  (PC)  Windows 2000/XP/  Vista  /  7  （PCフルボイス）  PlayStation 2  、  PlayStation 3  PlayStation Portable  、  Xbox 360  SoftBank 3G  、  FOMA  、  Android  PlayStation Vita  、  PlayStation 4  Steam  (英語版)、  Nintendo Switch|
+|開発元    Key|
+|発売元    Key/  ビジュアルアーツ  (PC,Android)  インターチャネル・ホロン  (現  ガンホー・ワークス  、PS2)  プロトタイプ  (360/PSP/PS3/SoftBank 3G/  FOMA/Android/PS4/Switch)  Sekai Project  (Steam 英語版)|
+|プロデューサー    馬場隆博（エグゼクティブプロデューサー）|
+|キャラクターデザイン    樋上いたる|
+|プロジェクト起案・原案    麻枝准  （企画）|
+|シナリオ    麻枝准、  涼元悠一  、  魁  、（丘野塔也）|
+|音楽    折戸伸治  、  戸越まごめ  、麻枝准|
+|メディア    DVD-ROM  1枚組（PC版共通/Xbox 360）  Blu-ray Disc  1枚組 (PS3/PS4)|
+|発売日    2004年4月28日（PC初回限定版）  2004年8月6日（PC通常版）  2006年2月23日 (PS2)  2008年2月29日（PCフルボイス）  2008年5月29日 (PSP)  2008年8月28日 (360)  2010年5月28日（PCメモリアルエディション）  2011年4月21日 (PS3)  2012年9月18日 (Android}  2014年8月14日 (PS Vita)  2015年11月24日 (Steam 英語版)  2018年6月14日 (PS4)  2019年7月4日 (Switch)|
+|売上本数    41,722本 (PS2)    14,885本 (PS3)  |
+|レイティング    全年齢対象 (PC)  CERO  (C) 15才以上対象  (PS3/PS2/PSP)  (15) 15才以上対象（PS2旧版）|
+|コンテンツアイコン    恋愛、セクシャル、麻薬 (PS3/PS2/PSP/360)|
+|キャラクター名設定    可（PC/PCフルボイス）|
+|エンディング数    13|
+|セーブファイル数    100|
+|画面サイズ    480x272 (PSP)  640x448 (PS2)  640x480 (PC)  800x480 (Android)  800x600（PCフルボイス)  960×544 (PS Vita)  1280x720 (Xbox 360/PS3)  1920×1080 (PS4/Switch)|
+|音楽フォーマット    PCM (PC)|
+|キャラクターボイス    主人公以外あり（PS2/PCフルボイス/PSP/360/  PS3/VITA/PS4/Switch）|
+|その他    **対応映像出力** 720p (D4) まで (Xbox 360/PS3)  **対応音声出力** リニアPCM  5.1ch  (PS3)  DTS Digital Surround  5.1ch  (PS3)  ドルビーデジタル  5.1ch  (Xbox 360/PS3)   <br>|
 ゲーム：CLANNAD 光見守る坂道で  
 ゲームジャンル  |  ビジュアルサウンドノベル   
 対応機種  |  PlayStation Portable、Android   
@@ -716,13 +714,9 @@ TBSチャンネル  |  2009年  10月10日  \-  12月26日  |  土曜 25:00 - 26
 BS-TBS  |  2009年  4月2日   
 2009年  4月11日  ・  4月18日  |  土曜 25:00 - 25:30   
 TBSチャンネル  |  2011年  10月2日  \-  2012年  1月15日  |  日曜 23:00 - 24:00  |  CS放送  |  2話連続放送   
-|  東京放送  木曜25:55枠  
----  
-前番組  |  番組名  |  次番組   
-  
-怪物王女
-
-|
+|  東京放送  木曜25:55枠  |||
+|---|---|---|
+|前番組  |  番組名  |  次番組   <br>  <br>怪物王女<br>|
 
 CLANNAD
 

@@ -1,17 +1,17 @@
-|  バルドスカイ  Baldr Sky  
----  
-原名  |  Baldr Sky   
-常用译名  |  ~~巴尔德之空~~  
-类型  |  ACT+ADV   
-平台  |  Windows   
-开发  |  戏画   
-发行  |  戏画   
-编剧  |  卑影ムラサキwith企画屋   
-美工  |  KOMEWORKS   
-音乐  |  Barbarian On The Groove  MANYO  SHIM   
-发行时间  |  BALDR SKY Dive1 "LostMemory" 2009年3月27日  BALDR SKY Dive2 "RECORDARE" 2009年11月27日   
-|  “  |  ** 我不会忘记。那里曾有着无可替代的天空…  （  ）  ** |  ”   
----|---|---  
+|  バルドスカイ  Baldr Sky  ||
+|---|---|
+|原名  |  Baldr Sky   |
+|常用译名  |  ~~巴尔德之空~~  |
+|类型  |  ACT+ADV   |
+|平台  |  Windows   |
+|开发  |  戏画   |
+|发行  |  戏画   |
+|编剧  |  卑影ムラサキwith企画屋   |
+|美工  |  KOMEWORKS   |
+|音乐  |  Barbarian On The Groove  MANYO  SHIM   |
+|发行时间  |  BALDR SKY Dive1 "LostMemory" 2009年3月27日  BALDR SKY Dive2 "RECORDARE" 2009年11月27日   |
+||  “    ** 我不会忘记。那里曾有着无可替代的天空…  （  ）  **   ”|
+|---|------|
   
 **《Baldr Sky》** 是由  戏画  的Team baldrhead制作发行“baldr”游戏之一，但故事情节与该系列之前作品没有直接联系。
 

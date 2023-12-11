@@ -1,9 +1,9 @@
-|  **基本资料**  
----  
-用语名称  |  Normal End   
-其他表述  |  NE、ノーマルエンド、ノーマルEND   
-用语出处  |  未知   
-相关条目  |  Good End  、  Bad End  、  True End  、  Bed End  、  Dead End   
+|  **基本资料**  ||
+|---|---|
+|用语名称  |  Normal End   |
+|其他表述  |  NE、ノーマルエンド、ノーマルEND   |
+|用语出处  |  未知   |
+|相关条目  |  Good End  、  Bad End  、  True End  、  Bed End  、  Dead End   |
   
 **Normal End** 就是通常所说的 **普通结局** ，适用范围为  泛ACG
 界，缩写形式为NE。日语写法为「ノーマルエンド」与「ノーマルEND」。

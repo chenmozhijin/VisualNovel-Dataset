@@ -1,18 +1,27 @@
-|  AMBITIOUS MISSION  
----  
-原名  |  AMBITIOUS MISSION   
-常用译名  |  雄星壮志  星见传说  ~~ 钢铁雄星  ~~  
-类型  |  解谜怪盗ADV  [1]   
-平台  |  Windows 7/8.1/10/11   
-分级  |  R18   
-开发  |  SAGA PLANETS   
-发行  |  SAGA PLANETS   
-总监  |  KURO   
-编剧  |  SAGA PLANETS  榊伞   
-美工  |  ほんたにかなえ  とらのすけ  有末つかさ  羽咲せいか  夏彦  ぴこぴこぐらむ（SD）   
-音乐  |  松本慎一郎  山口たこ  Yuki Nakano  タナトシ  水月陵  えびかれー伯爵  かしこ  池木紗々   
+|  AMBITIOUS MISSION  ||
+|---|---|
+|原名  |  AMBITIOUS MISSION   |
+|常用译名  |  雄星壮志  星见传说  ~~ 钢铁雄星  ~~  |
+|类型  |  解谜怪盗ADV  [1]   |
+|平台  |  Windows  7/8.1/10/11  PlayStation 4  Nintendo Switch   |
+|分级  |  PC：    EOCS  :    \- 18岁以下禁止|
+|PS4、NS：  |  CERO  :    \- 17岁以上|
+|开发  |  SAGA PLANETS   |
+|发行  |  SAGA PLANETS  （PC）   <br>ENTERGRAM（PS4/NS）  |
+|总监  |  KURO   |
+|编剧  |  SAGA PLANETS    <br>榊伞  |
+|美工  |  ほんたにかなえ   <br>とらのすけ  <br>有末つかさ  <br>羽咲せいか  <br>夏彦  <br>ぴこぴこぐらむ（SD）  |
+|音乐  |  松本慎一郎   |
+山口たこ  
+Yuki Nakano  
+タナトシ  
+水月陵  
+えびかれー伯爵  
+かしこ  
+池木紗々  
 模式  |  单人单机   
-发行时间  |  2022年5月27日   
+发行时间  |  2022年5月27日（PC）   
+2024年3月21日（PS4/NS）  
 相关作品  |  AMBITIOUS MISSION AfterEpisode   
   
 《 **AMBITIOUS MISSION** 》是由日本美少女游戏厂商 ** SAGA PLANETS  ** 开发的一款  Galgame

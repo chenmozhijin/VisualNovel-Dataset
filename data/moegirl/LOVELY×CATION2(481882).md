@@ -1,20 +1,18 @@
-|  LOVELY×CATION2  
----  
-原名  |  LOVELY×CATION2   
-类型  |  ADV   
-平台  |  **原版** Microsoft Windows  **1 &2版 ** PlayStation Vita   
-分级  |  **Windows** 18禁  **PS Vita** |  CERO  :  |  \- 17岁以上   
----|---  
-开发  |  hibiki works   
-发行  |  hibiki works    
-5pb.  
-制作人  |  γ   
-编剧  |  insider   
-美工  |  唯唯月佑   
-音乐  |  Miyaji   
-模式  |  单人   
-系列  |  ×CATION系列   
-发行时间  |  **Windows**   
+|  LOVELY×CATION2  ||
+|---|---|
+|原名  |  LOVELY×CATION2   |
+|类型  |  ADV   |
+|平台  |  **原版** Microsoft Windows  **1 &2版 ** PlayStation Vita   |
+|分级  |  **Windows** 18禁  **PS Vita**   CERO  :    \- 17岁以上|
+|开发  |  hibiki works   |
+|发行  |  hibiki works    <br>5pb.  |
+|制作人  |  γ   |
+|编剧  |  insider   |
+|美工  |  唯唯月佑   |
+|音乐  |  Miyaji   |
+|模式  |  单人   |
+|系列  |  ×CATION系列   |
+|发行时间  |  **Windows**   |
 2013年  0  4月26日  
 **PS Vita**  
 2015年  0  5月21日  

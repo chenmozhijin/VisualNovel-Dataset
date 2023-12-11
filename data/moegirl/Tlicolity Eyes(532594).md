@@ -1,20 +1,18 @@
-|  Tlicolity Eyes  
----  
-原名  |  Tlicolity Eyes   
-官方译名  |  副作用之瞳   
-类型  |  女性向恋爱   
-平台  |  Nintendo Switch  Steam   
-分级  |  |  CERO  :  |  \- 15岁以上   
----|---  
-ESRB  :  |  \- 成熟   
-PEGI  :  |   
-GSRR  :  |  \- 辅15级   
-开发  |  Otomate   
-发行  |  日本：Idea Factory   
-大陆：joymoe  
-美工  |  佐良夜美   
-模式  |  单人模式   
-发行时间  |  **PC**   
+|  Tlicolity Eyes  ||
+|---|---|
+|原名  |  Tlicolity Eyes   |
+|官方译名  |  副作用之瞳   |
+|类型  |  女性向恋爱   |
+|平台  |  Nintendo Switch  Steam   |
+|分级  |    CERO  :    \- 15岁以上|
+|ESRB  :  |  \- 成熟   |
+|PEGI  :  |   |
+|GSRR  :  |  \- 辅15级   |
+|开发  |  Otomate   |
+|发行  |  日本：Idea Factory   <br>大陆：joymoe  |
+|美工  |  佐良夜美   |
+|模式  |  单人模式   |
+|发行时间  |  **PC**   |
 日本：2018年  0  6月29日-2018年  0  8月31日  
 **Switch**  
 日本：2019年  0  7月18日  

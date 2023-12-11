@@ -8,29 +8,28 @@
 **·** ジャパンサーチ  **·** TWL  （  2013年3月  ）  
   
 ---|---  
-|  僕が天使になった理由 LOVE SONG OF THE ANGELS.  
----  
-ジャンル  |  美少女ゲーム   
-ゲーム：僕が天使になった理由 LOVE SONG OF THE ANGELS.  
-ゲームジャンル  |  ADV   
-対応機種  |  Windows XP/Vista/7   
-必要環境  |  CPU：Intel Pentium III 1GHz以上  VRAM：32MB  メモリ：1GB  HDD：2GB  DirectX：9.0c以降   
-推奨環境  |  CPU：Intel Pentium 4 2GHz以上  VRAM：64MB  メモリ：1GB  HDD：2GB  DirectX：9.0c以降   
-開発・発売元  |  OVERDRIVE   
-プロデューサー  |  竹内"bamboo"博   
-ディレクター  |  楢崎陽   
-キャラクターデザイン  |  藤丸   
-シナリオ  |  那倉怜司   
-音楽  |  milktub / STUDIO 696   
-メディア  |  DVD-ROM   
-ディスクレス起動  |  可   
-プレイ人数  |  1人   
-発売日  |  2013年  2月28日   
-レイティング  |  EOCS  ：18禁   
-キャラクター名設定  |  不可   
-エンディング数  |  7   
-セーブファイル数  |  122   
-キャラクターボイス  |  主人公以外   
+|  僕が天使になった理由 LOVE SONG OF THE ANGELS.  ||
+|---|---|
+|ジャンル  |  美少女ゲーム   <br>ゲーム：僕が天使になった理由 LOVE SONG OF THE ANGELS.  |
+|ゲームジャンル  |  ADV   |
+|対応機種  |  Windows XP/Vista/7   |
+|必要環境  |  CPU：Intel Pentium III 1GHz以上  VRAM：32MB  メモリ：1GB  HDD：2GB  DirectX：9.0c以降   |
+|推奨環境  |  CPU：Intel Pentium 4 2GHz以上  VRAM：64MB  メモリ：1GB  HDD：2GB  DirectX：9.0c以降   |
+|開発・発売元  |  OVERDRIVE   |
+|プロデューサー  |  竹内"bamboo"博   |
+|ディレクター  |  楢崎陽   |
+|キャラクターデザイン  |  藤丸   |
+|シナリオ  |  那倉怜司   |
+|音楽  |  milktub / STUDIO 696   |
+|メディア  |  DVD-ROM   |
+|ディスクレス起動  |  可   |
+|プレイ人数  |  1人   |
+|発売日  |  2013年  2月28日   |
+|レイティング  |  EOCS  ：18禁   |
+|キャラクター名設定  |  不可   |
+|エンディング数  |  7   |
+|セーブファイル数  |  122   |
+|キャラクターボイス  |  主人公以外   |
 テンプレート  \-  ノート  
 プロジェクト  |  美少女ゲーム系   
 ポータル  |  ゲーム   

@@ -11,20 +11,18 @@
   2. 与  春日野悠  搞姬  ，从此过上性福快乐的生活 
   3. 被自己的妹妹抛弃 
 
-|  ANIMAL☆PANIC  
----  
-原名  |  あにまる☆ぱにっく   
-常用译名  |  Animal☆Panic   
-类型  |  ADV   
-平台  |  Windows   
-分级  |  |  EOCS  :  |  \- 18岁以下禁止   
----|---  
-开发  |  QUINCE SOFT   
-Lump of Sugar  （协力）  
-发行  |  QUINCE SOFT   
-引擎  |  Ethornell   
-模式  |  单人单机   
-发行时间  |  2019年12月20日   
+|  ANIMAL☆PANIC  ||
+|---|---|
+|原名  |  あにまる☆ぱにっく   |
+|常用译名  |  Animal☆Panic   |
+|类型  |  ADV   |
+|平台  |  Windows   |
+|分级  |    EOCS  :    \- 18岁以下禁止|
+|开发  |  QUINCE SOFT   <br>Lump of Sugar  （协力）  |
+|发行  |  QUINCE SOFT   |
+|引擎  |  Ethornell   |
+|模式  |  单人单机   |
+|发行时间  |  2019年12月20日   |
   
 《 **ANIMAL☆PANIC** 》（日语：  あにまる☆ぱにっく  ）是  QUINCE SOFT  开发的一款18禁Galgame。
 

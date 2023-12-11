@@ -1,15 +1,15 @@
 **此页面中存在需要长期更新的内容及资料列表，现存条目中资料未必是最新。**  
 另请编辑者注意：请不要在人物历程等相关内容中悬挂此模板。具体使用方法详见  模板说明文档  。
 
-|  Sekai Project  
----  
-名称  |  Sekai Project   
-成立时间  |  2013年   
-总部地址  |  美国  加利福尼亚州  洛杉矶   
-主要作品  |  《  CLANNAD  》  《  猫娘乐园  》  《  9-nine-  》   
-创办人  |  Raymond Qian  Chris Ling   
-相关公司  |  JAST USA  、  MangaGamer   
-网址  |  https://sekaiproject.com   
+|  Sekai Project  ||
+|---|---|
+|名称  |  Sekai Project   |
+|成立时间  |  2013年   |
+|总部地址  |  美国  加利福尼亚州  洛杉矶   |
+|主要作品  |  《  CLANNAD  》  《  猫娘乐园  》  《  9-nine-  》   |
+|创办人  |  Raymond Qian  Chris Ling   |
+|相关公司  |  JAST USA  、  MangaGamer   |
+|网址  |  https://sekaiproject.com   |
   
 **Sekai Project** 是一家  美国  的游戏发行商，主要从事非英文  视觉小说  的  本地化
 及销售，以及原创视觉小说、漫画等作品的发行。部分代理作品也会发行中文版本。

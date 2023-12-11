@@ -4,22 +4,19 @@
   * 请确信自己已满当地法律许可年龄且心智成熟后再来阅览； 
   * 另请编辑者注意：勿滥用此模板。 
 
-|  初情Sprinkle  
----  
-原名  |  初情スプリンクル   
-常用译名  |  初情Sprinkle   
-类型  |  ADV   
-平台  |  Microsoft Windows  PlayStation 4  PlayStation Vita   
-分级  |  PC：R-18  主机版：  |  CERO  :  |  \- 17岁以上   
----|---  
-开发  |  Whirlpool   
-发行  |  Whirlpool（PC）   
-PIACCI（PS4、PSV）  
-编剧  |  近江谷宥   
-发行时间  |  2017年7月28日（PC）   
-2018年11月22日（PS4、PSV）  
-|  “  |  魔女  （  少女  ）  的心情是  初恋 **×** 发情  ！？  |  ”   
----|---|---  
+|  初情Sprinkle  ||
+|---|---|
+|原名  |  初情スプリンクル   |
+|常用译名  |  初情Sprinkle   |
+|类型  |  ADV   |
+|平台  |  Microsoft Windows  PlayStation 4  PlayStation Vita   |
+|分级  |  PC：R-18  主机版：    CERO  :    \- 17岁以上|
+|开发  |  Whirlpool   |
+|发行  |  Whirlpool（PC）   <br>PIACCI（PS4、PSV）  |
+|编剧  |  近江谷宥   |
+|发行时间  |  2017年7月28日（PC）   <br>2018年11月22日（PS4、PSV）  |
+||  “    魔女  （  少女  ）  的心情是  初恋 **×** 发情  ！？    ”|
+|---|------|
   
 《 **初情Sprinkle** 》（日语： ** 初情スプリンクル  ** ）是由  Whirlpool  制作发行的一部恋爱  冒险游戏
 ，于2017年7月28日发售。

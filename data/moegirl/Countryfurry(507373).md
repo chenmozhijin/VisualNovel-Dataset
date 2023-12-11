@@ -1,8 +1,8 @@
-|  **基本资料**  
----  
-用语名称  |  countryfurry、countryfurries   
-其他表述  |  国家兽、国拟兽   
-相关条目  |  Furry  、  countryhuman  、  拟兽   
+|  **基本资料**  ||
+|---|---|
+|用语名称  |  countryfurry、countryfurries   |
+|其他表述  |  国家兽、国拟兽   |
+|相关条目  |  Furry  、  countryhuman  、  拟兽   |
   
 **countryfurry** 是一种将国际组织和国家等以兽方式表现出来的艺术形式，即  拟兽  ；也是一种亚文化。
 

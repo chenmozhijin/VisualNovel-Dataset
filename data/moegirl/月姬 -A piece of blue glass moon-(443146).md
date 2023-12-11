@@ -1,24 +1,19 @@
-|  月姬  -A piece of blue glass moon-  
----  
-原名  |  月姫 -A piece of blue glass moon-   
-常用译名  |  月姬Remake、月姬R   
-类型  |  长篇传奇视觉小说   
-平台  |  PlayStation 4  Nintendo Switch   
-分级  |  |  CERO  :  |  \- 18岁以上   
----|---  
-开发  |  TYPE-MOON   
-发行  |  发售：TYPE-MOON   
-贩卖：  Aniplex  
-编剧  |  奈须蘑菇   
-程序  |  清兵卫   
-美工  |  角色设计：武内崇   
-美术指导：小山广和  
-上色：苍月誉雄、下越、缟乌冬、砂取音幸  
-音乐  |  深泽秀行、芳贺敬太   
-模式  |  单人游戏   
-发行时间  |  日本：2021年8月26日   
-欧美：2024年  
-相关作品  |  《  月姬  》《  MELTY BLOOD TYPE LUMINA  》   
+|  月姬  -A piece of blue glass moon-  ||
+|---|---|
+|原名  |  月姫 -A piece of blue glass moon-   |
+|常用译名  |  月姬Remake、月姬R   |
+|类型  |  长篇传奇视觉小说   |
+|平台  |  PlayStation 4  Nintendo Switch   |
+|分级  |    CERO  :    \- 18岁以上|
+|开发  |  TYPE-MOON   |
+|发行  |  发售：TYPE-MOON   <br>贩卖：  Aniplex  |
+|编剧  |  奈须蘑菇   |
+|程序  |  清兵卫   |
+|美工  |  角色设计：武内崇   <br>美术指导：小山广和  <br>上色：苍月誉雄、下越、缟乌冬、砂取音幸  |
+|音乐  |  深泽秀行、芳贺敬太   |
+|模式  |  单人游戏   |
+|发行时间  |  日本：2021年8月26日   <br>欧美：2024年  |
+|相关作品  |  《  月姬  》《  MELTY BLOOD TYPE LUMINA  》   |
   
 《 **月姬 -A piece of blue glass moon-** 》是  TYPE-MOON  开发的一款视觉小说游戏。
 
@@ -217,25 +212,19 @@ CAST
 
 ##  章节
 
-|  章节标题  
----  
-爱尔奎特线（月姬）  |  希耶尔线（夜の虹）   
-序  
-DAY1 归路の朝Ⅰ  
-DAY2 あらずの日  
-DAY3 反转冲动  
-DAY4 火炎血河Ⅰ  
-DAY5 火炎血河Ⅱ  
-DAY6 苍い咎迹  |  DAY5 绝海冻土   
-DAY7 直死の眼Ⅰ  |  DAY6 朱い残滓Ⅰ   
-DAY8 直死の眼Ⅱ  |  DAY7 孵化逆Ⅰ   
-DAY9 死  |  DAY8 孵化逆Ⅱ   
-DAY10 朱の红月Ⅰ  |  DAY9 空の弓Ⅰ   
-DAY11 朱の红月Ⅱ  |  DAY10 空の弓Ⅱ   
-DAY12 凶つ夜  |  DAY11 后日谈   
-DAY13 月世界  |  DAY12 朱い残滓Ⅱ   
-DAY14 月姬  |  DAY13 蜃气楼   
-|  DAY14 果てずの石  
+|  章节标题  ||
+|---|---|
+|爱尔奎特线（月姬）  |  希耶尔线（夜の虹）   <br>序  <br>DAY1 归路の朝Ⅰ  <br>DAY2 あらずの日  <br>DAY3 反转冲动  <br>DAY4 火炎血河Ⅰ  <br>DAY5 火炎血河Ⅱ  |
+|DAY6 苍い咎迹  |  DAY5 绝海冻土   |
+|DAY7 直死の眼Ⅰ  |  DAY6 朱い残滓Ⅰ   |
+|DAY8 直死の眼Ⅱ  |  DAY7 孵化逆Ⅰ   |
+|DAY9 死  |  DAY8 孵化逆Ⅱ   |
+|DAY10 朱の红月Ⅰ  |  DAY9 空の弓Ⅰ   |
+|DAY11 朱の红月Ⅱ  |  DAY10 空の弓Ⅱ   |
+|DAY12 凶つ夜  |  DAY11 后日谈   |
+|DAY13 月世界  |  DAY12 朱い残滓Ⅱ   |
+|DAY14 月姬  |  DAY13 蜃气楼   |
+||  DAY14 果てずの石  |
   
 ##  线路攻略
 

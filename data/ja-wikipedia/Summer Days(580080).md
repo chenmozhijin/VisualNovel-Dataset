@@ -1,27 +1,27 @@
 デイズシリーズ  > **Summer Days**
 
-Summer Days(PC/DVD-PG)  Summer Days UMD-PG Edition(UMD-PG)  SHINY DAYS(SHINY)  |   
----  
-ジャンル  |  フルアニメーションADV   
-対応機種  |  Windows 98 SE  /  Me  /  XP  (  PC  )  DVDプレーヤー  (  DVD-PG  )  PSP  (  UMD-PG  )  Windows XP/  Vista  /  7  (SHINY)   
-開発元  |  オーバーフロー(PC/SHINY)  アイチェリー(DVD-PG)  ixia(UMD-PG)   
-発売元  |  オーバーフロー(PC/SHINY)  アイチェリー(DVD-PG)  Palace(UMD-PG)   
-発売日  |  2006年  6月23日  (PC初回版)  2006年  10月27日  (PCリニューアル版)  2008年  4月11日  (DVD-PG)  2010年  9月24日  (UMD-PG)  2012年  4月27日  (SHINY)   
-レイティング  |  18禁   
-キャラクター名設定  |  不可   
-エンディング数  |  7   
-セーブファイル数  |  519(PC)     
-ゲームエンジン  |  rUGP 5.7   
-メディア  |  DVD-ROM(PC/SHINY)  DVD(DVD-PG)  UMD  (UMD-PG)   
-画面サイズ  |  640×480以上フルカラー(PC)  800×600以上フルカラー(SHINY)   
-BGMフォーマット  |  PCMオーディオ   
-キャラクターボイス  |  フルボイス(男性ボイス消去可)(PC/SHINY)  男性ボイス消去不可(DVD-PG/UMD-PG)   
-CGモード  |  なし   
-音楽モード  |  なし   
-回想モード  |  あり   
-メッセージスキップ  |  あり   
-オートモード  |  あり(強制、一時停止可)   
-備考  |     
+Summer Days(PC/DVD-PG)  Summer Days UMD-PG Edition(UMD-PG)  SHINY DAYS(SHINY)  |   ||
+|---|---|
+|ジャンル  |  フルアニメーションADV   |
+|対応機種  |  Windows 98 SE  /  Me  /  XP  (  PC  )  DVDプレーヤー  (  DVD-PG  )  PSP  (  UMD-PG  )  Windows XP/  Vista  /  7  (SHINY)   |
+|開発元  |  オーバーフロー(PC/SHINY)  アイチェリー(DVD-PG)  ixia(UMD-PG)   |
+|発売元  |  オーバーフロー(PC/SHINY)  アイチェリー(DVD-PG)  Palace(UMD-PG)   |
+|発売日  |  2006年  6月23日  (PC初回版)  2006年  10月27日  (PCリニューアル版)  2008年  4月11日  (DVD-PG)  2010年  9月24日  (UMD-PG)  2012年  4月27日  (SHINY)   |
+|レイティング  |  18禁   |
+|キャラクター名設定  |  不可   |
+|エンディング数  |  7   |
+|セーブファイル数  |  519(PC)     |
+|ゲームエンジン  |  rUGP 5.7   |
+|メディア  |  DVD-ROM(PC/SHINY)  DVD(DVD-PG)  UMD  (UMD-PG)   |
+|画面サイズ  |  640×480以上フルカラー(PC)  800×600以上フルカラー(SHINY)   |
+|BGMフォーマット  |  PCMオーディオ   |
+|キャラクターボイス  |  フルボイス(男性ボイス消去可)(PC/SHINY)  男性ボイス消去不可(DVD-PG/UMD-PG)   |
+|CGモード  |  なし   |
+|音楽モード  |  なし   |
+|回想モード  |  あり   |
+|メッセージスキップ  |  あり   |
+|オートモード  |  あり(強制、一時停止可)   |
+|備考  |     |
 テンプレートを表示  
   
 『 **Summer Days** 』（サマーデイズ）    は、  2006年  6月23日  に  オーバーフロー  より発売された

@@ -1,24 +1,18 @@
 **提示** ：本条目的主题不是 ** 幸福(动画)  ** 或 ** Happiness(村田步)  ** 。
 
-|  Happiness!  
----  
-原名  |  はぴねす！  えもーしょん  （重制版副标题）   
-官方译名  |  Happiness!  De:Lucks（PS2副标题）  Emotion（重制版副标题）   
-类型  |  ADV   
-平台  |  Windows、PlayStation 2   
-分级  |  PC：18+  [1]  PS2：  |  CERO  :  |  \- 15岁以上   
----|---  
-开发  |  Windmill   
-Windmill Oasis（重制版）  
-发行  |  Windmill   
-Marvelous Interactive（PS2）  
-引擎  |  CatSystem2   
-模式  |  单人单机   
-发行时间  |  2005年10月21日（初回限定）   
-2005年11月18日（PC通常）  
-2007年1月25日（PS2）  
-2014年05月30日（重制版）  
-相关作品  |  Fandisc：Happiness!Re:Lucks   
+|  Happiness!  ||
+|---|---|
+|原名  |  はぴねす！  えもーしょん  （重制版副标题）   |
+|官方译名  |  Happiness!  De:Lucks（PS2副标题）  Emotion（重制版副标题）   |
+|类型  |  ADV   |
+|平台  |  Windows、PlayStation 2   |
+|分级  |  PC：18+  [1]  PS2：    CERO  :    \- 15岁以上|
+|开发  |  Windmill   <br>Windmill Oasis（重制版）  |
+|发行  |  Windmill   <br>Marvelous Interactive（PS2）  |
+|引擎  |  CatSystem2   |
+|模式  |  单人单机   |
+|发行时间  |  2005年10月21日（初回限定）   <br>2005年11月18日（PC通常）  <br>2007年1月25日（PS2）  <br>2014年05月30日（重制版）  |
+|相关作品  |  Fandisc：Happiness!Re:Lucks   |
 系列新作：  Happiness!2 樱花盛典  
   
 《 **Happiness!** 》是  Windmill  开发的一款  Galgame  ，重制版转由  Windmill Oasis
@@ -110,18 +104,18 @@ Marvelous Interactive（PS2）
 
 ###  FanDisc
 
-|  Happiness!  
----  
-原名  |  はぴねす! りらっくす   
-官方译名  |  Happiness!Re:Lucks   
-类型  |  ADV   
-平台  |  Windows   
-分级  |  18+   
-开发  |  Windmill Oasis   
-发行  |  Windmill   
-引擎  |  CatSystem2   
-模式  |  单人单机   
-发行时间  |  2006年7月28日   
+|  Happiness!  ||
+|---|---|
+|原名  |  はぴねす! りらっくす   |
+|官方译名  |  Happiness!Re:Lucks   |
+|类型  |  ADV   |
+|平台  |  Windows   |
+|分级  |  18+   |
+|开发  |  Windmill Oasis   |
+|发行  |  Windmill   |
+|引擎  |  CatSystem2   |
+|模式  |  单人单机   |
+|发行时间  |  2006年7月28日   |
   
 Happiness!Re:Lucks（日语：  はぴねす! りらっくす
 ）发售于2006年7月28日，这个Fandisc收录了7篇后日谈和一个麻将小游戏。2008年10月24日发行了本篇和Fandisc的三周年合集，2014年的重制版已包含Fandisc。
@@ -167,19 +161,19 @@ Re：Luck07  |  Another World  |  Happiness!
   
 ###  动画版
 
-|  Happiness!  
----  
-原名  |  はぴねす！   
-译名  |  Happiness!   
-地区  |  日本   
-首播时间  |  2006年10月5日~12月21日   
-总话数  |  12+1   
-制作公司  |  ARTLAND   
-监督  |  原博   
-角色设计  |  小关雅   
-音乐  |  5zizz   
-播放平台  |  日本：千叶电视台、神奈川电视台、埼玉电视台、濑户内电视台、大阪电视台   
-播放状态  |  完结   
+|  Happiness!  ||
+|---|---|
+|原名  |  はぴねす！   |
+|译名  |  Happiness!   |
+|地区  |  日本   |
+|首播时间  |  2006年10月5日~12月21日   |
+|总话数  |  12+1   |
+|制作公司  |  ARTLAND   |
+|监督  |  原博   |
+|角色设计  |  小关雅   |
+|音乐  |  5zizz   |
+|播放平台  |  日本：千叶电视台、神奈川电视台、埼玉电视台、濑户内电视台、大阪电视台   |
+|播放状态  |  完结   |
   
 TV动画 **Happiness!**
 于2006年10月5日在千叶电视台、神奈川电视台首播，共计12话。另有1话OVA收录于PS2版初回限定版的特典DVD中。

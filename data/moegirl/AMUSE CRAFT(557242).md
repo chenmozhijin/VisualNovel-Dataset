@@ -1,14 +1,14 @@
 **此页面中存在需要长期更新的内容及资料列表，现存条目中资料未必是最新。**  
 另请编辑者注意：请不要在人物历程等相关内容中悬挂此模板。具体使用方法详见  模板说明文档  。
 
-|  株式会社AMUSE CRAFT  
----  
-名称  |  AMUSE CRAFT   
-类型  |  Galgame工作室   
-总部地址  |  大阪市中央区   
-母公司  |  SOFTPAL   
-子公司  |  UNiSONSHIFT  等，详见下文   
-网址  |  https://amusecraft.com/   
+|  株式会社AMUSE CRAFT  ||
+|---|---|
+|名称  |  AMUSE CRAFT   |
+|类型  |  Galgame工作室   |
+|总部地址  |  大阪市中央区   |
+|母公司  |  SOFTPAL   |
+|子公司  |  UNiSONSHIFT  等，详见下文   |
+|网址  |  https://amusecraft.com/   |
   
 **AMUSE CRAFT** （日语： ** アミューズクラフト  ** ）是株式会社SOFTPAL旗下负责制作  R-18  Galgame
 的游戏部门。

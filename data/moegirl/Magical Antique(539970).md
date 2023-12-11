@@ -1,18 +1,18 @@
-|  ** まじかる☆アンティーク  **  
----  
-原名  |  まじかる  （  Magical  ）  ☆  アンティーク  （  Antique  ）   
-译名  |  Magical☆Antique   
-类型  |  Galgame   
-平台  |  Windows   
-开发  |  Leaf   
-发行  |  Leaf   
-制作人  |  下川直哉   
-角色设计  |  はぎやまさかげ   
-编剧  |  椎原旬   
-音乐  |  米村高广   
-发行时间  |  2000年4月28日   
-改编载体  |  漫画   
-相关作品  |  「  ToHeart  」「  COMIC PARTY  」   
+|  ** まじかる☆アンティーク  **  ||
+|---|---|
+|原名  |  まじかる  （  Magical  ）  ☆  アンティーク  （  Antique  ）   |
+|译名  |  Magical☆Antique   |
+|类型  |  Galgame   |
+|平台  |  Windows   |
+|开发  |  Leaf   |
+|发行  |  Leaf   |
+|制作人  |  下川直哉   |
+|角色设计  |  はぎやまさかげ   |
+|编剧  |  椎原旬   |
+|音乐  |  米村高广   |
+|发行时间  |  2000年4月28日   |
+|改编载体  |  漫画   |
+|相关作品  |  「  ToHeart  」「  COMIC PARTY  」   |
   
 「 ** まじかる☆アンティーク  ** 」是  Leaf  制作的一部  Galgame  作品，于2000年发布于  Windows  平台。
 

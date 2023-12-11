@@ -1,18 +1,16 @@
-|  Tiny Dungeon  
----  
-ジャンル  |  未来を選択するAVG   
-ゲーム：Tiny Dungeon 〜BLACK and WHITE〜（BaW）  Tiny Dungeon 〜BLESS of DRAGON〜（BoD）
-Tiny Dungeon 〜BIRTH for YOURS〜（BfY）  Tiny Dungeon 〜BRAVE or SLAVE〜（BoS）  
-対応機種  |  Windows XP  /  Vista  /  7   
-発売元  |  Rosebleu   
-メディア  |  DVD-ROM   
-発売日  |  2010年6月25日（BaW）  2010年12月24日（BoD）  2011年7月29日（BfY）  2012年7月27日（BoS）   
-レイティング  |  18禁   
-キャラクター名設定  |  不可   
-エンディング数  |  1   
-セーブファイル数  |  100+Quick10   
-画面サイズ  |  1280×720 / フルスクリーン   
-キャラクターボイス  |  フルボイス（主人公除く）   
+|  Tiny Dungeon  ||
+|---|---|
+|ジャンル  |  未来を選択するAVG   <br>ゲーム：Tiny Dungeon 〜BLACK and WHITE〜（BaW）  Tiny Dungeon 〜BLESS of DRAGON〜（BoD）<br>Tiny Dungeon 〜BIRTH for YOURS〜（BfY）  Tiny Dungeon 〜BRAVE or SLAVE〜（BoS）  |
+|対応機種  |  Windows XP  /  Vista  /  7   |
+|発売元  |  Rosebleu   |
+|メディア  |  DVD-ROM   |
+|発売日  |  2010年6月25日（BaW）  2010年12月24日（BoD）  2011年7月29日（BfY）  2012年7月27日（BoS）   |
+|レイティング  |  18禁   |
+|キャラクター名設定  |  不可   |
+|エンディング数  |  1   |
+|セーブファイル数  |  100+Quick10   |
+|画面サイズ  |  1280×720 / フルスクリーン   |
+|キャラクターボイス  |  フルボイス（主人公除く）   |
 テンプレート  \-  ノート  
   
 『 **Tiny Dungeon** 』（タイニイ ダンジョン）は、  日本  のアダルトゲームブランド  Rosebleu  による  Windows

@@ -1,25 +1,18 @@
-|  PARQUET  
----  
-原名  |  PARQUET   
-常用译名  |  ~~镶木地板（直译）~~  
-类型  |  恋爱冒险   
-平台  |  Windows  iOS  Android   
-分级  |  全年龄  |  iOS:  |  **12+** \- 12岁以上   
----|---  
-开发  |  YUZUSOFT SOUR   
-发行  |  YUZUSOFT SOUR    
-HIKARI FIELD  （汉）  
-NekoNyan（英）  
-总监  |  ろど   
-编剧  |  天宮りつ   
-美工  |  梦璃凛   
-小舞一  
-羽純りお  
-菰绵遥华  
-音乐  |  Famishin   
-Angel Note  
-引擎  |  吉里吉里   
-发行时间  |  2021年7月31日   
+|  PARQUET  ||
+|---|---|
+|原名  |  PARQUET   |
+|常用译名  |  ~~镶木地板（直译）~~  |
+|类型  |  恋爱冒险   |
+|平台  |  Windows  iOS  Android   |
+|分级  |  全年龄    iOS:    **12+** \- 12岁以上|
+|开发  |  YUZUSOFT SOUR   |
+|发行  |  YUZUSOFT SOUR    <br>HIKARI FIELD  （汉）  <br>NekoNyan（英）  |
+|总监  |  ろど   |
+|编剧  |  天宮りつ   |
+|美工  |  梦璃凛   <br>小舞一  <br>羽純りお  <br>菰绵遥华  |
+|音乐  |  Famishin   <br>Angel Note  |
+|引擎  |  吉里吉里   |
+|发行时间  |  2021年7月31日   |
 2021年8月27日（Steam/Android）  
 2021年9月3日（iOS）  
 |  “  |  ** これは、  私  （  ボク  ）  たちのものがたり。  ** **这是一段 我  和“我”的故事。 ** |  ”   
@@ -148,7 +141,7 @@ Brain-machine Interface，简称BMI，是一种连结大脑和机器的技术。
 
 阿久直比古
 
-自2022年11月25日 (五) 20:03创建以来共有53 人投票。
+自2022年11月25日 (五) 20:03创建以来共有54 人投票。
 
 poll-id 084800C615BDE71FC0EA3AD94FB88B11
 

@@ -1,9 +1,9 @@
-|  **基本资料**  
----  
-用语名称  |  Dead End   
-其他表述  |  DE、 ~~鲜血的结末~~ 、 ~~ 瑞杰路德·斯佩路迪亚  ~~  
-用语出处  |  未知   
-相关条目  |  Good End  、  Bad End  、  True End  、  Bed End  、  Normal End   
+|  **基本资料**  ||
+|---|---|
+|用语名称  |  Dead End   |
+|其他表述  |  DE、 ~~鲜血的结末~~ 、 ~~ 瑞杰路德·斯佩路迪亚  ~~  |
+|用语出处  |  未知   |
+|相关条目  |  Good End  、  Bad End  、  True End  、  Bed End  、  Normal End   |
   
 **Dead End** 就是通常所说的 **死亡结局** ，适用范围为泛  ACG  界，缩写形式为DE。
 

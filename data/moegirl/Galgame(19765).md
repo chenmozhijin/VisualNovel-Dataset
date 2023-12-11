@@ -1,9 +1,9 @@
-|  **基本资料**  
----  
-用语名称  |  Galgame   
-其他表述  |  Gal、美少女游戏  、  FPS   
-用语出处  |  日语自造词语“  ギャルゲーム  ”的英文转写   
-相关条目  |  ACG  、  二次元  、  OTAKU  、  美少女  、  梦幻战士  、  Galgame吧十二神器  、  Galgame吧十二魔器   
+|  **基本资料**  ||
+|---|---|
+|用语名称  |  Galgame   |
+|其他表述  |  Gal、美少女游戏  、  FPS   |
+|用语出处  |  日语自造词语“  ギャルゲーム  ”的英文转写   |
+|相关条目  |  ACG  、  二次元  、  OTAKU  、  美少女  、  梦幻战士  、  Galgame吧十二神器  、  Galgame吧十二魔器   |
   
 **Galgame** （日语：  ギャルゲーム  ，简写为“  ギャルゲー  ”、“GAL”，罗马字：gyaru gēmu）是一类游戏类型的称呼。
 
@@ -188,15 +188,15 @@ PlayStation 4  、  PlayStation 5  和  Nintendo Switch  平台。
 
 电脑（Windows / MAC / Linux）
 
-315
+321
 
 平板（安卓 / Windows / iPad）
 
-6
+8
 
 手机（安卓 / iPhone）
 
-23
+24
 
 游戏主机（例如 Xbox / Switch / PlayStation）
 
@@ -206,7 +206,7 @@ PlayStation 4  、  PlayStation 5  和  Nintendo Switch  平台。
 
 1
 
-自2023年1月16日 (一) 00:09创建以来共有349 人投票。
+自2023年1月16日 (一) 00:09创建以来共有358 人投票。
 
 poll-id C8EBEF93C120AC282EF7CA2934B07F63
 

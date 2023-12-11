@@ -10,6 +10,7 @@ Nintendo Switch：  CERO  :  - 17岁以上
 发行  Madosoft
 iMel Inc.（主机版）
 Sekai Project  （国际版）
+引擎  Artemis  [1]
 模式  单人单机
 发行时间  2018年9月28日（PC）
 2019年8月29日（Switch、PS4）

@@ -1,9 +1,9 @@
-|  Dear Moments  
----  
-演唱  |  赤尾光   
-作曲  |  松本文纪   
-作词  |  绀野アスタ  （  Frontwing  )   
-编曲  |  松本文纪   
+|  Dear Moments  ||
+|---|---|
+|演唱  |  赤尾光   |
+|作曲  |  松本文纪   |
+|作词  |  绀野アスタ  （  Frontwing  )   |
+|编曲  |  松本文纪   |
 收录专辑  
 『ATRI -My Dear Moments-』Original Soundtrack  
   
@@ -194,43 +194,41 @@ Short Ver.
 《  ATRI -My Dear Moments-  》的原声带。  
 收录了松本文纪创作的20首BGM，以及OP《  光放て！  》和ED《Dear Moments》的完整版。
 
-|  ATRI -My Dear Moments- Original Soundtrack  
----  
-原名  |  ATRI -My Dear Moments- Original Soundtrack   
-发行  |  ANIPLEX.EXE   
-发行地区  |  日本   
-发行日期  |  2020年10月27日   
-专辑类型  |  游戏原声带   
-  
-|  ATRI -My Dear Moments- Original Soundtrack  
----  
-曲序  |  曲目  |  时长   
-1\.  |  ** 海中都市  ** （The Sunken City）  |  1:55   
-2\.  |  ** 希望の光  ** （Hope's Light）  |  1:59   
-3\.  |  ** 暖かな時間  ** （Tranquil Moments）  |  1:53   
-4\.  |  ** 目眩  ** （Vertigo）  |  1:59   
-5\.  |  ** おぼろげな輪郭  ** （The Face I See When I Close My Eyes）  |  2:08   
-6\.  |  ** ごきげん戦闘ロボ  ** （The Happy Little Killer Robot）  |  2:25   
-7\.  |  ** こんにちは太陽  ** （Good Morning, Sunshine）  |  1:50   
-8\.  |  ** 窒息寸前  ** （The Brink Of Death）  |  2:21   
-9\.  |  ** 黄昏期の風景  ** （Walking In The Twilight）  |  1:59   
-10\.  |  ** 澄み渡る風  ** （A Soothing Breeze）  |  1:57   
-11\.  |  ** Working  ** （Working）  |  2:10   
-12\.  |  ** ハレーション  ** （Halation）  |  1:51   
-13\.  |  ** ポンコツステップ  ** （Dumb Heap Of Scrap!）  |  2:54   
-14\.  |  ** 子供たちのひととき  ** （The Children Play）  |  1:08   
-15\.  |  ** 凪  ** （A Lull In The Sea）  |  1:45   
-16\.  |  ** さぁ、海へ！  ** （Weigh Anchor!）  |  2:26   
-17\.  |  ** 暗い足音  ** （Shadowy Footsteps）  |  1:38   
-18\.  |  ** 日常を刻む  ** （Sunshine On Deck）  |  2:00   
-19\.  |  ** 涙が輝く瞬間(とき)  ** （When I See The Sparkle Of Your Tears）  |  2:27   
-20\.  |  ** 親愛なるあの日々へ  ** （Days Of Love）  |  1:58   
-21\.  |  ** 光放て！  ** （Light Across the Seas）  |  3:49   
-22\.  |  ** 光放て！ inst ver.  ** （Light Across the Seas inst ver.）  |  3:49   
-23\.  |  ** 光放て！ short ver.  ** （Light Across the Seas short ver.）  |  1:36   
-24\.  |  ** Dear Moments  ** （Dear Moments）  |  6:23   
-25\.  |  ** Dear Moments inst ver.  ** （Dear Moments inst ver.）  |  6:23   
-26\.  |  ** Dear Moments short ver.  ** （Dear Moments short ver.）  |  2:42   
+|  ATRI -My Dear Moments- Original Soundtrack  ||
+|---|---|
+|原名  |  ATRI -My Dear Moments- Original Soundtrack   |
+|发行  |  ANIPLEX.EXE   |
+|发行地区  |  日本   |
+|发行日期  |  2020年10月27日   |
+|专辑类型  |  游戏原声带   <br>  |
+||  ATRI -My Dear Moments- Original Soundtrack  <br>---  |
+|曲序  |  曲目    时长|
+|1\.  |  ** 海中都市  ** （The Sunken City）    1:55|
+|2\.  |  ** 希望の光  ** （Hope's Light）    1:59|
+|3\.  |  ** 暖かな時間  ** （Tranquil Moments）    1:53|
+|4\.  |  ** 目眩  ** （Vertigo）    1:59|
+|5\.  |  ** おぼろげな輪郭  ** （The Face I See When I Close My Eyes）    2:08|
+|6\.  |  ** ごきげん戦闘ロボ  ** （The Happy Little Killer Robot）    2:25|
+|7\.  |  ** こんにちは太陽  ** （Good Morning, Sunshine）    1:50|
+|8\.  |  ** 窒息寸前  ** （The Brink Of Death）    2:21|
+|9\.  |  ** 黄昏期の風景  ** （Walking In The Twilight）    1:59|
+|10\.  |  ** 澄み渡る風  ** （A Soothing Breeze）    1:57|
+|11\.  |  ** Working  ** （Working）    2:10|
+|12\.  |  ** ハレーション  ** （Halation）    1:51|
+|13\.  |  ** ポンコツステップ  ** （Dumb Heap Of Scrap!）    2:54|
+|14\.  |  ** 子供たちのひととき  ** （The Children Play）    1:08|
+|15\.  |  ** 凪  ** （A Lull In The Sea）    1:45|
+|16\.  |  ** さぁ、海へ！  ** （Weigh Anchor!）    2:26|
+|17\.  |  ** 暗い足音  ** （Shadowy Footsteps）    1:38|
+|18\.  |  ** 日常を刻む  ** （Sunshine On Deck）    2:00|
+|19\.  |  ** 涙が輝く瞬間(とき)  ** （When I See The Sparkle Of Your Tears）    2:27|
+|20\.  |  ** 親愛なるあの日々へ  ** （Days Of Love）    1:58|
+|21\.  |  ** 光放て！  ** （Light Across the Seas）    3:49|
+|22\.  |  ** 光放て！ inst ver.  ** （Light Across the Seas inst ver.）    3:49|
+|23\.  |  ** 光放て！ short ver.  ** （Light Across the Seas short ver.）    1:36|
+|24\.  |  ** Dear Moments  ** （Dear Moments）    6:23|
+|25\.  |  ** Dear Moments inst ver.  ** （Dear Moments inst ver.）    6:23|
+|26\.  |  ** Dear Moments short ver.  ** （Dear Moments short ver.）    2:42|
   
 **总时长：**
 

@@ -1,18 +1,14 @@
-|  Strawberry Nauts  
----  
-原名  |  Strawberry Nauts   
-类型  |  ADV   
-平台  |  Windows、PlayStation Vita、Nintendo Switch、PlayStation 4   
-分级  |  PC初版、HD  [1]  ：  |  EOCS  :  |  \- 18岁以下禁止   
----|---  
-游戏机：  |  CERO  :  |  \- 17岁以上   
----|---  
-开发  |  HOOKSOFT   
-发行  |  HOOKSOFT    
-DMM.com  （网络版、HD）  
-ENTERGRAM（PSV）  
-模式  |  单人单机   
-发行时间  |  2011年11月25日（初回版）   
+|  Strawberry Nauts  ||
+|---|---|
+|原名  |  Strawberry Nauts   |
+|类型  |  ADV   |
+|平台  |  Windows、PlayStation Vita、Nintendo Switch、PlayStation 4   |
+|分级  |  PC初版、HD  [1]  ：    EOCS  :    \- 18岁以下禁止|
+|游戏机：  |  CERO  :    \- 17岁以上|
+|开发  |  HOOKSOFT   |
+|发行  |  HOOKSOFT    <br>DMM.com  （网络版、HD）  <br>ENTERGRAM（PSV）  |
+|模式  |  单人单机   |
+|发行时间  |  2011年11月25日（初回版）   |
 2011年12月22日（通常版）  
 2016年1月22日（HD）  
 2016年2月26日（全年龄HD）  

@@ -1,16 +1,16 @@
 **此页面中存在需要长期更新的内容及资料列表，现存条目中资料未必是最新。**  
 另请编辑者注意：请不要在人物历程等相关内容中悬挂此模板。具体使用方法详见  模板说明文档  。
 
-|  SAGA PLANETS  
----  
-名称  |  SAGA PLANETS   
-别名  |  SP社   
-类型  |  GALGAME公司   
-成立时间  |  1998年   
-总部地址  |  大阪  市北区   
-主要作品  |  初雪樱  、  花开Work Spring！  花之天使的夏日恋歌  、  金辉恋曲四重奏   
-相关人物  |  砥石大树、  御廚みくり  、  新岛夕  、藤太   
-网址  |  http://sagaplanets.product.co.jp/   
+|  SAGA PLANETS  ||
+|---|---|
+|名称  |  SAGA PLANETS   |
+|别名  |  SP社   |
+|类型  |  GALGAME公司   |
+|成立时间  |  1998年   |
+|总部地址  |  大阪  市北区   |
+|主要作品  |  初雪樱  、  花开Work Spring！  花之天使的夏日恋歌  、  金辉恋曲四重奏   |
+|相关人物  |  砥石大树、  御廚みくり  、  新岛夕  、藤太   |
+|网址  |  http://sagaplanets.product.co.jp/   |
   
 **SAGA PLANETS** 是一家制作Galgame的游戏公司。
 

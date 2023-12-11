@@ -1,26 +1,19 @@
 萌娘百科提醒您，此条目或需要大幅度整改， **建议新用户不要模仿此条目格式建立新条目。** 若您清楚改善现状的方法，可以尝试  帮忙改进  。
 
-|  ToHeart2  
----  
-原名  |  To Heart 2  XRATED (PC副标题)  PORTABLE (PSP副标题)  DX PLUS (PS3副标题)   
-常用译名  |  心之彼端2   
-类型  |  视觉小说   
-平台  |  PlayStation 2、PlayStation 3、Windows、PlayStation Portable   
-分级  |  Win：  |  EOCS  :  |  \- 18岁以下禁止   
----|---  
-PS2、PSP：  |  CERO  :  |  \- 15岁以上   
----|---  
-PS3：  |  CERO  :  |  \- 17岁以上   
----|---  
-开发  |  Leaf   
-发行  |  Leaf（PC）   
-AQUAPLUS（PS2/PSP/PS3）  
-发行时间  |  2004年12月28日（PS2）   
-2005年12月9日（PC）  
-2009年7月30日（PSP）  
-2011年9月22日（PS3）  
-改编载体  |  OVA、漫画、TV动画   
-相关作品  |  ToHeart2 AnotherDays   
+|  ToHeart2  ||
+|---|---|
+|原名  |  To Heart 2  XRATED (PC副标题)  PORTABLE (PSP副标题)  DX PLUS (PS3副标题)   |
+|常用译名  |  心之彼端2   |
+|类型  |  视觉小说   |
+|平台  |  PlayStation 2、PlayStation 3、Windows、PlayStation Portable   |
+|分级  |  Win：    EOCS  :    \- 18岁以下禁止|
+|PS2、PSP：  |  CERO  :    \- 15岁以上|
+|PS3：  |  CERO  :    \- 17岁以上|
+|开发  |  Leaf   |
+|发行  |  Leaf（PC）   <br>AQUAPLUS（PS2/PSP/PS3）  |
+|发行时间  |  2004年12月28日（PS2）   <br>2005年12月9日（PC）  <br>2009年7月30日（PSP）  <br>2011年9月22日（PS3）  |
+|改编载体  |  OVA、漫画、TV动画   |
+|相关作品  |  ToHeart2 AnotherDays   |
   
 **ToHeart2** 是由Leaf制作的一部Galgame，并有TV动画、OVA、漫画、游戏等衍生作品。
 

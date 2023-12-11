@@ -15,21 +15,18 @@
 にご協力ください（  ヘルプ  ）。  （  2021年2月  ）  
   
 ---|---  
-|  DIABOLIK LOVERS  
----  
-ジャンル  |  恋愛  、  ダーク・ファンタジー   
-シチュエーションCD：DIABOLIK LOVERS  ドS吸血CD 全6巻  
-発売元  |  Rejet  株式会社   
-レーベル  |  Rejet   
-発売日  |  2011年  12月21日  〜  2012年  5月23日   
-シチュエーション  CD  ：DIABOLIK LOVERS  ドS吸血CD VERSUS 全3巻  
-発売元  |  Rejet  株式会社   
-レーベル  |  Rejet   
-発売日  |  2012年  8月29日  〜2012年  10月24日   
-シチュエーションCD：DIABOLIK LOVERS  ドS吸血CD MORE,BLOOD 全10巻  
-発売元  |  Rejet株式会社   
-レーベル  |  Rejet   
-発売日  |  2013年  4月24日  〜  2014年  1月29日   
+|  DIABOLIK LOVERS  ||
+|---|---|
+|ジャンル  |  恋愛  、  ダーク・ファンタジー   <br>シチュエーションCD：DIABOLIK LOVERS  ドS吸血CD 全6巻  |
+|発売元  |  Rejet  株式会社   |
+|レーベル  |  Rejet   |
+|発売日  |  2011年  12月21日  〜  2012年  5月23日   <br>シチュエーション  CD  ：DIABOLIK LOVERS  ドS吸血CD VERSUS 全3巻  |
+|発売元  |  Rejet  株式会社   |
+|レーベル  |  Rejet   |
+|発売日  |  2012年  8月29日  〜2012年  10月24日   <br>シチュエーションCD：DIABOLIK LOVERS  ドS吸血CD MORE,BLOOD 全10巻  |
+|発売元  |  Rejet株式会社   |
+|レーベル  |  Rejet   |
+|発売日  |  2013年  4月24日  〜  2014年  1月29日   |
 シチュエーションCD：DIABOLIK LOVERS  ドS吸血CD VERSUSII 全6巻  
 発売元  |  Rejet株式会社   
 レーベル  |  Rejet   

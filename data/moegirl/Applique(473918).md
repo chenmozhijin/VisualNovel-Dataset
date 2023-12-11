@@ -1,13 +1,13 @@
-|  ぱれっと  
----  
-名称  |  Applique/あっぷりけ   
-别名  |  妹药社、贴花社、郁金香社   
-类型  |  游戏制作公司   
-母公司  |  AKABEiSOFT2   
-主要作品  |  黄昏的禁忌之药   
-创办人  |  憲yuki   
-相关公司  |  晓WORKS   
-网址  |  http://www.applique-soft.com/   
+|  ぱれっと  ||
+|---|---|
+|名称  |  Applique/あっぷりけ   |
+|别名  |  妹药社、贴花社、郁金香社   |
+|类型  |  游戏制作公司   |
+|母公司  |  AKABEiSOFT2   |
+|主要作品  |  黄昏的禁忌之药   |
+|创办人  |  憲yuki   |
+|相关公司  |  晓WORKS   |
+|网址  |  http://www.applique-soft.com/   |
   
 **Applique** （日语：  あっぷりけ  ）是隶属于  AKABEiSOFT2  （日语：  あかべぇそふとつぅ  ）的一个  Galgame
 游戏品牌，代表作为  黄昏的禁忌之药  。

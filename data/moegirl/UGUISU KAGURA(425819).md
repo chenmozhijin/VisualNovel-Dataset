@@ -1,13 +1,13 @@
-|  UGUISU KAGURA  
----  
-名称  |  ウグイスカグラ  UGUISU KAGURA   
-别名  |  莺神乐、纸魔社   
-类型  |  Galgame公司   
-前身  |  宴（同人社团）  ヨナキウグイス  （游戏公司）   
-成立时间  |  2014年8月22日   
-主要作品  |  《  纸上的魔法使  》  《  水葬银币的伊斯特里亚  》  《  印刻天际的Parallelogram  》   
-相关人物  |  ルクル  、 _ 桐葉  _  
-网址  |  http://www.kagura.rdy.jp/   
+|  UGUISU KAGURA  ||
+|---|---|
+|名称  |  ウグイスカグラ  UGUISU KAGURA   |
+|别名  |  莺神乐、纸魔社   |
+|类型  |  Galgame公司   |
+|前身  |  宴（同人社团）  ヨナキウグイス  （游戏公司）   |
+|成立时间  |  2014年8月22日   |
+|主要作品  |  《  纸上的魔法使  》  《  水葬银币的伊斯特里亚  》  《  印刻天际的Parallelogram  》   |
+|相关人物  |  ルクル  、 _ 桐葉  _  |
+|网址  |  http://www.kagura.rdy.jp/   |
   
 **UGUISU KAGURA** （日语：  ウグイスカグラ  ）是日本的一家  Galgame  公司。
 

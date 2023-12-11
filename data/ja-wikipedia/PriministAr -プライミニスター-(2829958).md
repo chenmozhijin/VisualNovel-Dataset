@@ -10,17 +10,17 @@
 ---|---  
 PriministAr  -プライミニスター-  |  ジャンル  |  くせになりそうな学園純愛ADV   
 ---|---  
-対応機種  |  Microsoft Windows  XP  /  Vista  /  7  /  8  PlayStation Vita   
-発売元  |  HOOKSOFT  (PC)  エンターグラム  (PS Vita)   
-発売日  |  2013年  8月30日  (PC)  2015年  2月19日  (PC全年齢版)  2016年  9月29日  (PS Vita)   
+対応機種  |  Microsoft Windows  XP  /  Vista  /  7  /  8  /  8.1  /  10  /  11  PlayStation Vita  Nintendo Switch  PlayStation 4   
+発売元  |  HOOKSOFT  (PC)  エンターグラム  (PS Vita/Switch/PS4)   
+発売日  |  2013年  8月30日  (PC)  2015年  2月19日  (PC全年齢版)  2016年  9月29日  (PS Vita)  2023年  5月26日  (PCフルHDリマスター)  2024年  3月28日  (Switch/PS4)   
 レイティング  |  18禁 (PC)  全年齢対象 (PC DL版)  CERO  ：  **D** （17才以上対象）  (PS Vita)   
 キャラクター名設定  |  不可   
-エンディング数  |  6+1（初回限定盤のみ）   
+エンディング数  |  6+1 (初回限定盤のみ)  8 (PS Vita/Switch/PS4)   
 セーブファイル数  |  119+オート1   
-メディア  |  DVD-ROM  (PC)  ダウンロード版 (PC全年齢版)  PS Vitaカード (PS Vita)   
+メディア  |  DVD-ROM  (PC)  ダウンロード版 (PC全年齢版)  PS Vitaカード (PS Vita)  Switchカード (Switch)  BD-ROM (PS4)   
 ディスクレス起動  |  可   
 アクチベーション  |  なし   
-画面サイズ  |  1280×720 (PC)  960×544 (PS Vita)   
+画面サイズ  |  1920×1080 (PCフルHDリマスター)  1280×720 (PC)  960×544 (PS Vita)   
 BGMフォーマット  |  DirectSound  に正式対応したサウンドカード   
 キャラクターボイス  |  あり（主人公以外フルボイス）   
 CGモード  |  あり   
@@ -43,13 +43,17 @@ MiniFandisc 枝那森千里 &駒萱野 Ver. ** 』が発売された。
 
 2016年  9月29日  には  PlayStation Vita  版が  エンターグラム  より発売された。
 
+2023年  5月26日  には『 **PriministAr -プライミニスター- フルHDリマスター** 』が発売された。
+
+2024年  3月28日  には  Nintendo Switch  版と  PlayStation 4  版が発売される。
+
 ##  解説  
 
 「くせになりそうなしあわせ」をテーマとする本作は、PIT Ver2.0のほかにも、ヒロインの内面にせまる「CROSS
 VIEWING」や、クリア後のヒロインとの恋人生活が楽しめる「俺の部屋」、モブキャラクターに囲まれる「文化部棟の王子様」など、本編クリア後も楽しめるような作りになっている
   。
 
-なお、前々作『Strawberry Nauts』とは世界観を同一にしており、PS Vita版『Strawberry
+なお、前々作『  Strawberry Nauts  』とは世界観を同一にしており、PS Vita版『Strawberry
 Nauts』の追加ルートにて今作の舞台である粟生七舟学園が登場する。
 
 ##  ストーリー  
@@ -231,7 +235,7 @@ Nauts』の追加ルートにて今作の舞台である粟生七舟学園が登
 
 PIT（  Personal Identification Terminal  ）
 
-     『  Strawberry Nauts  』と同様に学園から支給される多機能な専用の携帯端末機であり、今作ではver2となっている。 
+     『Strawberry Nauts』と同様に学園から支給される多機能な専用の携帯端末機であり、今作ではver2となっている。 
      今作の舞台である七舟学園に寿々苗グループが出資しているため、試験的に導入された。 
      ルートによっては『Strawberry Nauts』の舞台である五光館学園の話題がPITで出る事もあるが、物語上に絡んで来ることはない。 
      電話、メール、学園内BBSの閲覧および書き込み、管理用のIDの配布、電子財布など多機能である。なお、春近は電子財布については知らなかった。 

@@ -1,17 +1,17 @@
 **此页面中存在需要长期更新的内容及资料列表，现存条目中资料未必是最新。**  
 另请编辑者注意：请不要在人物历程等相关内容中悬挂此模板。具体使用方法详见  模板说明文档  。
 
-|  Innocent Grey  
----  
-名称  |  Innocent Grey   
-类型  |  GALGAME公司   
-成立时间  |  2004年   
-总部地址  |  日本东京都中野区   
-母公司  |  Gungnir   
-创办人  |  杉菜水姬   
-相关人物  |  咖啡贵族  、  霜月遥  、杉本晃志郎   
-相关会社  |  Noesis   
-网址  |  Innocent Grey   
+|  Innocent Grey  ||
+|---|---|
+|名称  |  Innocent Grey   |
+|类型  |  GALGAME公司   |
+|成立时间  |  2004年   |
+|总部地址  |  日本东京都中野区   |
+|母公司  |  Gungnir   |
+|创办人  |  杉菜水姬   |
+|相关人物  |  咖啡贵族  、  霜月遥  、杉本晃志郎   |
+|相关会社  |  Noesis   |
+|网址  |  Innocent Grey   |
   
 **Innocent Grey** （日语：  イノセントグレイ  ，简称  イノグレ  ）是Gungnir旗下的游戏品牌。
 
@@ -54,20 +54,20 @@ Grey开放了《  天之少女
 
 ##  作品
 
-|  游戏  
----  
-发售时间（PC平台）  |  中文名称  |  原名  |  年龄分级   
-2005年4月28日  |  恋狱～月狂病～  |  カルタグラ ～ツキ狂イノ病～  |  成人   
-2006年9月29日  |  PP -Pianissimo- 提线木偶之轮舞  |  PP -ピアニッシモ- 操リ人形ノ輪舞  |  成人   
-2007年4月6日  |  和之匣  |  和み匣  |  成人   
-2008年7月4日  |  壳之少女  |  殻ノ少女  |  成人   
-2009年12月11日  |  七凭之祭  |  クロウカシス 七憑キノ贄  |  成人   
-2013年2月8日  |  虚之少女  |  虚ノ少女  |  成人   
-2014年4月18日  |  FLOWERS  春篇  |  FLOWERS -Le volume sur printemps-  |  全年龄   
-2015年4月17日  |  FLOWERS  夏篇  |  FLOWERS -Le volume sur été-  |  全年龄   
-2016年5月27日  |  FLOWERS  秋篇  |  FLOWERS -Le volume sur automne-  |  全年龄   
-2017年9月15日  |  FLOWERS  冬篇  |  FLOWERS -Le volume sur hiver-  |  全年龄   
-2019年12月20日  |  壳之少女  HD版  |  殻ノ少女《 FULL VOICE HD SIZE EDITION 》  |  成人   
-2020年8月28日  |  虚之少女  RE版  |  虚ノ少女《 NEW CAST REMASTER EDITION 》  |  成人   
-2020年12月25日  |  天之少女  |  天ノ少女  |  成人   
+|  游戏  ||||
+|---|---|---|---|
+|发售时间（PC平台）  |  中文名称  |  原名  |  年龄分级   |
+|2005年4月28日  |  恋狱～月狂病～  |  カルタグラ ～ツキ狂イノ病～  |  成人   |
+|2006年9月29日  |  PP -Pianissimo- 提线木偶之轮舞  |  PP -ピアニッシモ- 操リ人形ノ輪舞  |  成人   |
+|2007年4月6日  |  和之匣  |  和み匣  |  成人   |
+|2008年7月4日  |  壳之少女  |  殻ノ少女  |  成人   |
+|2009年12月11日  |  七凭之祭  |  クロウカシス 七憑キノ贄  |  成人   |
+|2013年2月8日  |  虚之少女  |  虚ノ少女  |  成人   |
+|2014年4月18日  |  FLOWERS  春篇  |  FLOWERS -Le volume sur printemps-  |  全年龄   |
+|2015年4月17日  |  FLOWERS  夏篇  |  FLOWERS -Le volume sur été-  |  全年龄   |
+|2016年5月27日  |  FLOWERS  秋篇  |  FLOWERS -Le volume sur automne-  |  全年龄   |
+|2017年9月15日  |  FLOWERS  冬篇  |  FLOWERS -Le volume sur hiver-  |  全年龄   |
+|2019年12月20日  |  壳之少女  HD版  |  殻ノ少女《 FULL VOICE HD SIZE EDITION 》  |  成人   |
+|2020年8月28日  |  虚之少女  RE版  |  虚ノ少女《 NEW CAST REMASTER EDITION 》  |  成人   |
+|2020年12月25日  |  天之少女  |  天ノ少女  |  成人   |
   

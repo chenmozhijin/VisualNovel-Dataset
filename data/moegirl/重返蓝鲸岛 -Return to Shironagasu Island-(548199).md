@@ -1,21 +1,20 @@
-|  重返蓝鲸岛 -Return to Shironagasu Island-  
----  
-原名  |  シロナガス島への帰還 -Return to Shironagasu Island-   
-官方译名  |  重返蓝鲸岛 -Return to Shironagasu Island-   
-类型  |  冒险   
-平台  |  Microsoft Windows  Nintendo Switch   
-分级  |  |  CERO  :  |  \- 17岁以上   
----|---  
-开发  |  鬼虫兵库   
-发行  |  TABINOMICHI  [1]   
-总监  |  鬼虫兵库   
-制作人  |  鬼虫兵库   
-编剧  |  鬼虫兵库   
-程序  |  鬼虫兵库   
-美工  |  鬼虫兵库   
-音乐  |  片冈真悟   
-模式  |  单人   
-发行时间  |  **Microsoft Windows**   
+|  重返蓝鲸岛 -Return to Shironagasu Island-  ||
+|---|---|
+|原名  |  シロナガス島への帰還 -Return to Shironagasu Island-   |
+|官方译名  |  重返蓝鲸岛 -Return to Shironagasu Island-   |
+|类型  |  冒险   |
+|平台  |  Microsoft Windows  Nintendo Switch   |
+|分级  |    CERO  :    \- 17岁以上|
+|开发  |  鬼虫兵库   |
+|发行  |  TABINOMICHI  [1]   |
+|总监  |  鬼虫兵库   |
+|制作人  |  鬼虫兵库   |
+|编剧  |  鬼虫兵库   |
+|程序  |  鬼虫兵库   |
+|美工  |  鬼虫兵库   |
+|音乐  |  片冈真悟   |
+|模式  |  单人   |
+|发行时间  |  **Microsoft Windows**   |
 2020年3月3日  
 **Nintendo Switch**  
 2022年11月17日  

@@ -1,16 +1,16 @@
-|  Eushully  
----  
-名称  |  Eushully   
-别名  |  E社   
-类型  |  Galgame制作公司   
-前身  |  Arkham旗下工作室   
-成立时间  |  (成立时间)20世纪90年代  (独立时间)2005年4月   
-总部地址  |  〒001-0020  北海道札幌市北区北20条西2丁目1-32 EU大楼   
-母公司  |  Arkham→Eukleia   
-主要作品  |  《  战女神系列  》《  幻燐的姬将军  系列》   
-创办人  |  藤原行宏   
-相关会社  |  Anastasia(姊妹公司)   
-网址  |  http://www.eukleia.co.jp/eushully/   
+|  Eushully  ||
+|---|---|
+|名称  |  Eushully   |
+|别名  |  E社   |
+|类型  |  Galgame制作公司   |
+|前身  |  Arkham旗下工作室   |
+|成立时间  |  (成立时间)20世纪90年代  (独立时间)2005年4月   |
+|总部地址  |  〒001-0020  北海道札幌市北区北20条西2丁目1-32 EU大楼   |
+|母公司  |  Arkham→Eukleia   |
+|主要作品  |  《  战女神系列  》《  幻燐的姬将军  系列》   |
+|创办人  |  藤原行宏   |
+|相关会社  |  Anastasia(姊妹公司)   |
+|网址  |  http://www.eukleia.co.jp/eushully/   |
   
 **Eushully** (  エウシュリー  )及其姊妹社Anastasia(  アナスタシア
 )是日本北海道札幌市的Eukleia(エウクレイア)公司的成人游戏品牌。
@@ -81,16 +81,16 @@ Meister」开始，  みつき  与やくり也加入了该公司的原画阵容
   
 ##  Anastasia
 
-|  Eushully  
----  
-名称  |  Anastasia   
-成立时间  |  2006年1月   
-总部地址  |  北海道札幌市   
-母公司  |  Eukleia   
-主要作品  |  《  魔法救世界  》   
-创办人  |  藤原行宏   
-相关会社  |  Eushully(姊妹公司)   
-网址  |  http://www.eukleia.co.jp/eushully/   
+|  Eushully  ||
+|---|---|
+|名称  |  Anastasia   |
+|成立时间  |  2006年1月   |
+|总部地址  |  北海道札幌市   |
+|母公司  |  Eukleia   |
+|主要作品  |  《  魔法救世界  》   |
+|创办人  |  藤原行宏   |
+|相关会社  |  Eushully(姊妹公司)   |
+|网址  |  http://www.eukleia.co.jp/eushully/   |
   
 Eushully的姊妹社  小号  ，由于Eushully社承诺一年仅发布一部作品，Eukleia旗下的其他小规模作品就以Anastasia的名义制作。
 

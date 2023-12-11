@@ -1,26 +1,19 @@
-|  
----  
-原名  |  Summer Pockets   
-译名  |  夏日口袋   
-类型  |  AVG   
-平台  |  Windows  iOS  [1]  Android  Nintendo Switch   
-分级  |  |  CERO  :  |  \- 15岁以上   
----|---  
-IARC  :  |  \- 16岁以上   
-iOS:  |  **17+** \- 17岁以上   
-开发  |  Key   
-发行  |  Key  /  Visual Art's   
-总监  |  魁   
-制作人  |  丘野塔也   
-设计师  |  Na-Ga    
-和泉つばす  
-永山ゆうのん  
-ふむゆん  
-えんぎよし  (SD)  
-编剧  |  新岛夕    
-魁  
-ハサマ  
-音乐  |  折户伸治    
+|  ||
+|---|---|
+|原名  |  Summer Pockets   |
+|译名  |  夏日口袋   |
+|类型  |  AVG   |
+|平台  |  Windows  iOS  [1]  Android  Nintendo Switch   |
+|分级  |    CERO  :    \- 15岁以上|
+|IARC  :  |  \- 16岁以上   |
+|iOS:  |  **17+** \- 17岁以上   |
+|开发  |  Key   |
+|发行  |  Key  /  Visual Art's   |
+|总监  |  魁   |
+|制作人  |  丘野塔也   |
+|设计师  |  Na-Ga    <br>和泉つばす  <br>永山ゆうのん  <br>ふむゆん  <br>えんぎよし  (SD)  |
+|编剧  |  新岛夕    <br>魁  <br>ハサマ  |
+|音乐  |  折户伸治    |
 麻枝准  
 どんまる  
 竹下智博  

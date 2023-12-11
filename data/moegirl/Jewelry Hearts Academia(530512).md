@@ -9,24 +9,24 @@
 
 |  ”  
 ---|---|---  
-|  ジュエリー･ハーツ･アカデミア  
----  
-原名  |  ジュエリー・ハーツ・アカデミア  -We will wing wonder world-   
-常用译名  |  宝石之心学园（暂译）   
-类型  |  ADV   
-平台  |  Windows   
-分级  |  R18   
-开发  |  Cabbage Soft   
-发行  |  Cabbage Soft   
-总监  |  しげた   
-制作人  |  SATOSHI   
-角色设计  |  しらたま   
-编剧  |  冬茜トム   
-美工  |  しらたま  よねぞう   
-音乐  |  藤井稿太郎   
-引擎  |  BGI/Ethornell   
-模式  |  单人单机   
-发行时间  |  2022年7月29日   
+|  ジュエリー･ハーツ･アカデミア  ||
+|---|---|
+|原名  |  ジュエリー・ハーツ・アカデミア  -We will wing wonder world-   |
+|常用译名  |  宝石之心学园（暂译）   |
+|类型  |  ADV   |
+|平台  |  Windows   |
+|分级  |  R18   |
+|开发  |  Cabbage Soft   |
+|发行  |  Cabbage Soft   |
+|总监  |  しげた   |
+|制作人  |  SATOSHI   |
+|角色设计  |  しらたま   |
+|编剧  |  冬茜トム   |
+|美工  |  しらたま  よねぞう   |
+|音乐  |  藤井稿太郎   |
+|引擎  |  BGI/Ethornell   |
+|模式  |  单人单机   |
+|发行时间  |  2022年7月29日   |
   
 《 ** ジュエリー・ハーツ・アカデミア  -We will wing wonder world- ** 》（暂译为： **Jewelry Hearts
 Academia -We will wing wonder world-** ， **宝石之心学园** ，日语简称：  **ジュエハ** ）是由

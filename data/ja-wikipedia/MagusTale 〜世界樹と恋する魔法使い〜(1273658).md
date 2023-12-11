@@ -8,23 +8,21 @@
 ジャパンサーチ  **·** TWL  （  2016年1月  ）  
   
 ---|---  
-|  MagusTale  
----  
-ジャンル  |  マジカル恋愛ADV   
-ゲーム：MagusTale〜世界樹と恋する魔法使い〜  MagusTale Infinity  MagusTale
-Eternity〜世界樹と恋する魔法使い〜  
-対応機種  |  Windows 2000/XP/Vista  PlayStation Portable   
-ゲームエンジン  |  YU-RIS     
-発売元  |  Whirlpool  (PC)  GN Software  (PSP)   
-キャラクターデザイン  |  てんまそ   
-メディア  |  DVD-ROM(PC)  UMD (PSP)   
-発売日  |  2007年11月30日(PC)  2008年6月13日(Infinity)  2009年12月24日(PSP)  2012年3月22日(PSP廉価版)   
-レイティング  |  18禁(PC)(Infinity)  CERO  ：  **B** （12才以上対象）  (PSP)   
-キャラクター名設定  |  不可   
-エンディング数  |  8(PC)   
-セーブファイル数  |  100(PC)   
-画面サイズ  |  800×600(PC)   
-キャラクターボイス  |  あり(PC)   
+|  MagusTale  ||
+|---|---|
+|ジャンル  |  マジカル恋愛ADV   <br>ゲーム：MagusTale〜世界樹と恋する魔法使い〜  MagusTale Infinity  MagusTale<br>Eternity〜世界樹と恋する魔法使い〜  |
+|対応機種  |  Windows 2000/XP/Vista  PlayStation Portable   |
+|ゲームエンジン  |  YU-RIS     |
+|発売元  |  Whirlpool  (PC)  GN Software  (PSP)   |
+|キャラクターデザイン  |  てんまそ   |
+|メディア  |  DVD-ROM(PC)  UMD (PSP)   |
+|発売日  |  2007年11月30日(PC)  2008年6月13日(Infinity)  2009年12月24日(PSP)  2012年3月22日(PSP廉価版)   |
+|レイティング  |  18禁(PC)(Infinity)  CERO  ：  **B** （12才以上対象）  (PSP)   |
+|キャラクター名設定  |  不可   |
+|エンディング数  |  8(PC)   |
+|セーブファイル数  |  100(PC)   |
+|画面サイズ  |  800×600(PC)   |
+|キャラクターボイス  |  あり(PC)   |
 テンプレート  \-  ノート  
 プロジェクト  |  美少女ゲーム系   
 ポータル  |  ゲーム   

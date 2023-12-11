@@ -1,25 +1,19 @@
-|  
----  
-原名  |  Harmonia -ハルモニア-   
-类型  |  视觉小说   
-平台  |  PC   
-分级  |  |  CERO  :  |  \- 12岁以上   
----|---  
-ESRB  :  |  \- 青少年   
-PEGI  :  |  \- 16岁以上   
-USK  :  |  \- 16岁以上   
-开发  |  Key   
-发行  |  Visual Art‘s  （PC）   
-Prototype（Switch）  
-引擎  |  Siglus   
-模式  |  单人单机   
-发行时间  |  2016年9月23日（PC·Steam· **首发** [1]  ）   
-2016年12月29日（PC·C91  [2]  ）  
-2017年5月26日（PC·初回限定版）  
-2019年4月26日（PC·通常版）  
-2022年10月20日（Switch）  [3]  
-|  “  |  **You taught me how important feelings are.** **There is an everlasting song.** |  ”   
----|---|---  
+|  ||
+|---|---|
+|原名  |  Harmonia -ハルモニア-   |
+|类型  |  视觉小说   |
+|平台  |  PC   |
+|分级  |    CERO  :    \- 12岁以上|
+|ESRB  :  |  \- 青少年   |
+|PEGI  :  |  \- 16岁以上   |
+|USK  :  |  \- 16岁以上   |
+|开发  |  Key   |
+|发行  |  Visual Art‘s  （PC）   <br>Prototype（Switch）  |
+|引擎  |  Siglus   |
+|模式  |  单人单机   |
+|发行时间  |  2016年9月23日（PC·Steam· **首发** [1]  ）   <br>2016年12月29日（PC·C91  [2]  ）  <br>2017年5月26日（PC·初回限定版）  <br>2019年4月26日（PC·通常版）  <br>2022年10月20日（Switch）  [3]  |
+||  “    **You taught me how important feelings are.** **There is an everlasting song.**   ”|
+|---|------|
   
 **Harmonia** （日语：  **ハルモニア** ）是由  Key  制作、在2016年发行的一部  视觉小说
 游戏作品。也是Key社“Kinetic Novel”视觉小说系列第2部发行的作品。

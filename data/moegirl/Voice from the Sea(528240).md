@@ -1,22 +1,20 @@
-|  Voice from the Sea  
----  
-原名  |  Voice from the Sea   
-常用译名  |  海之声  来自大海的声音  ~~蓝天和大海的约定~~ [注 1]   
-类型  |  视觉小说   
-平台  |  PC（Steam）   
-分级  |  |  ESRB  :  |  \- 所有人   
----|---  
-开发  |  Zeiva Inc   
-发行  |  Zeiva Inc   
-总监  |  Mirage Fish   
-编剧  |  Mirage Fish   
-美工  |  Mirage Fish   
-Nitarou  
-引擎  |  Adobe Flash Player 10   
-模式  |  单人   
-系列  |  Nature   
-发行时间  |  2014年9月16日   
-相关作品  |  续作：  Natural - Beyond Nature -   
+|  Voice from the Sea  ||
+|---|---|
+|原名  |  Voice from the Sea   |
+|常用译名  |  海之声  来自大海的声音  ~~蓝天和大海的约定~~ [注 1]   |
+|类型  |  视觉小说   |
+|平台  |  PC（Steam）   |
+|分级  |    ESRB  :    \- 所有人|
+|开发  |  Zeiva Inc   |
+|发行  |  Zeiva Inc   |
+|总监  |  Mirage Fish   |
+|编剧  |  Mirage Fish   |
+|美工  |  Mirage Fish   <br>Nitarou  |
+|引擎  |  Adobe Flash Player 10   |
+|模式  |  单人   |
+|系列  |  Nature   |
+|发行时间  |  2014年9月16日   |
+|相关作品  |  续作：  Natural - Beyond Nature -   |
   
 《 **Voice from the Sea** 》是一款由Zeiva Inc开发、Zeiva
 Inc发行的视觉小说游戏，于2014年9月16日在Steam平台上发售，无中文  但3DM有汉化  。

@@ -1,11 +1,11 @@
-|  NanaWind  
----  
-名称  |  ナナウィンド  、NanaWind  七风社  [1]   
-前身  |  Luna System   
-成立时间  |  2010年   
-总部地址  |  东京都   
-主要作品  |  ユユカナ -under the Starlight-  爱丽娅的明日盛典！  春音Alice＊Gram   
-网址  |  http://nanawind.jp   
+|  NanaWind  ||
+|---|---|
+|名称  |  ナナウィンド  、NanaWind  七风社  [1]   |
+|前身  |  Luna System   |
+|成立时间  |  2010年   |
+|总部地址  |  东京都   |
+|主要作品  |  ユユカナ -under the Starlight-  爱丽娅的明日盛典！  春音Alice＊Gram   |
+|网址  |  http://nanawind.jp   |
   
 **NanaWind** 是株式会社  Asuka Design  （  アスカデザイン  ）  旗下的成人游戏品牌，成立于2010年  [2]  。
 

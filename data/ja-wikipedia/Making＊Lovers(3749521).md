@@ -1,31 +1,30 @@
-|  Making*Lovers  
----  
-ジャンル  |  ラブコメ  、  アドベンチャーゲーム   
-ゲーム：Making*Lovers  Making*Lovers フルHDリマスター  
-ゲームジャンル  |  恋愛AVG     
-対応機種  |  Microsoft Windows  7  /  8  /  8.1  /  10    PlayStation 4  PlayStation Vita   
-ゲームエンジン  |  Ethornell   
-開発元  |  SMEE  〈ロボプランニング〉   
-発売元  |  SMEE〈ロボプランニング〉（PC/PC FullHD）  エンターグラム  （PS4/PS Vita）  NekoNyan Ltd.（Steam）   
-プロデューサー  |  亜佐美晶     
-ディレクター  |  早瀬ゆう、宅本うと     
-キャラクターデザイン  |  谷山さん     
-シナリオ  |  早瀬ゆう、岸田ソラ    、モーリー     
-音楽  |  BGM：SONO MAKERS  主題歌：「Girls' Carnival」（ユウカ）     
-メディア  |  DVD-ROM    、  ダウンロード  （  FANZA GAMES    ）（PC）  BD-ROM  （PS4）  PS Vitaカード（PS Vita）   
-ディスクレス起動  |  可   
-アクチベーション  |  なし   
-プレイ人数  |  1人   
-発売日  |  2017年  11月24日  （PC）    2019年  7月25日  （PS4/PS Vita）    2020年  4月4日  （Steam）    2021年  6月25日  （PC FullHD）   
-レイティング  |  EOCS  ：  18禁  （PC/PC FullHD）    CERO  ：  **D** （17才以上対象）  （PS4    /PS Vita    ）   
-キャラクター名設定  |  可     
-エンディング数  |  5   
-セーブファイル数  |  190+10 (Auto) +1 (Quick)   
-画面サイズ  |  1280x720（PC/Steam）      1920x1080（PC FullHD）  1920x1080（PS4）  960x544（PS Vita）   
-全画面表示モード  |  あり   
-キャラクターボイス  |  主人公以外全員   
-その他  |  PC版初回特典:  10周年記念アルバム「SMEE Main Theme Collection」  [注 1]  10周年記念服装透過パッチ＋α     
-|  **ゲーム（その他）**  
+|  Making*Lovers  ||
+|---|---|
+|ジャンル  |  ラブコメ  、  アドベンチャーゲーム   <br>ゲーム：Making*Lovers  Making*Lovers フルHDリマスター  |
+|ゲームジャンル  |  恋愛AVG     |
+|対応機種  |  Microsoft Windows  7  /  8  /  8.1  /  10    PlayStation 4  PlayStation Vita   |
+|ゲームエンジン  |  Ethornell   |
+|開発元  |  SMEE  〈ロボプランニング〉   |
+|発売元  |  SMEE〈ロボプランニング〉（PC/PC FullHD）  エンターグラム  （PS4/PS Vita）  NekoNyan Ltd.（Steam）   |
+|プロデューサー  |  亜佐美晶     |
+|ディレクター  |  早瀬ゆう、宅本うと     |
+|キャラクターデザイン  |  谷山さん     |
+|シナリオ  |  早瀬ゆう、岸田ソラ    、モーリー     |
+|音楽  |  BGM：SONO MAKERS  主題歌：「Girls' Carnival」（ユウカ）     |
+|メディア  |  DVD-ROM    、  ダウンロード  （  FANZA GAMES    ）（PC）  BD-ROM  （PS4）  PS Vitaカード（PS Vita）   |
+|ディスクレス起動  |  可   |
+|アクチベーション  |  なし   |
+|プレイ人数  |  1人   |
+|発売日  |  2017年  11月24日  （PC）    2019年  7月25日  （PS4/PS Vita）    2020年  4月4日  （Steam）    2021年  6月25日  （PC FullHD）   |
+|レイティング  |  EOCS  ：  18禁  （PC/PC FullHD）    CERO  ：  **D** （17才以上対象）  （PS4    /PS Vita    ）   |
+|キャラクター名設定  |  可     |
+|エンディング数  |  5   |
+|セーブファイル数  |  190+10 (Auto) +1 (Quick)   |
+|画面サイズ  |  1280x720（PC/Steam）      1920x1080（PC FullHD）  1920x1080（PS4）  960x544（PS Vita）   |
+|全画面表示モード  |  あり   |
+|キャラクターボイス  |  主人公以外全員   |
+|その他  |  PC版初回特典:  10周年記念アルバム「SMEE Main Theme Collection」  [注 1]  10周年記念服装透過パッチ＋α     |
+||  **ゲーム（その他）**  |
 ---  
 ゲーム：Making*Lovers 激イチャアフターストーリー Vol.01/02  Making*Lovers 激イチャアフターストーリー
 Vol.01/02 フルHDリマスター  
@@ -422,13 +421,12 @@ Making*Lovers
 金賞・主題歌賞
 
      主題歌の「Girls' Carnival」は発表直後からネットなどで話題に上がり、審査委員会でも  2017年  の主題歌の中では出色の一曲という意見が多かったという    。歌手の  Ayumi.  も「いい意味で「美少女ゲームソングらしくない」一曲でした。その「らしくない」部分と、新人ボーカリストのユウカさんの歌声がマッチして、とても新鮮なサウンドに仕上がっています」と肯定的に評価した    。 
-|  受賞およびノミネート一覧  
----  
-|  日付  |  賞  |  部門  |  候補  |  結果  |  出典   
----|---|---|---|---|---  
-2018年  |  萌えゲーアワード2017  |  2017年11月発売タイトル月間賞  |  Making*Lovers  |  1位  |     
-大賞  |  準大賞  |     
-主題歌賞  |  金賞  |     
+|  受賞およびノミネート一覧  |||||||
+|---|---|---|---|---|---|---|
+||  日付  |  賞  |  部門  |  候補  |  結果  |  出典   |
+|2018年  |  萌えゲーアワード2017  |  2017年11月発売タイトル月間賞  |  Making*Lovers  |  1位  |     |
+|大賞  |  準大賞  |     |
+|主題歌賞  |  金賞  |     |
   
 ##  関連商品  
 
@@ -446,29 +444,26 @@ SMEE  の  サウンドトラック
 Making*Lovers Original Soundtrack
 
      音楽CD2枚組。主題歌2曲とゲーム内で使用された全BGMの合計31曲を収録。  コミックマーケット93  （  2017年  12月29日  ）で発売された    。その後  FANZA GAMES  でダウンロード販売も行われている。 
-     収録曲 - ディスク1（LPTN-0034）  |   
----  
-#  |  タイトル  |  作詞  |  作曲  |  時間   
-1  .  |  「  Girls' Carnival  」  (歌：ユウカ)  |  永原さくら  |  ウミガメ  |  4:09   
-2  .  |  「  Girls' Carnival Inst  」  |  |  ウミガメ  |  4:09   
-3  .  |  「  Girls' Carnival Karaoke  」  |  |  ウミガメ  |  4:09   
-4  .  |  「  New Life  」  |  |  SONO MAKERS  |  3:05   
-5  .  |  「  レンガ通りと青い空  」  |  |  SONO MAKERS  |  3:06   
-6  .  |  「  夏の太陽は爽やかに  」  |  |  SONO MAKERS  |  4:21   
-7  .  |  「  うひゃっほぃ♪  」  |  |  SONO MAKERS  |  3:03   
-8  .  |  「  自堕落で平凡な日常  」  |  |  SONO MAKERS  |  3:16   
-9  .  |  「  大人になって理解する実家の安心感  」  |  |  SONO MAKERS  |  3:36   
-10  .  |  「  IKEIKE&ORAORA  」  |  |  SONO MAKERS  |  2:30   
-11  .  |  「  奮い立つ矮小な精神  」  |  |  SONO MAKERS  |  3:25   
-12  .  |  「  厄介事が手土産片手にやってきた  」  |  |  SONO MAKERS  |  4:01   
-13  .  |  「  社会の歯車も悪くは無い  」  |  |  SONO MAKERS  |  3:55   
-14  .  |  「  大人の世界はメンドくさい  」  |  |  SONO MAKERS  |  4:02   
-15  .  |  「  朝チュン  」  |  |  SONO MAKERS  |  3:54   
-  
-合計時間:
-
-|  54:41  
-     収録曲 - ディスク2（LPTN-0035）  |   
+     収録曲 - ディスク1（LPTN-0034）  |   |||||
+|---|---|---|---|---|
+|#  |  タイトル  |  作詞  |  作曲  |  時間   |
+|1  .  |  「  Girls' Carnival  」  (歌：ユウカ)  |  永原さくら  |  ウミガメ  |  4:09   |
+|2  .  |  「  Girls' Carnival Inst  」  |  |  ウミガメ  |  4:09   |
+|3  .  |  「  Girls' Carnival Karaoke  」  |  |  ウミガメ  |  4:09   |
+|4  .  |  「  New Life  」  |  |  SONO MAKERS  |  3:05   |
+|5  .  |  「  レンガ通りと青い空  」  |  |  SONO MAKERS  |  3:06   |
+|6  .  |  「  夏の太陽は爽やかに  」  |  |  SONO MAKERS  |  4:21   |
+|7  .  |  「  うひゃっほぃ♪  」  |  |  SONO MAKERS  |  3:03   |
+|8  .  |  「  自堕落で平凡な日常  」  |  |  SONO MAKERS  |  3:16   |
+|9  .  |  「  大人になって理解する実家の安心感  」  |  |  SONO MAKERS  |  3:36   |
+|10  .  |  「  IKEIKE&ORAORA  」  |  |  SONO MAKERS  |  2:30   |
+|11  .  |  「  奮い立つ矮小な精神  」  |  |  SONO MAKERS  |  3:25   |
+|12  .  |  「  厄介事が手土産片手にやってきた  」  |  |  SONO MAKERS  |  4:01   |
+|13  .  |  「  社会の歯車も悪くは無い  」  |  |  SONO MAKERS  |  3:55   |
+|14  .  |  「  大人の世界はメンドくさい  」  |  |  SONO MAKERS  |  4:02   |
+|15  .  |  「  朝チュン  」  |  |  SONO MAKERS  |  3:54   <br>  <br>合計時間:<br>|
+||  54:41  |
+|     収録曲 - ディスク2（LPTN-0035）  |   |
 ---  
 #  |  タイトル  |  作詞  |  作曲  |  時間   
 1  .  |  「  今日も楽しかったよ  」  |  |  SONO MAKERS  |  3:43   

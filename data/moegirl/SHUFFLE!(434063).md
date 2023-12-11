@@ -1,18 +1,15 @@
-|  **SHUFFLE!**  
----  
-类型  |  ADV   
-平台  |  Windows  PlayStation 2   
-分级  |  |  CERO  :  |  \- 15岁以上   
----|---  
-EOCS  :  |  \- 18岁以下禁止   
-开发  |  Navel   
-发行  |  Navel    
-角川书店  （PS2）  
-~~YumeHaven（Steam）~~  
-编剧  |  あごバリア  、Long Cube   
-程序  |  ひろし   
-美工  |  西又葵  、  鈴平ひろ   
-发行时间  |  2004年1月30日（日语初回限定）   
+|  **SHUFFLE!**  ||
+|---|---|
+|类型  |  ADV   |
+|平台  |  Windows  PlayStation 2   |
+|分级  |    CERO  :    \- 15岁以上|
+|EOCS  :  |  \- 18岁以下禁止   |
+|开发  |  Navel   |
+|发行  |  Navel    <br>角川书店  （PS2）  <br>~~YumeHaven（Steam）~~  |
+|编剧  |  あごバリア  、Long Cube   |
+|程序  |  ひろし   |
+|美工  |  西又葵  、  鈴平ひろ   |
+|发行时间  |  2004年1月30日（日语初回限定）   |
 2004年1月30日（PC廉价）  
 2005年10月20日（PS2）  [1]  
 2007年11月22日（PC纪念版）  

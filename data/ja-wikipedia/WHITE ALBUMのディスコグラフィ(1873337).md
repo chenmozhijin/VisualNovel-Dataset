@@ -10,12 +10,12 @@ WHITE ALBUM  > **WHITE ALBUMのディスコグラフィ**
 **·** TWL  （  2019年8月  ）  
   
 ---|---  
-** WHITE ALBUM  のディスコグラフィ ** |  リリースリスト   
----  
-↙  シングル  |  6   
-↙  **サウンドトラック** |  2   
-↙  ドラマCD  |  2   
-↙  コンピレーションアルバム  |  1   
+** WHITE ALBUM  のディスコグラフィ ** |  リリースリスト   ||
+|---|---|
+|↙  シングル  |  6   |
+|↙  **サウンドトラック** |  2   |
+|↙  ドラマCD  |  2   |
+|↙  コンピレーションアルバム  |  1   |
 脚注  
   
 **WHITE ALBUMのディスコグラフィ** （ホワイト・アルバムのディスコグラフィ）では、  キングレコード  から発売された、  アダルトゲーム
@@ -48,10 +48,9 @@ B面  |  ツイてるねノッてるね
 |  \-  |  **WHITE ALBUM** （2009年）  |  恋色空  （  2010年  ）   
 ---|---|---  
   
-|  『  WHITE ALBUM Character Song Best & Sound Track  』  収録曲  
----  
-|  夢幻  （TV SIZE）（Live Ver.）  （2）  |  **WHITE ALBUM** （3）  |  SOUND OF DESTINY  （4）   
----|---|---  
+|  『  WHITE ALBUM Character Song Best & Sound Track  』  収録曲  ||||
+|---|---|---|---|
+||  夢幻  （TV SIZE）（Live Ver.）  （2）  |  **WHITE ALBUM** （3）  |  SOUND OF DESTINY  （4）   |
   
 テンプレートを表示  
   
@@ -101,10 +100,9 @@ B面  |  悲しみよこんにちは
 |  WHITE ALBUM  （2009年）  |  **恋色空** （2010年）  |  \-   
 ---|---|---  
   
-|  『  WHITE ALBUM Character Song Best & Sound Track  』  収録曲  
----  
-|  SOUND OF DETINY  （4）  |  **恋色空** （5）  |  POWDER SNOW  （Live Ver.）  （6）   
----|---|---  
+|  『  WHITE ALBUM Character Song Best & Sound Track  』  収録曲  ||||
+|---|---|---|---|
+||  SOUND OF DETINY  （4）  |  **恋色空** （5）  |  POWDER SNOW  （Live Ver.）  （6）   |
   
 テンプレートを表示  
   
@@ -158,10 +156,9 @@ B面  |  ガラスの華
 |  \-  |  **SOUND OF DESTINY** （2009年）  |  POWDER SNOW  （2010年）   
 ---|---|---  
   
-|  『  WHITE ALBUM Character Song Best & Sound Track  』  収録曲  
----  
-|  WHITE ALBUM  （Live Ver.）  （3）  |  **SOUND OF DESTINY** （4）  |  恋色空  （5）   
----|---|---  
+|  『  WHITE ALBUM Character Song Best & Sound Track  』  収録曲  ||||
+|---|---|---|---|
+||  WHITE ALBUM  （Live Ver.）  （3）  |  **SOUND OF DESTINY** （4）  |  恋色空  （5）   |
   
 テンプレートを表示  
   
@@ -221,10 +218,9 @@ B面  |  1986年のマリリン
 |  SOUND OF DESTINY  (2009年）  |  **POWDER SNOW** (2010年）  |  \-   
 ---|---|---  
   
-|  『  WHITE ALBUM Character Song Best & Sound Track  』  収録曲  
----  
-|  WHITE ALBUM  （3）  |  **POWDER SNOW** （4）  |  WHITE ALBUM  （5）   
----|---|---  
+|  『  WHITE ALBUM Character Song Best & Sound Track  』  収録曲  ||||
+|---|---|---|---|
+||  WHITE ALBUM  （3）  |  **POWDER SNOW** （4）  |  WHITE ALBUM  （5）   |
   
 テンプレートを表示  
   
