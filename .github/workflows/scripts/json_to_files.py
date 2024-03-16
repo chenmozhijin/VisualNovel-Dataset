@@ -35,19 +35,19 @@ with open(args.input_json, 'r', encoding='utf-8') as json_file:
 for item in data:
     title = item['title']
     pageid = item['pageid']
-    plain_text = item['text']['plain']
-    markdown_text = item['text']['markdown']
+    plain_text = item['data']['plain']
+    markdown_text = item['data']['markdown']
 
     # 处理标题中的不合法字符
     file_title = ''.join(char_mapping.get(c, c) for c in title)
 
     # 生成纯文本文件路径
-    plain_filename = os.path.join(args.output_folder, f'{file_title}({pageid}).txt')
+    plain_filename = os.path.join(args.output_folder, f'{file_title}({str(pageid)}).txt')
     with open(plain_filename, 'w', encoding='utf-8') as plain_file:
         plain_file.write(plain_text)
 
     # 生成Markdown文件路径
-    markdown_filename = os.path.join(args.output_folder, f'{file_title}({pageid}).md')
+    markdown_filename = os.path.join(args.output_folder, f'{file_title}({str(pageid)}).md')
     with open(markdown_filename, 'w', encoding='utf-8') as markdown_file:
         markdown_file.write(markdown_text)
 

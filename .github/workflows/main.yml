@@ -27,8 +27,6 @@ jobs:
                 mkdir -p workdir
                 cd workdir
                 git clone https://github.com/chenmozhijin/mediawikiextractor
-                git clone https://github.com/chenmozhijin/html2text.git
-                cp -RT html2text/html2text mediawikiextractor/html2text
 
             - name: 安装依赖
               run: |
@@ -68,8 +66,6 @@ jobs:
                 mkdir -p workdir
                 cd workdir
                 git clone https://github.com/chenmozhijin/mediawikiextractor
-                git clone https://github.com/chenmozhijin/html2text.git
-                cp -RT html2text/html2text mediawikiextractor/html2text
 
             - name: 安装依赖
               run: |
