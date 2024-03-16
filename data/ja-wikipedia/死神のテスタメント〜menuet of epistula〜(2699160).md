@@ -1,4 +1,5 @@
-死神のテスタメント  〜menuet of epistula〜  |  ジャンル  |  現代伝奇サスペンスバトル  AVG     
+死神のテスタメント  
+〜menuet of epistula〜  ジャンル  |  現代伝奇サスペンスバトル  AVG     
 ---|---  
 対応機種  |  Windows XP/Vista/7     
 開発元  |  3rdEye   
@@ -105,17 +106,15 @@ CGモード  |  あり
 
 ##  楽曲  
 
-|  映像外部リンク  
+映像外部リンク  
 ---  
 『死神のテスタメント〜menuet of epistula〜』PV  \-  YouTube  
 『死神のテスタメント〜menuet of epistula〜』Special Compilation SoundTrack PV  \-  YouTube  
-|  | 
-
-**この節は 検証可能  な  参考文献や出典  が全く示されていないか、不十分です。 ** 出典を追加  して記事の信頼性向上にご協力ください。  （
-このテンプレートの使い方  ）  出典検索  ?  :  "死神のテスタメント〜menuet of epistula〜"  –  ニュース  **·**
-書籍  **·** スカラー  **·** CiNii  **·** J-STAGE  **·** NDL  **·** dlib.jp  **·**
-ジャパンサーチ  **·** TWL  （  2014年5月  ）  
-  
+|  **この節は 検証可能  な  参考文献や出典  が全く示されていないか、不十分です。 ** 出典を追加  して記事の信頼性向上にご協力ください。
+（  このテンプレートの使い方  ）  
+出典検索  ?  :  "死神のテスタメント〜menuet of epistula〜"  –  ニュース  **·** 書籍  **·** スカラー
+**·** CiNii  **·** J-STAGE  **·** NDL  **·** dlib.jp  **·** ジャパンサーチ  **·** TWL
+（  2014年5月  ）  
 ---|---  
   
 オープニングテーマ「Testament of Judgement」  

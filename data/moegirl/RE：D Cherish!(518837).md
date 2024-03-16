@@ -1,22 +1,40 @@
-|  RE:D Cherish!  レッドチェリッシュ！  ||
-|---|---|
-|原名  |  RE:D Cherish!   |
-|类型  |  恋爱冒险   |
-|平台  |  下载版  Windows 8.1/10  浏览器版  Windows 10/11  Mac OS X Yosemite以上  Android 5以上 (7以上推荐)  iOS 最新版  家机版  PlayStation 4  Nintendo Switch   |
-|分级  |  PC：    EOCS  :    \- 18岁以下禁止|
-|PS4/NS：  |  CERO  :    \- 17岁以上|
-|开发  |  CRYSTALiA   |
-|发行  |  CRYSTALiA  （PC）   <br>Entergram（PS4/NS）  |
-|制作人  |  砥石大树   |
-|编剧  |  砥石大树   <br>若濑谅  <br>リリリ  （Sub）  |
-|美工  |  ぺろ    <br>サイキライダー  <br>noyF  <br>織澤あきふみ  （Sub）  |
-|音乐  |  ALVINE   |
-|发行时间  |  2022年2月25日（PC）   |
+RE:D Cherish!  
+レッドチェリッシュ！  
+---  
+原名  |  RE:D Cherish!   
+类型  |  恋爱冒险   
+平台  |  下载版   
+Windows 8.1/10  
+浏览器版  
+Windows 10/11  
+Mac OS X Yosemite以上  
+Android 5以上 (7以上推荐)  
+iOS 最新版  
+家机版  
+PlayStation 4  
+Nintendo Switch  
+分级  |  PC：  |  EOCS  :  |  \- 18岁以下禁止   
+---|---  
+PS4/NS：  CERO  :  |  \- 17岁以上   
+---|---  
+开发  |  CRYSTALiA   
+发行  |  CRYSTALiA  （PC）   
+Entergram（PS4/NS）  
+制作人  |  砥石大树   
+编剧  |  砥石大树   
+若濑谅  
+リリリ  （Sub）  
+美工  |  ぺろ    
+サイキライダー  
+noyF  
+織澤あきふみ  （Sub）  
+音乐  |  ALVINE   
+发行时间  |  2022年2月25日（PC）   
 2023年11月22日（PS4/NS）  
 相关作品  |  RE:D Cherish! -Eternity Blood-    
 RE:D Cherish! SS 与露珠的某次行动  
 RE:D Cherish! SS 与德斯的某次行动  
-|  “  |  ** 为迷途之人提供  食物  与  酒  。愿它成为开创明日的  粮食  ** |  ”   
+“  |  ** 为迷途之人提供  食物  与  酒  。愿它成为开创明日的  粮食  ** |  ”   
 ---|---|---  
   
   
@@ -129,26 +147,27 @@ SS ルージュのワンオペレーション** ）、 **RE:D Cherish! SS 与德
 
 ##  -Eternity Blood-
 
-|  RE:D Cherish! -Eternity Blood-  レッドチェリッシュ！  エタニティブラッド  ||
-|---|---|
-|原名  |  RE:D Cherish! -Eternity Blood-   |
-|类型  |  恋爱冒险   |
-|平台  |  Windows 8.1、10、11   |
-|分级  |    EOCS  :    \- 18岁以下禁止|
-|开发  |  CRYSTALiA   |
-|发行  |  CRYSTALiA   |
-|制作人  |  砥石大树   |
-|编剧  |  砥石大树   <br>若濑谅  |
-|美工  |  ぺろ    <br>サイキライダー  <br>noyF  <br>白惠リえ  （SD）  |
-|音乐  |  ALVINE   |
-|发行时间  |  2023年1月27日   |
-||  “|
-
-今宵、  電子吸血鬼  （  ディジタリードラクリアス  ）  が舞い戻る。
-
-今夜，  电子吸血鬼  （  Digitally Draculas  ）  归来。
-
-|  ”  
+RE:D Cherish! -Eternity Blood-  
+レッドチェリッシュ！  
+エタニティブラッド  
+---  
+原名  |  RE:D Cherish! -Eternity Blood-   
+类型  |  恋爱冒险   
+平台  |  Windows 8.1、10、11   
+分级  |  |  EOCS  :  |  \- 18岁以下禁止   
+---|---  
+开发  |  CRYSTALiA   
+发行  |  CRYSTALiA   
+制作人  |  砥石大树   
+编剧  |  砥石大树   
+若濑谅  
+美工  |  ぺろ    
+サイキライダー  
+noyF  
+白惠リえ  （SD）  
+音乐  |  ALVINE   
+发行时间  |  2023年1月27日   
+“  |  今宵、  電子吸血鬼  （  ディジタリードラクリアス  ）  が舞い戻る。  今夜，  电子吸血鬼  （  Digitally Draculas  ）  归来。  |  ”   
 ---|---|---  
   
 **RE:D Cherish! -Eternity Blood-** （日语：  **レッドチェリッシュ・エタニティブラッド** ）是Amuse
@@ -231,5 +250,3 @@ Craft旗下品牌  CRYSTALiA  研发的  Galgame  。
      主唱：冬乃樱 
 
   
-
-##  注释

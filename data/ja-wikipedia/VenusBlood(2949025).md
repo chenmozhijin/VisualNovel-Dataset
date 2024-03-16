@@ -1,4 +1,4 @@
-VenusBlood  |  ジャンル  |  姉妹姫触手調教SLG   
+VenusBlood  ジャンル  |  姉妹姫触手調教SLG   
 ---|---  
 対応機種  |  Windows 2000/XP/Vista   
 発売元  |  DualMage   

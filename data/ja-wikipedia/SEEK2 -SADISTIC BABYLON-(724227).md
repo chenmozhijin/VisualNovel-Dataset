@@ -1,4 +1,4 @@
-SEEK2 -SADISTIC BABYLON-  |  ジャンル  |  SM調教シミュレーションゲーム   
+SEEK2 -SADISTIC BABYLON-  ジャンル  |  SM調教シミュレーションゲーム   
 ---|---  
 対応機種  |  Windows 95/98   
 発売元  |  PIL   

@@ -1,4 +1,4 @@
-ソーサレス*アライヴ! 〜the World's End Fallen Star〜  |  対応機種  |  Microsoft Windows  7  /  8  /  8.1  /  10   
+ソーサレス*アライヴ! 〜the World's End Fallen Star〜  対応機種  |  Microsoft Windows  7  /  8  /  8.1  /  10   
 ---|---  
 発売元  |  Fluorite   
 キャラクターデザイン  |  早川ハルイ、庄名泉石、桜みさき、美咲ゆう   

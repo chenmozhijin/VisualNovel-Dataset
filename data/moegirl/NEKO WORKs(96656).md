@@ -1,15 +1,9 @@
 **此页面中存在需要长期更新的内容及资料列表，现存条目中资料未必是最新。**  
 另请编辑者注意：请不要在人物历程等相关内容中悬挂此模板。具体使用方法详见  模板说明文档  。
 
-|  同人社团NEKO WORKs  
+同人社团NEKO WORKs  
 ---  
-  
-新版logo
-
-旧版logo
-
-Chatte noireLOGO  
-  
+新版logo  旧版logo  Chatte noireLOGO  
 名称  |  NEKO WORKs   
 类型  |  Galgame会社   
 母公司  |  株式会社Amanita   

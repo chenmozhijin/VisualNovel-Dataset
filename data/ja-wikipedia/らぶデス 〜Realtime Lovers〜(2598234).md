@@ -1,4 +1,5 @@
-らぶデス 〜Realtime Lovers〜  Love Death  |  ジャンル  |  フルリアルタイムポリゴン3DADV   
+らぶデス 〜Realtime Lovers〜  
+Love Death  ジャンル  |  フルリアルタイムポリゴン3DADV   
 ---|---  
 対応機種  |  Windows 98SE/Me/2000/XP   
 発売元  |  TEATIME   

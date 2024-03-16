@@ -1,4 +1,4 @@
-|  『  CLANNAD ORIGINAL SOUNDTRACK  』  
+『  CLANNAD ORIGINAL SOUNDTRACK  』  
 ---  
 Key  の  サウンドトラック  
 リリース  |  2005年  1月28日   
@@ -10,7 +10,10 @@ Key  の  サウンドトラック
 
   
 Key  アルバム 年表  
-|  Kanon ORIGINAL SOUNDTRACK  （  2002年  ）  |  **CLANNAD ORIGINAL SOUNDTRACK** （2005年）  |  planetarian Original SoundTrack  （  2006年  ）   
+|  Kanon ORIGINAL SOUNDTRACK  
+（  2002年  ）  |  **CLANNAD ORIGINAL SOUNDTRACK**   
+（2005年）  |  planetarian Original SoundTrack    
+（  2006年  ）  
 ---|---|---  
 テンプレートを表示  
   
@@ -18,7 +21,7 @@ Key  アルバム 年表
 
 ##  構成  
 
-|  映像外部リンク  
+映像外部リンク  
 ---  
 ゲーム『CLANNAD』オープニングムービー  \-  YouTube  
   
@@ -26,10 +29,7 @@ Key  アルバム 年表
 』のサウンドトラックで、ゲーム内で使用された主題歌・BGMが収録されている。CD3枚組で、大まかにはDisc1に劇中の日常シーンで流れる曲、Disc2前半に各シナリオクライマックスで流れる曲、Disc2後半に「AFTER
 STORY」のシナリオで流れる曲、Disc3に作中で使用されていない曲が収録されている。のちにテレビアニメ版のBGMとして用いられた曲も多く、このアルバムの収録曲を元に作られている主題歌・イメージソングも多い。「メグメル」、「-影二つ-」、「小さなてのひら」の3曲のみ、ブックレットにメロディー譜面が収録されている。
 
-|  | 
-
-この節の  加筆  が望まれています。  
-  
+|  この節の  加筆  が望まれています。  
 ---|---  
   
 ##  批評・チャート成績  

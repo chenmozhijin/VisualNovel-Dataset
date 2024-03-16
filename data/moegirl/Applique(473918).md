@@ -1,13 +1,13 @@
-|  ぱれっと  ||
-|---|---|
-|名称  |  Applique/あっぷりけ   |
-|别名  |  妹药社、贴花社、郁金香社   |
-|类型  |  游戏制作公司   |
-|母公司  |  AKABEiSOFT2   |
-|主要作品  |  黄昏的禁忌之药   |
-|创办人  |  憲yuki   |
-|相关公司  |  晓WORKS   |
-|网址  |  http://www.applique-soft.com/   |
+ぱれっと  
+---  
+名称  |  Applique/あっぷりけ   
+别名  |  妹药社、贴花社、郁金香社   
+类型  |  游戏制作公司   
+母公司  |  AKABEiSOFT2   
+主要作品  |  黄昏的禁忌之药   
+创办人  |  憲yuki   
+相关公司  |  晓WORKS   
+网址  |  http://www.applique-soft.com/   
   
 **Applique** （日语：  あっぷりけ  ）是隶属于  AKABEiSOFT2  （日语：  あかべぇそふとつぅ  ）的一个  Galgame
 游戏品牌，代表作为  黄昏的禁忌之药  。
@@ -39,18 +39,27 @@ Appique原意指织物上的缝饰、嵌花、贴花等，不过在这里它是�
 
 ##  作品列表
 
-|  序号  |  发售日期  |  作品名  |  原画  |  剧本  |  音乐  |  官网   
+序号  |  发售日期  |  作品名  |  原画  |  剧本  |  音乐  |  官网   
 ---|---|---|---|---|---|---  
 1  |  2007年  0  3月23日  |  見上げた空におちていく  |  オダワラハコネ  |  桐月  |  鷹石しのぶ  |  http://www.applique-soft.com/soraoti/index.html   
 2  |  2008年10月23日  |  コンチェルトノート  |  http://www.applique-soft.com/concerto/index.html   
-3  |  2010年  0  7月22日  |  黄昏的禁忌之药  （  黄昏のシンセミア  ）  |  http://www.applique-soft.com/sin/index.html   
+3  |  2010年  0  7月22日  |  黄昏的禁忌之药    
+（  黄昏のシンセミア  ）  |  http://www.applique-soft.com/sin/index.html   
 4  |  2012年  0  9月28日  |  Re:birth colony -Lost azurite-  |  浅海朝美  |  森崎亮人  |  miyaji  |  http://www.applique-soft.com/rebirth/index.html   
 4.5  |  2012年12月14日  |  黄昏の先にのぼる明日-あっぷりけFanDisc-  [4]  |  オダワラハコネ  |  桐月  |  鷹石しのぶ  |  http://www.applique-soft.com/apfd/top.html   
-5  |  2015年  0  3月27日  |  五色浮影绽放于花之海洋  （  花の野に咲くうたかたの  ）  |  http://www.applique-soft.com/hananono/index.html   
-6  |  2016年  0  3月25日  |  编织时间的约定  （  時を紡ぐ約束  ）  |  オダワラハコネ  師走ほりお  |  憲yuki  しまとら  |  http://www.applique-soft.com/tokisoku/index.php   
-7  |  2016年10月  0  1日  |  月影魅像  [5]  （  月影のシミュラクル  ）  |  オダワラハコネ  |  桐月  |  http://www.high-level.jp/product/tuki/index.html   
-2017年  0  1月27日  |  月影魅像-解放之羽-  （  月影のシミュラクル-解放の羽-  ）  |  http://www.applique-soft.com/tuki2/index.html   
-8  |  2019年10月25日  |  交汇协奏曲  （  クロスコンチェルト  ）  -Together, we all were able to create our future. Thanks.-  |  http://www.applique-soft.com/cross/top.html   
+5  |  2015年  0  3月27日  |  五色浮影绽放于花之海洋    
+（  花の野に咲くうたかたの  ）  |  http://www.applique-soft.com/hananono/index.html   
+6  |  2016年  0  3月25日  |  编织时间的约定    
+（  時を紡ぐ約束  ）  |  オダワラハコネ    
+師走ほりお  |  憲yuki    
+しまとら  |  http://www.applique-soft.com/tokisoku/index.php   
+7  |  2016年10月  0  1日  |  月影魅像  [5]    
+（  月影のシミュラクル  ）  |  オダワラハコネ  |  桐月  |  http://www.high-level.jp/product/tuki/index.html   
+2017年  0  1月27日  |  月影魅像-解放之羽-    
+（  月影のシミュラクル-解放の羽-  ）  |  http://www.applique-soft.com/tuki2/index.html   
+8  |  2019年10月25日  |  交汇协奏曲    
+（  クロスコンチェルト  ）  
+-Together, we all were able to create our future. Thanks.-  |  http://www.applique-soft.com/cross/top.html   
   
 ##  注释与参考资料
 

@@ -1,4 +1,4 @@
-|  魔王と踊れ! -Legend of Lord of Lords-  
+魔王と踊れ! -Legend of Lord of Lords-  
 ---  
 ゲーム  
 ゲームジャンル  |  本格ファンタジーRPG   

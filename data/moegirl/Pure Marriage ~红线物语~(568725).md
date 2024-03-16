@@ -1,16 +1,6 @@
-|  Pure Marriage ~红线物语~  
+Pure Marriage ~红线物语~  
 ---  
-  
-圆华篇
-
-芹香篇
-
-樱花篇
-
-后宫篇
-
-总集篇  
-  
+圆华篇  芹香篇  樱花篇  后宫篇  总集篇  
 原名  |  Pure Marriage ～赤い糸物語～   
 常用译名  |  Pure Marriage ～红线物语～   
 类型  |  ADV   
@@ -158,9 +148,7 @@ CV：  杏花
 
 ##  相关音乐
 
-|
-
-  * 圆华篇 OP： 
+  * 圆华篇 OP：   
 
      **『 PureMarriage ～マーガレットの絆～  』 **
      演唱：  星丘圆华  （CV：  藤乃理香  ） 
@@ -168,16 +156,16 @@ CV：  杏花
      作曲：  桜井尚哉  (Crayon Music Studio) 
      编曲：  桜井尚哉  (Crayon Music Studio) 
 
-  * 芹香篇 OP： 
+  * 芹香篇 OP：   
 
      **『 PureMarriage ～夢闇に浮かぶ三日月の揺り籠～  』 **
      演唱：  广原芹香  （CV：  梦月夜美  ） 
      作词：杏花 
      作曲：  桜井尚哉  (Crayon Music Studio) 
      编曲：  桜井尚哉  (Crayon Music Studio) 
-</br> | 
+|
 
-  * 樱花篇 OP： 
+  * 樱花篇 OP：   
 
      **『 PureMarriage ～妹背泡沫～  』 **
      演唱：  花咲樱花  （CV：  广深香菜  ） 
@@ -185,13 +173,12 @@ CV：  杏花
      作曲：  桜井尚哉  (Crayon Music Studio) 
      编曲：  桜井尚哉  (Crayon Music Studio) 
 
-  * ED： 
+  * ED：   
 
      **『 ラビュフォエバ  』 **
      演唱：  杏花 
      作词：  村山みどり 
      作曲：杏花/  桜井尚哉  (Crayon Music Studio) 
-     编曲：  桜井尚哉  (Crayon Music Studio) 
-</br>  
+     编曲：  桜井尚哉  (Crayon Music Studio)   
 ---|---  
   

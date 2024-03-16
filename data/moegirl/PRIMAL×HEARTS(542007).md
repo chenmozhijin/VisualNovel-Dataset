@@ -1,13 +1,15 @@
-|  PRIMAL×HEARTS  ||
-|---|---|
-|原名  |  PRIMAL×HEARTS   |
-|类型  |  ADV   |
-|平台  |  Windows   |
-|分级  |  R-18   |
-|开发  |  MARMALADE   |
-|发行  |  MARMALADE（日文）  Shiravune  （中英文）   |
-|发行时间  |  2014年8月29日（日文）  2021年7月30日（中英文）   |
-|相关作品  |  PRIMAL×HEARTS2   |
+PRIMAL×HEARTS  
+---  
+原名  |  PRIMAL×HEARTS   
+类型  |  ADV   
+平台  |  Windows   
+分级  |  R-18   
+开发  |  MARMALADE   
+发行  |  MARMALADE（日文）   
+Shiravune  （中英文）  
+发行时间  |  2014年8月29日（日文）   
+2021年7月30日（中英文）  
+相关作品  |  PRIMAL×HEARTS2   
   
 《 **PRIMAL×HEARTS** 》（日语：  プライマルハーツ  ）是由  MARMALADE  制作发行的一部  Galgame
 ，于2014年8月29日发售。
@@ -72,7 +74,7 @@
 
 杂志封面
 
-|  |   
+|  
 ---|---  
   
 剧情中出现的杂志，封面人物为同会社前作《恋色婚礼》中男配角蜂须贺友矢的染发版。

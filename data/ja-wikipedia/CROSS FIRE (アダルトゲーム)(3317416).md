@@ -1,4 +1,4 @@
-CROSS FIRE  |  ジャンル  |  学園恋愛バトルADV   
+CROSS FIRE  ジャンル  |  学園恋愛バトルADV   
 ---|---  
 対応機種  |  Windows 98/2000/Me/XP   
 発売元  |  JANIS   

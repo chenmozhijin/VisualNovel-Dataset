@@ -6,28 +6,39 @@
 ALIA's CARNIVAL!  ジャンル  ちょっと不思議な学園恋愛ADV
 対応機種  Microsoft Windows XP  /  Vista  /  7  /  8  /  10
 Android  /  iPhone
-発売元  NanaWind  (PC)
-萌えAPP  (Android/iOS)
+開発元  NanaWind
+発売元  [PC]  NanaWind
+[Android/iOS]  萌えAPP
+[Steam]HIKARI FIELD
 キャラクターデザイン  七尾奈留  、  Mitha
 シナリオ  葉月サイ、大阪ゲノム
-発売日  2014年3月28日 (PC)
-2015年4月24日 (Android)
-2015年6月12日 (iOS)
-2019年11月15日 (Steam)
-レイティング  18禁 (PC)
-12歳以上 (Android)
-17歳以上推奨 (iOS)
+発売日  [PC]2014年3月28日
+[Android]2015年4月24日
+[iOS]2015年6月12日
+[Steam]2019年11月15日
+レイティング  [PC]18禁
+[Android]12歳以上
+[iOS]17歳以上推奨
+[Steam]全年齢
+画面サイズ  1280×720
 キャラクターボイス  フルボイス
+備考  [Steam]18禁パッチ有
 テンプレートを表示
 ALIA's CARNIVAL! Flowering Sky  ジャンル  花と蒼月のちょっと不思議な学園恋愛ADV
 対応機種  Microsoft Windows Vista/7/8
-発売元  NanaWind
+開発元  NanaWind
+発売元  [PC]  NanaWind
+[Steam]HIKARI FIELD
 キャラクターデザイン  七尾奈留、Mitha
 シナリオ  葉月サイ、夕凪和泉、桷修斗
-発売日  2015年5月29日
-レイティング  18禁
+発売日  [PC]2015年5月29日
+[Steam]2023年6月21日
+レイティング  [PC]18禁
+[Steam]全年齢
+画面サイズ  1280×720
 キャラクターボイス  フルボイス
 備考  サウンドトラックCD付属
+[Steam]18禁パッチ有
 テンプレートを表示
 ALIA's CARNIVAL! サクラメント  ジャンル  ちょっと不思議な学園恋愛ADV
 対応機種  PlayStation Vita

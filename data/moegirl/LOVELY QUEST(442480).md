@@ -5,23 +5,26 @@
 
 本条目经过  穹妹  的认可，可以给全世界的  妹控  观赏。
 
-观看本文前请大声欢呼三声  有个能干的妹妹真好  ，否则属于  思想犯罪  ，下场可能是：
+观看本文前请大声欢呼三声  有个能干的妹妹真好  ，否则属于思想犯罪，下场可能是：
 
-  1. 被推到  叉依姬神社  的湖里淹死或者  转学  ； 
+  1. 被推到  叉依姬神社  的湖里淹死或者  转学 
   2. 与  春日野悠  搞姬  ，从此过上性福快乐的生活 
   3. 被自己的妹妹抛弃 
 
-|  LOVELY QUEST  ||
-|---|---|
-|原名  |  LOVELY QUEST   |
-|类型  |  ADV   |
-|平台  |  Windows、PlayStation Vita   |
-|分级  |  PC：    EOCS  :    \- 18岁以下禁止|
-|PSV：  |  CERO  :    \- 17岁以上|
-|开发  |  HOOKSOFT   |
-|发行  |  HOOKSOFT    <br>Piacci（PSV）  |
-|模式  |  单人单机   |
-|发行时间  |  2012-09-28（PC）   |
+LOVELY QUEST  
+---  
+原名  |  LOVELY QUEST   
+类型  |  ADV   
+平台  |  Windows、PlayStation Vita   
+分级  |  PC：  |  EOCS  :  |  \- 18岁以下禁止   
+---|---  
+PSV：  CERO  :  |  \- 17岁以上   
+---|---  
+开发  |  HOOKSOFT   
+发行  |  HOOKSOFT    
+Piacci（PSV）  
+模式  |  单人单机   
+发行时间  |  2012-09-28（PC）   
 2014-03-27（PSV）  
   
 《 **LOVELY QUEST** 》是  HOOKSOFT  开发的一款  Galgame  。

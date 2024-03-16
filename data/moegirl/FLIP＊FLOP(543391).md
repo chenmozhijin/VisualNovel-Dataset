@@ -1,10 +1,6 @@
-|  FLIP＊FLOP  
+FLIP＊FLOP  
 ---  
-  
-INNOCENCE OVERCLOCK
-
-RAMBLING OVERRUN  
-  
+INNOCENCE OVERCLOCK  RAMBLING OVERRUN  
 原名  |  FLIP＊FLOP   
 类型  |  我与她的青春恋爱喜剧ADV   
 平台  |  Windows   
@@ -35,7 +31,7 @@ RAMBLING OVERRUN
 
 ###  INNOCENCE OVERCLOCK
 
-|  “  |  能够触碰到你——竟是如此温暖、高兴之事  |  ”   
+“  |  能够触碰到你——竟是如此温暖、高兴之事  |  ”   
 ---|---|---  
   
 
@@ -55,7 +51,7 @@ RAMBLING OVERRUN
 
 ###  RAMBLING OVERRUN
 
-|  “  |  是的，我决定把前辈变成我的东西  |  ”   
+“  |  是的，我决定把前辈变成我的东西  |  ”   
 ---|---|---  
   
 

@@ -1,13 +1,15 @@
-Hooked on You: A Dead by Daylight Dating Sim  |  ジャンル  |  恋愛シミュレーションゲーム   
+Hooked on You: A Dead by Daylight Dating Sim  ジャンル  |  恋愛シミュレーションゲーム   
 ---|---  
-対応機種  |  Microsoft Windows  macOS  SteamOS  \+  Linux   
+対応機種  |  Microsoft Windows    
+macOS  
+SteamOS  \+  Linux  
 開発元  |  Psyop  （  英語版  ）   
 発売元  |  Behaviour Interactive   
 人数  |  1人   
 メディア  |  [Win/Mac]ダウンロード   
 発売日  |  2022年  8月4日   
 テンプレートを表示  
-|  映像外部リンク  
+映像外部リンク  
 ---  
 Hooked on You 打ち上げトレーラー  
   
@@ -97,9 +99,10 @@ Finger Lickin’ Good Dating Simulator  （  英語版  ）
 
 ##  評価と展望  
 
-|  評価  ||
+評価  
+---  
+|  レビュー結果  ||
 |---|---|
-||  レビュー結果  <br>---  |
 |媒体  |  結果   |
 |TheGamer  |  3.5/5     |
 |TechRaptor  |  7.5/10     |

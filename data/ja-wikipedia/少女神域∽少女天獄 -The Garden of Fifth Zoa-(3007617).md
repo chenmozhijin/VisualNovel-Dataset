@@ -1,4 +1,4 @@
-少女神域∽少女天獄 -The Garden of Fifth Zoa-  |  ジャンル  |  AVG     
+少女神域∽少女天獄 -The Garden of Fifth Zoa-  ジャンル  |  AVG     
 ---|---  
 対応機種  |  Windows XP/Vista/7/8     
 開発元  |  Lass     
@@ -8,7 +8,8 @@
 シナリオ  |  LEGIOん  、  獅子雰麓  、剣技マナ     
 音楽  |  坂本昌一郎     
 オープニングテーマ  |  『キミ∽ツナグ』(  marina  )     
-エンディングテーマ  |  『永久より永遠に』(marina)    『punitive justice』（  彩音  ）     
+エンディングテーマ  |  『永久より永遠に』(marina)      
+『punitive justice』（  彩音  ）    
 発売日  |  2013年  4月26日     
 レイティング  |  18禁   
 キャラクター名設定  |  不可     

@@ -1,13 +1,19 @@
-LOVELY QUEST  LOVELY QUEST -Unlimited- (Vita)  |  ジャンル  |  女の子のかわいらしさを探す純愛学園ラブコメADV   
+LOVELY QUEST  
+LOVELY QUEST -Unlimited- (Vita)  ジャンル  |  女の子のかわいらしさを探す純愛学園ラブコメADV   
 ---|---  
-対応機種  |  Microsoft Windows  XP  /  Vista  /  7  PlayStation Vita   
-発売元  |  HOOKSOFT  (PC)  GNソフトウェア (Vita)   
-発売日  |  2012年  9月28日 (PC)  2014年3月27日 (Vita)   
-レイティング  |  18禁 (PC)  CERO  ：  **D** （17才以上対象）  (Vita)   
+対応機種  |  Microsoft Windows  XP  /  Vista  /  7    
+PlayStation Vita  
+発売元  |  HOOKSOFT  (PC)   
+GNソフトウェア (Vita)  
+発売日  |  2012年  9月28日 (PC)   
+2014年3月27日 (Vita)  
+レイティング  |  18禁 (PC)   
+CERO  ：  **D** （17才以上対象）  (Vita)  
 キャラクター名設定  |  不可   
 エンディング数  |  7   
 セーブファイル数  |  100   
-メディア  |  DVD-ROM  ：1枚 (PC)  PS Vitaカード、ダウンロード (Vita)   
+メディア  |  DVD-ROM  ：1枚 (PC)   
+PS Vitaカード、ダウンロード (Vita)  
 画面サイズ  |  1024×576 フルカラー   
 BGMフォーマット  |  DirectSound   
 キャラクターボイス  |  主人公以外フルボイス   
@@ -16,7 +22,10 @@ CGモード  |  あり
 回想モード  |  あり   
 メッセージスキップ  |  既読/全文   
 オートモード  |  あり   
-備考  |  **初回特典** オリジナルサウンドトラックCD「サウンドエスト」  ラブリースマイルに懸ける女の子たちの意気込みや吐息が全力で感じられる夢のようなドラマCD  ファンタズマゴリア プロモーションカード   
+備考  |  **初回特典**   
+オリジナルサウンドトラックCD「サウンドエスト」  
+ラブリースマイルに懸ける女の子たちの意気込みや吐息が全力で感じられる夢のようなドラマCD  
+ファンタズマゴリア プロモーションカード  
 テンプレートを表示  
   
 『 **LOVELY QUEST** 』（ラブリークエスト）は、  2012年  9月28日に  HOOKSOFT  より発売された  アダルトゲーム

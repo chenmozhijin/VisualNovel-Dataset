@@ -1,243 +1,222 @@
-|
-
-|
-
-**この記事には、百科事典には本来必要のない ファンサイト的な内容  の記述が含まれています。 ** 特定の人物およびグループに対しての、
+|  **この記事には、百科事典には本来必要のない ファンサイト的な内容  の記述が含まれています。 ** 特定の人物およびグループに対しての、
 百科事典に相応しくない  記述や  内容の過剰な記述  は歓迎されません。  ファンサイト的記述の修正・除去の議論や提案がありましたらこのページの  ノート
 で行ってください。  （  2021年2月  ）  
-  
 ---|---  
-|
-
-|
-
-この記事は語句の  内部リンク  、見出しのマークアップなど ** スタイルマニュアル  に沿った修正が必要です。 ** ウィキペディアの体裁への修正
+|  この記事は語句の  内部リンク  、見出しのマークアップなど ** スタイルマニュアル  に沿った修正が必要です。 ** ウィキペディアの体裁への修正
 にご協力ください（  ヘルプ  ）。  （  2021年2月  ）  
-  
 ---|---  
-|  DIABOLIK LOVERS  ||
-|---|---|
-|ジャンル  |  恋愛  、  ダーク・ファンタジー   <br>シチュエーションCD：DIABOLIK LOVERS  ドS吸血CD 全6巻  |
-|発売元  |  Rejet  株式会社   |
-|レーベル  |  Rejet   |
-|発売日  |  2011年  12月21日  〜  2012年  5月23日   <br>シチュエーション  CD  ：DIABOLIK LOVERS  ドS吸血CD VERSUS 全3巻  |
-|発売元  |  Rejet  株式会社   |
-|レーベル  |  Rejet   |
-|発売日  |  2012年  8月29日  〜2012年  10月24日   <br>シチュエーションCD：DIABOLIK LOVERS  ドS吸血CD MORE,BLOOD 全10巻  |
-|発売元  |  Rejet株式会社   |
-|レーベル  |  Rejet   |
-|発売日  |  2013年  4月24日  〜  2014年  1月29日   |
-シチュエーションCD：DIABOLIK LOVERS  ドS吸血CD VERSUSII 全6巻  
+DIABOLIK LOVERS  
+---  
+ジャンル  |  恋愛  、  ダーク・ファンタジー   
+シチュエーションCD：DIABOLIK LOVERS  
+ドS吸血CD 全6巻  
+発売元  |  Rejet  株式会社   
+レーベル  |  Rejet   
+発売日  |  2011年  12月21日  〜  2012年  5月23日   
+シチュエーション  CD  ：DIABOLIK LOVERS  
+ドS吸血CD VERSUS 全3巻  
+発売元  |  Rejet  株式会社   
+レーベル  |  Rejet   
+発売日  |  2012年  8月29日  〜2012年  10月24日   
+シチュエーションCD：DIABOLIK LOVERS  
+ドS吸血CD MORE,BLOOD 全10巻  
+発売元  |  Rejet株式会社   
+レーベル  |  Rejet   
+発売日  |  2013年  4月24日  〜  2014年  1月29日   
+シチュエーションCD：DIABOLIK LOVERS  
+ドS吸血CD VERSUSII 全6巻  
 発売元  |  Rejet株式会社   
 レーベル  |  Rejet   
 発売日  |  2014年  4月16日  〜2014年  9月17日   
-シチュエーションCD：DIABOLIK LOVERS  ドS吸血CD BLOODY BOUQUET 全12巻  
+シチュエーションCD：DIABOLIK LOVERS  
+ドS吸血CD BLOODY BOUQUET 全12巻  
 発売元  |  Rejet株式会社   
 レーベル  |  Rejet   
 発売日  |  2015年  4月22日  〜  2016年  3月23日   
 その他  |  全編ダミーヘッドマイク収録   
-シチュエーションCD：DIABOLIK LOVERS  ドS吸血CDプレミアム Rejet BOX  
+シチュエーションCD：DIABOLIK LOVERS  
+ドS吸血CDプレミアム Rejet BOX  
 発売元  |  Rejet株式会社   
 レーベル  |  Rejet   
 発売日  |  2015年  11月18日   
-シチュエーションCD：DIABOLIK LOVERS  ドS吸血CD VERSUSⅢ 全6巻  
+シチュエーションCD：DIABOLIK LOVERS  
+ドS吸血CD VERSUSⅢ 全6巻  
 発売元  |  Rejet株式会社   
 レーベル  |  Rejet   
 発売日  |  2016年  4月20日  〜2016年  9月21日   
-シチュエーションCD：DIABOLIK LOVERS  Para-Selene 全13巻  
+シチュエーションCD：DIABOLIK LOVERS  
+Para-Selene 全13巻  
 発売元  |  Rejet株式会社   
 レーベル  |  Rejet   
 発売日  |  2017年  4月26日  〜  2018年  4月25日   
-シチュエーションCD：DIABOLIK LOVERS  ドS吸血CD VERSUSⅣ全6巻  
+シチュエーションCD：DIABOLIK LOVERS  
+ドS吸血CD VERSUSⅣ全6巻  
 発売元  |  Rejet株式会社   
 レーベル  |  Rejet   
 発売日  |  2017年  10月25日  〜2018年  3月28日   
-シチュエーションCD：DIABOLIK LOVERS  ドS吸血CD 無神家5th Eternal Blood 全4巻  
+シチュエーションCD：DIABOLIK LOVERS  
+ドS吸血CD 無神家5th Eternal Blood 全4巻  
 発売元  |  Rejet株式会社   
 レーベル  |  Rejet   
 発売日  |  2017年  12月27日  〜2018年  1月24日   
-シチュエーションCD：DIABOLIK LOVERS  ZERO 全13巻  
+シチュエーションCD：DIABOLIK LOVERS  
+ZERO 全13巻  
 発売元  |  Rejet株式会社   
 レーベル  |  Rejet   
 発売日  |  2018年  8月22日  〜  2019年  8月28日   
 その他  |  全編ダミーヘッドマイク収録   
-シチュエーションCD：DIABOLIK LOVERS  ドS吸血CD 月浪＆キノ Born To Die 全3巻  
+シチュエーションCD：DIABOLIK LOVERS  
+ドS吸血CD 月浪＆キノ Born To Die 全3巻  
 発売元  |  Rejet株式会社   
 レーベル  |  Rejet   
 発売日  |  2019年  3月27日  〜2019年  5月22日   
 その他  |  全編ダミーヘッドマイク収録   
-シチュエーションCD：DIABOLIK LOVERS  MORE, MORE BLOOD 全13巻  
+シチュエーションCD：DIABOLIK LOVERS  
+MORE, MORE BLOOD 全13巻  
 発売元  |  Rejet株式会社   
 レーベル  |  Rejet   
 発売日  |  2019年  12月25日  〜2020年  12月23日   
 その他  |  全編ダミーヘッドマイク収録   
-シチュエーションCD：DIABOLIK LOVERS  DAYLIGHT 全13巻  
+シチュエーションCD：DIABOLIK LOVERS  
+DAYLIGHT 全13巻  
 発売元  |  Rejet株式会社   
 レーベル  |  Rejet   
 発売日  |  2021年  3月24日  〜2022年  3月23日   
-その他  |  トールケース仕様、SKiT Dolce・Rejet shop  限定の「吸愛パック」も有償特典として販売、  全編ダミーヘッドマイク収録   
-|  ドラマCD  
----  
-ドラマCD：DIABOLIK LOVERS  Blood & LoveSweet  
-発売元  |  Rejet株式会社   
-レーベル  |  Rejet   
-発売日  |  2012年  8月10日   
-ドラマCD：DIABOLIK LOVERS  DARK FATE 全3巻  
-発売元  |  Rejet株式会社   
-レーベル  |  Rejet   
-発売日  |  2014年  8月20日  〜2014年  10月15日   
-ドラマCD：DIABOLIK LOVERS  LOST EDEN 全4巻  
-発売元  |  Rejet株式会社   
-レーベル  |  Rejet   
-発売日  |  2016年  8月17日  〜2016年  11月16日   
-ドラマCD：DIABOLIK LOVERS  CHAOS LINEAGE 全3巻  
-発売元  |  Rejet株式会社   
-レーベル  |  Rejet   
-発売日  |  2017年  7月26日  〜2017年  9月27日   
-ドラマCD：DIABOLIK LOVERS  HOUSE OF VAMPIRE 全3巻  
-発売元  |  Rejet株式会社   
-レーベル  |  Rejet   
-発売日  |  未定   
-その他  |  キャラクターソングも収録  豪華BOX仕様   
-|  キャラクターソングCD  
----  
-キャラクターソングCD：DIABOLIK LOVERS  キャラクターソング 全6巻  
-発売元  |  Rejet株式会社   
-レーベル  |  Rejet   
-発売日  |  2013年  6月5日  〜2013年  11月6日   
-キャラクターソングCD：DIABOLIK LOVERS  Bloody Songs -SUPER BEST-  
-発売元  |  Rejet株式会社   
-レーベル  |  Rejet   
-発売日  |  2014年  5月21日   
-キャラクターソングCD：DIABOLIK LOVERS MORE  CHARACTER SONG 全10巻  
-発売元  |  Rejet株式会社   
-レーベル  |  Rejet   
-発売日  |  2014年  7月16日  〜2015年  4月15日   
-キャラクターソングCD：DIABOLIK LOVERS MORE  Bloody Songs -SUPER BESTII- 全3巻  
-発売元  |  Rejet株式会社   
-レーベル  |  Rejet   
-発売日  |  2015年  8月19日  （同時発売）   
-キャラクターソングCD：DIABOLIK LOVERS MORE  VERSUS SONG Requiem（2）Bloody Night 全6巻  
-発売元  |  Rejet株式会社   
-レーベル  |  Rejet   
-発売日  |  2015年  10月21日  〜2016年  3月23日   
-キャラクターソングCD：DIABOLIK LOVERS MORE  Sadistic Song 全6巻  
-発売元  |  Rejet株式会社   
-レーベル  |  Rejet   
-発売日  |  2017年  1月25日  〜2017年  3月22日   
-キャラクターソングCD：DIABOLIK LOVERS MORE  Bloody Songs -SUPER BESTIII-  
-発売元  |  Rejet株式会社   
-レーベル  |  Rejet   
-発売日  |  2017年  4月26日   
-|  ウェブラジオ  
----  
-インターネットラジオ：ドS吸血ラジオ  
-配信期間  |  2011年12月19日 - 2012年6月29日  2016年12月21日（5周年記念番組）  2020年12月23日（9周年記念番組）   
-配信サイト  |  ニコニコ動画  、YouTube（9周年記念番組）   
-配信回数  |  全6回+1回（5周年記念番組）+1回（9周年記念番組）   
-パーソナリティ  |  緑川光  、他   
-|  ゲーム  
----  
-ゲーム：DIABOLIK LOVERS  DIABOLIK LOVERS LIMITED V EDITION  
-ゲームジャンル  |  ドS  吸血  恋愛ADV   
-対応機種  |  PSP  PS Vita  （LIMITED V EDITION）   
-開発元  |  Rejet   
-発売元  |  オトメイト   
-キャラクターデザイン  |  さとい   
-プレイ人数  |  1人   
-発売日  |  2012年  10月11日  2013年  12月19日  （LIMITED V EDITION）   
-売上本数  |  27,995本     
-レイティング  |  CERO  ：  **C** （15才以上対象）   
-キャラクターボイス  |  あり   
-ゲーム：DIABOLIK LOVERS MORE,BLOOD  DIABOLIK LOVERS MORE,BLOOD LIMITED V EDITION  
-対応機種  |  PSP  PS Vita（LIMITED V EDITION）   
-開発元  |  Rejet   
-発売元  |  オトメイト   
-キャラクターデザイン  |  さとい   
-プレイ人数  |  1人   
-発売日  |  2013年  10月24日  2015年  1月15日  （LIMITED V EDITION）   
-レイティング  |  CERO  ：  **D** （17才以上対象）   
-キャラクターボイス  |  あり   
-ゲーム：DIABOLIK LOVERS GRAND EDITION  DIABOLIK LOVERS GRAND EDITION for Nintendo
-Switch  
-対応機種  |  PS4  Switch  （for Nintendo Switch）   
-開発元  |  Rejet   
-発売元  |  オトメイト  アイディアファクトリー  （for Nintendo Switch）   
-キャラクターデザイン  |  さとい   
-プレイ人数  |  1人   
-発売日  |  2018年  3月29日  2019年  11月21日  （for Nintendo Switch）   
-レイティング  |  CERO  ：  **D** （17才以上対象）   
-キャラクターボイス  |  あり   
-その他  |  「DIABOLIK LOVERS LIMITED V EDITION」 と  「DIABOLIK LOVERS MORE,BLOOD LIMITED V EDITION」を  1本のソフトにして移植   
-ゲーム：DIABOLIK LOVERS VANDEAD CARNIVAL  
-対応機種  |  PS Vita   
-開発元  |  Rejet   
-発売元  |  オトメイト   
-キャラクターデザイン  |  さとい   
-プレイ人数  |  1人   
-発売日  |  2014年  12月4日   
-レイティング  |  CERO  ：  **D** （17才以上対象）   
-キャラクターボイス  |  あり   
-ゲーム：DIABOLIK LOVERS DARK FATE  
-対応機種  |  PS Vita   
-開発元  |  Rejet   
-発売元  |  オトメイト   
-キャラクターデザイン  |  さとい   
-プレイ人数  |  1人   
-発売日  |  2015年  2月26日   
-レイティング  |  CERO  ：  **D** （17才以上対象）   
-キャラクターボイス  |  あり   
-ゲーム：DIABOLIK LOVERS LUNATIC PARADE  
-対応機種  |  PS Vita   
-開発元  |  Rejet   
-発売元  |  オトメイト   
-キャラクターデザイン  |  さとい   
-プレイ人数  |  1人   
-発売日  |  2016年  2月25日   
-レイティング  |  CERO  ：  **C** （15才以上対象）   
-キャラクターボイス  |  あり   
-ゲーム：DIABOLIK LOVERS LOST EDEN  
-対応機種  |  PS Vita   
-開発元  |  Rejet   
-発売元  |  オトメイト   
-キャラクターデザイン  |  さとい   
-プレイ人数  |  1人   
-発売日  |  2017年  2月16日   
-レイティング  |  CERO  ：  **C** （15才以上対象）   
-キャラクターボイス  |  あり   
-ゲーム：DIABOLIK LOVERS CHAOS LINEAGE  
-対応機種  |  Nintendo Switch   
-開発元  |  Rejet   
-発売元  |  オトメイト   
-キャラクターデザイン  |  さとい   
-プレイ人数  |  1人   
-発売日  |  2019年  3月28日   
-レイティング  |  CERO  ：  **C** （15才以上対象）   
-キャラクターボイス  |  あり   
-|  テレビアニメ  
----  
-アニメ：DIABOLIK LOVERS（第1期）  DIABOLIK LOVERS MORE,BLOOD（第2期）  
-原作  |  オトメイト  （  アイディアファクトリー  ・Rejet）   
-監督  |  田頭しのぶ  （第1期）  吉田りさこ（OAD・第2期）   
-シリーズ構成  |  長津晴子（第1期）  金杉弘子  （第2期）   
-キャラクターデザイン  |  八尋裕子   
-音楽  |  林ゆうき  、杉浦勇紀（OAD）  紗希  （第2期）   
-アニメーション制作  |  ZEXCS   
-製作  |  DIABOLIK LOVERS PROJECT（第1期）  DIABOLIK LOVERS MB PROJECT（第2期）   
-放送局  |  TOKYO MX  ・  AT-X   
-放送期間  |  第1期：2013年  9月16日  \-  12月9日  第2期：2015年  9月23日  \-  12月9日   
-話数  |  第1期：全12話  第2期：全12話   
-|  漫画  
----  
-漫画：DIABOLIK LOVERS  YOUNG BLOOD  
-作者  |  n装置   
-出版社  |  （まんが王国にて連載）   
-レーベル  |  Rejet   
-発表期間  |  2021年3月24日 -   
-その他  |  原作：Rejet、Daisuke Iwasaki、企画制作：Rejet、  キャラクター原案：さとい、プロット：やまだ有見  原作初の公式漫画   
-テンプレート  \-  ノート  
-プロジェクト  |  ゲーム  ・  アニメ   
-ポータル  |  ゲーム  ・  アニメ   
+その他  |  トールケース仕様、SKiT Dolce・Rejet shop   
+限定の「吸愛パック」も有償特典として販売、  
+全編ダミーヘッドマイク収録  
+|  ドラマCD  |
+|---|
+|発売元    Rejet株式会社|
+|レーベル    Rejet|
+|発売日    2012年  8月10日<br>ドラマCD：DIABOLIK LOVERS  <br>DARK FATE 全3巻  |
+|発売元    Rejet株式会社|
+|レーベル    Rejet|
+|発売日    2014年  8月20日  〜2014年  10月15日<br>ドラマCD：DIABOLIK LOVERS  <br>LOST EDEN 全4巻  |
+|発売元    Rejet株式会社|
+|レーベル    Rejet|
+|発売日    2016年  8月17日  〜2016年  11月16日<br>ドラマCD：DIABOLIK LOVERS  <br>CHAOS LINEAGE 全3巻  |
+|発売元    Rejet株式会社|
+|レーベル    Rejet|
+|発売日    2017年  7月26日  〜2017年  9月27日<br>ドラマCD：DIABOLIK LOVERS  <br>HOUSE OF VAMPIRE 全3巻  |
+|発売元    Rejet株式会社|
+|レーベル    Rejet|
+|発売日    未定|
+|その他    キャラクターソングも収録<br>豪華BOX仕様  |
+|キャラクターソングCD<br>---  <br>キャラクターソングCD：DIABOLIK LOVERS  <br>キャラクターソング 全6巻  |
+|発売元    Rejet株式会社|
+|レーベル    Rejet|
+|発売日    2013年  6月5日  〜2013年  11月6日<br>キャラクターソングCD：DIABOLIK LOVERS  <br>Bloody Songs -SUPER BEST-  |
+|発売元    Rejet株式会社|
+|レーベル    Rejet|
+|発売日    2014年  5月21日<br>キャラクターソングCD：DIABOLIK LOVERS MORE  <br>CHARACTER SONG 全10巻  |
+|発売元    Rejet株式会社|
+|レーベル    Rejet|
+|発売日    2014年  7月16日  〜2015年  4月15日<br>キャラクターソングCD：DIABOLIK LOVERS MORE  <br>Bloody Songs -SUPER BESTII- 全3巻  |
+|発売元    Rejet株式会社|
+|レーベル    Rejet|
+|発売日    2015年  8月19日  （同時発売）<br>キャラクターソングCD：DIABOLIK LOVERS MORE  <br>VERSUS SONG Requiem（2）Bloody Night 全6巻  |
+|発売元    Rejet株式会社|
+|レーベル    Rejet|
+|発売日    2015年  10月21日  〜2016年  3月23日<br>キャラクターソングCD：DIABOLIK LOVERS MORE  <br>Sadistic Song 全6巻  |
+|発売元    Rejet株式会社|
+|レーベル    Rejet|
+|発売日    2017年  1月25日  〜2017年  3月22日<br>キャラクターソングCD：DIABOLIK LOVERS MORE  <br>Bloody Songs -SUPER BESTIII-  |
+|発売元    Rejet株式会社|
+|レーベル    Rejet|
+|発売日    2017年  4月26日|
+|ウェブラジオ<br>---  <br>インターネットラジオ：ドS吸血ラジオ  |
+|配信期間    2011年12月19日 - 2012年6月29日<br>2016年12月21日（5周年記念番組）  <br>2020年12月23日（9周年記念番組）  |
+|配信サイト    ニコニコ動画  、YouTube（9周年記念番組）|
+|配信回数    全6回+1回（5周年記念番組）+1回（9周年記念番組）|
+|パーソナリティ    緑川光  、他|
+|ゲーム<br>---  <br>ゲーム：DIABOLIK LOVERS  <br>DIABOLIK LOVERS LIMITED V EDITION  |
+|ゲームジャンル    ドS  吸血  恋愛ADV|
+|対応機種    PSP<br>PS Vita  （LIMITED V EDITION）  |
+|開発元    Rejet|
+|発売元    オトメイト|
+|キャラクターデザイン    さとい|
+|プレイ人数    1人|
+|発売日    2012年  10月11日<br>2013年  12月19日  （LIMITED V EDITION）  |
+|売上本数    27,995本  |
+|レイティング    CERO  ：  **C** （15才以上対象）|
+|キャラクターボイス    あり<br>ゲーム：DIABOLIK LOVERS MORE,BLOOD  <br>DIABOLIK LOVERS MORE,BLOOD LIMITED V EDITION  |
+|対応機種    PSP<br>PS Vita（LIMITED V EDITION）  |
+|開発元    Rejet|
+|発売元    オトメイト|
+|キャラクターデザイン    さとい|
+|プレイ人数    1人|
+|発売日    2013年  10月24日<br>2015年  1月15日  （LIMITED V EDITION）  |
+|レイティング    CERO  ：  **D** （17才以上対象）|
+|キャラクターボイス    あり<br>ゲーム：DIABOLIK LOVERS GRAND EDITION  <br>DIABOLIK LOVERS GRAND EDITION for Nintendo Switch  |
+|対応機種    PS4<br>Switch  （for Nintendo Switch）  |
+|開発元    Rejet|
+|発売元    オトメイト<br>アイディアファクトリー  （for Nintendo Switch）  |
+|キャラクターデザイン    さとい|
+|プレイ人数    1人|
+|発売日    2018年  3月29日<br>2019年  11月21日  （for Nintendo Switch）  |
+|レイティング    CERO  ：  **D** （17才以上対象）|
+|キャラクターボイス    あり|
+|その他    「DIABOLIK LOVERS LIMITED V EDITION」 と<br>「DIABOLIK LOVERS MORE,BLOOD LIMITED V EDITION」を  <br>1本のソフトにして移植  <br>ゲーム：DIABOLIK LOVERS VANDEAD CARNIVAL  |
+|対応機種    PS Vita|
+|開発元    Rejet|
+|発売元    オトメイト|
+|キャラクターデザイン    さとい|
+|プレイ人数    1人|
+|発売日    2014年  12月4日|
+|レイティング    CERO  ：  **D** （17才以上対象）|
+|キャラクターボイス    あり<br>ゲーム：DIABOLIK LOVERS DARK FATE  |
+|対応機種    PS Vita|
+|開発元    Rejet|
+|発売元    オトメイト|
+|キャラクターデザイン    さとい|
+|プレイ人数    1人|
+|発売日    2015年  2月26日|
+|レイティング    CERO  ：  **D** （17才以上対象）|
+|キャラクターボイス    あり<br>ゲーム：DIABOLIK LOVERS LUNATIC PARADE  |
+|対応機種    PS Vita|
+|開発元    Rejet|
+|発売元    オトメイト|
+|キャラクターデザイン    さとい|
+|プレイ人数    1人|
+|発売日    2016年  2月25日|
+|レイティング    CERO  ：  **C** （15才以上対象）|
+|キャラクターボイス    あり<br>ゲーム：DIABOLIK LOVERS LOST EDEN  |
+|対応機種    PS Vita|
+|開発元    Rejet|
+|発売元    オトメイト|
+|キャラクターデザイン    さとい|
+|プレイ人数    1人|
+|発売日    2017年  2月16日|
+|レイティング    CERO  ：  **C** （15才以上対象）|
+|キャラクターボイス    あり<br>ゲーム：DIABOLIK LOVERS CHAOS LINEAGE  |
+|対応機種    Nintendo Switch|
+|開発元    Rejet|
+|発売元    オトメイト|
+|キャラクターデザイン    さとい|
+|プレイ人数    1人|
+|発売日    2019年  3月28日|
+|レイティング    CERO  ：  **C** （15才以上対象）|
+|キャラクターボイス    あり|
+|テレビアニメ<br>---  <br>アニメ：DIABOLIK LOVERS（第1期）  <br>DIABOLIK LOVERS MORE,BLOOD（第2期）  |
+|原作    オトメイト<br>（  アイディアファクトリー  ・Rejet）  |
+|監督    田頭しのぶ  （第1期）<br>吉田りさこ（OAD・第2期）  |
+|シリーズ構成    長津晴子（第1期）<br>金杉弘子  （第2期）  |
+|キャラクターデザイン    八尋裕子|
+|音楽    林ゆうき  、杉浦勇紀（OAD）<br>紗希  （第2期）  |
+|アニメーション制作    ZEXCS|
+|製作    DIABOLIK LOVERS PROJECT（第1期）<br>DIABOLIK LOVERS MB PROJECT（第2期）  |
+|放送局    TOKYO MX  ・  AT-X|
+|放送期間    第1期：2013年  9月16日  \-  12月9日<br>第2期：2015年  9月23日  \-  12月9日  |
+|話数    第1期：全12話<br>第2期：全12話  |
+|漫画<br>---  <br>漫画：DIABOLIK LOVERS  <br>YOUNG BLOOD  |
+|作者    n装置|
+|出版社    （まんが王国にて連載）|
+|レーベル    Rejet|
+|発表期間    2021年3月24日 -|
+|その他    原作：Rejet、Daisuke Iwasaki、企画制作：Rejet、<br>キャラクター原案：さとい、プロット：やまだ有見  <br>原作初の公式漫画  <br>テンプレート  \-  ノート  |
+|プロジェクト    ゲーム  ・  アニメ|
+|ポータル    ゲーム  ・  アニメ   <br>ドラマCD：DIABOLIK LOVERS  <br>Blood & LoveSweet|
   
 『 **DIABOLIK LOVERS** 』について、本項では  ゲーム  、  ラジオ  、  アニメ  、  舞台  、  ファンディスク  、
 漫画  についても説明する。
@@ -328,7 +307,7 @@ Dolceで期間限定販売されている。
      声  \-  末柄里恵  （テレビアニメとOADのみ） 
      17歳。嶺帝学院高校二年生。身長158cm。毛髪は  プラチナブロンド  、瞳はピンク色。 
      本作の  主人公  。シスターを志す  クリスチャン  で、父から貰った  ロザリオ  を肌身離さず持っている。アヤトにからかわれるほど胸が小さいが、脚と血の味に関しては評価されている。  幼少期  から  幽霊  が視えたり、  ポルターガイスト  などの  心霊現象  に遭遇したりしてきたのだが、『自分がちょっと変わってるだけだ』と特に気にしていなかった。 
-     父の  海外転勤  のため知人の家に  居候  することとなるが、兄弟全員がヴァンパイアである逆巻家で「  生贄  の  花嫁  」として迎え入れられる。アニメ第二作および『MORE,BLOOD』の一部ルートでは無神兄弟によって拉致されたため、無神家で生活している。赤子の頃リヒターによってコーデリアの心臓を  移植  されたために “極上の血” を有することとなり、無自覚でヴァンパイアたちを惹きつけてしまう。  魔王  の娘であるコーデリアはその高い魔力から心臓さえ残っていれば復活出来るため、ゲームの一部ルート及び  テレビアニメ  では、彼女の魂がユイの体を乗っ取る機会をうかがっていた。 
+     父の海外転勤のため知人の家に  居候  することとなるが、兄弟全員がヴァンパイアである逆巻家で「  生贄  の  花嫁  」として迎え入れられる。アニメ第二作および『MORE,BLOOD』の一部ルートでは無神兄弟によって拉致されたため、無神家で生活している。赤子の頃リヒターによってコーデリアの心臓を  移植  されたために “極上の血” を有することとなり、無自覚でヴァンパイアたちを惹きつけてしまう。  魔王  の娘であるコーデリアはその高い魔力から心臓さえ残っていれば復活出来るため、ゲームの一部ルート及び  テレビアニメ  では、彼女の魂がユイの体を乗っ取る機会をうかがっていた。 
      また、コーデリアの心臓を持つために『イブ』になれる資格を持ち、彼女に選ばれたヴァンパイアは『アダム』として覚醒できるとされている。 
      元気で明るく楽観的ながら、強気な性格。第一作では相手やその場の雰囲気に流されることが多かったが､『MORE,BLOOD』では自分の意思を示す場面が増えた。 
      ヴァンパイアハンターである父・小森 セイジは  実父  ではなく  養父  だが、ユイ自身は長らくの間その事実を知らなかった。 
@@ -448,7 +427,7 @@ Dolceで期間限定販売されている。
 
      声 -  森久保祥太郎 
      『DARK FATE』から登場。 
-     4月27日生、17歳。  嶺帝学院高校  二年生。身長175cm、体重58kg。血液型はO型。毛髪は茶色、瞳は琥珀色。 
+     4月27日生、17歳。嶺帝学院高校二年生。身長175cm、体重58kg。血液型はO型。毛髪は茶色、瞳は琥珀色。 
      イギリスからの  帰国子女  で、兄のカルラと共に嶺帝学院高校のイギリス校に籍を置いていた。編入生。眼鏡をかけており、左目には黒い  眼帯  をしている。 
      始祖としての誇りを持つ反面、他のヴァンパイアのことは見下している。  ナルシズム  な発言も多く、基本的に他者を見下す傾向にある。普段はフレンドリーで言葉遣いも丁寧だが、怒りを爆発させると一転して暴力的になる。 
      好物はナッツ類全般。趣味は暴力。 
@@ -466,10 +445,7 @@ Dolceで期間限定販売されている。
      好物は  金平糖  とグァバジュース、趣味は  スマホゲーム  。 
      キノ自身は自らをカールハインツの血を引くヴァンパイアだと思っていたが、実際にはヴァンパイアではなく、カールハインツや逆巻兄弟との血縁関係もない。正体は、ローティゲンベルクの瘴気とカールハインツの残した些細なものが感作して生まれた実態のない不死者。 
      イメージカラーはゴールド。 
-|  | 
-
-この節の  加筆  が望まれています。  
-  
+|  この節の  加筆  が望まれています。  
 ---|---  
   
 ###  逆巻家  
@@ -514,10 +490,7 @@ Dolceで期間限定販売されている。
 
 ##  ストーリー  
 
-|  | 
-
-この節の  加筆  が望まれています。  
-  
+|  この節の  加筆  が望まれています。  
 ---|---  
   
 DIABOLIK LOVERS ドS吸血CD
@@ -556,7 +529,8 @@ DIABOLIK LOVERS DAYLIGHT
 
 ###  シチュエーションCD  
 
-|  タイトル名  |  発売日  |  規格品番  |  オリコン  初週位   
+タイトル名  |  発売日  |  規格品番  |  オリコン   
+初週位  
 ---|---|---|---  
 DIABOLIK LOVERS ドS吸血CD Vol.1 逆巻アヤト (CV.緑川 光)  [注 1]  |  2011年12月21日  |  REC-006  |  圏外   
 DIABOLIK LOVERS ドS吸血CD Vol.2 逆巻スバル (CV.近藤 隆)  [注 1]  |  2012年1月25日  |  REC-007  |  圏外   
@@ -670,7 +644,8 @@ DIABOLIK LOVERS DAYLIGHT Vol.13 キノ（CV:前野智昭）  |  2022年3月23日
   
 ###  ドラマCD  
 
-|  タイトル名  |  発売日  |  規格品番  |  オリコン  初週位   
+タイトル名  |  発売日  |  規格品番  |  オリコン   
+初週位  
 ---|---|---|---  
 DIABOLIK LOVERS Blood & LoveSweet  |  2012年8月10日  |  REC-024  |  なし   
 DIABOLIK LOVERS DARK FATE Vol.1 蝕の章  |  2014年8月20日    |  REC-127  |  36位   
@@ -687,51 +662,185 @@ DIABOLIK LOVERS HOUSE OF VAMPIRE  |  発売日未定  |  |
   
 ###  キャラクターソングCD  
 
-|  タイトル名  |  楽曲  |  発売日  |  規格品番  |  オリコン  初週位   
+タイトル名  |  楽曲  |  発売日  |  規格品番  |  オリコン   
+初週位  
 ---|---|---|---|---  
-DIABOLIK LOVERS キャラクターソングVol.1 逆巻アヤト (CV.緑川 光)  |  「ADDICTED（2）PHANTOM」  「ADDICTED（2）PHANTOM -off vocal-」  録り下ろしミニドラマ「月光浴」  |  2013年6月5日    |  REC-044  |  23位   
-DIABOLIK LOVERS キャラクターソングVol.2 逆巻カナト (CV.梶 裕貴)  |  「切断★舞踏会」  「切断★舞踏会 -off vocal-」  録り下ろしミニドラマ「僕だけのもの」  |  2013年7月3日    |  REC-045  |  17位   
-DIABOLIK LOVERS キャラクターソングVol.3 逆巻ライト (CV.平川 大輔)  |  「血濡れた密会」  「血濡れた密会 -off vocal-」  録り下ろしミニドラマ「中毒」  |  2013年8月7日    |  REC-046  |  35位   
-DIABOLIK LOVERS キャラクターソングVol.4 逆巻スバル (CV.近藤 隆)  |  「ZERO」  「ZERO -off vocal-」  録り下ろしミニドラマ「もっと熱く」  |  2013年9月4日    |  REC-047  |  30位   
-DIABOLIK LOVERS キャラクターソングVol.5 逆巻シュウ (CV.鳥海 浩輔)  |  「Farewell Song」  「Farewell Song -off vocal-」  録り下ろしミニドラマ「絡まる気持ち」  |  2013年10月2日    |  REC-048  |  20位   
-DIABOLIK LOVERS キャラクターソングVol.6 逆巻レイジ (CV.小西 克幸)  |  「とある預言者の、運命」  「とある預言者の、運命 -off vocal-」  録り下ろしミニドラマ「美しい花たち」  |  2013年11月6日    |  REC-049  |  31位   
-DIABOLIK LOVERS Bloody Songs -SUPER BEST-  |  「ADDICTED（2）PHANTOM」  「切断★舞踏会」  「血濡れた密会」  「ZERO」  「Farewell Song」  「とある預言者の、運命」  「真夜中の饗宴（MIDNIGHT PLEASURE）」  「幻日理論 -Parhelion Logic-」  「極限（UNLIMITED）BLOOD」  「月蝕（Eclipse）」  「真夜中の饗宴（MIDNIGHT PLEASURE） -Remix-」  「極限（UNLIMITED）BLOOD -Remix-」  |  2014年5月21日    |  REC-100:初回限定盤  REC-100:通常盤  |  24位   
-DIABOLIK LOVERS MORE CHARACTER SONG Vol.1 逆巻アヤト (CV.緑川光)  |  「アルカディア」  「アルカディア -off vocal-」  録り下ろしミニドラマ「勝敗の行方」  |  2014年7月16日    |  REC-130  |  39位   
-DIABOLIK LOVERS MORE CHARACTER SONG Vol.2 逆巻カナト (CV.梶裕貴)  |  「GRATEFUL★DEAD★MARCH」  「GRATEFUL★DEAD★MARCH -off vocal-」  録り下ろしミニドラマ「嫉妬で奏でるセレナーデ」  |  2014年8月20日    |  REC-131  |  28位   
-DIABOLIK LOVERS MORE CHARACTER SONG Vol.3 無神ルキ (CV.櫻井孝宏)  |  「冷たい血」  「冷たい血 -off vocal-」  録り下ろしミニドラマ「甘い忠誠」  |  2014年9月17日    |  REC-132  |  37位   
-DIABOLIK LOVERS MORE CHARACTER SONG Vol.4 無神コウ (CV.木村良平)  |  「悪魔的Spire!!!!」  「悪魔的Spire!!!! -off vocal-」  録り下ろしミニドラマ「ふたりだけの楽屋」  |  2014年10月15日    |  REC-133  |  18位   
-DIABOLIK LOVERS MORE CHARACTER SONG Vol.5 逆巻ライト (CV.平川大輔)  |  「Q.E.D」  「Q.E.D -off vocal-」  録り下ろしミニドラマ「秘密のクローゼット」  |  2014年11月19日    |  REC-134  |  37位   
-DIABOLIK LOVERS MORE CHARACTER SONG Vol.6 逆巻スバル (CV.近藤隆)  |  「愛しきPain」  「愛しきPain -off vocal-」  録り下ろしミニドラマ「ケンカの後で」  |  2014年12月17日    |  REC-135  |  42位   
-DIABOLIK LOVERS MORE CHARACTER SONG Vol.7 無神ユーマ (CV.鈴木達央)  |  「暴言シンドローム」  「暴言シンドローム -off vocal-」  録り下ろしミニドラマ「甘美な教え」  |  2015年1月21日    |  REC-136  |  31位   
-DIABOLIK LOVERS MORE CHARACTER SONG Vol.8 無神アズサ (CV.岸尾だいすけ)  |  「KILLYOU,AGAIN」  「KILLYOU,AGAIN -off vocal-」  録り下ろしミニドラマ「たったひとつの光はここに」  |  2015年2月18日    |  REC-137  |  41位   
-DIABOLIK LOVERS MORE CHARACTER SONG Vol.9 逆巻シュウ (CV.鳥海浩輔)  |  「KISS♡MARK」  「KISS♡MARK -off vocal-」  録り下ろしミニドラマ「所有の刻印」  |  2015年3月18日    |  REC-138  |  37位   
-DIABOLIK LOVERS MORE CHARACTER SONG Vol.10 逆巻レイジ (CV.小西克幸)  |  「苺の罪」  「苺の罪 -off vocal-」  録り下ろしミニドラマ「価値の見極め」  |  2015年4月15日    |  REC-139  |  30位   
-DIABOLIK LOVERS Bloody Songs -SUPER BESTII- 逆巻家ver  |  「アルカディア」  「GRATEFUL★DEAD★MARCH」  「冷たい血」  「悪魔的(Devil’s)Spire!!!!」  「Q.E.D.」  「愛しきPain」  「暴言シンドローム」  「KILLYOU,AGAIN」  「KISS♥MARK」  「苺の罪」  「吸愛ラビリンス」  「誓いのカンパネラ」  「Guilty×Guilty!!!」  「S.O.S-ΑtoΩ-」  「Bloody★Mayim★Mayim」  |  2015年8月19日    |  REC-327  |  7位   
-DIABOLIK LOVERS Bloody Songs -SUPER BESTII- 無神家ver  |  「アルカディア」  「GRATEFUL★DEAD★MARCH」  「冷たい血」  「悪魔的(Devil’s)Spire!!!!」  「Q.E.D.」  「愛しきPain」  「暴言シンドローム」  「KILLYOU,AGAIN」  「KISS♥MARK」  「苺の罪」  「吸愛ラビリンス」  「誓いのカンパネラ」  「Guilty×Guilty!!!」  「S.O.S-ΑtoΩ-」  「罠-If You’re Diablo-」  |  2015年8月19日    |  REC-328  |  7位   
-DIABOLIK LOVERS Bloody Songs -SUPER BESTII- 月浪家ver  |  「アルカディア」  「GRATEFUL★DEAD★MARCH」  「冷たい血」  「悪魔的(Devil’s)Spire!!!!」  「Q.E.D.」  「愛しきPain」  「暴言シンドローム」  「KILLYOU,AGAIN」  「KISS♥MARK」  「苺の罪」  「吸愛ラビリンス」  「誓いのカンパネラ」  「Guilty×Guilty!!!」  「S.O.S-ΑtoΩ-」  「血戦のDies irae」  |  2015年8月19日    |  REC-329  |  7位   
-DIABOLIK LOVERS VERSUS SONG Requiem（2）Bloody Night Vol.I アヤトVSスバル（CV.緑川光） / （CV.近藤隆）  |  「→REDRUM←」  「→REDRUM←-アヤト ver-」  「→REDRUM←-スバル ver-」  「→REDRUM←-off vocal-」  録り下ろしミニドラマ「アヤトＶＳスバル」  |  2015年10月21日    |  REC-331  |  33位   
-DIABOLIK LOVERS VERSUS SONG Requiem（2）Bloody Night Vol.II ルキVSアズサ（CV.櫻井孝宏 / CV.岸尾だいすけ）  |  「Luv Apple Juice」  「Luv Apple Juice -Reading ver.ルキ-」  「Luv Apple Juice -アズサ ver-」  「Luv Apple Juice -off vocal-」  録り下ろしミニドラマ「ルキＶＳアズサ」  |  2015年11月18日    |  REC-332  |  45位   
-DIABOLIK LOVERS VERSUS SONG Requiem（2）Bloody Night Vol.III カルラVSシン（CV.森川智之） / （CV.森久保祥太郎）  |  「Operation X」  「Operation X -カルラ ver-」  「Operation X -シン ver-」  「Operation X -off vocal-」  録り下ろしミニドラマ「カルラＶＳシン」  |  2015年12月16日    |  REC-333  |  58位   
-DIABOLIK LOVERS VERSUS SONG Requiem（2）Bloody Night Vol.IV レイジVSカナト（CV.小西克幸） / （CV.梶裕貴）  |  「蠱惑のParade」  「蠱惑のParade -レイジ ver-」  「蠱惑のParade -カナト ver-」  「蠱惑のParade -off vocal-」  録り下ろしミニドラマ「レイジＶＳカナト」  |  2016年1月20日    |  REC-334  |  50位   
-DIABOLIK LOVERS VERSUS SONG Requiem（2）Bloody Night Vol.V コウVSユーマ（CV.木村良平） / （CV.鈴木達央）  |  「DIE IS CAST」  「DIE IS CAST -コウ ver-」  「DIE IS CAST -ユーマ ver-」  「DIE IS CAST -off vocal-」  録り下ろしミニドラマ「コウＶＳユーマ」  |  2016年2月17日    |  REC-335  |  32位   
-DIABOLIK LOVERS VERSUS SONG Requiem（2）Bloody Night Vol.VI シュウVSライト（CV.鳥海浩輔） / （CV.平川大輔）  |  「カモフラージュ」  「カモフラージュ -シュウ ver-」  「カモフラージュ -ライト ver-」  「カモフラージュ -off vocal-」  録り下ろしミニドラマ「シュウＶＳライト」  |  2016年3月23日    |  REC-336  |  40位   
-DIABOLIK LOVERS Sadistic Song Vol.1 逆巻アヤト（CV.緑川光）  |  「血極NIGHT」  「血極NIGHT -off vocal-」  録り下ろしミニドラマ  |  2017年1月25日    |  REC-526  |  78位   
-DIABOLIK LOVERS Sadistic Song Vol.2 逆巻カナト（CV.梶裕貴）  |  「快感DEATH-TRUCTION」  「快感DEATH-TRUCTION -off vocal-」  録り下ろしミニドラマ  |  2017年2月8日    |  REC-527  |  76位   
-DIABOLIK LOVERS Sadistic Song Vol.3 逆巻ライト（CV.平川大輔）  |  「CHAOS★PARTY」  「CHAOS★PARTY -off vocal-」  録り下ろしミニドラマ  |  2017年2月22日    |  REC-528  |  95位   
-DIABOLIK LOVERS Sadistic Song Vol.4 逆巻シュウ（CV.鳥海浩輔）  |  「アイオライト」  「アイオライト -off vocal-」  録り下ろしミニドラマ  |  2017年3月8日    |  REC-529  |  63位   
-DIABOLIK LOVERS Sadistic Song Vol.5 逆巻レイジ（CV.小西克幸）  |  「Mr.ButterflyMask」  「Mr.ButterflyMask -off vocal-」  録り下ろしミニドラマ  |  2017年3月15日    |  REC-530  |  72位   
-DIABOLIK LOVERS Sadistic Song Vol.6 逆巻スバル（CV.近藤隆）  |  「SQueeze...」  「SQueeze... -off vocal-」  録り下ろしミニドラマ  |  2017年3月22日    |  REC-531  |  66位   
-DIABOLIK LOVERS Bloody Songs -SUPER BESTIII-  |  「→REDRUM←」  「Luv Apple Juice」  「Operation X」  「蠱惑のParade」  「DIE IS CAST」  「カモフラージュ」  「Fanatic of Night」  「VoiD」  「愛の檻」  「絶対感度のリビドー」  「カレイドナイト」  |  2017年4月26日    |  REC-650  |  31位   
+DIABOLIK LOVERS キャラクターソングVol.1 逆巻アヤト (CV.緑川 光)  |  「ADDICTED（2）PHANTOM」   
+「ADDICTED（2）PHANTOM -off vocal-」  
+録り下ろしミニドラマ「月光浴」  |  2013年6月5日    |  REC-044  |  23位   
+DIABOLIK LOVERS キャラクターソングVol.2 逆巻カナト (CV.梶 裕貴)  |  「切断★舞踏会」   
+「切断★舞踏会 -off vocal-」  
+録り下ろしミニドラマ「僕だけのもの」  |  2013年7月3日    |  REC-045  |  17位   
+DIABOLIK LOVERS キャラクターソングVol.3 逆巻ライト (CV.平川 大輔)  |  「血濡れた密会」   
+「血濡れた密会 -off vocal-」  
+録り下ろしミニドラマ「中毒」  |  2013年8月7日    |  REC-046  |  35位   
+DIABOLIK LOVERS キャラクターソングVol.4 逆巻スバル (CV.近藤 隆)  |  「ZERO」   
+「ZERO -off vocal-」  
+録り下ろしミニドラマ「もっと熱く」  |  2013年9月4日    |  REC-047  |  30位   
+DIABOLIK LOVERS キャラクターソングVol.5 逆巻シュウ (CV.鳥海 浩輔)  |  「Farewell Song」   
+「Farewell Song -off vocal-」  
+録り下ろしミニドラマ「絡まる気持ち」  |  2013年10月2日    |  REC-048  |  20位   
+DIABOLIK LOVERS キャラクターソングVol.6 逆巻レイジ (CV.小西 克幸)  |  「とある預言者の、運命」   
+「とある預言者の、運命 -off vocal-」  
+録り下ろしミニドラマ「美しい花たち」  |  2013年11月6日    |  REC-049  |  31位   
+DIABOLIK LOVERS Bloody Songs -SUPER BEST-  |  「ADDICTED（2）PHANTOM」   
+「切断★舞踏会」  
+「血濡れた密会」  
+「ZERO」  
+「Farewell Song」  
+「とある預言者の、運命」  
+「真夜中の饗宴（MIDNIGHT PLEASURE）」  
+「幻日理論 -Parhelion Logic-」  
+「極限（UNLIMITED）BLOOD」  
+「月蝕（Eclipse）」  
+「真夜中の饗宴（MIDNIGHT PLEASURE） -Remix-」  
+「極限（UNLIMITED）BLOOD -Remix-」  |  2014年5月21日    |  REC-100:初回限定盤   
+REC-100:通常盤  |  24位   
+DIABOLIK LOVERS MORE CHARACTER SONG Vol.1 逆巻アヤト (CV.緑川光)  |  「アルカディア」   
+「アルカディア -off vocal-」  
+録り下ろしミニドラマ「勝敗の行方」  |  2014年7月16日    |  REC-130  |  39位   
+DIABOLIK LOVERS MORE CHARACTER SONG Vol.2 逆巻カナト (CV.梶裕貴)  |  「GRATEFUL★DEAD★MARCH」   
+「GRATEFUL★DEAD★MARCH -off vocal-」  
+録り下ろしミニドラマ「嫉妬で奏でるセレナーデ」  |  2014年8月20日    |  REC-131  |  28位   
+DIABOLIK LOVERS MORE CHARACTER SONG Vol.3 無神ルキ (CV.櫻井孝宏)  |  「冷たい血」   
+「冷たい血 -off vocal-」  
+録り下ろしミニドラマ「甘い忠誠」  |  2014年9月17日    |  REC-132  |  37位   
+DIABOLIK LOVERS MORE CHARACTER SONG Vol.4 無神コウ (CV.木村良平)  |  「悪魔的Spire!!!!」   
+「悪魔的Spire!!!! -off vocal-」  
+録り下ろしミニドラマ「ふたりだけの楽屋」  |  2014年10月15日    |  REC-133  |  18位   
+DIABOLIK LOVERS MORE CHARACTER SONG Vol.5 逆巻ライト (CV.平川大輔)  |  「Q.E.D」   
+「Q.E.D -off vocal-」  
+録り下ろしミニドラマ「秘密のクローゼット」  |  2014年11月19日    |  REC-134  |  37位   
+DIABOLIK LOVERS MORE CHARACTER SONG Vol.6 逆巻スバル (CV.近藤隆)  |  「愛しきPain」   
+「愛しきPain -off vocal-」  
+録り下ろしミニドラマ「ケンカの後で」  |  2014年12月17日    |  REC-135  |  42位   
+DIABOLIK LOVERS MORE CHARACTER SONG Vol.7 無神ユーマ (CV.鈴木達央)  |  「暴言シンドローム」   
+「暴言シンドローム -off vocal-」  
+録り下ろしミニドラマ「甘美な教え」  |  2015年1月21日    |  REC-136  |  31位   
+DIABOLIK LOVERS MORE CHARACTER SONG Vol.8 無神アズサ (CV.岸尾だいすけ)  |  「KILLYOU,AGAIN」   
+「KILLYOU,AGAIN -off vocal-」  
+録り下ろしミニドラマ「たったひとつの光はここに」  |  2015年2月18日    |  REC-137  |  41位   
+DIABOLIK LOVERS MORE CHARACTER SONG Vol.9 逆巻シュウ (CV.鳥海浩輔)  |  「KISS♡MARK」   
+「KISS♡MARK -off vocal-」  
+録り下ろしミニドラマ「所有の刻印」  |  2015年3月18日    |  REC-138  |  37位   
+DIABOLIK LOVERS MORE CHARACTER SONG Vol.10 逆巻レイジ (CV.小西克幸)  |  「苺の罪」   
+「苺の罪 -off vocal-」  
+録り下ろしミニドラマ「価値の見極め」  |  2015年4月15日    |  REC-139  |  30位   
+DIABOLIK LOVERS Bloody Songs -SUPER BESTII- 逆巻家ver  |  「アルカディア」   
+「GRATEFUL★DEAD★MARCH」  
+「冷たい血」  
+「悪魔的(Devil’s)Spire!!!!」  
+「Q.E.D.」  
+「愛しきPain」  
+「暴言シンドローム」  
+「KILLYOU,AGAIN」  
+「KISS♥MARK」  
+「苺の罪」  
+「吸愛ラビリンス」  
+「誓いのカンパネラ」  
+「Guilty×Guilty!!!」  
+「S.O.S-ΑtoΩ-」  
+「Bloody★Mayim★Mayim」  |  2015年8月19日    |  REC-327  |  7位   
+DIABOLIK LOVERS Bloody Songs -SUPER BESTII- 無神家ver  |  「アルカディア」   
+「GRATEFUL★DEAD★MARCH」  
+「冷たい血」  
+「悪魔的(Devil’s)Spire!!!!」  
+「Q.E.D.」  
+「愛しきPain」  
+「暴言シンドローム」  
+「KILLYOU,AGAIN」  
+「KISS♥MARK」  
+「苺の罪」  
+「吸愛ラビリンス」  
+「誓いのカンパネラ」  
+「Guilty×Guilty!!!」  
+「S.O.S-ΑtoΩ-」  
+「罠-If You’re Diablo-」  |  2015年8月19日    |  REC-328  |  7位   
+DIABOLIK LOVERS Bloody Songs -SUPER BESTII- 月浪家ver  |  「アルカディア」   
+「GRATEFUL★DEAD★MARCH」  
+「冷たい血」  
+「悪魔的(Devil’s)Spire!!!!」  
+「Q.E.D.」  
+「愛しきPain」  
+「暴言シンドローム」  
+「KILLYOU,AGAIN」  
+「KISS♥MARK」  
+「苺の罪」  
+「吸愛ラビリンス」  
+「誓いのカンパネラ」  
+「Guilty×Guilty!!!」  
+「S.O.S-ΑtoΩ-」  
+「血戦のDies irae」  |  2015年8月19日    |  REC-329  |  7位   
+DIABOLIK LOVERS VERSUS SONG Requiem（2）Bloody Night Vol.I アヤトVSスバル（CV.緑川光） / （CV.近藤隆）  |  「→REDRUM←」   
+「→REDRUM←-アヤト ver-」  
+「→REDRUM←-スバル ver-」  
+「→REDRUM←-off vocal-」  
+録り下ろしミニドラマ「アヤトＶＳスバル」  |  2015年10月21日    |  REC-331  |  33位   
+DIABOLIK LOVERS VERSUS SONG Requiem（2）Bloody Night Vol.II ルキVSアズサ（CV.櫻井孝宏 / CV.岸尾だいすけ）  |  「Luv Apple Juice」   
+「Luv Apple Juice -Reading ver.ルキ-」  
+「Luv Apple Juice -アズサ ver-」  
+「Luv Apple Juice -off vocal-」  
+録り下ろしミニドラマ「ルキＶＳアズサ」  |  2015年11月18日    |  REC-332  |  45位   
+DIABOLIK LOVERS VERSUS SONG Requiem（2）Bloody Night Vol.III カルラVSシン（CV.森川智之） / （CV.森久保祥太郎）  |  「Operation X」   
+「Operation X -カルラ ver-」  
+「Operation X -シン ver-」  
+「Operation X -off vocal-」  
+録り下ろしミニドラマ「カルラＶＳシン」  |  2015年12月16日    |  REC-333  |  58位   
+DIABOLIK LOVERS VERSUS SONG Requiem（2）Bloody Night Vol.IV レイジVSカナト（CV.小西克幸） / （CV.梶裕貴）  |  「蠱惑のParade」   
+「蠱惑のParade -レイジ ver-」  
+「蠱惑のParade -カナト ver-」  
+「蠱惑のParade -off vocal-」  
+録り下ろしミニドラマ「レイジＶＳカナト」  |  2016年1月20日    |  REC-334  |  50位   
+DIABOLIK LOVERS VERSUS SONG Requiem（2）Bloody Night Vol.V コウVSユーマ（CV.木村良平） / （CV.鈴木達央）  |  「DIE IS CAST」   
+「DIE IS CAST -コウ ver-」  
+「DIE IS CAST -ユーマ ver-」  
+「DIE IS CAST -off vocal-」  
+録り下ろしミニドラマ「コウＶＳユーマ」  |  2016年2月17日    |  REC-335  |  32位   
+DIABOLIK LOVERS VERSUS SONG Requiem（2）Bloody Night Vol.VI シュウVSライト（CV.鳥海浩輔） / （CV.平川大輔）  |  「カモフラージュ」   
+「カモフラージュ -シュウ ver-」  
+「カモフラージュ -ライト ver-」  
+「カモフラージュ -off vocal-」  
+録り下ろしミニドラマ「シュウＶＳライト」  |  2016年3月23日    |  REC-336  |  40位   
+DIABOLIK LOVERS Sadistic Song Vol.1 逆巻アヤト（CV.緑川光）  |  「血極NIGHT」   
+「血極NIGHT -off vocal-」  
+録り下ろしミニドラマ  |  2017年1月25日    |  REC-526  |  78位   
+DIABOLIK LOVERS Sadistic Song Vol.2 逆巻カナト（CV.梶裕貴）  |  「快感DEATH-TRUCTION」   
+「快感DEATH-TRUCTION -off vocal-」  
+録り下ろしミニドラマ  |  2017年2月8日    |  REC-527  |  76位   
+DIABOLIK LOVERS Sadistic Song Vol.3 逆巻ライト（CV.平川大輔）  |  「CHAOS★PARTY」   
+「CHAOS★PARTY -off vocal-」  
+録り下ろしミニドラマ  |  2017年2月22日    |  REC-528  |  95位   
+DIABOLIK LOVERS Sadistic Song Vol.4 逆巻シュウ（CV.鳥海浩輔）  |  「アイオライト」   
+「アイオライト -off vocal-」  
+録り下ろしミニドラマ  |  2017年3月8日    |  REC-529  |  63位   
+DIABOLIK LOVERS Sadistic Song Vol.5 逆巻レイジ（CV.小西克幸）  |  「Mr.ButterflyMask」   
+「Mr.ButterflyMask -off vocal-」  
+録り下ろしミニドラマ  |  2017年3月15日    |  REC-530  |  72位   
+DIABOLIK LOVERS Sadistic Song Vol.6 逆巻スバル（CV.近藤隆）  |  「SQueeze...」   
+「SQueeze... -off vocal-」  
+録り下ろしミニドラマ  |  2017年3月22日    |  REC-531  |  66位   
+DIABOLIK LOVERS Bloody Songs -SUPER BESTIII-  |  「→REDRUM←」   
+「Luv Apple Juice」  
+「Operation X」  
+「蠱惑のParade」  
+「DIE IS CAST」  
+「カモフラージュ」  
+「Fanatic of Night」  
+「VoiD」  
+「愛の檻」  
+「絶対感度のリビドー」  
+「カレイドナイト」  |  2017年4月26日    |  REC-650  |  31位   
   
 ###  サウンドトラック  
 
-|  タイトル名  |  発売日  |  規格品番  |  オリコン  初週位   
+タイトル名  |  発売日  |  規格品番  |  オリコン   
+初週位  
 ---|---|---|---  
 DIABOLIK LOVERS BLOODY SCREAM  |  2017年2月17日  |  REC-645  |  127位   
   
 ###  CDの特典ドラマCD  
 
-|  DIABOLIK LOVERS ドS吸血CD  
+DIABOLIK LOVERS ドS吸血CD  
 ---  
 DIABOLIK LOVERS ドS吸血CD 6枚連動購入特典CD フリートーク&スペシャルボイスCD (CV.アヤト カナト ライト シュウ レイジ
 スバル)  
@@ -931,7 +1040,7 @@ DIABOLIK LOVERS DAYLIGHT Vol.13
   
 ###  ゲームの特典ドラマCD  
 
-|  DIABOLIK LOVERS  
+DIABOLIK LOVERS  
 ---  
 DIABOLIK LOVERS 限定版特典CD 逆巻兄弟★テストバトル勃発！（CV.アヤト カナト ライト シュウ レイジ スバル）  
 DIABOLIK LOVERS 限定版特典CD アナザーシチュエーション 〜あなたの耳元で囁くCD〜（CV.アヤト カナト ライト シュウ レイジ スバル）  
@@ -1162,10 +1271,7 @@ Resurrection Night〜新作情報もお届け！** 』の生放送内で発表�
 
 ###  ストーリー  
 
-|  | 
-
-この節の  加筆  が望まれています。  
-  
+|  この節の  加筆  が望まれています。  
 ---|---  
   
 ###  イラスト・原作  
@@ -1190,10 +1296,7 @@ GRAND EDITION** 』（ - グランド エディション）が発売され、  2
 
 ####  ストーリー  
 
-|  | 
-
-この節の  加筆  が望まれています。  
-  
+|  この節の  加筆  が望まれています。  
 ---|---  
   
 ####  主題歌  
@@ -1230,10 +1333,7 @@ LOVERS』とのおまとめ移植版『 **DIABOLIK LOVERS GRAND EDITION** 』が
 
 ####  ストーリー  
 
-|  | 
-
-この節の  加筆  が望まれています。  
-  
+|  この節の  加筆  が望まれています。  
 ---|---  
   
 ####  主題歌  
@@ -1258,10 +1358,7 @@ Vita用ソフトとして  2014年  12月4日  に発売。  週刊ファミ通 
 
 ####  ストーリー  
 
-|  | 
-
-この節の  加筆  が望まれています。  
-  
+|  この節の  加筆  が望まれています。  
 ---|---  
   
 ####  主題歌  
@@ -1283,10 +1380,7 @@ Vita用ソフトとして  2014年  12月4日  に発売。  週刊ファミ通 
 
 ####  ストーリー  
 
-|  | 
-
-この節の  加筆  が望まれています。  
-  
+|  この節の  加筆  が望まれています。  
 ---|---  
   
 ####  主題歌  
@@ -1307,10 +1401,7 @@ Vita用ソフトとして  2014年  12月4日  に発売。  週刊ファミ通 
 
 ####  ストーリー  
 
-|  | 
-
-この節の  加筆  が望まれています。  
-  
+|  この節の  加筆  が望まれています。  
 ---|---  
   
 ####  主題歌  
@@ -1331,10 +1422,7 @@ Vita用ソフトとして  2014年  12月4日  に発売。  週刊ファミ通 
 
 ####  あらすじ  
 
-|  | 
-
-この節の  加筆  が望まれています。  
-  
+|  この節の  加筆  が望まれています。  
 ---|---  
   
 ####  主題歌  
@@ -1356,10 +1444,7 @@ Switch専用ソフトとして  2019年  3月28日  に発売。  週刊ファ�
 
 ####  ストーリー  
 
-|  | 
-
-この節の  加筆  が望まれています。  
-  
+|  この節の  加筆  が望まれています。  
 ---|---  
   
 ####  主題歌  
@@ -1456,21 +1541,32 @@ OADエンディングテーマ「DIABOLIK LOVERS DARK FATE」
 
 本編でのサブタイトルは、episodeの横に時計の針（○○時）で表示される。
 
-|  話数  |  脚本  |  絵コンテ  |  演出  |  作画監督   
+話数  |  脚本  |  絵コンテ  |  演出  |  作画監督   
 ---|---|---|---|---  
 第1期  
 episode 01  |  長津晴子  |  田頭しのぶ  |  吉田りさこ  |  山中純子   
 episode 02  |  青井小夜  |  高橋敦子、小園菜穂   
-episode 03  |  森川治  |  黒柳トシマサ  |  上田繁  |  土屋圭、高橋敦子  のりみそのみ   
-episode 04  |  田頭しのぶ  |  内山まな  |  山中純子、小園菜穂  藤原未来夫   
+episode 03  |  森川治  |  黒柳トシマサ  |  上田繁  |  土屋圭、高橋敦子   
+のりみそのみ  
+episode 04  |  田頭しのぶ  |  内山まな  |  山中純子、小園菜穂   
+藤原未来夫  
 episode 05  |  青井小夜  |  小園菜穂、  島沢ノリコ   
-episode 06  |  川崎逸朗  |  吉田りさこ  |  高橋敦子、岡崎洋美  新田靖成  、小園菜穂  室田恵梨、藤木奈々   
-episode 6.5  （総集編）  |  \-   
-episode 7  |  長津晴子  森川治  |  川崎逸朗  |  青井小夜  |  市原圭子、小園菜穂  広尾可奈子   
+episode 06  |  川崎逸朗  |  吉田りさこ  |  高橋敦子、岡崎洋美   
+新田靖成  、小園菜穂  
+室田恵梨、藤木奈々  
+episode 6.5  
+（総集編）  |  \-   
+episode 7  |  長津晴子   
+森川治  |  川崎逸朗  |  青井小夜  |  市原圭子、小園菜穂   
+広尾可奈子  
 episode 8  |  長津晴子  |  田頭しのぶ  |  吉田りさこ  |  島沢ノリコ、松下郁子   
-episode 9  |  川崎逸朗  |  三上喜子  |  室田恵梨、藤木奈々  小野和寛、島沢ノリコ  のりみそのみ   
-episode 10  |  伊藤達文  |  川崎逸朗  |  高橋敦子、小園菜穂  大沢美奈   
-episode 11  |  田頭しのぶ  |  吉田りさこ  |  島沢ノリコ、大沢美奈  松下郁子   
+episode 9  |  川崎逸朗  |  三上喜子  |  室田恵梨、藤木奈々   
+小野和寛、島沢ノリコ  
+のりみそのみ  
+episode 10  |  伊藤達文  |  川崎逸朗  |  高橋敦子、小園菜穂   
+大沢美奈  
+episode 11  |  田頭しのぶ  |  吉田りさこ  |  島沢ノリコ、大沢美奈   
+松下郁子  
 episode 12  |  田頭しのぶ  |  山中純子、田頭しのぶ   
 OAD  |  金杉弘子  |  吉田りさこ  |  八尋裕子   
 第2期  
@@ -1489,33 +1585,41 @@ episode 12  |  吉田りさこ  |  高橋敦子
   
 ###  放送局  
 
-日本国内 テレビ / 第1期 放送期間および放送時間    |  放送期間  |  放送時間  |  放送局  |  対象地域    |  備考   
+日本国内 テレビ / 第1期 放送期間および放送時間    放送期間  |  放送時間  |  放送局  |  対象地域    |  備考   
 ---|---|---|---|---  
 2013年  9月16日  \-  12月9日  |  月曜 23:30 - 23:45  |  AT-X  |  日本全域  |  リピート放送あり   
 2014年  4月8日  \-  6月24日  |  火曜 1:18 - 1:35（月曜深夜）  |  TOKYO MX    |  東京都  |   
 2014年  4月15日  \-  6月30日  |  火曜 0:43 - 1:00（月曜深夜）  |  BS11    |  日本全域  |  『  ANIME+  』枠   
-日本国内 インターネット放送 / 第1期 放送期間および放送時間    |  配信期間  |  配信時間  |  配信サイト  |  備考   
+日本国内 インターネット放送 / 第1期 放送期間および放送時間    配信期間  |  配信時間  |  配信サイト  |  備考   
 ---|---|---|---  
 2013年  9月22日  \-  12月15日  |  日曜 1:30 - 1:45（土曜深夜）  |  ニコニコ生放送  |   
 |  日曜 1:45 更新（土曜深夜）  |  ニコニコチャンネル  |  第1話と最新話は1週間無料   
 2013年  10月8日  \-  12月17日  |  隔週火曜 12:00 更新  |  dアニメストア  |  2話ずつ配信 / 有料会員のみ全話見放題   
-日本国内 国外テレビ / 第1期 放送期間および放送時間  |  放送期間  |  放送時間  |  放送局  |  対象地域  |  備考   
+日本国内 国外テレビ / 第1期 放送期間および放送時間  放送期間  |  放送時間  |  放送局  |  対象地域  |  備考   
 ---|---|---|---|---  
 2013年  9月26日  \-  12月19日  |  木曜 23:30 - 金曜 0:00  |  ANIPLUS  |  韓国全域  |  15歳以上視聴可で放送 /  韓国語  字幕あり   
-日本国内 テレビ / 第2期 放送期間および放送時間    |  放送期間  |  放送時間  |  放送局  |  対象地域    |  備考   
+日本国内 テレビ / 第2期 放送期間および放送時間    放送期間  |  放送時間  |  放送局  |  対象地域    |  備考   
 ---|---|---|---|---  
 2015年  9月24日  \-  12月10日  |  木曜 0:30 - 0:45（水曜深夜）  |  AT-X  |  日本全域  |  リピート放送あり   
 2015年  10月4日  \-  |  日曜 22:00 - 22:15  |  TOKYO MX  |  東京都  |   
-日本国内 インターネット放送 / 第2期 放送期間および放送時間    |  配信期間  |  配信時間  |  配信サイト  |  備考   
+日本国内 インターネット放送 / 第2期 放送期間および放送時間    配信期間  |  配信時間  |  配信サイト  |  備考   
 ---|---|---|---  
 2015年10月4日 -  |  日曜 22:00 - 22:15  |  ニコニコ生放送  |   
-2015年  10月11日  \-  10月18日  （第1話・第2話）  10月21日  （第3話）  10月25日  \- （第4話以降）  |  日曜 12:00 更新（第1話・第2話）  水曜 13:00 更新（第3話）  日曜 22:15 更新（第4話以降）  |  ニコニコチャンネル  |  第1話無料、第2話以降1週間無料  第3話のみ4日9時間15分（10月25日22:15まで）無料  （当初ニコニコ生放送より1週間遅れだったが  第4話から同日に繰り上げる）   
-2015年10月11日 -  |  日曜 12:00 更新  |  バンダイチャンネル  |  第1話無料、第2話以降有料  有料会員は全話見放題   
+2015年  10月11日  \-  10月18日  （第1話・第2話）  
+10月21日  （第3話）  
+10月25日  \- （第4話以降）  |  日曜 12:00 更新（第1話・第2話）   
+水曜 13:00 更新（第3話）  
+日曜 22:15 更新（第4話以降）  |  ニコニコチャンネル  |  第1話無料、第2話以降1週間無料   
+第3話のみ4日9時間15分（10月25日22:15まで）無料  
+（当初ニコニコ生放送より1週間遅れだったが  
+第4話から同日に繰り上げる）  
+2015年10月11日 -  |  日曜 12:00 更新  |  バンダイチャンネル  |  第1話無料、第2話以降有料   
+有料会員は全話見放題  
 |  |  dアニメストア  |   
   
 ###  DVD  
 
-|  巻  |  発売日  |  収録話  |  規格品番   
+巻  |  発売日  |  収録話  |  規格品番   
 ---|---|---|---  
 アニメイト限定版  |  限定版  |  通常版  |  アニメイト限定版  |  限定版  |  通常版   
 第1期  

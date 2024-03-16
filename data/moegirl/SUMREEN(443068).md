@@ -1,21 +1,21 @@
 ** 此作品长期未更新，疑似成为  有生之年  系列  ** ……
 
-|  SUMREEN  ||
-|---|---|
-|原名  |  SUMREEN   |
-|类型  |  恋爱AVG   |
-|平台  |  Windows/IPHONE   |
-|开发  |  SUMREEN游戏小组   |
-|发行  |  SUMREEN游戏小组   |
-|制作人  |  CK(详见STAFF章节)   |
-|设计师  |  CK(详见STAFF章节)   |
-|编剧  |  (详见STAFF章节)   |
-|程序  |  Game Master/ring0dev(详见STAFF章节)   |
-|美工  |  TOSHI(详见STAFF章节)   |
-|音乐  |  (详见STAFF章节)   |
-|引擎  |  自创  [1]   |
-|模式  |  视觉小说   |
-|发行时间  |  2009-12-24 22:50（圣诞DEMO版）   |
+SUMREEN  
+---  
+原名  |  SUMREEN   
+类型  |  恋爱AVG   
+平台  |  Windows/IPHONE   
+开发  |  SUMREEN游戏小组   
+发行  |  SUMREEN游戏小组   
+制作人  |  CK(详见STAFF章节)   
+设计师  |  CK(详见STAFF章节)   
+编剧  |  (详见STAFF章节)   
+程序  |  Game Master/ring0dev(详见STAFF章节)   
+美工  |  TOSHI(详见STAFF章节)   
+音乐  |  (详见STAFF章节)   
+引擎  |  自创  [1]   
+模式  |  视觉小说   
+发行时间  |  2009-12-24 22:50（圣诞DEMO版）   
   
 《 **SUMREEN** 》是  SUMREEN游戏小组  （即现在的  StudioGM
 ）开发的一款游戏。至目前已经更新到“圣诞DEMO版”，正式版还未完成。

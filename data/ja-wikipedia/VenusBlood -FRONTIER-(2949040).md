@@ -1,9 +1,11 @@
-VenusBlood -FRONTIER-  VenusBlood FRONTIER International  |  ジャンル  |  女神悪堕ち触手SLG   
+VenusBlood -FRONTIER-  
+VenusBlood FRONTIER International  ジャンル  |  女神悪堕ち触手SLG   
 ---|---  
 対応機種  |  Windows XP/Vista   
 発売元  |  dualtail   
 シナリオ  |  久巳友和、イルカ、け〜まる、オガタカ     
-発売日  |  2012年4月27日  2019年12月20日     
+発売日  |  2012年4月27日   
+2019年12月20日    
 レイティング  |  18禁   
 キャラクター名設定  |  不可   
 エンディング数  |  19   
@@ -206,7 +208,7 @@ International』（以下：インターナショナル版）が発売された 
 
 ##  主題歌  
 
-|  映像外部リンク  
+映像外部リンク  
 ---  
 『Venus Blood -FRONTIER-』全年齢版デモムービー  \-  YouTube  
   

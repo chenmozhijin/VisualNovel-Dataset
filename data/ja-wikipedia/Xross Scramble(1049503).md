@@ -1,4 +1,4 @@
-Xross Scramble  |  ジャンル  |  ADV+ACT   
+Xross Scramble  ジャンル  |  ADV+ACT   
 ---|---  
 対応機種  |  Windows 98/Me/2000/XP   
 発売元  |  戯画   
@@ -312,10 +312,7 @@ BALDR BULLET "REVELLION"
 
 ステファン・ベルナンデス（ステイ＝ハイ） 声：  TAGOSAKU
 
-|  | 
-
-この節の  加筆  が望まれています。  
-  
+|  この節の  加筆  が望まれています。  
 ---|---  
   
 ##  主題歌  

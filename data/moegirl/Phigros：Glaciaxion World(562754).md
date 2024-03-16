@@ -1,14 +1,14 @@
 **此页面中存在需要长期更新的内容及资料列表，现存条目中资料未必是最新。**  
 另请编辑者注意：请不要在人物历程等相关内容中悬挂此模板。具体使用方法详见  模板说明文档  。
 
-|  Phigros:Glaciaxion World  ||
-|---|---|
-|官方译名  |  Phigros冰封世界   |
-|类型  |  视觉小说   |
-|平台  |  Android/Windows   |
-|开发  |  Starlight Studio  /  phigrOS剧情研究站   |
-|发行时间  |  2023年3月4日（Pre1）   |
-|相关作品  |  Phigros   |
+Phigros:Glaciaxion World  
+---  
+官方译名  |  Phigros冰封世界   
+类型  |  视觉小说   
+平台  |  Android/Windows   
+开发  |  Starlight Studio  /  phigrOS剧情研究站   
+发行时间  |  2023年3月4日（Pre1）   
+相关作品  |  Phigros   
   
 **《Phigros:Glaciaxion World》** （又名Phigros:冰封世界，PGW）是以Phigros第一章剧情为蓝本，由
 **Starlight Studio** 开发、 **phigrOS剧情研究站** 企划并发行的 **视觉小说**

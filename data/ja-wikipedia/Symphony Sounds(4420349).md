@@ -31,7 +31,7 @@ Symphony Sounds Eternal
 
 Symphony Sounds Generation 2017
 
-|  #  |  曲名  |  歌手  |  タイトル  |  ブランド   
+#  |  曲名  |  歌手  |  タイトル  |  ブランド   
 ---|---|---|---|---  
 1  |  eyes to eyes  |  Duca  |  想いを捧げる乙女のメロディー  |  ensemble   
 2  |  アオイロノート  |  i.o  |  アオイロノート  |  ad:lib   
@@ -55,7 +55,7 @@ Symphony Sounds Generation 2017
 
 Symphony Sounds Generation 2018
 
-|  #  |  曲名  |  歌手  |  タイトル  |  ブランド   
+#  |  曲名  |  歌手  |  タイトル  |  ブランド   
 ---|---|---|---|---  
 1  |  アカリノアリカ  |  Kicco  |  縁りて此の葉は紅に  |  Lump of Sugar   
 2  |  アルカテイル  |  鈴木このみ  |  Summer Pockets  [注釈 5]  |  Key   
@@ -78,7 +78,7 @@ Symphony Sounds Generation 2018
 
 Symphony Sounds Generation 2019
 
-|  #  |  曲名  |  歌手  |  タイトル  |  ブランド   
+#  |  曲名  |  歌手  |  タイトル  |  ブランド   
 ---|---|---|---|---  
 1  |  イノセント・プリンセス  |  佐咲紗花  |  若葉色のカルテット  |  Lump of Sugar   
 2  |  お兄ちゃん、ギュッてして！ もっとして！  |  薬師るり  |  お兄ちゃん、朝までずっとギュッてして！ 夜までもっとエッチして！  |  Tinkle Position   
@@ -103,7 +103,7 @@ Symphony Sounds Generation 2019
 
 Symphony Sounds Record 2018 ～from 2003 to 2017～
 
-|  #  |  曲名  |  歌手  |  タイトル  |  ブランド   
+#  |  曲名  |  歌手  |  タイトル  |  ブランド   
 ---|---|---|---|---  
 1  |  Clover Heart's  |  真理絵  |  Clover Heart's  |  ALcot   
 2  |  メグメル  |  riya  |  CLANNAD  |  Key   
@@ -126,7 +126,7 @@ Symphony Sounds Record 2018 ～from 2003 to 2017～
 
 ###  Symphony Sounds Eternal  
 
-ディスコグラフィ  |  タイトル  |  発売日   
+ディスコグラフィ  タイトル  |  発売日   
 ---|---  
 Symphony Sounds Generation 2017  |  2019/05/31   
 Symphony Sounds Generation 2018  |  2020/05/29   

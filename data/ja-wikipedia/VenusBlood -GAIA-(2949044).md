@@ -1,4 +1,4 @@
-VenusBlood -GAIA-  |  ジャンル  |  拠点防衛&魔族産卵触手SLG   
+VenusBlood -GAIA-  ジャンル  |  拠点防衛&魔族産卵触手SLG   
 ---|---  
 対応機種  |  Windows XP/Vista   
 発売元  |  dualtail   

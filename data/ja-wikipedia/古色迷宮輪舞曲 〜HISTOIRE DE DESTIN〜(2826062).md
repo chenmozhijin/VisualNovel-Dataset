@@ -1,9 +1,14 @@
-古色迷宮輪舞曲  〜HISTOIRE DE DESTIN〜  |  ジャンル  |  運命操作ADV   
+古色迷宮輪舞曲  
+〜HISTOIRE DE DESTIN〜  ジャンル  |  運命操作ADV   
 ---|---  
-対応機種  |  Microsoft Windows  XP  /  Vista  /  7  （日本語版）  PlayStation Vita   
-発売元  |  Yatagarasu  イエティ  （PS Vita版）   
-発売日  |  2012年  7月26日  （PC版）  2013年  9月26日  （PS Vita版）   
-レイティング  |  18禁（PC版）  CERO  ：  **D** （17才以上対象）  （PS Vita版）   
+対応機種  |  Microsoft Windows  XP  /  Vista  /  7  （日本語版）   
+PlayStation Vita  
+発売元  |  Yatagarasu   
+イエティ  （PS Vita版）  
+発売日  |  2012年  7月26日  （PC版）   
+2013年  9月26日  （PS Vita版）  
+レイティング  |  18禁（PC版）   
+CERO  ：  **D** （17才以上対象）  （PS Vita版）  
 キャラクター名設定  |  不可   
 エンディング数  |  ？   
 セーブファイル数  |  ？   
@@ -18,7 +23,7 @@ CGモード  |  有
 オートモード  |  有   
 備考  |  音楽モードには修正パッチが必要。   
 テンプレートを表示  
-|  映像外部リンク  
+映像外部リンク  
 ---  
 古色迷宮輪舞曲 La Roue de fortune  （イエティ） -  YouTube  
 古色迷宮輪舞曲 PV第2弾  （イエティ） -  YouTube  

@@ -1,10 +1,13 @@
-でりばらっ! -deliverance of strays-  |  ジャンル  |  新生活不思議系恋愛  AVG     
+でりばらっ! -deliverance of strays-  ジャンル  |  新生活不思議系恋愛  AVG     
 ---|---  
 対応機種  |  Windows XP/Vista/7     
 開発元  |  Parasol     
 発売元  |  Parasol     
 プロデューサー  |  瑞原奈緒     
-キャラクターデザイン  |  ちこたむ  （命、澄光香）    kino  （彩）    konomi  （響子）    びび（SD原画）     
+キャラクターデザイン  |  ちこたむ  （命、澄光香）      
+kino  （彩）    
+konomi  （響子）    
+びび（SD原画）    
 シナリオ  |  田中タクヤ、村主すぐり     
 音楽  |  烏丸良介、七実補、  Barbarian On The Groove     
 オープニングテーマ  |  『TRUST』       

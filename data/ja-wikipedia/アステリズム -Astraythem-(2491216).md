@@ -1,4 +1,4 @@
-アステリズム -Astraythem-  |  ジャンル  |  姉さんに一途に恋するADV   
+アステリズム -Astraythem-  ジャンル  |  姉さんに一途に恋するADV   
 ---|---  
 対応機種  |  Windows XP  /  Vista  /  7   
 発売元  |  チュアブルソフト   

@@ -1,4 +1,4 @@
-TALK to TALK  |  ジャンル  |  恋愛ADV   
+TALK to TALK  ジャンル  |  恋愛ADV   
 ---|---  
 対応機種  |  Windows 95/98/2000/Me   
 発売元  |  Clear   

@@ -1,10 +1,12 @@
-Helltaker  |  ジャンル  |  パズル  、  アクション  、  ギャルゲー     
+Helltaker  ジャンル  |  パズル  、  アクション  、  ギャルゲー     
 ---|---  
-対応機種  |  Microsoft Windows  macOS   
+対応機種  |  Microsoft Windows    
+macOS  
 開発元  |  VanRipper   
 ディレクター  |  ウカシュ・ピスコシュ   
 プログラマー  |  ウカシュ・ピスコシュ   
-音楽  |  Mittsies  パトリク・カルワット   
+音楽  |  Mittsies   
+パトリク・カルワット  
 美術  |  ウカシュ・ピスコシュ   
 人数  |  1人   
 メディア  |  Steam   

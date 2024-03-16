@@ -1,14 +1,26 @@
-乙女理論とその周辺  -Ecole de Paris-  |  ジャンル  |  恋愛ADV   
+乙女理論とその周辺  
+-Ecole de Paris-  ジャンル  |  恋愛ADV   
 ---|---  
-対応機種  |  Microsoft Windows  XP  /  Vista  /  7  （日本語版）  PlayStation Vita   
-発売元  |  [PC]  Navel  [PS Vita]  dramatic create   
-発売日  |  [PC Limited Edition]  2013年  7月26日  [PS Vita]  2016年  11月24日   
-レイティング  |  [PC]18禁  [PS Vita]  CERO  ：  **C** （15才以上対象）   
+対応機種  |  Microsoft Windows  XP  /  Vista  /  7  （日本語版）   
+PlayStation Vita  
+開発元  |  Navel   
+発売元  |  [PC]  Navel    
+[PS Vita]  dramatic create  
+[Steam]HIKARI FIELD  
+発売日  |  [PC Limited Edition]  2013年  7月26日    
+[PS Vita]  2016年  11月24日  
+[Steam]  2023年  12月15日  
+レイティング  |  [PC]18禁   
+[PS Vita]  CERO  ：  **C** （15才以上対象）  
+[Steam]全年齢  
 キャラクター名設定  |  不可   
 エンディング数  |  3+2   
 セーブファイル数  |  100+AUTO10+QUICK10   
-メディア  |  [PC]  DVD-ROM  1枚  [PS Vita]PS Vitaカード / ダウンロード   
+メディア  |  [PC]  DVD-ROM  1枚   
+[PS Vita]PS Vitaカード / ダウンロード  
+[Steam]ダウンロード  
 画面サイズ  |  [PC]1280×720   
+[Steam]1920×1080  
 BGMフォーマット  |  PCM音源   
 キャラクターボイス  |  フルボイス   
 CGモード  |  有   
@@ -17,6 +29,7 @@ CGモード  |  有
 メッセージスキップ  |  有   
 オートモード  |  有   
 備考  |  [PC]Limited Editionには修正パッチが必要   
+[Steam]18禁パッチ有  
 テンプレートを表示  
   
 『 **乙女理論とその周辺 -Ecole de Paris-** 』（おとめりろんとそのしゅうへん エコール・ド・パリ）は、  2013年  7月26日
@@ -28,6 +41,8 @@ CGモード  |  有
 
 PlayStation Vita  版『 **乙女理論とその周辺 -Bon Voyage-** 』が  dramatic create  より  2016年
 11月24日  に発売した。
+
+フルHDに対応した  steam  版がHIKARI FIELDより  2023年  12月15日  に発売された    。
 
 ##  概要  
 

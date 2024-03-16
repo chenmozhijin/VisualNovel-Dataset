@@ -1,6 +1,7 @@
-Treating2U  |  ジャンル  |  アドベンチャー   
+Treating2U  ジャンル  |  アドベンチャー   
 ---|---  
-対応機種  |  （パッケージ版）Windows 95/98  （ダウンロード版）Windows 98/Me/2000/XP/Vista   
+対応機種  |  （パッケージ版）Windows 95/98   
+（ダウンロード版）Windows 98/Me/2000/XP/Vista  
 発売元  |  BLUE GALE   
 発売日  |  2000年1月28日   
 レイティング  |  18禁（  ソフ倫  ）   

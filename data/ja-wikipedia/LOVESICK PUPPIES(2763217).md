@@ -1,4 +1,5 @@
-LOVESICK PUPPIES  -僕らは恋するために生まれてきた-  |  ジャンル  |  大好きなあなたからくっついて離れないADV   
+LOVESICK PUPPIES  
+-僕らは恋するために生まれてきた-  ジャンル  |  大好きなあなたからくっついて離れないADV   
 ---|---  
 対応機種  |  Windows XP  /  Vista  /  7   
 発売元  |  COSMIC CUTE   

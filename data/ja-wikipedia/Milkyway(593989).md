@@ -1,35 +1,108 @@
-|
-
-|
-
-**この記事は 検証可能  な  参考文献や出典  が全く示されていないか、不十分です。 ** 出典を追加  して記事の信頼性向上にご協力ください。  （
-このテンプレートの使い方  ）  出典検索  ?  :  "Milkyway"  –  ニュース  **·** 書籍  **·** スカラー  **·**
-CiNii  **·** J-STAGE  **·** NDL  **·** dlib.jp  **·** ジャパンサーチ  **·** TWL  （
-2021年7月  ）  
-  
+|  **この記事は 検証可能  な  参考文献や出典  が全く示されていないか、不十分です。 ** 出典を追加  して記事の信頼性向上にご協力ください。
+（  このテンプレートの使い方  ）  
+出典検索  ?  :  "Milkyway"  –  ニュース  **·** 書籍  **·** スカラー  **·** CiNii  **·**
+J-STAGE  **·** NDL  **·** dlib.jp  **·** ジャパンサーチ  **·** TWL  （  2021年7月  ）  
 ---|---  
-Milkyway  Milkyway1.8  *1  Milkyway2  Milkyway2.5  *2  Milkyway3  |  ジャンル  |  恋愛シミュレーションゲーム  (超弩級スラップスティックAVG)   
+Milkyway  
+Milkyway1.8  *1  
+Milkyway2  
+Milkyway2.5  *2  
+Milkyway3  ジャンル  |  恋愛シミュレーションゲーム   
+(超弩級スラップスティックAVG)  
 ---|---  
-対応機種  |  Milkyway  （  Win95  /  98  )  Milkyway うぃず Voice  （Win98/  Me  ）  Milkyway2  （Win98/Me/  2000  /  XP  ）  MilkywayDVD  （Win98/Me/2000/XP)  Milkyway3  （Win98/Me/2000/XP）   
+対応機種  |  Milkyway   
+（  Win95  /  98  )  
+Milkyway うぃず Voice  
+（Win98/  Me  ）  
+Milkyway2  
+（Win98/Me/  2000  /  XP  ）  
+MilkywayDVD  
+（Win98/Me/2000/XP)  
+Milkyway3  
+（Win98/Me/2000/XP）  
 発売元  |  Witch   
-発売日  |  2000年7月28日 Milkyway  *3  2002年3月8日 Milkyway うぃず Voice  2002年3月30日 Milkyway1.8  2002年6月28日 Milkyway2  *4  2004年5月28日 MilkywayDVD  *5  2004年6月30日 Milkyway2.5  2005年4月28日 Milkyway3   
+発売日  |  2000年7月28日 Milkyway  *3    
+2002年3月8日 Milkyway うぃず Voice  
+2002年3月30日 Milkyway1.8  
+2002年6月28日 Milkyway2  *4  
+2004年5月28日 MilkywayDVD  *5  
+2004年6月30日 Milkyway2.5  
+2005年4月28日 Milkyway3  
 レイティング  |  18禁   
-キャラクター名設定  |  変更可能  ・七瀬健治（Milkyway）  ・七瀬健治（Milkyway うぃず Voice）  ・赤川裕樹（Milkyway2)  変更不可  ・七瀬健治（MilkywayDVD）  ・赤川裕樹（MilkywayDVD)  ・大野敬樹(Milkyway3)  ・鈴木幸広(Milkyway3)   
-エンディング数  |  10(Milkyway)  12（Milkyway2)  17（Milkyway3）   
-セーブファイル数  |  99個  ・Milkyway  100個  ・Milkyway うぃず Voice  ・Milkyway2  ・MilkywayDVD  ・Milkyway3   
+キャラクター名設定  |  変更可能   
+・七瀬健治（Milkyway）  
+・七瀬健治（Milkyway うぃず Voice）  
+・赤川裕樹（Milkyway2)  
+変更不可  
+・七瀬健治（MilkywayDVD）  
+・赤川裕樹（MilkywayDVD)  
+・大野敬樹(Milkyway3)  
+・鈴木幸広(Milkyway3)  
+エンディング数  |  10(Milkyway)   
+12（Milkyway2)  
+17（Milkyway3）  
+セーブファイル数  |  99個   
+・Milkyway  
+100個  
+・Milkyway うぃず Voice  
+・Milkyway2  
+・MilkywayDVD  
+・Milkyway3  
 ゲームエンジン  |  独自   
-メディア  |  CD-ROM1枚  ・Milkyway  ・Milkyway うぃず Voice  CD-ROM2枚  ・Milkyway2  ・Milkyway3  DVD-ROM1枚  ・MilkywayDVD   
-画面サイズ  |  640×480 16bit  ・Milkyway  ・Milkyway うぃず Voice  800×600 16bit  ・Milkyway2  ・MilkywayDVD  ・Milkyway3   
-BGMフォーマット  |  MIDI  ・Milkyway  ・Milkyway うぃず Voice  CD-DA  ・Milkyway2  Ogg Vorbis  ・MilkywayDVD  ・Milkyway3   
-キャラクターボイス  |  なし  ・Milkyway  あり(女性のみ)  ・Milkyway うぃず Voice  ・Milkyway2  ・MilkywayDVD  ・Milkyway3   
+メディア  |  CD-ROM1枚   
+・Milkyway  
+・Milkyway うぃず Voice  
+CD-ROM2枚  
+・Milkyway2  
+・Milkyway3  
+DVD-ROM1枚  
+・MilkywayDVD  
+画面サイズ  |  640×480 16bit   
+・Milkyway  
+・Milkyway うぃず Voice  
+800×600 16bit  
+・Milkyway2  
+・MilkywayDVD  
+・Milkyway3  
+BGMフォーマット  |  MIDI   
+・Milkyway  
+・Milkyway うぃず Voice  
+CD-DA  
+・Milkyway2  
+Ogg Vorbis  
+・MilkywayDVD  
+・Milkyway3  
+キャラクターボイス  |  なし   
+・Milkyway  
+あり(女性のみ)  
+・Milkyway うぃず Voice  
+・Milkyway2  
+・MilkywayDVD  
+・Milkyway3  
 CGモード  |  あり   
 音楽モード  |  あり   
-回想モード  |  なし  ・Milkyway  ・Milkyway うぃず Voice  あり  ・Milkyway2  ・MilkywayDVD  ・Milkyway3   
+回想モード  |  なし   
+・Milkyway  
+・Milkyway うぃず Voice  
+あり  
+・Milkyway2  
+・MilkywayDVD  
+・Milkyway3  
 メッセージスキップ  |  全文   
-オートモード  |  あり  ・Milkyway  なし  ・Milkyway うぃず Voice  ・Milkyway2  ・MilkywayDVD  ・Milkyway3   
+オートモード  |  あり   
+・Milkyway  
+なし  
+・Milkyway うぃず Voice  
+・Milkyway2  
+・MilkywayDVD  
+・Milkyway3  
 備考  | 
 
-  * 1 Milkyway1.8は電撃姫2002年5月号付録  *2 Milkyway2.5は電撃姫2004年8月号付録  *3 初回限定版は結城倫のカードホルダー付属  *4 初回限定版は犬塚ありすフィギュアと七瀬晶アロマテラピーセット付属  *5 MilkywayDVDの内容はMilkyway うぃず Voice＋Milkyway1.8＋Milkyway2と同等（若干のイベント・CG追加） 
+  * 1 Milkyway1.8は電撃姫2002年5月号付録   
+*2 Milkyway2.5は電撃姫2004年8月号付録   
+*3 初回限定版は結城倫のカードホルダー付属   
+*4 初回限定版は犬塚ありすフィギュアと七瀬晶アロマテラピーセット付属   
+*5 MilkywayDVDの内容はMilkyway うぃず Voice＋Milkyway1.8＋Milkyway2と同等（若干のイベント・CG追加） 
 
   
 テンプレートを表示  
@@ -399,10 +472,7 @@ Milkyway3
 
 Milkyway
 
-     |  | 
-
-この節の  加筆  が望まれています。  
-  
+     |  この節の  加筆  が望まれています。   
 ---|---  
     
 Milkyway2

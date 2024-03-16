@@ -1,4 +1,4 @@
-Sakura Spirit  |  ジャンル  |  ビジュアルノベル   
+Sakura Spirit  ジャンル  |  ビジュアルノベル   
 ---|---  
 対応機種  |  Windows  ,  MacOS  ,  Linux   
 開発元  |  Winged Cloud  （  英語版  ）   

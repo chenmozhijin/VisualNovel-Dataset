@@ -1,21 +1,28 @@
-|  奇异恩典 -What color is your attribute?-  ||
-|---|---|
-|原名  |  アメイジング·グレイス -What color is your attribute?-   |
-|官方译名  |  奇异恩典 -What color is your attribute?-   |
-|常用译名  |  奇异恩典 -圣夜的小镇-   |
-|类型  |  ADV   |
-|平台  |  Windows  PlayStation 4   |
-|分级  |  PC：R18  PS4：    CERO  :    \- 17岁以上|
-|开发  |  Cabbage Soft   |
-|发行  |  Cabbage Soft（PC）   <br>Dramatic Create（PS4）  <br>Shiravune（Steam）  |
-|制作人  |  SATOSHI   |
-|角色设计  |  梱枝莉子   |
-|编剧  |  冬茜トム  、  しげた   |
-|美工  |  梱枝莉子   |
-|音乐  |  solfa   |
-|发行时间  |  2018年11月30日（PC）   <br>2019年9月26日（PS4）  <br>2024年第二季度（Steam）  |
-||  「    愛しの君へ、明けない聖夜の  愛しの君へ、明けない聖夜の  祝福  祝福  を  を  ————  ————    」|
-|---|------|
+奇异恩典 -What color is your attribute?-  
+---  
+原名  |  アメイジング·グレイス -What color is your attribute?-   
+官方译名  |  奇异恩典 -What color is your attribute?-   
+常用译名  |  奇异恩典 -圣夜的小镇-   
+类型  |  ADV   
+平台  |  Windows   
+PlayStation 4  
+分级  |  PC：R18   
+PS4：  |  CERO  :  |  \- 17岁以上   
+---|---  
+开发  |  Cabbage Soft   
+发行  |  Cabbage Soft（PC）   
+Dramatic Create（PS4）  
+Shiravune（Steam）  
+制作人  |  SATOSHI   
+角色设计  |  梱枝莉子   
+编剧  |  冬茜トム  、  しげた   
+美工  |  梱枝莉子   
+音乐  |  solfa   
+发行时间  |  2018年11月30日（PC）   
+2019年9月26日（PS4）  
+2024年第二季度（Steam）  
+「  |  愛しの君へ、明けない聖夜の  愛しの君へ、明けない聖夜の  祝福  祝福  を  を  ————  ————  |  」   
+---|---|---  
   
 **奇异恩典 -What color is your attribute?-** （日语：  **アメイジング・グレイス -What color is
 your attribute?-** ）是由  Cabbage Soft  开发的一款  ADV  游戏，于2018年11月30日发售，并有漫画等衍生作品。
@@ -294,10 +301,7 @@ CV：  木下くわがた丸
   * ** オーロラ  /极光 **
 
      即Aurora，在游戏中是将小镇与外界隔绝的高大墙壁，约70米高  [5]  。 
-|
-
 **以下内容含有 剧透成分  ，可能影响观赏作品兴趣，请酌情阅读 **  
-  
 ---  
   
   * ** ミューズ  /缪斯 **
@@ -352,7 +356,7 @@ CV：  木下くわがた丸
 
      简介：在被水晶墙壁包围的小镇上发生了圣诞节的悲剧。修为了避免悲剧的发生，不断重复着到圣诞节为止的每一天—— 
      由  ばにら棒  作画，在《  月刊Comic Alive  》2018年10月号至2019年2月号连载，单行本由  KADOKAWA  出版。 
-|  册数  |  发售日期  |  ISBN   
+册数  |  发售日期  |  ISBN   
 ---|---|---  
 1  |  2019年1月23日  [7]  |  ISBN 978-4-04-065277-1   
   

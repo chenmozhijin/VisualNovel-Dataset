@@ -1,9 +1,10 @@
-ENGAGE LINKS  |  ジャンル  |  愛と剣のファンタジックADV     
+ENGAGE LINKS  ジャンル  |  愛と剣のファンタジックADV     
 ---|---  
 発売元  |  ALcot   
 キャラクターデザイン  |  仁村有志  、蒼魚真青       
 シナリオ  |  宮蔵、空下元、時乃       
-音楽  |  Elements Garden  fripSide       
+音楽  |  Elements Garden    
+fripSide      
 オープニングテーマ  |  ENGAGE LINKS（真理絵）     
 発売日  |  2008年10月24日     
 価格  |  8,800円（税別）     

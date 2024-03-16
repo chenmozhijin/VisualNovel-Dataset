@@ -1,9 +1,14 @@
-FESTA!! -HYPER GIRLS POP-(PC)  FESTA!! -HYPER GIRLS PARTY-(PS2)  |  ジャンル  |  HYPER GIRLS POP ADV   
+FESTA!! -HYPER GIRLS POP-(PC)  
+FESTA!! -HYPER GIRLS PARTY-(PS2)  ジャンル  |  HYPER GIRLS POP ADV   
 ---|---  
-対応機種  |  Windows 98/2000/Me/XP  PlayStation 2   
-発売元  |  LASS (PC)  KID (PS2)   
-発売日  |  2005年12月16日(PC)  2006年6月29日(PS2)   
-レイティング  |  18禁 (PC)  CERO12 (PS2)   
+対応機種  |  Windows 98/2000/Me/XP   
+PlayStation 2  
+発売元  |  LASS (PC)   
+KID (PS2)  
+発売日  |  2005年12月16日(PC)   
+2006年6月29日(PS2)  
+レイティング  |  18禁 (PC)   
+CERO12 (PS2)  
 キャラクター名設定  |  不可   
 エンディング数  |  12 (PC)   
 セーブファイル数  |  通常167・クイック1 (PC)   

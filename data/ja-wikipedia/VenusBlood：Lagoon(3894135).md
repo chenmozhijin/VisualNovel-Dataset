@@ -1,10 +1,11 @@
-VenusBlood:Lagoon  |  ジャンル  |  竜姫産卵触手SLG   
+VenusBlood:Lagoon  ジャンル  |  竜姫産卵触手SLG   
 ---|---  
 対応機種  |  Windows 7/8.1/10   
 発売元  |  dualtail   
 発売日  |  2018年12月28日   
 レイティング  |  18禁   
-メディア  |  DVD-ROM </br> ダウンロード販売   
+メディア  |  DVD-ROM    
+ダウンロード販売  
 テンプレートを表示  
   
 『 **VenusBlood:Lagoon** 』（ヴィーナスブラッド・ラグーン）は、  dualtail

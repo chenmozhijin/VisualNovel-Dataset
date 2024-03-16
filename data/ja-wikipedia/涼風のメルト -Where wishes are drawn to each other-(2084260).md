@@ -1,12 +1,21 @@
-涼風のメルト -Where wishes are drawn to each other- (PC)  涼風のメルト -days in the sanctuary-(PS3 / PSP)  |  ジャンル  |  精霊と心ふれあう恋愛ADV   
+涼風のメルト -Where wishes are drawn to each other- (PC)  
+涼風のメルト -days in the sanctuary-(PS3 / PSP)  ジャンル  |  精霊と心ふれあう恋愛ADV   
 ---|---  
-対応機種  |  Windows 2000/XP/Vista/7  PlayStation 3  PlayStation Portable   
-発売元  |  Whirlpool  (PC)  PIACCI (PS3 / PSP)   
+対応機種  |  Windows 2000/XP/Vista/7   
+PlayStation 3  
+PlayStation Portable  
+発売元  |  Whirlpool  (PC)   
+PIACCI (PS3 / PSP)  
 美術  |  てんまそ  （キャラクターデザイン）   
 人数  |  1人   
-メディア  |  DVD-ROM (PC)  BD-ROM (PS3)  UMD (PSP)   
-発売日  |  2010年  8月27日  (PC)  2011年12月15日 (PS3)  2012年8月23日 (PSP)   
-対象年齢  |  18禁 (PC)  CERO  ：  **B** （12才以上対象）  (PS3 / PSP)   
+メディア  |  DVD-ROM (PC)   
+BD-ROM (PS3)  
+UMD (PSP)  
+発売日  |  2010年  8月27日  (PC)   
+2011年12月15日 (PS3)  
+2012年8月23日 (PSP)  
+対象年齢  |  18禁 (PC)   
+CERO  ：  **B** （12才以上対象）  (PS3 / PSP)  
 売上本数  |  3,862本(PSP)     
 テンプレートを表示  
   

@@ -1,35 +1,43 @@
-|
-
-|
-
-**この記事は 検証可能  な  参考文献や出典  が全く示されていないか、不十分です。 ** 出典を追加  して記事の信頼性向上にご協力ください。  （
-このテンプレートの使い方  ）  出典検索  ?  :  "さかあがりハリケーン 〜LET'S PILE UP OUR SCHOOL!〜"  –  ニュース
-**·** 書籍  **·** スカラー  **·** CiNii  **·** J-STAGE  **·** NDL  **·** dlib.jp
-**·** ジャパンサーチ  **·** TWL  （  2016年7月  ）  
-  
+|  **この記事は 検証可能  な  参考文献や出典  が全く示されていないか、不十分です。 ** 出典を追加  して記事の信頼性向上にご協力ください。
+（  このテンプレートの使い方  ）  
+出典検索  ?  :  "さかあがりハリケーン 〜LET'S PILE UP OUR SCHOOL!〜"  –  ニュース  **·** 書籍  **·**
+スカラー  **·** CiNii  **·** J-STAGE  **·** NDL  **·** dlib.jp  **·** ジャパンサーチ
+**·** TWL  （  2016年7月  ）  
 ---|---  
-|
-
-|
-
-このページ名「 **さかあがりハリケーン 〜LET'S PILE UP OUR SCHOOL!〜** 」は  暫定的なもの  です。  代案としては
-**さかあがりハリケーン** があります。  議論は  ノート  を参照してください。  （  2019年11月  ）  
-  
+|  このページ名「 **さかあがりハリケーン 〜LET'S PILE UP OUR SCHOOL!〜** 」は  暫定的なもの  です。  
+代案としては **さかあがりハリケーン** があります。  
+議論は  ノート  を参照してください。  （  2019年11月  ）  
 ---|---  
-さかあがりハリケーン（PC）  さかあがりハリケーン Portable（PSP、PS Vita）  |  ジャンル  |  ヒロイン巻き込まれ型ハリケーンADV   
+さかあがりハリケーン（PC）  
+さかあがりハリケーン Portable（PSP、PS Vita）  ジャンル  |  ヒロイン巻き込まれ型ハリケーンADV   
 ---|---  
-対応機種  |  Microsoft Windows  2000  /  XP  /  Vista  PlayStation Portable  PlayStation Vita  PlayStation 4  Nintendo Switch   
-開発元  |  [PC]戯画  [PSP]  加賀クリエイト   
-発売元  |  [PC]  戯画  [PSP]  アルケミスト  [PS Vita/PS4/Switch]  エンターグラム   
+対応機種  |  Microsoft Windows  2000  /  XP  /  Vista    
+PlayStation Portable  
+PlayStation Vita  
+PlayStation 4  
+Nintendo Switch  
+開発元  |  [PC]戯画   
+[PSP]  加賀クリエイト  
+発売元  |  [PC]  戯画    
+[PSP]  アルケミスト  
+[PS Vita/PS4/Switch]  エンターグラム  
 キャラクターデザイン  |  ねこにゃん   
 シナリオ  |  木緒なち  、  陸奥竜介   
-発売日  |  [PC初回版]2008年11月28日  [PSP]2011年7月28日  [PS Vita]2016年10月27日   
-レイティング  |  [PC]18禁  [PSP]  CERO  ：  **B** （12才以上対象）  [PS Vita]  CERO  ：  **C** （15才以上対象）   
+発売日  |  [PC初回版]2008年11月28日   
+[PSP]2011年7月28日  
+[PS Vita]2016年10月27日  
+レイティング  |  [PC]18禁   
+[PSP]  CERO  ：  **B** （12才以上対象）  
+[PS Vita]  CERO  ：  **C** （15才以上対象）  
 キャラクター名設定  |  不可   
 エンディング数  |  6   
 セーブファイル数  |  99+AUTO 20   
-メディア  |  [PC]DVD-ROM  [PSP]  UMD  [PS Vita]PS Vitaカード/ダウンロード   
-画面サイズ  |  [PC]800x600  [PSP]480x272  [PS Vita]960x544   
+メディア  |  [PC]DVD-ROM   
+[PSP]  UMD  
+[PS Vita]PS Vitaカード/ダウンロード  
+画面サイズ  |  [PC]800x600   
+[PSP]480x272  
+[PS Vita]960x544  
 キャラクターボイス  |  主人公以外   
 CGモード  |  あり   
 音楽モード  |  あり   

@@ -1,4 +1,4 @@
-X Change Alternative2  |  ジャンル  |  マルチエンディングAVG   
+X Change Alternative2  ジャンル  |  マルチエンディングAVG   
 ---|---  
 対応機種  |  Windows 98SE/2000/ME/XP/VISTA   
 発売元  |  CROWD   

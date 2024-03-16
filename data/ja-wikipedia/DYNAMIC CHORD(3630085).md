@@ -1,24 +1,27 @@
-|  DYNAMIC CHORD  ||
-|---|---|
-|ジャンル  |  恋愛、音楽   <br>ゲーム  |
-|ゲームジャンル  |  甘く激しく魂震えるバンド  恋愛ADV   |
-|対応機種  |  Windows  、  PlayStation Vita  （  アスガルド  ）  iOS  、  Android  （アリスマティック）   |
-|開発元  |  honeybee black   |
-|発売元  |  アスガルド  →アリスマティック   |
-|キャラクターデザイン  |  冨士原良   |
-|シナリオ  |  エッジワークス  、他   |
-|発売日  |  2014年  12月26日   <br>アニメ  |
-|原作  |  アスガルド   |
-|監督  |  影山楙倫   |
-|シリーズ構成  |  影山楙倫   |
-|脚本  |  影山楙倫、勝治京子   |
-|キャラクターデザイン  |  梅津泰臣   |
-|音楽  |  兼松衆   |
-|アニメーション制作  |  studioぴえろ   |
-|製作  |  DYNAMIC CHORD Project、  TBSテレビ   |
-|放送局  |  TBSテレビ  、  CBCテレビ  、  BS-TBS   |
-|放送期間  |  2017年  10月6日 - 12月22日   |
-|話数  |  全12話   |
+DYNAMIC CHORD  
+---  
+ジャンル  |  恋愛、音楽   
+ゲーム  
+ゲームジャンル  |  甘く激しく魂震えるバンド  恋愛ADV   
+対応機種  |  Windows  、  PlayStation Vita  （  アスガルド  ）   
+iOS  、  Android  （アリスマティック）  
+開発元  |  honeybee black   
+発売元  |  アスガルド  →アリスマティック   
+キャラクターデザイン  |  冨士原良   
+シナリオ  |  エッジワークス  、他   
+発売日  |  2014年  12月26日   
+アニメ  
+原作  |  アスガルド   
+監督  |  影山楙倫   
+シリーズ構成  |  影山楙倫   
+脚本  |  影山楙倫、勝治京子   
+キャラクターデザイン  |  梅津泰臣   
+音楽  |  兼松衆   
+アニメーション制作  |  studioぴえろ   
+製作  |  DYNAMIC CHORD Project、  TBSテレビ   
+放送局  |  TBSテレビ  、  CBCテレビ  、  BS-TBS   
+放送期間  |  2017年  10月6日 - 12月22日   
+話数  |  全12話   
 テンプレート  \-  ノート  
 プロジェクト  |  ゲーム  ・  アニメ   
 ポータル  |  ゲーム  ・  アニメ   
@@ -227,7 +230,7 @@
 
 ###  恋愛アドベンチャー  
 
-|  発売日  |  タイトル  |  機種   
+発売日  |  タイトル  |  機種   
 ---|---|---  
 2014年12月26日  |  DYNAMIC CHORD feat.[rêve parfait]  |  Windows   
 2015年3月27日  |  DYNAMIC CHORD feat.Liar-S   
@@ -282,7 +285,7 @@ LIVEパート
 
 ###  vocal CDシリーズ[ドラマパート＋楽曲]  
 
-|  発売日  |  タイトル  |  収録曲   
+発売日  |  タイトル  |  収録曲   
 ---|---|---  
 2014年10月31日  |  DYNAMIC CHORD vocalCDシリーズvol.1 [rêve parfait]  |  Christmas Carol   
 DYNAMIC CHORD vocalCDシリーズvol.2 Liar-S  |  RISE'n SHINE   
@@ -291,13 +294,13 @@ DYNAMIC CHORD vocalCDシリーズvol.3 KYOHSO  |  x-maniac
   
 ###  ドキュメンタリーCD[ドラマパート＋楽曲]  
 
-|  発売日  |  タイトル  |  収録曲   
+発売日  |  タイトル  |  収録曲   
 ---|---|---  
-2015年11月25日  |  DYNAMIC CHORD documentaryCD feat.apple-polisher  |  real sensation LIVE ver.  this song is dedicated to you. LIVE ver. </br>  
+2015年11月25日  |  DYNAMIC CHORD documentaryCD feat.apple-polisher  |  real sensation LIVE ver.  this song is dedicated to you. LIVE ver.   
   
 ###  love U kissシリーズ[ドラマパートのみ]  
 
-|  発売日  |  タイトル   
+発売日  |  タイトル   
 ---|---  
 2015年1月30日  |  DYNAMIC CHORD love U kiss series vol.1 ~King~   
 DYNAMIC CHORD love U kiss series vol.2 ~Bishop~  
@@ -318,7 +321,7 @@ DYNAMIC CHORD love U kiss series vol.16 ～NaL～
   
 ###  shuffle CDシリーズ[ドラマパート＋楽曲]  
 
-|  発売日  |  タイトル  |  収録曲   
+発売日  |  タイトル  |  収録曲   
 ---|---|---  
 2015年12月25日  |  DYNAMIC CHORD shufflelCDシリーズvol.1 Rabbit Clan  |  SWEET DREAMS   
 DYNAMIC CHORD shuffleCDシリーズvol.2 KICKS  |  believe in you, believe in me   
@@ -330,7 +333,7 @@ DYNAMIC CHORD shuffleCDシリーズ2nd vol.4 Mr.Perfect  |  Mr.Perfect
   
 ###  バケーショントリップCDシリーズ[ドラマパートのみ]  
 
-|  発売日  |  タイトル   
+発売日  |  タイトル   
 ---|---  
 2016年12月22日  |  DYNAMIC CHORD Vacation Trip CD series KYOHSO   
 DYNAMIC CHORD Vacation Trip CD series Liar-S  
@@ -339,29 +342,59 @@ DYNAMIC CHORD Vacation Trip CD series apple-polisher
   
 ###  楽曲CD[原作]  
 
-|  発売日  |  タイトル  |  バンド  |  収録曲  |  補足   
+発売日  |  タイトル  |  バンド  |  収録曲  |  補足   
 ---|---|---|---|---  
 2015年5月27日  |  JUDGEMENT/Snow-White  |  [rêve parfait]  |  （タイトル同様）  |   
 2015年8月26日  |  グッバイ サブウェイ/STELLA  |  Liar-S  |  （タイトル同様）  |   
 2015年10月28日  |  Roots of Life/precog  |  KYOHSO  |  （タイトル同様）  |   
 2016年3月30日  |  real sensation/this song is dedicated to you.  |  apple-polisher  |  （タイトル同様）  |  アーティストボイスメッセージも収録   
-ミニアルバム『BEAUTIFUL DREAMER』  |  [rêve parfait]  |  JUDGEMENT  Christmas Carol  Snow-White  RAIN KEEPS FALLIN’  BEAUTIFUL DREAMER  |   
-2017年1月25日  |  ミニアルバム『silent sun』  |  KYOHSO  |  Roots of Life  x-maniac  deep dive  precog piano ver.  silent sun  |   
+ミニアルバム『BEAUTIFUL DREAMER』  |  [rêve parfait]  |  JUDGEMENT   
+Christmas Carol  
+Snow-White  
+RAIN KEEPS FALLIN’  
+BEAUTIFUL DREAMER  |   
+2017年1月25日  |  ミニアルバム『silent sun』  |  KYOHSO  |  Roots of Life   
+x-maniac  
+deep dive  
+precog piano ver.  
+silent sun  |   
 2017年4月26日  |  CHECK☆MATE☆TONIGHT/K・O・I  |  [rêve parfait]  |  （タイトル同様）  |   
 beat goes on/what have you done for...  |  apple-polisher  |  （タイトル同様）  |   
-2017年5月31日  |  ミニアルバム『ROUND AND ROUND』  |  Liar-S  |  wanna take a ride?  ROUND AND ROUND  STELLA  ALWAYS  ジェネシス  |   
-2018年5月30日  |  ミニアルバム『everytime i see your face』  |  apple-polisher  |  Against the Rules  this song is dedicated to you.  everytime i see your face  what have you done for...  Star-flakeS  |   
-2019年1月23日  |  ベストアルバム『DYNAMIC CHORD THE BEST』  |  [rêve parfait]  Liar-S  KYOHSO  apple-polisher  |  各バンド2曲ずつの楽曲を収録  |  ゲームのメインテーマのBGMも2曲収録   
+2017年5月31日  |  ミニアルバム『ROUND AND ROUND』  |  Liar-S  |  wanna take a ride?   
+ROUND AND ROUND  
+STELLA  
+ALWAYS  
+ジェネシス  |   
+2018年5月30日  |  ミニアルバム『everytime i see your face』  |  apple-polisher  |  Against the Rules   
+this song is dedicated to you.  
+everytime i see your face  
+what have you done for...  
+Star-flakeS  |   
+2019年1月23日  |  ベストアルバム『DYNAMIC CHORD THE BEST』  |  [rêve parfait]   
+Liar-S  
+KYOHSO  
+apple-polisher  |  各バンド2曲ずつの楽曲を収録  |  ゲームのメインテーマのBGMも2曲収録   
   
 ###  楽曲CD[TVアニメ主題歌＋カップリング楽曲]  
 
-|  発売日  |  タイトル  |  バンド  |  収録曲  |  補足   
+発売日  |  タイトル  |  バンド  |  収録曲  |  補足   
 ---|---|---|---|---  
-2017年10月18日  |  TVアニメ『DYNAMIC CHORD』オープニング「p.s. i hate you?xxx」  |  [rêve parfait]  |  p.s. i hate you  ♡  xxx  —since you been gone—  |   
-TVアニメ『DYNAMIC CHORD』エンディングテーマ 「because the sky...」  |  KYOHSO  |  because the sky...  in the dusk  |   
-2017年11月8日  |  TVアニメ『DYNAMIC CHORD』エンディングテーマ「ダイアモンドアイズ」  |  Liar-S  |  ダイアモンドアイズ  Flight to Nowhere  |   
-2017年11月29日  |  TVアニメ『DYNAMIC CHORD』エンディングテーマ「BACK 2 SQUARE 1」  |  apple-polisher  |  BACK 2 SQUARE 1  HOLDING OUT  |   
-2018年2月14日  |  TVアニメ『DYNAMIC CHORD』The four SEASONS  |  [rêve parfait]  Liar-S  KYOHSO  apple-polisher  |  アクシデンタルデート  GIFT  PURPLE RED SKY  SILENT NIGHT  Dear my…  |  TVアニメのBGMも10曲収録   
+2017年10月18日  |  TVアニメ『DYNAMIC CHORD』オープニング「p.s. i hate you?xxx」  |  [rêve parfait]  |  p.s. i hate you  ♡  xxx   
+—since you been gone—  |   
+TVアニメ『DYNAMIC CHORD』エンディングテーマ 「because the sky...」  |  KYOHSO  |  because the sky...   
+in the dusk  |   
+2017年11月8日  |  TVアニメ『DYNAMIC CHORD』エンディングテーマ「ダイアモンドアイズ」  |  Liar-S  |  ダイアモンドアイズ   
+Flight to Nowhere  |   
+2017年11月29日  |  TVアニメ『DYNAMIC CHORD』エンディングテーマ「BACK 2 SQUARE 1」  |  apple-polisher  |  BACK 2 SQUARE 1   
+HOLDING OUT  |   
+2018年2月14日  |  TVアニメ『DYNAMIC CHORD』The four SEASONS  |  [rêve parfait]   
+Liar-S  
+KYOHSO  
+apple-polisher  |  アクシデンタルデート   
+GIFT  
+PURPLE RED SKY  
+SILENT NIGHT  
+Dear my…  |  TVアニメのBGMも10曲収録   
   
 ##  テレビアニメ  
 
@@ -491,24 +524,27 @@ PIANO』）      されている。  ちゆ
 
 ###  各話リスト  
 
-|  話数  |  サブタイトル  |  脚本  |  演出  |  作画監督   
+話数  |  サブタイトル  |  脚本  |  演出  |  作画監督   
 ---|---|---|---|---  
 act.1  |  Spring rain  |  影山楙倫  |  篠崎康行  |  Hue Hey-Jung   
 act.2  |  Unreachable wish  |  Hue Hey-Jung、Kim Yoo-Mi、Park Hey-Ran   
 act.3  |  Requiem  |  松本マサユキ  |  斉藤和也、櫻井司   
 act.4  |  Summer holiday  |  松川朋弘  |  福井智子、In Taesun   
-act.5  |  Spirits  |  勝治京子  |  湖山禎崇  |  山科和佳菜、秦知世、大久保修、重松晋一  飯塚葉子、松本弘、松岡秀明、片山美和  野口征恒  、岡昭彦、徳田拓也、近藤瑠衣   
+act.5  |  Spirits  |  勝治京子  |  湖山禎崇  |  山科和佳菜、秦知世、大久保修、重松晋一   
+飯塚葉子、松本弘、松岡秀明、片山美和  
+野口征恒  、岡昭彦、徳田拓也、近藤瑠衣  
 act.6  |  Best memories  |  佐土原武之  |  Park Sang-Ho   
 act.7  |  Autumn breeze  |  松本マサユキ  |  Park Hey-Ran、有泉洋子、櫻井司   
 act.8  |  Shook  |  藤本義孝  |  Hue Hey-Jung、本泉なおや   
 act.9  |  Roots  |  Hue Hey-Jung   
-act.10  |  Cold winter  |  西村博昭  |  木上炯仁、飯野皓、青鉢芳信  小川一郎、清原寮   
+act.10  |  Cold winter  |  西村博昭  |  木上炯仁、飯野皓、青鉢芳信   
+小川一郎、清原寮  
 act.11  |  Snowing  |  藤本義孝  |  Park Sang-Ho   
 act.12  |  Christmas Day  |  Hue Hey-Jung   
   
 ###  放送局  
 
-日本国内 テレビ / 放送期間および放送時間    |  放送期間  |  放送時間  |  放送局  |  対象地域    |  備考   
+日本国内 テレビ / 放送期間および放送時間    放送期間  |  放送時間  |  放送局  |  対象地域    |  備考   
 ---|---|---|---|---  
 2017年  10月6日  \-  12月22日  |  金曜 1:58 - 2:28（木曜深夜）  |  TBSテレビ  |  関東広域圏  |  **製作局** /  字幕放送   
 2017年  10月7日  \-  2018年  1月6日  |  土曜 3:09 - 3:39（金曜深夜）  |  CBCテレビ  |  中京広域圏  |   
@@ -517,7 +553,7 @@ act.12  |  Christmas Day  |  Hue Hey-Jung
   
   * 当初TBSテレビでは11月17日（16日深夜）にact.7を放送予定だったが『  アジアプロ野球チャンピオンシップ 日本×韓国  』（19:00 - 23:45）延長に伴う対応により休止、TBSでは11月23日（22日深夜）2:37 - 3:07に振替放送。以降、TBS以外の放送局は1週遅れ放送となる。 
 
-日本国内 インターネット / 配信期間および配信時間    |  配信期間  |  配信時間  |  配信サイト  |  備考   
+日本国内 インターネット / 配信期間および配信時間    配信期間  |  配信時間  |  配信サイト  |  備考   
 ---|---|---|---  
 2017年  10月6日  \-  |  金曜 6:00 更新  |  ニコニコ動画  /  ひかりTV  /  Amazonビデオ  |   
 |  金曜 10:00 更新  |  VIDEX  /  U-NEXT  |   
@@ -532,20 +568,15 @@ act.12  |  Christmas Day  |  Hue Hey-Jung
   
 ###  BD / DVD  
 
-|  巻  |  発売日    |  収録話  |  規格品番   
+巻  |  発売日    |  収録話  |  規格品番   
 ---|---|---|---  
 BD  |  DVD   
 1  |  2018年2月28日  |  第1話 - 第6話  |  OVXN-0036  |  OVBA-1062   
 2  |  2018年3月28日  |  第7話 - 第12話  |  OVXN-0038  |  OVBA-1064   
-|  TBSテレビ  金曜 1:58（木曜深夜）枠  |||
-|---|---|---|
-|前番組  |  番組名  |  次番組   <br>  <br>コンビニカレシ<br>|
-
-DYNAMIC CHORD
-
-|
-
-ミイラの飼い方  
+TBSテレビ  金曜 1:58（木曜深夜）枠  
+---  
+前番組  |  番組名  |  次番組   
+コンビニカレシ  |  DYNAMIC CHORD  |  ミイラの飼い方   
   
 ##  Webラジオ  
 

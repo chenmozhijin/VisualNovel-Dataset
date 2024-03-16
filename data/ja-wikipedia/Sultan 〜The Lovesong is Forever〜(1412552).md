@@ -1,18 +1,16 @@
-|
-
-|
-
-**この記事は 検証可能  な  参考文献や出典  が全く示されていないか、不十分です。 ** 出典を追加  して記事の信頼性向上にご協力ください。  （
-このテンプレートの使い方  ）  出典検索  ?  :  "Sultan 〜The Lovesong is Forever〜"  –  ニュース
-**·** 書籍  **·** スカラー  **·** CiNii  **·** J-STAGE  **·** NDL  **·** dlib.jp
-**·** ジャパンサーチ  **·** TWL  （  2015年7月  ）  
-  
+|  **この記事は 検証可能  な  参考文献や出典  が全く示されていないか、不十分です。 ** 出典を追加  して記事の信頼性向上にご協力ください。
+（  このテンプレートの使い方  ）  
+出典検索  ?  :  "Sultan 〜The Lovesong is Forever〜"  –  ニュース  **·** 書籍  **·** スカラー
+**·** CiNii  **·** J-STAGE  **·** NDL  **·** dlib.jp  **·** ジャパンサーチ  **·** TWL
+（  2015年7月  ）  
 ---|---  
-Sultan 〜The Lovesong is Forever〜  |  ジャンル  |  ほのぼの宮廷恋愛ADV   
+Sultan 〜The Lovesong is Forever〜  ジャンル  |  ほのぼの宮廷恋愛ADV   
 ---|---  
 対応機種  |  Windows 98/2000/Me/XP（CD-ROM）   
-発売元  |  light  （CD-ROM）  BLACK RAINBOW（DVDPG）   
-発売日  |  2002年7月26日（CD-ROM）  2007年10月25日（DVDPG）   
+発売元  |  light  （CD-ROM）   
+BLACK RAINBOW（DVDPG）  
+発売日  |  2002年7月26日（CD-ROM）   
+2007年10月25日（DVDPG）  
 レイティング  |  18禁   
 キャラクター名設定  |  可   
 エンディング数  |  6   

@@ -1,4 +1,4 @@
-ふぁみ☆すぴ!! 〜FamiliarSpirits!!〜  |  ジャンル  |  学園ラブファンタジー☆アドベンチャー   
+ふぁみ☆すぴ!! 〜FamiliarSpirits!!〜  ジャンル  |  学園ラブファンタジー☆アドベンチャー   
 ---|---  
 対応機種  |  Windows 98SE  /  Me  /  2000  /  XP   
 発売元  |  SkyFish   

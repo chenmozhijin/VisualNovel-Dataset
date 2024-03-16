@@ -1,13 +1,32 @@
-Ever17 -the out of infinity-  Ever17 (Xbox 360)  |  ジャンル  |  恋愛アドベンチャーゲーム   
+Ever17 -the out of infinity-  
+Ever17 (Xbox 360)  ジャンル  |  恋愛アドベンチャーゲーム   
 ---|---  
-対応機種  |  ドリームキャスト  PlayStation 2  Windows 98  /  Me  /  2000  /  XP  PlayStation Portable  Xbox 360   
-発売元  |  KID  サクセス  （Premium SuperLite2000）  サイバーフロント  5pb.Games  （PCダウンロード版）   
-発売日  |  2002年  8月29日  （オリジナル DC/PS2)  2003年  5月26日  （Premium Win)  2003年  11月27日  （Premium DC / PS2）  2004年  10月28日  （Premium SuperLite2000）  2005年  6月17日  （Premium Win DVD）  2009年  3月12日  （PSP）  2011年  12月1日  （Xbox 360）  2015年12月25日（PCダウンロード版）   
-レイティング  |  全年齢対象（Premium PS2 / SuperLite2000 / PSPを除く）  CERO  ：  **C** （15才以上対象）  （Premium PS2 / SuperLite2000 / PSP）   
+対応機種  |  ドリームキャスト    
+PlayStation 2  
+Windows 98  /  Me  /  2000  /  XP  
+PlayStation Portable  
+Xbox 360  
+発売元  |  KID    
+サクセス  （Premium SuperLite2000）  
+サイバーフロント  
+5pb.Games  （PCダウンロード版）  
+発売日  |  2002年  8月29日  （オリジナル DC/PS2)   
+2003年  5月26日  （Premium Win)  
+2003年  11月27日  （Premium DC / PS2）  
+2004年  10月28日  （Premium SuperLite2000）  
+2005年  6月17日  （Premium Win DVD）  
+2009年  3月12日  （PSP）  
+2011年  12月1日  （Xbox 360）  
+2015年12月25日（PCダウンロード版）  
+レイティング  |  全年齢対象（Premium PS2 / SuperLite2000 / PSPを除く）   
+CERO  ：  **C** （15才以上対象）  （Premium PS2 / SuperLite2000 / PSP）  
 キャラクター名設定  |  不可   
 エンディング数  |  11   
 セーブファイル数  |  30+クイック30   
-セーブファイル容量  |  26ブロック（DC版2種）  60KB（PS2）  75KB（Premium PS2)  72KB（Premium SuperLite2000）   
+セーブファイル容量  |  26ブロック（DC版2種）   
+60KB（PS2）  
+75KB（Premium PS2)  
+72KB（Premium SuperLite2000）  
 画面サイズ  |  800×600 16bit   
 キャラクターボイス  |  全員   
 CGモード  |  あり   

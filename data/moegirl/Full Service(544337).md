@@ -1,13 +1,10 @@
-|  Full Service  ||
-|---|---|
-|原名  |  Full Service   |
-|常用译名  |  全面服务   |
-|类型  |  视觉小说   |
-|平台  |  Windows  、  MacOS  、  安卓   |
-|分级  | |
-
-R-18  
-  
+Full Service  
+---  
+原名  |  Full Service   
+常用译名  |  全面服务   
+类型  |  视觉小说   
+平台  |  Windows  、  MacOS  、  安卓   
+分级  |  R-18   
 开发  |  Herculion   
 发行  |  Herculion   
 总监  |  Mazjojo   
@@ -19,7 +16,8 @@ R-18
 美工  |  Mazjojo、LVLV、DDY   
 音乐  |  HMNK   
 发行时间  |  2020年3月16日   
-|  “  |  _ Come and relax..  _ _ ..We're at your service!  _ |  ”   
+“  |  _ Come and relax..  _   
+_ ..We're at your service!  _ |  ”   
 ---|---|---  
   
 《 **Full Service** 》(或译为《 **全面服务** 》)是由  Herculion  (原  Black Monkey Pro
@@ -68,13 +66,12 @@ and a probablee  [1]  chance to get a relationship with his masseur...  [2]
 
 ** 仲本有樹  （  Tomoki Nakamoto  ）  **
 
-|  原文  
+原文  
 ---  
-  
-Anaverage guy who is a workaholic and very cynical about life.  After usually
-being dumped with work he has developed a sarcastic personality.  He is
-trusted by others for his work ethie but recently he's been burnt out.  He is
-the maincharacter of Full Service. </br>  
+Anaverage guy who is a workaholic and very cynical about life.  
+After usually being dumped with work he has developed a sarcastic personality.  
+He is trusted by others for his work ethie but recently he's been burnt out.  
+He is the maincharacter of Full Service.  
   
 是一位普通的工作狂，而且对生活很愤世嫉俗。  
 在常常疲为工作之后，形成了爱挖苦的性格。  
@@ -88,14 +85,15 @@ Natsuno Taiyo(  夏野太陽  /日配)
 
 ** コヴィット·チャヤリット  （  Kovit Chaiyarit  ）  **
 
-|  原文  
+原文  
 ---  
-  
-An assertive and very perverted guy.  He is very proud of himself and his
-“performance” in bed.  He usually enjoys making sexual innuendo and hitting on
-anyone he finds attractive.  He is sexually active and definitely sleeps
-around.  Despite his perverted tendencies,  he takes good care of the people
-he likes and is very proud of his job. </br>  
+An assertive and very perverted guy.  
+He is very proud of himself and his “performance” in bed.  
+He usually enjoys making sexual innuendo and hitting on anyone he finds
+attractive.  
+He is sexually active and definitely sleeps around.  
+Despite his perverted tendencies,  
+he takes good care of the people he likes and is very proud of his job.  
   
 一位自信而变态的人。  
 他对于自己与自己在床上的“表现”都非常自豪。  
@@ -109,14 +107,14 @@ Nakae Ren(  中江漣  /日配)
 
 ** ラルド·シュバルツ  （  Rald Schwarz  ）  **
 
-|  原文  
+原文  
 ---  
-  
-A calm and composed personality is usually seen from him.  He is the main boss
-of Schwarz Bank and is usually always seen working.  He actually lives a
-double life as a masseur in Full Service Spa to get away from the tedium of
-work.  He was never known to be a mean boss and is very supportive of his
-coworkers but he barely interacts with them. </br>  
+A calm and composed personality is usually seen from him.  
+He is the main boss of Schwarz Bank and is usually always seen working.  
+He actually lives a double life as a masseur in Full Service Spa to get away
+from the tedium of work.  
+He was never known to be a mean boss and is very supportive of his coworkers
+but he barely interacts with them.  
   
 他的性格通常都很冷静与沉稳。  
 他是施瓦茨(Schwarz)银行的主管，经常能看到他在工作。  
@@ -128,14 +126,14 @@ Koshi Yukimitsu(  越雪光  /日配)
 
 ** 小林そうた  （  Sota Kobayashi  ）  **
 
-|  原文  
+原文  
 ---  
-  
-A young,cheerful,and hyperactive masseur.  He studies in the morning and works
-as a masseur at night.  He is actually the eldest of 11 children who takes
-care of their single mother and feels the pressure of making as much money as
-possible.  He takes his masseur job very seriously and is willing to do
-anything get more cash from it. </br>  
+A young,cheerful,and hyperactive masseur.  
+He studies in the morning and works as a masseur at night.  
+He is actually the eldest of 11 children who takes care of their single mother
+and feels the pressure of making as much money as possible.  
+He takes his masseur job very seriously and is willing to do anything get more
+cash from it.  
   
 一位年轻、开朗、活跃的按摩师。  
 他每天白天学习，夜里做按摩师。  
@@ -148,14 +146,14 @@ Kannazuki Makoto(  神无月真琴  /日配)
 
 ** レミ·スヴェンソン  （  Remi Svensson  ）  **
 
-|  原文  
+原文  
 ---  
-  
-A half-swedish masseur who also works as a model.  He has a very calm
-disposition and takes his massages too seriously some times.  He doesn't like
-talking as much and thinks before acting.  He seems to have a liking for men
-but he's not entirely sure of it yet.  He has anicy and cold disposition which
-contrasts with his appearances on TV. </br>  
+A half-swedish masseur who also works as a model.  
+He has a very calm disposition and takes his massages too seriously some
+times.  
+He doesn't like talking as much and thinks before acting.  
+He seems to have a liking for men but he's not entirely sure of it yet.  
+He has anicy and cold disposition which contrasts with his appearances on TV.  
   
 有着瑞典血统的按摩师兼模特。  
 他性格很是冷静，有时对按摩过于认真了。  
@@ -170,13 +168,13 @@ Furukawa Tetsuto(  古河徹人  /日配)
 
 ** Hisami Kondo  **
 
-|  原文  
+原文  
 ---  
-  
-A chill guy and Tomoki's "bestfriend".  Easy going and cheerful,he likes
-teasing Tomoki a lot.  He has the tendency to screw up a lot of his work
-leaving Tomoki to deal with it.  He may have a conniving personality at times.
-</br>  
+A chill guy and Tomoki's "bestfriend".  
+Easy going and cheerful,he likes teasing Tomoki a lot.  
+He has the tendency to screw up a lot of his work leaving Tomoki to deal with
+it.  
+He may have a conniving personality at times.  
   
 一位冷静的人，也是Tomoki的“挚友”。  
 他性格开朗，很喜欢逗Tomoki玩。  
@@ -188,11 +186,10 @@ Furukawa Tetsuto(  古河徹人  /日配)
 
 ** Thara Kornsuwan  **
 
-|  原文  
+原文  
 ---  
-  
-The kind and hospitable receptionist of Full Service Spa.  Not much is known
-about this person. </br>  
+The kind and hospitable receptionist of Full Service Spa.  
+Not much is known about this person.  
   
 全面服务(Full Service)的一位亲切好客的接待员。  
 关于这个人没有更多了解的了。
@@ -202,12 +199,12 @@ Suzuki Ryo(日配)
 
 ** Kacha  **
 
-|  原文  
+原文  
 ---  
-  
-A small elephant like creature with underwear on it's head.  Considered the
-mascot of Full Service Spa,it wanders around wherever there are good looking
-boys.  Apparently,it can speak but only to a certain workaholic. </br>  
+A small elephant like creature with underwear on it's head.  
+Considered the mascot of Full Service Spa,it wanders around wherever there are
+good looking boys.  
+Apparently,it can speak but only to a certain workaholic.  
   
 像大象一样的生物，头上套着内裤。  
 它被认为是全面服务(Full Service)的吉祥物，只要有美少年，它就会四处游荡。  
@@ -218,15 +215,17 @@ Suzuki Ryo(日配)
 
 ** Lenga Valentine  **
 
-|  原文  
+原文  
 ---  
-  
-A wanderer who had last his memory.  He looks for ways to try and remember his
-past.  He develops an interest in massages and applies to Full Service in
-hopes of someone recognizing him.  Often curious,he likes getting to know
-everyone around him.  His unique style of massage is "Acupressure" Whle Lenga
-is usually cheerful and upbeat.  he is sensual with his massages,and likes
-using varous "special tools" in his sessions. </br>  
+A wanderer who had last his memory.  
+He looks for ways to try and remember his past.  
+He develops an interest in massages and applies to Full Service in hopes of
+someone recognizing him.  
+Often curious,he likes getting to know everyone around him.  
+His unique style of massage is "Acupressure" Whle Lenga is usually cheerful
+and upbeat.  
+he is sensual with his massages,and likes using varous "special tools" in his
+sessions.  
   
 一位失去了记忆的流浪者。  
 他想办法去回忆起自己的过去。  
@@ -240,15 +239,17 @@ Kazami Tori(日配)
 
 ** Oki Ardana  **
 
-|  原文  
+原文  
 ---  
+The "twin" brother of Okan Ardana.  
+He is considered a silent and cold person by most people,but he has apassion
+for work and his habbies.  
+An automotive mechanic by day,he does work for Full Service at night.  
+He dislikes how Okan meddles and teases him constantly.  
   
-The "twin" brother of Okan Ardana.  He is considered a silent and cold person
-by most people,but he has apassion for work and his habbies.  An automotive
-mechanic by day,he does work for Full Service at night.  He dislikes how Okan
-meddles and teases him constantly.  In Full Service,his specialty is the
-Balinese massage style and his cooperative massage with Okan known as "Twin
-massage".  Okan and him are assigned to guard the mysterious VIP Room. </br>  
+In Full Service,his specialty is the Balinese massage style and his
+cooperative massage with Okan known as "Twin massage".  
+Okan and him are assigned to guard the mysterious VIP Room.  
   
 Okan Ardana的“双胞胎”哥哥。  
 他被大多数人认为他是一位沉静与冷漠的人，但他对于工作和爱好都很热情。  
@@ -263,16 +264,18 @@ Nakae Ren(  中江漣  /日配)
 
 ** Okan Ardana  **
 
-|  原文  
+原文  
 ---  
+The "twin" brother of Oki Ardana.  
+He is considered a cheerful and friendly person by most people,prefering to go
+do his hobbies than actually work.  
+He surfs on his free time and is a free spirit.  
+He loves teasing Oki about their resemblance to each other and is proud to be
+his "twin".  
   
-The "twin" brother of Oki Ardana.  He is considered a cheerful and friendly
-person by most people,prefering to go do his hobbies than actually work.  He
-surfs on his free time and is a free spirit.  He loves teasing Oki about their
-resemblance to each other and is proud to be his "twin".  In Full Service, his
-specialty is the Balinese massage Style and his cooperative massage with Oki
-known as "Twin massage".  Oki and him are assigned to guard the mysterious VIP
-Room. </br>  
+In Full Service, his specialty is the Balinese massage Style and his
+cooperative massage with Oki known as "Twin massage".  
+Oki and him are assigned to guard the mysterious VIP Room.  
   
 Oki Ardana的“双胞胎”弟弟。  
 大多数人都认为他是一个开朗且友好的人，他更喜欢做自己的爱好而不是实际工作。  
@@ -287,14 +290,14 @@ Matsuura Takuya(日配)
 
 ** Mama Kobayashi/Mrs.Kobayashi  **
 
-|  原文  
+原文  
 ---  
-  
-Sota's sick mother.  She's mostly weak and can no longer work hard labor.
+Sota's sick mother.  
+She's mostly weak and can no longer work hard labor.  
 Being a single parent along with Sota's many siblings,she's the one who
-budgets her time and resources for the family.  She has great respect for what
-her son is trying to achieve,but wishes that he had the time to relax
-sometimes. </br>  
+budgets her time and resources for the family.  
+She has great respect for what her son is trying to achieve,but wishes that he
+had the time to relax sometimes.  
   
 Sota的生病的母亲。  
 她的身体很虚弱，不能再去干重活了。  
@@ -306,12 +309,12 @@ Suzuki Ryo(日配)
 
 ** Doctor Ken/Dr.Ken  **
 
-|  原文  
+原文  
 ---  
-  
-A Doctor at Morningwood Hospital.  He comes into contact with Kovit at some
-point in the story.  He's quite friendly,perhaps as a requirement of his job.
-He is used to the quirks of his patients,so nothing really fazes him. </br>  
+A Doctor at Morningwood Hospital.  
+He comes into contact with Kovit at some point in the story.  
+He's quite friendly,perhaps as a requirement of his job.  
+He is used to the quirks of his patients,so nothing really fazes him.  
   
 他是晨木医院的医生。  
 在故事的某个时刻，他与科维特相接触。  
@@ -333,7 +336,7 @@ Matsuura Takuya(日配)
   * 编程：Striker 
   * 音乐：HMNK 
 
-|  众筹时的Staff列表  
+众筹时的Staff列表  
 ---  
   
   * 策划：Mazjojo 

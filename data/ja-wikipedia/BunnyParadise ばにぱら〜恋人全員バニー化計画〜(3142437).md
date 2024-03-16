@@ -1,4 +1,4 @@
-BunnyParadise ばにぱら〜恋人全員バニー化計画〜  |  ジャンル  |  学園バニー化AVG   
+BunnyParadise ばにぱら〜恋人全員バニー化計画〜  ジャンル  |  学園バニー化AVG   
 ---|---  
 対応機種  |  Windows Vista/7/8   
 発売元  |  SkyFish poco   
@@ -75,7 +75,7 @@ BunnyParadise ばにぱら〜恋人全員バニー化計画〜  |  ジャンル 
 
 ##  主題歌  
 
-|  映像外部リンク  
+映像外部リンク  
 ---  
 『BunnyParadise ばにぱら〜恋人全員バニー化計画〜』オープニングムービー  \-  YouTube  
   

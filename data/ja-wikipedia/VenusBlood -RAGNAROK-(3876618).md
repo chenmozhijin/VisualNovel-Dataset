@@ -1,10 +1,11 @@
-VenusBlood -RAGNAROK-  |  ジャンル  |  拠点侵略＆女神悪堕ち触手SLG   
+VenusBlood -RAGNAROK-  ジャンル  |  拠点侵略＆女神悪堕ち触手SLG   
 ---|---  
 対応機種  |  Windows XP/Vista   
 発売元  |  dualtail   
 発売日  |  2016年12月22日   
 レイティング  |  18禁   
-メディア  |  DVD-ROM </br> ダウンロード販売   
+メディア  |  DVD-ROM    
+ダウンロード販売  
 テンプレートを表示  
   
 『 **VenusBlood -RAGNAROK-** 』(ヴィーナスブラッドラグナロク)は 2016年12月22日に  dualtail

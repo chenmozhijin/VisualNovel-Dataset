@@ -1,4 +1,4 @@
-Separate Hearts  |  ジャンル  |  恋愛アドベンチャー   
+Separate Hearts  ジャンル  |  恋愛アドベンチャー   
 ---|---  
 対応機種  |  PlayStation 2   
 発売元  |  KID   

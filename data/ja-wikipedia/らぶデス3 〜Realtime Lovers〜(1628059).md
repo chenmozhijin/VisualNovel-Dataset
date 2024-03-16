@@ -1,4 +1,5 @@
-らぶデス3 〜Realtime Lovers〜  Love Death 3  |  ジャンル  |  リアルタイム3D-ADV   
+らぶデス3 〜Realtime Lovers〜  
+Love Death 3  ジャンル  |  リアルタイム3D-ADV   
 ---|---  
 対応機種  |  Windows 2000/XP   
 発売元  |  TEATIME   
@@ -16,7 +17,8 @@ CGモード  |  なし
 回想モード  |  あり   
 メッセージスキップ  |  全文   
 オートモード  |  あり   
-備考  |  VistaはXP  互換モード  にて動作（保証対象外）  要DirectX9.0c   
+備考  |  VistaはXP  互換モード  にて動作（保証対象外）   
+要DirectX9.0c  
 テンプレートを表示  
   
 『 **らぶデス3 〜Realtime Lovers〜** 』は、  2008年  11月28日  に  TEATIME  より発売された  アダルトゲーム

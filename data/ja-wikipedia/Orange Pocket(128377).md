@@ -1,12 +1,27 @@
-|  Orange Pocket  
+Orange Pocket  
 ---  
-ゲーム：Orange Pocket (PC)  Orange Pocket -コルネット- (DC)  Orange Pocket -リュート- (PS2)  
+ゲーム：Orange Pocket (PC)  
+Orange Pocket -コルネット- (DC)  
+Orange Pocket -リュート- (PS2)  
 ゲームジャンル  |  恋愛アドベンチャーゲーム   
-対応機種  |  Windows 98/Me/2000/XP  ドリームキャスト  PlayStation 2  DVDPG  FOMA 900iシリーズ   
-発売元  |  HOOK(PC)  ピオーネソフト(DC、PS2)  電脳CLUB(DVDPG)   
-メディア  |  CD-ROM2枚(PC)  GD-ROM1枚(DC)  DVD-ROM1枚(PS2、PC V1.10)   
-発売日  |  2003年6月13日(PC)  2004年4月28日(DC/PS2)  2005年7月14日(DVDPG)  2006年8月4日(FOMA)  2006年9月29日(PC V1.10)   
-レイティング  |  18禁(PC/DVDPG)  全年齢対象(DC/PS2)   
+対応機種  |  Windows 98/Me/2000/XP   
+ドリームキャスト  
+PlayStation 2  
+DVDPG  
+FOMA 900iシリーズ  
+発売元  |  HOOK(PC)   
+ピオーネソフト(DC、PS2)  
+電脳CLUB(DVDPG)  
+メディア  |  CD-ROM2枚(PC)   
+GD-ROM1枚(DC)  
+DVD-ROM1枚(PS2、PC V1.10)  
+発売日  |  2003年6月13日(PC)   
+2004年4月28日(DC/PS2)  
+2005年7月14日(DVDPG)  
+2006年8月4日(FOMA)  
+2006年9月29日(PC V1.10)  
+レイティング  |  18禁(PC/DVDPG)   
+全年齢対象(DC/PS2)  
 キャラクター名設定  |  不可   
 セーブファイル数  |  27+クイック1(DC、PS2)   
 画面サイズ  |  800×600ドット 16bit   

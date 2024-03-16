@@ -1,16 +1,23 @@
-タユタマ2 -you're the only one-  |  ジャンル  |  恋する乙女の神通力ADV   
+タユタマ2 -you're the only one-  ジャンル  |  恋する乙女の神通力ADV   
 ---|---  
-対応機種  |  Windows Vista  /  7  /  8  /  10  PlayStation 4  PlayStation Vita   
-発売元  |  [PC]  Lump of Sugar  [PS4/PS Vita]株式会社エンターグラム   
+対応機種  |  Windows Vista  /  7  /  8  /  10    
+PlayStation 4  
+PlayStation Vita  
+発売元  |  [PC]  Lump of Sugar    
+[PS4/PS Vita]株式会社エンターグラム  
 キャラクターデザイン  |  萌木原ふみたけ   
 シナリオ  |  沖田露集   
-発売日  |  [PC]  2016年  9月23日  [PS4/PS Vita]  2018年  9月27日   
-レイティング  |  [PC]18禁  [PS4/PS Vita]  CERO  ：  **D** （17才以上対象）   
+発売日  |  [PC]  2016年  9月23日    
+[PS4/PS Vita]  2018年  9月27日  
+レイティング  |  [PC]18禁   
+[PS4/PS Vita]  CERO  ：  **D** （17才以上対象）  
 キャラクター名設定  |  不可   
-メディア  |  [PC]  DVD-ROM  [PS4]  BD-ROM  /ダウンロード  [PS Vita]PS Vitaカード/ダウンロード   
+メディア  |  [PC]  DVD-ROM    
+[PS4]  BD-ROM  /ダウンロード  
+[PS Vita]PS Vitaカード/ダウンロード  
 キャラクターボイス  |  主人公以外フルボイス   
 テンプレートを表示  
-|  映像外部リンク  
+映像外部リンク  
 ---  
 『タユタマ2 -you're the only one-』オープニングムービー  （Lump of Sugar） -  YouTube  
   
@@ -23,10 +30,7 @@
 
 ##  あらすじ  
 
-|  | 
-
-この作品記事は  あらすじの作成  が望まれています。  ご協力  ください。  (  使い方  )  
-  
+|  この作品記事は  あらすじの作成  が望まれています。  ご協力  ください。  (  使い方  )  
 ---|---  
   
 ##  登場人物  

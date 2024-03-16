@@ -1,6 +1,8 @@
-COSPLAY LOVE!  Enchanted princess  |  ジャンル  |  恋愛アドベンチャーゲーム   
+COSPLAY LOVE!  
+Enchanted princess  ジャンル  |  恋愛アドベンチャーゲーム   
 ---|---  
-対応機種  |  Nintendo Switch  Windows 8.1  /  10   
+対応機種  |  Nintendo Switch    
+Windows 8.1  /  10  
 開発元  |  Confiture   
 発売元  |  iMel   
 シナリオ  |  モーリー   
@@ -8,9 +10,16 @@ COSPLAY LOVE!  Enchanted princess  |  ジャンル  |  恋愛アドベンチャ�
 人数  |  1人   
 メディア  |  ダウンロード   
 発売日  |  2022年3月31日   
-対象年齢  |  CERO  ：  **D** （17才以上対象）  ESRB  ：  T（13歳以上）  PEGI  ：  **12** GRAC  ：15+   
-コンテンツ  アイコン  |  CERO：セクシャル  ESRB：Partial Nudity, Sexual Themes   
-対応言語  |  日本語  英語  中国語  （  簡体字  、  繁体字  ）   
+対象年齢  |  CERO  ：  **D** （17才以上対象）    
+ESRB  ：  T（13歳以上）  
+PEGI  ：  **12**  
+GRAC  ：15+  
+コンテンツ  
+アイコン  |  CERO：セクシャル   
+ESRB：Partial Nudity, Sexual Themes  
+対応言語  |  日本語    
+英語  
+中国語  （  簡体字  、  繁体字  ）  
 その他  |  音声は日本語のみ、Steam版はパッチ適用によりアダルトゲーム化   
 テンプレートを表示  
   

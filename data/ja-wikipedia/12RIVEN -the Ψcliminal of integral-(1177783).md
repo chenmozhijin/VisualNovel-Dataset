@@ -1,10 +1,20 @@
-12RIVEN  -the Ψcliminal of integral-  |  ジャンル  |  ノベルタイプアドベンチャー   
+12RIVEN  
+-the Ψcliminal of integral-  ジャンル  |  ノベルタイプアドベンチャー   
 ---|---  
-対応機種  |  PlayStation 2  Windows  PlayStation Portable   
+対応機種  |  PlayStation 2    
+Windows  
+PlayStation Portable  
 開発元  |  サイバーフロント   
-発売元  |  サイバーフロント  KID  /SDR project  光譜資訊  （  台灣  ）  北京娱乐通   
+発売元  |  サイバーフロント   
+KID  /SDR project  
+光譜資訊  （  台灣  ）  
+北京娱乐通  
 人数  |  1人   
-発売日  |  2008年3月13日(PS2)  2008年4月4日(Win)  2009年4月16日(PSP)  2008年  2008年   
+発売日  |  2008年3月13日(PS2)   
+2008年4月4日(Win)  
+2009年4月16日(PSP)  
+2008年  
+2008年  
 対象年齢  |  CERO  ：  **B** （12才以上対象）   
 その他  |  メーカー予約特典「BGM集(アレンジVer)全5曲入りCD」(PS2)   
 テンプレートを表示  

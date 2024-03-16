@@ -1,12 +1,21 @@
-Coming×Humming!!  |  ジャンル  |  恋愛  AVG     
+Coming×Humming!!  ジャンル  |  恋愛  AVG     
 ---|---  
-対応機種  |  Microsoft Windows  Vista  /  XP  /  2000    DL版(  8  /  7  /  Vista  /  XP  )     
+対応機種  |  Microsoft Windows    
+Vista  /  XP  /  2000    
+DL版(  8  /  7  /  Vista  /  XP  )    
 開発元  |  SAGA PLANETS     
 発売元  |  株式会社  ビジュアルアーツ     
 ディレクター  |  KURO     
-キャラクターデザイン  |  有末つかさ    ほんたにかなえ    小桜りょう    せせなやう     
-シナリオ  |  新島夕    藤太    姫ノ木あく    森崎亮人     
-音楽  |  ピクセルビー    関内二郎     
+キャラクターデザイン  |  有末つかさ      
+ほんたにかなえ    
+小桜りょう    
+せせなやう    
+シナリオ  |  新島夕      
+藤太    
+姫ノ木あく    
+森崎亮人    
+音楽  |  ピクセルビー      
+関内二郎    
 オープニングテーマ  |  「Coming×Humming!!」     
 エンディングテーマ  |  「Cherry Jewelry Flower」     
 発売日  |  2008年  6月27日     
@@ -15,7 +24,8 @@ Coming×Humming!!  |  ジャンル  |  恋愛  AVG
 キャラクター名設定  |  不可   
 エンディング数  |  6   
 セーブファイル数  |  100   
-メディア  |  DVD-ROM  :1枚  （ダウンロード版は不要）   
+メディア  |  DVD-ROM  :1枚   
+（ダウンロード版は不要）  
 ディスクレス起動  |  可   
 画面サイズ  |  800x600     
 キャラクターボイス  |  主人公以外フルボイス   
@@ -25,9 +35,10 @@ CGモード  |  あり
 メッセージスキップ  |  可   
 オートモード  |  可   
 テンプレートを表示  
-|  映像外部リンク  
+映像外部リンク  
 ---  
-Coming×Humming!! - カミング・ハミング -  (VisualArts Japan) - Youtube  
+Coming×Humming!! - カミング・ハミング -  
+(VisualArts Japan) - Youtube  
   
 『 **Coming×Humming!! - カミング・ハミング -** 』は、  SAGA PLANETS  により開発され、株式会社  ビジュアルアーツ
 から  2008年  6月27日  に発売された、  Windows  専用の  18禁  恋愛アドベンチャーゲーム  である。

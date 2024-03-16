@@ -1,18 +1,16 @@
-|  Bacchikoi  ||
-|---|---|
-|原名  |  Bacchikoi   |
-|常用译名  |  黑猴子棒球   |
-|类型  |  视觉小说   |
-|平台  |  Windows、MacOS、Android   |
-|分级  | |
-
-R-18  
-  
+Bacchikoi  
+---  
+原名  |  Bacchikoi   
+常用译名  |  黑猴子棒球   
+类型  |  视觉小说   
+平台  |  Windows、MacOS、Android   
+分级  |  R-18   
 开发  |  Black Monkey Pro   
 发行  |  Black Monkey Pro   
 总监  |  Mikkoukun   
 制作人  |  Mikkoukun   
-角色设计  |  Mikkoukun、Mazjojo、  Suihara、Verdeleon   
+角色设计  |  Mikkoukun、Mazjojo、   
+Suihara、Verdeleon  
 编剧  |  Mikkoukun   
 程序  |  Kaenweinder   
 美工  |  Mikkoukun、Zamius、Mazjojo   

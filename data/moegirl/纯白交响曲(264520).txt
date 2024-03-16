@@ -2,8 +2,8 @@
 原名  ましろ色シンフォニー
 -Love is pure white-（PC副标题） 
 *mutsu-no-hana（PSP副标题） 
-官方译名  纯白的交响曲
-常用译名  纯白交响曲
+官方译名  纯白交响曲
+纯白的交响曲（漫画）
 类型  ADV
 平台  Windows、PlayStation Portable
 分级  PC：  EOCS  :  - 18岁以下禁止
@@ -11,10 +11,12 @@ PSP：  CERO  :  - 15岁以上
 开发  Palette  （ぱれっと）
 发行  PC版：Palette
 PSP版：  COMFORT
+中英文版：  Shiravune
 模式  单人单机
 发行时间  2009年10月30日（PC）
 2011年6月30日（PSP）
 2023年6月23日（FHD、SANA EDITION）
+2024年第二季度（中英文版）
 改编载体  动画，漫画  
 《纯白交响曲》  （日语：  ましろ色シンフォニー  ；英语：  Mashiroiro Symphony  ）是由  Palette
 制作的一部以校园恋爱为主题的文字冒险游戏，PSP版  升格一名  、  新增一名  可攻略角色，并有动画、漫画等衍生作品。在2019年宣布制作《纯白交响曲

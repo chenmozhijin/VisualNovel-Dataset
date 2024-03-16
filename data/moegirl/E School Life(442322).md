@@ -1,15 +1,19 @@
-|  E School Life  ||
-|---|---|
-|原名  |  Ｅスクールライフ   |
-|常用译名  |  E School Life  E学园生活   |
-|类型  |  galgame   |
-|平台  |  Microsoft Windows、Nintendo Switch、PlayStation 4   |
-|分级  |  PC：    EOCS  :    \- 18岁以下禁止|
-|Switch、PS4：  |  CERO  :    \- 15岁以上|
-|开发  |  HOOKSOFT   |
-|发行  |  HOOKSOFT（PC）   <br>Entergram（PS4、Switch）  |
-|模式  |  单人单机   |
-|发行时间  |  2019年5月31日（PC）   |
+E School Life  
+---  
+原名  |  Ｅスクールライフ   
+常用译名  |  E School Life   
+E学园生活  
+类型  |  galgame   
+平台  |  Microsoft Windows、Nintendo Switch、PlayStation 4   
+分级  |  PC：  |  EOCS  :  |  \- 18岁以下禁止   
+---|---  
+Switch、PS4：  CERO  :  |  \- 15岁以上   
+---|---  
+开发  |  HOOKSOFT   
+发行  |  HOOKSOFT（PC）   
+Entergram（PS4、Switch）  
+模式  |  单人单机   
+发行时间  |  2019年5月31日（PC）   
 2020年7月30日（PS4、Switch）  
   
 《 **E School Life** 》（日语：  Ｅスクールライフ  ）是  HOOKSOFT  开发的一款  Galgame

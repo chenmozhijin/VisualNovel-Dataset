@@ -1,4 +1,4 @@
-あいたくて… 〜your smiles in my heart〜  |  ジャンル  |  恋愛シミュレーションゲーム   
+あいたくて… 〜your smiles in my heart〜  ジャンル  |  恋愛シミュレーションゲーム   
 ---|---  
 対応機種  |  PlayStation   
 開発元  |  KCE東京   

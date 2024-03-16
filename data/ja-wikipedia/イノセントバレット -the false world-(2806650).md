@@ -1,14 +1,11 @@
-|
-
-|
-
-**この記事は 検証可能  な  参考文献や出典  が全く示されていないか、不十分です。 ** 出典を追加  して記事の信頼性向上にご協力ください。  （
-このテンプレートの使い方  ）  出典検索  ?  :  "イノセントバレット -the false world-"  –  ニュース  **·** 書籍
-**·** スカラー  **·** CiNii  **·** J-STAGE  **·** NDL  **·** dlib.jp  **·**
-ジャパンサーチ  **·** TWL  （  2019年6月  ）  
-  
+|  **この記事は 検証可能  な  参考文献や出典  が全く示されていないか、不十分です。 ** 出典を追加  して記事の信頼性向上にご協力ください。
+（  このテンプレートの使い方  ）  
+出典検索  ?  :  "イノセントバレット -the false world-"  –  ニュース  **·** 書籍  **·** スカラー
+**·** CiNii  **·** J-STAGE  **·** NDL  **·** dlib.jp  **·** ジャパンサーチ  **·** TWL
+（  2019年6月  ）  
 ---|---  
-イノセントバレット  -the false world-  |  ジャンル  |  タクティカルガンガールアドベンチャー   
+イノセントバレット  
+-the false world-  ジャンル  |  タクティカルガンガールアドベンチャー   
 ---|---  
 対応機種  |  Microsoft Windows  XP  /  Vista  /  7  （日本語版）   
 発売元  |  CINEMATOGRAPH   
@@ -130,7 +127,7 @@ CGモード  |  あり
 
 ##  主題歌  
 
-|  映像外部リンク  
+映像外部リンク  
 ---  
 イノセントバレット - オープニングムービー  （CINEMATOGRAPH_NEXTON） - YouTube  
 イノセントバレット - トレイラームービー  （CINEMATOGRAPH_NEXTON） - YouTube  
@@ -152,17 +149,19 @@ CGモード  |  あり
 
 ###  サウンドトラック  
 
-|  『  イノセントバレット -the false world-  -Original Sound Track-  』  
+『  イノセントバレット -the false world-  
+-Original Sound Track-  』   
 ---  
 イノセントバレット -the false world-  の  サウンドトラック  
 リリース  |  2013年8月13日   
 ジャンル  |  ゲームミュージック   
 イノセントバレット -the false world- アルバム 年表  
-|  \-  |  **イノセントバレット -the false world- -Original Sound Track- ** |   
+|  \-  |  **イノセントバレット -the false world-  
+-Original Sound Track- ** |   
 ---|---|---  
 テンプレートを表示  
   
-  *      トラックリスト - Disk1  |   
+  *      トラックリスト - Disk1   
 ---  
 Arte Refact = 矢鴇つかさ・酒井拓也・原田篤  
 #  |  タイトル  |  作詞  |  作曲  |  時間   
@@ -181,11 +180,8 @@ Arte Refact = 矢鴇つかさ・酒井拓也・原田篤
 13  .  |  「  interference  」  |  |  Arte Refact  |  2:25   
 14  .  |  「  having doubts  」  |  |  Arte Refact  |  4:02   
 15  .  |  「  lose  」  |  |  Arte Refact  |  3:46   
-  
-合計時間:
-
-|  50:39  
-     トラックリスト - Disk2  |   
+合計時間:  |  50:39   
+     トラックリスト - Disk2   
 ---  
 Arte Refact = 矢鴇つかさ・酒井拓也・原田篤  
 #  |  タイトル  |  作詞  |  作曲  |  時間   
@@ -203,8 +199,5 @@ Arte Refact = 矢鴇つかさ・酒井拓也・原田篤
 12  .  |  「  Our tomorrow  」  (歌：  榊原ゆい  )  |  |  矢鴇つかさ  |  4:57   
 13  .  |  「  keep the faith (Instrumental)  」  |  |  矢鴇つかさ  |  4:41   
 14  .  |  「  魂のreload (Instrumental)  」  |  |  矢鴇つかさ  |  4:29   
-  
-合計時間:
-
-|  51:53  
+合計時間:  |  51:53   
 

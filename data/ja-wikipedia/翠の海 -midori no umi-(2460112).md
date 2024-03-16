@@ -1,4 +1,4 @@
-翠の海 -midori no umi-  |  ジャンル  |  真実の欠片を探すサスペンスADV   
+翠の海 -midori no umi-  ジャンル  |  真実の欠片を探すサスペンスADV   
 ---|---  
 対応機種  |  Windows XP  /  Vista  /  7   
 発売元  |  Cabbit   

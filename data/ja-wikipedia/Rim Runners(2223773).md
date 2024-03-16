@@ -1,4 +1,4 @@
-Rim Runners  |  ジャンル  |  SFアドベンチャー   
+Rim Runners  ジャンル  |  SFアドベンチャー   
 ---|---  
 対応機種  |  PlayStation 2   
 発売元  |  フォグ   

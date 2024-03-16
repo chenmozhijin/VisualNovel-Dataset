@@ -1,14 +1,9 @@
-|
-
-|
-
-**この記事は 検証可能  な  参考文献や出典  が全く示されていないか、不十分です。 ** 出典を追加  して記事の信頼性向上にご協力ください。  （
-このテンプレートの使い方  ）  出典検索  ?  :  "Sense off"  –  ニュース  **·** 書籍  **·** スカラー  **·**
-CiNii  **·** J-STAGE  **·** NDL  **·** dlib.jp  **·** ジャパンサーチ  **·** TWL  （
-2014年12月  ）  
-  
+|  **この記事は 検証可能  な  参考文献や出典  が全く示されていないか、不十分です。 ** 出典を追加  して記事の信頼性向上にご協力ください。
+（  このテンプレートの使い方  ）  
+出典検索  ?  :  "Sense off"  –  ニュース  **·** 書籍  **·** スカラー  **·** CiNii  **·**
+J-STAGE  **·** NDL  **·** dlib.jp  **·** ジャパンサーチ  **·** TWL  （  2014年12月  ）  
 ---|---  
-sense off 〜a sacred story in the wind〜  |  ジャンル  |  AVG   
+sense off 〜a sacred story in the wind〜  ジャンル  |  AVG   
 ---|---  
 対応機種  |  Windows  95/98/2000   
 発売元  |  otherwise   
@@ -20,7 +15,8 @@ sense off 〜a sacred story in the wind〜  |  ジャンル  |  AVG
 ゲームエンジン  |  ビジュアルアーツ AVG32   
 メディア  |  CD-ROM1枚   
 画面サイズ  |  640×480 16bit(24bit推奨)   
-BGMフォーマット  |  CD-DA  Visual Art's独自形式   
+BGMフォーマット  |  CD-DA    
+Visual Art's独自形式  
 キャラクターボイス  |  なし   
 CGモード  |  あり   
 音楽モード  |  あり   

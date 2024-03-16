@@ -1,14 +1,19 @@
-Amenity's Life  |  ジャンル  |  ドタバタ学園純愛ADV   
+Amenity's Life  ジャンル  |  ドタバタ学園純愛ADV   
 ---|---  
-対応機種  |  Microsoft Windows  Vista  /  7  /  8  /  10  （日本語版）  PlayStation Vita   
-発売元  |  [PC]  HOOKSOFT  [PS Vita]  PIACCI   
+対応機種  |  Microsoft Windows  Vista  /  7  /  8  /  10  （日本語版）   
+PlayStation Vita  
+発売元  |  [PC]  HOOKSOFT    
+[PS Vita]  PIACCI  
 キャラクターデザイン  |  RINKS   
 シナリオ  |  桜城なお、松倉慎二   
 音楽  |  澄田まお／折倉俊則   
-発売日  |  [PC]  2016年  12月22日  [PS Vita]  2017年  11月22日   
-レイティング  |  [PC]18禁  [PS Vita]  CERO  ：  **D** （17才以上対象）   
+発売日  |  [PC]  2016年  12月22日    
+[PS Vita]  2017年  11月22日  
+レイティング  |  [PC]18禁   
+[PS Vita]  CERO  ：  **D** （17才以上対象）  
 キャラクター名設定  |  不可   
-メディア  |  [PC]  DVD-ROM  / ダウンロード  [PS Vita]PS Vitaカード / ダウンロード   
+メディア  |  [PC]  DVD-ROM  / ダウンロード   
+[PS Vita]PS Vitaカード / ダウンロード  
 ディスクレス起動  |  可   
 アクチベーション  |  なし   
 画面サイズ  |  1280×720   
@@ -21,7 +26,7 @@ CGモード  |  あり
 オートモード  |  あり   
 備考  |  [PC]初回特典：アレンジハイレゾサントラ、バイノーラルボイスドラマ、画面カスタムパッチ   
 テンプレートを表示  
-|  映像外部リンク  
+映像外部リンク  
 ---  
 Amenity's Life オープニングムービー  （HOOKSOFT) -  YouTube  
 Amenity's Life 体験版ムービー  （HOOKSOFT) -  YouTube  

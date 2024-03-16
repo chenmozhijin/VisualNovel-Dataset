@@ -1,33 +1,59 @@
-|
-
-|
-
-**この記事は 検証可能  な  参考文献や出典  が全く示されていないか、不十分です。 ** 出典を追加  して記事の信頼性向上にご協力ください。  （
-このテンプレートの使い方  ）  出典検索  ?  :  "Natural2 -DUO-"  –  ニュース  **·** 書籍  **·** スカラー
-**·** CiNii  **·** J-STAGE  **·** NDL  **·** dlib.jp  **·** ジャパンサーチ  **·** TWL
-（  2015年12月  ）  
-  
+|  **この記事は 検証可能  な  参考文献や出典  が全く示されていないか、不十分です。 ** 出典を追加  して記事の信頼性向上にご協力ください。
+（  このテンプレートの使い方  ）  
+出典検索  ?  :  "Natural2 -DUO-"  –  ニュース  **·** 書籍  **·** スカラー  **·** CiNii
+**·** J-STAGE  **·** NDL  **·** dlib.jp  **·** ジャパンサーチ  **·** TWL  （  2015年12月
+）  
 ---|---  
-Natural2 -DUO-(CD/GBA/DVDPG)  Natural2 -DUO- DVD EDITION(DVD/DMM)  Natural2 -DUO- 桜色の季節(PS2)  |  ジャンル  |  恋愛育成シミュレーション(CD/DVD/DMM)  恋愛アドベンチャー(DVDPG/GBA/PS2)   
+Natural2 -DUO-(CD/GBA/DVDPG)  
+Natural2 -DUO- DVD EDITION(DVD/DMM)  
+Natural2 -DUO- 桜色の季節(PS2)  ジャンル  |  恋愛育成シミュレーション(CD/DVD/DMM)   
+恋愛アドベンチャー(DVDPG/GBA/PS2)  
 ---|---  
-対応機種  |  Windows 95/98/98SE/NT4/2000(CD)  Windows 98/98SE/Me/2000(DVD)  Windows 2000/XP(DMM)  ゲームボーイアドバンス(GBA)  PlayStation 2(PS2)  DVD-Videoプレーヤー(DVDPG)   
-発売元  |  フェアリーテール(CD)  F&C・FC03/DreamSoft(DVD/F&C DVD COLLECTION)  オメガ・プロジェクト(GBA)  角川書店(PS2)  アイチェリー(DVDPG)   
-発売日  |  2000年5月26日(CD)  2001年7月27日(DVD)  2002年6月28日(GBA)  2003年5月23日(F&C DVD COLLECTION)  2005年2月24日(PS2)  2007年8月24日(DMM)  2007年10月12日(DVDPG)   
-レイティング  |  18禁(CD/DVD/DMM/DVDPG)  全年齢対象(GBA)  CERO12(PS2)   
+対応機種  |  Windows 95/98/98SE/NT4/2000(CD)   
+Windows 98/98SE/Me/2000(DVD)  
+Windows 2000/XP(DMM)  
+ゲームボーイアドバンス(GBA)  
+PlayStation 2(PS2)  
+DVD-Videoプレーヤー(DVDPG)  
+発売元  |  フェアリーテール(CD)   
+F&C・FC03/DreamSoft(DVD/F&C DVD COLLECTION)  
+オメガ・プロジェクト(GBA)  
+角川書店(PS2)  
+アイチェリー(DVDPG)  
+発売日  |  2000年5月26日(CD)   
+2001年7月27日(DVD)  
+2002年6月28日(GBA)  
+2003年5月23日(F&C DVD COLLECTION)  
+2005年2月24日(PS2)  
+2007年8月24日(DMM)  
+2007年10月12日(DVDPG)  
+レイティング  |  18禁(CD/DVD/DMM/DVDPG)   
+全年齢対象(GBA)  
+CERO12(PS2)  
 コンテンツアイコン  |  恋愛(PS2)   
 キャラクター名設定  |  可   
-セーブファイル数  |  24+オート8+クイック5(CD/DVD/DMM)  30(GBA)  24+クイック5+オート5(PS2)   
+セーブファイル数  |  24+オート8+クイック5(CD/DVD/DMM)   
+30(GBA)  
+24+クイック5+オート5(PS2)  
 セーブファイル容量  |  110KB(PS2)   
 ゲームエンジン  |  F&C ADVWin32(CD/DVD/DMM)   
-メディア  |  CD-ROM：3枚(CD)  DVD-ROM：1枚(DVD/PS2)  ROMカートリッジ：1個(GBA)  DVD：4枚(DVDPG)   
+メディア  |  CD-ROM：3枚(CD)   
+DVD-ROM：1枚(DVD/PS2)  
+ROMカートリッジ：1個(GBA)  
+DVD：4枚(DVDPG)  
 画面サイズ  |  640×480 16bit(CD/DVD/DMM)   
-BGMフォーマット  |  MIDI（CD-ROM版のOPとEDはCD-DA）  MIDI/WMA(DVD/DMM)   
-キャラクターボイス  |  主人公以外フル(CD/DVD/PS2/DMM/DVDPG)  なし(GBA)   
+BGMフォーマット  |  MIDI（CD-ROM版のOPとEDはCD-DA）   
+MIDI/WMA(DVD/DMM)  
+キャラクターボイス  |  主人公以外フル(CD/DVD/PS2/DMM/DVDPG)   
+なし(GBA)  
 CGモード  |  あり   
 音楽モード  |  あり   
-回想モード  |  なし(CD/DVD/DMM)  あり(DVDPG/GBA/PS2)   
-メッセージスキップ  |  全文/既読(CD/DVD/DMM/PS2)  既読(GBA)   
-オートモード  |  あり(CD/DVD/DMM/PS2)  なし(GBA)   
+回想モード  |  なし(CD/DVD/DMM)   
+あり(DVDPG/GBA/PS2)  
+メッセージスキップ  |  全文/既読(CD/DVD/DMM/PS2)   
+既読(GBA)  
+オートモード  |  あり(CD/DVD/DMM/PS2)   
+なし(GBA)  
 テンプレートを表示  
   
 『 **Natural2 -DUO-** 』（ナチュラルツー デュオ）は、  2000年  5月26日  に  フェアリーテール  より発売された  18禁
@@ -180,10 +206,11 @@ QUICK SHOTS
 
 ###  各巻リスト  
 
-|  巻数  |  サブタイトル  |  脚本  |  絵コンテ  |  演出  |  作画監督  |  発売日   
+巻数  |  サブタイトル  |  脚本  |  絵コンテ  |  演出  |  作画監督  |  発売日   
 ---|---|---|---|---|---|---  
 1  |  CHI-SA-TO  |  たかおかよしお  |  よしもときんじ  |  くし秀彰  |  牧田良信  |  2001年  11月25日   
 2  |  KUU  |  武藤技闇  |  小岩井壱悟  |  粟井重紀  |  2002年  2月25日   
 3  |  KU-MI-KO  |  よしもときんじ  |  やまもと  |  2002年  8月25日   
-4  |  HI-NA-MI  |  やまもと  韓鎮男  |  2003年  7月24日   
+4  |  HI-NA-MI  |  やまもと   
+韓鎮男  |  2003年  7月24日   
   

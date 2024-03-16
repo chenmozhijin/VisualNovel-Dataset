@@ -1,4 +1,4 @@
-SHUFFLE! Love Rainbow  |  ジャンル  |  恋愛アドベンチャーゲーム   
+SHUFFLE! Love Rainbow  ジャンル  |  恋愛アドベンチャーゲーム   
 ---|---  
 対応機種  |  Microsoft Windows XP  /  Vista  /  7   
 発売元  |  Navel   

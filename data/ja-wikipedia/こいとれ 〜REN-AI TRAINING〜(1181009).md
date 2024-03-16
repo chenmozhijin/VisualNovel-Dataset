@@ -1,4 +1,4 @@
-こいとれ 〜REN-AI TRAINING〜  |  ジャンル  |  恋愛ADV   
+こいとれ 〜REN-AI TRAINING〜  ジャンル  |  恋愛ADV   
 ---|---  
 対応機種  |  Windows 98/2000/Me/XP   
 発売元  |  銀時計   

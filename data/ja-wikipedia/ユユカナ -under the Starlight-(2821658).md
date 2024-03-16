@@ -1,4 +1,4 @@
-ユユカナ -under the Starlight-  |  ジャンル  |  星とひまわりのちょっと不思議な学園ADV   
+ユユカナ -under the Starlight-  ジャンル  |  星とひまわりのちょっと不思議な学園ADV   
 ---|---  
 対応機種  |  Windows  2000  /  XP  /  Vista  /  7   
 発売元  |  NanaWind   
@@ -7,7 +7,8 @@
 音楽  |  TGZ SOUNDs  、  Angel Note   
 オープニングテーマ  |  約束（  Rita  ）   
 発売日  |  2011年  9月22日   
-レイティング  |  18禁(Windows版)  一般向け(スマートフォン版)   
+レイティング  |  18禁(Windows版)   
+一般向け(スマートフォン版)  
 キャラクター名設定  |  不可   
 エンディング数  |  4   
 セーブファイル数  |  100+Quick   
@@ -24,7 +25,7 @@ CGモード  |  あり
 オートモード  |  あり   
 備考  |  初回限定版特典：設定資料集『星色マテリアル』、Arcana Card   
 テンプレートを表示  
-|  映像外部リンク  
+映像外部リンク  
 ---  
 ユユカナ-under the Starlight- PV  （NanaWind） -  YouTube  
 ユユカナ-under the Starlight- OPムービー  （NanaWind） - YouTube  
@@ -42,7 +43,7 @@ NanaWindのブランドデビュー作。もともと  葉月サイ  と  Mitha 
 
 ##  発売・公開履歴  
 
-|  発売・公開日  |  種別  |  提供元   
+発売・公開日  |  種別  |  提供元   
 ---|---|---  
 2011年9月22日  |  PC版  |  NanaWind   
 2012年11月7日  |  Androidアプリ版    |  萌えAPP   

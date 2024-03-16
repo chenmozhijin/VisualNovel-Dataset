@@ -4,17 +4,17 @@
   * 请确信自己已满当地法律许可年龄且心智成熟后再来阅览； 
   * 另请编辑者注意：勿滥用此模板。 
 
-|  Milk inside a bag of milk inside a bag of milk  ||
-|---|---|
-|常用译名  |  袋中袋中奶   |
-|类型  |  视觉小说   |
-|平台  |  Windows   |
-|开发  |  Nikita Kryukov   |
-|发行  |  Missing Calm   |
-|模式  |  单人   |
-|系列  |  Bag of Milk Series   |
-|发行时间  |  2020年8月26日   |
-|相关作品  |  Milk outside a bag of milk outside a bag of milk   |
+Milk inside a bag of milk inside a bag of milk  
+---  
+常用译名  |  袋中袋中奶   
+类型  |  视觉小说   
+平台  |  Windows   
+开发  |  Nikita Kryukov   
+发行  |  Missing Calm   
+模式  |  单人   
+系列  |  Bag of Milk Series   
+发行时间  |  2020年8月26日   
+相关作品  |  Milk outside a bag of milk outside a bag of milk   
   
 《 **Milk inside a bag of milk inside a bag of milk** 》是一款由  Nikita Kryukov
 开发、  Missing Calm  发行的  视觉小说  类型游戏，于2020年8月26日在  Steam  平台上发售，支持中文。

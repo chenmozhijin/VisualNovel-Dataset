@@ -1,4 +1,4 @@
-|  Like a Butler  
+Like a Butler  
 ---  
 ゲーム  
 対応機種  |  Windows 2000  /  XP  /  Vista   

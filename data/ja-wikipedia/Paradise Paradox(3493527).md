@@ -1,4 +1,4 @@
-Paradise Paradox  |  ジャンル  |  恋愛アドベンチャー   
+Paradise Paradox  ジャンル  |  恋愛アドベンチャー   
 ---|---  
 対応機種  |  Win95  /  Win98   
 開発元  |  specious   

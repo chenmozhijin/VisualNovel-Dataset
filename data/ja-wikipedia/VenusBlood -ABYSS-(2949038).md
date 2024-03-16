@@ -1,4 +1,4 @@
-VenusBlood -ABYSS-  |  ジャンル  |  SLG   
+VenusBlood -ABYSS-  ジャンル  |  SLG   
 ---|---  
 対応機種  |  Windows XP/Vista   
 発売元  |  dualtail   

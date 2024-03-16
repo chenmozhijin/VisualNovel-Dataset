@@ -1,4 +1,4 @@
-あいれぼ 〜IDOL☆REVOLUTION〜  |  ジャンル  |  アイドル育成  AVG     
+あいれぼ 〜IDOL☆REVOLUTION〜  ジャンル  |  アイドル育成  AVG     
 ---|---  
 対応機種  |  Windows Me/2000/XP/Vista     
 開発元  |  SIESTA     

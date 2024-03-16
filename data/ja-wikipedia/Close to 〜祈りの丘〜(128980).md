@@ -1,12 +1,21 @@
-Close to 〜祈りの丘〜(DC)  想いのかけら -Close to-(PS2・PSP)  |  ジャンル  |  恋愛アドベンチャー   
+Close to 〜祈りの丘〜(DC)  
+想いのかけら -Close to-(PS2・PSP)  ジャンル  |  恋愛アドベンチャー   
 ---|---  
-対応機種  |  ドリームキャスト  PlayStation 2  PlayStation Portable   
-発売元  |  KID(DC・PS2)  サイバーフロント(PSP)   
-発売日  |  2001年4月19日(DC)  2003年7月24日(PS2)  2011年12月22日(PSP)   
-レイティング  |  CERO  ：  **A** （全年齢対象）  (PS2)  CERO  ：  **B** （12才以上対象）  (PSP)   
+対応機種  |  ドリームキャスト   
+PlayStation 2  
+PlayStation Portable  
+発売元  |  KID(DC・PS2)   
+サイバーフロント(PSP)  
+発売日  |  2001年4月19日(DC)   
+2003年7月24日(PS2)  
+2011年12月22日(PSP)  
+レイティング  |  CERO  ：  **A** （全年齢対象）  (PS2)   
+CERO  ：  **B** （12才以上対象）  (PSP)  
 キャラクター名設定  |  変更不可   
 セーブファイル数  |  60＋クイック30(PS2)   
-メディア  |  GD-ROM(DC)  DVD-ROM(PS2)  UMD(PSP)   
+メディア  |  GD-ROM(DC)   
+DVD-ROM(PS2)  
+UMD(PSP)  
 テンプレートを表示  
   
 『 **Close to 〜祈りの丘〜** 』（クローストゥ いのりのおか）は、  2001年  4月19日  に  KID  より  ドリームキャスト

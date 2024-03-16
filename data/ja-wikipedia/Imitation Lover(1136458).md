@@ -1,4 +1,4 @@
-Imitation Lover  |  ジャンル  |  リアル純愛ADV   
+Imitation Lover  ジャンル  |  リアル純愛ADV   
 ---|---  
 対応機種  |  Win98SE/Me/2000/XP   
 発売元  |  light   

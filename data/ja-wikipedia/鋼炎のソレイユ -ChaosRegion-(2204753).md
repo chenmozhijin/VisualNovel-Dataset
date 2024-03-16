@@ -1,4 +1,4 @@
-鋼炎のソレイユ -ChaosRegion-  |  ジャンル  |  18禁恋愛アドベンチャー   
+鋼炎のソレイユ -ChaosRegion-  ジャンル  |  18禁恋愛アドベンチャー   
 ---|---  
 対応機種  |  Windows 2000/XP/Vista   
 発売元  |  SkyFish   

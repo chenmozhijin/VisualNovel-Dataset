@@ -1,4 +1,4 @@
-|  drastic Killer  
+drastic Killer  
 ---  
 ゲーム  
 ゲームジャンル  |  シミュレーションRPG   

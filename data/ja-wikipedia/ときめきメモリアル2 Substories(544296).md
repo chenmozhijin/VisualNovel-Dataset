@@ -1,8 +1,14 @@
-ときめきメモリアル2 Substories  Dancing Summer Vacation  Leaping School Festival  Memories Ringing On  |  ジャンル  |  アドベンチャー   
+ときめきメモリアル2 Substories  
+Dancing Summer Vacation  
+Leaping School Festival  
+Memories Ringing On  ジャンル  |  アドベンチャー   
 ---|---  
 対応機種  |  プレイステーション   
 発売元  |  コナミ   
-発売日  |  2000年9月28日（第1作）  2001年3月29日（第2作）  2001年8月30日（第3作）  2003年9月18日（PS one Books）   
+発売日  |  2000年9月28日（第1作）   
+2001年3月29日（第2作）  
+2001年8月30日（第3作）  
+2003年9月18日（PS one Books）  
 レイティング  |  CERO  ：  **A** （全年齢対象）  （PS one Books）   
 キャラクター名設定  |  変更可（デフォルト名なし）   
 キャラクターボイス  |  主人公以外フルボイス   

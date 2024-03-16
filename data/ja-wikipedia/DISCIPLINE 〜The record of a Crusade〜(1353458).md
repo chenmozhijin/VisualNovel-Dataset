@@ -1,33 +1,43 @@
-|
-
-|
-
-**この記事は 検証可能  な  参考文献や出典  が全く示されていないか、不十分です。 ** 出典を追加  して記事の信頼性向上にご協力ください。  （
-このテンプレートの使い方  ）  出典検索  ?  :  "DISCIPLINE 〜The record of a Crusade〜"  –  ニュース
-**·** 書籍  **·** スカラー  **·** CiNii  **·** J-STAGE  **·** NDL  **·** dlib.jp
-**·** ジャパンサーチ  **·** TWL  （  2015年9月  ）  
-  
+|  **この記事は 検証可能  な  参考文献や出典  が全く示されていないか、不十分です。 ** 出典を追加  して記事の信頼性向上にご協力ください。
+（  このテンプレートの使い方  ）  
+出典検索  ?  :  "DISCIPLINE 〜The record of a Crusade〜"  –  ニュース  **·** 書籍  **·**
+スカラー  **·** CiNii  **·** J-STAGE  **·** NDL  **·** dlib.jp  **·** ジャパンサーチ
+**·** TWL  （  2015年9月  ）  
 ---|---  
-|  DISCIPLINE  
+DISCIPLINE  
 ---  
-ゲーム：DISCIPLINE 〜The record of a Crusade〜  DISCIPLINE EXCELLENT  
+ゲーム：DISCIPLINE 〜The record of a Crusade〜  
+DISCIPLINE EXCELLENT  
 ゲームジャンル  |  アドベンチャーゲーム   
 対応機種  |  Windows 98/Me/2000/XP   
-必要環境  |  **CPU** Pentium 166MHz  **メモリ** 32MB  **HDD** 200MB  **グラフィック** 640×480 ハイカラー   
-推奨環境  |  **CPU** Pentium II 233MHz以上  **メモリ** 64MB以上  **グラフィック** フルカラー   
-修正パッチ  |  Ver1.10  Ver1.22(EXCELLENT)   
-開発元  |  Active  くるりアクティブ(EXCELLENT)   
-発売元  |  Active  **北米** ：キティメディア   
+必要環境  |  **CPU** Pentium 166MHz   
+**メモリ** 32MB  
+**HDD** 200MB  
+**グラフィック** 640×480 ハイカラー  
+推奨環境  |  **CPU** Pentium II 233MHz以上   
+**メモリ** 64MB以上  
+**グラフィック** フルカラー  
+修正パッチ  |  Ver1.10   
+Ver1.22(EXCELLENT)  
+開発元  |  Active   
+くるりアクティブ(EXCELLENT)  
+発売元  |  Active   
+**北米** ：キティメディア  
 プロデューサー  |  ぽち屋   
-キャラクターデザイン  |  聖少女  聖少女・他(EXCELLENT)   
-メディア  |  CD-ROM  DVD-ROM(EXCELLENT)   
-発売日  |  2002年8月30日  2006年11月2日(EXCELLENT)   
+キャラクターデザイン  |  聖少女    
+聖少女・他(EXCELLENT)  
+メディア  |  CD-ROM   
+DVD-ROM(EXCELLENT)  
+発売日  |  2002年8月30日   
+2006年11月2日(EXCELLENT)  
 レイティング  |  18禁   
 画面サイズ  |  640×480   
-音楽フォーマット  |  PCM・CD-DA・MIDI  PCM・MIDI(EXCELLENT)   
+音楽フォーマット  |  PCM・CD-DA・MIDI   
+PCM・MIDI(EXCELLENT)  
 キャラクターボイス  |  フルボイス   
 OVA：DISCIPLINE  
-監督  |  粟井重紀（序章 - 第三章）  近藤隆史（第四章 - 最終章）   
+監督  |  粟井重紀（序章 - 第三章）   
+近藤隆史（第四章 - 最終章）  
 キャラクターデザイン  |  加野晃   
 発表期間  |  2003年4月11日 - 2004年12月17日   
 話数  |  全6話   

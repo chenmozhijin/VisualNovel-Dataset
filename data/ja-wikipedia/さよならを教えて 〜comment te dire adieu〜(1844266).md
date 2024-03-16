@@ -1,4 +1,4 @@
-さよならを教えて 〜comment te dire adieu〜  |  ジャンル  |  ファナティック  アドベンチャー  ノベル   
+さよならを教えて 〜comment te dire adieu〜  ジャンル  |  ファナティック  アドベンチャー  ノベル   
 ---|---  
 対応機種  |  Windows 95/98/2000/Me   
 発売元  |  CRAFTWORK   

@@ -1,15 +1,21 @@
-さくら、もゆ。  -as the Night's, Reincarnation-  |  ジャンル  |  幾千の夜を越え想い繋ぐ、魔法幻想アドベンチャー   
+さくら、もゆ。  
+-as the Night's, Reincarnation-  ジャンル  |  幾千の夜を越え想い繋ぐ、魔法幻想アドベンチャー   
 ---|---  
-対応機種  |  Microsoft Windows  7  /  8  /  10  PlayStation 4  Nintendo Switch   
-発売元  |  PC：  FAVORITE  PS4/Switch：  エンターグラム   
+対応機種  |  Microsoft Windows  7  /  8  /  10    
+PlayStation 4  
+Nintendo Switch  
+発売元  |  PC：  FAVORITE    
+PS4/Switch：  エンターグラム  
 プロデューサー  |  水間ホシひと     
 ディレクター  |  水間ホシひと     
 キャラクターデザイン  |  司田カズヒロ    、なつめえり    、ミズタマ（SD原画）   
 シナリオ  |  漆原雪人     
 音楽  |  忍   
 オープニングテーマ  |  さくら、Reincarnation   
-発売日  |  PC：  2019年  1月31日  PS4/Switch：  2023年  2月22日   
-レイティング  |  PC：  18禁  PS4/Switch：未定   
+発売日  |  PC：  2019年  1月31日    
+PS4/Switch：  2023年  2月22日  
+レイティング  |  PC：  18禁    
+PS4/Switch：未定  
 セーブファイル数  |  360+8(AUTO)+1(QUICK)   
 メディア  |  DVD-ROM   
 画面サイズ  |  1280×720   

@@ -1,4 +1,4 @@
-(PW)Project Witch  |  ジャンル  |  アドベンチャー   
+(PW)Project Witch  ジャンル  |  アドベンチャー   
 ---|---  
 対応機種  |  PlayStation Portable   
 開発元  |  ヒューネックス   

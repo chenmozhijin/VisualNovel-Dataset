@@ -1,14 +1,20 @@
-Monochrome  |  ジャンル  |  恋愛アドベンチャーゲーム   
+Monochrome  ジャンル  |  恋愛アドベンチャーゲーム   
 ---|---  
-対応機種  |  PlayStation 2  PlayStation Portable   
-発売元  |  KID  サクセス（SuperLite2000）  サイバーフロント（PSP）   
-発売日  |  2004年8月26日（PS2）  2005年11月24日（SL2000）  2010年4月8日（PSP）   
+対応機種  |  PlayStation 2   
+PlayStation Portable  
+発売元  |  KID   
+サクセス（SuperLite2000）  
+サイバーフロント（PSP）  
+発売日  |  2004年8月26日（PS2）   
+2005年11月24日（SL2000）  
+2010年4月8日（PSP）  
 レイティング  |  CERO  :  B（12才以上対象）   
 コンテンツアイコン  |  恋愛、セクシャル   
 キャラクター名設定  |  不可   
 エンディング数  |  11   
 セーブファイル数  |  64+クイック64（PS2）   
-メディア  |  DVD-ROM（PS2）  UMD（PSP）   
+メディア  |  DVD-ROM（PS2）   
+UMD（PSP）  
 キャラクターボイス  |  あり   
 CGモード  |  あり   
 音楽モード  |  あり   

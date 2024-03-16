@@ -1,4 +1,4 @@
-Maximum Magic  |  ジャンル  |  はっちゃけモダンファンタジー   
+Maximum Magic  ジャンル  |  はっちゃけモダンファンタジー   
 ---|---  
 対応機種  |  Windows 2000  /  XP  /  Vista  /  7   
 発売元  |  Lime   

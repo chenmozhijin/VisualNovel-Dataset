@@ -1,15 +1,15 @@
-|  Vampires' Melody 2  ||
-|---|---|
-|原名  |  Vampires' Melody 2   |
-|类型  |  ADV   |
-|平台  |  Windows   |
-|开发  |  AsicxArt   |
-|发行  |  SakuraGame   |
-|编剧  |  画囮   |
-|程序  |  AnzioComm   |
-|美工  |  Akuma、Remembersics   |
-|模式  |  单人单机   |
-|相关作品  |  Vampires' Melody   |
+Vampires' Melody 2  
+---  
+原名  |  Vampires' Melody 2   
+类型  |  ADV   
+平台  |  Windows   
+开发  |  AsicxArt   
+发行  |  SakuraGame   
+编剧  |  画囮   
+程序  |  AnzioComm   
+美工  |  Akuma、Remembersics   
+模式  |  单人单机   
+相关作品  |  Vampires' Melody   
   
 《 **Vampires' Melody 2** 》是由  AsicxArt  制作发行的一款穿越题材  Galgame  ，为游戏《  Vampires'
 Melody  》续作，接续本篇流放荒岛的结局后的故事，于2023年9月28日发售。
@@ -60,7 +60,7 @@ CV：  佐仓杏
 
 ##  相关音乐
 
-|  片头曲  </br>
+片头曲
 
   * 《  Good-night ララバイ  》 
     * 歌：  水瀬なな 
@@ -68,7 +68,7 @@ CV：  佐仓杏
     * 作曲：丸山公详 
     * 编曲：东海林弘宪 
 
-</br> |  片尾曲  </br>
+|  片尾曲
 
   * 《Seaside Melody》 
     * 歌：  水瀬なな 
@@ -76,6 +76,6 @@ CV：  佐仓杏
     * 作曲：丸山公详 
     * 编曲：东海林弘宪 
 
-</br>  
+  
 ---|---  
   

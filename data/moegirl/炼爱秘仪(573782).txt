@@ -4,16 +4,21 @@
 官方译名  炼爱秘仪
 类型  ADV
 平台  Windows 8.1/10/11
+PlayStation4
+Nintendo Switch
 分级  EOCS  :  - 18岁以下禁止
+CERO  :  - 审查预定
 开发  Lump of Sugar
 发行  Lump of Sugar
-HIKARI FIELD  （中）
+Entergram（主机版）
+HIKARI FIELD  （中文）
 总监  水月纱鸟
 编剧  泰良则充、中岛大河、玉城琴也、海音瑠奈
 模式  单人单机
 发行时间  2022年12月23日
-2023年9月22日（Steam）  
-《  炼爱秘仪  》（日语：  アルカナ・アルケミア  ）是由  Lump of Sugar  开发的一款  Galgame  。
+2023年9月22日（Steam）
+2024年6月27日（PS4/Switch）  
+《  炼爱秘仪  [注 1]  》（日语：  アルカナ・アルケミア  ）是由  Lump of Sugar  开发的一款  Galgame  。
 目录
 
 1  背景故事 
@@ -26,7 +31,9 @@ HIKARI FIELD  （中）
 
 
 6  评价 
-7  注释及外部链接 
+7  注释 
+8  参考资料 
+9  外部链接 
 
 背景故事
 炼金术

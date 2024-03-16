@@ -1,4 +1,4 @@
-HimeのちHoney  |  ジャンル  |  高嶺の花  恋愛アドベンチャーゲーム     
+HimeのちHoney  ジャンル  |  高嶺の花  恋愛アドベンチャーゲーム     
 ---|---  
 対応機種  |  Windows 98/Me/2000/XP/Vista     
 開発元  |  ASa Project     

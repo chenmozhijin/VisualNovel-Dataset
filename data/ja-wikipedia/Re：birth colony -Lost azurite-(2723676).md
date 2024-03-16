@@ -1,4 +1,4 @@
-Re:birth colony -Lost azurite-  |  ジャンル  |  少年少女の青色を巡るADV   
+Re:birth colony -Lost azurite-  ジャンル  |  少年少女の青色を巡るADV   
 ---|---  
 対応機種  |  Windows XP/Vista/7   
 発売元  |  あっぷりけ   

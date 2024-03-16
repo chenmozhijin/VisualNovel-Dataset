@@ -1,4 +1,4 @@
-えろコン 〜Erotic Controller 4U〜  |  ジャンル  |  恋愛制御アドベンチャーゲーム   
+えろコン 〜Erotic Controller 4U〜  ジャンル  |  恋愛制御アドベンチャーゲーム   
 ---|---  
 対応機種  |  Windows 98/2000/Me/XP   
 発売元  |  ZERO   

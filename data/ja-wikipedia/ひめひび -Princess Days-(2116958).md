@@ -1,23 +1,28 @@
-|
-
-|
-
-**この記事は 検証可能  な  参考文献や出典  が全く示されていないか、不十分です。 ** 出典を追加  して記事の信頼性向上にご協力ください。  （
-このテンプレートの使い方  ）  出典検索  ?  :  "ひめひび -Princess Days-"  –  ニュース  **·** 書籍  **·**
-スカラー  **·** CiNii  **·** J-STAGE  **·** NDL  **·** dlib.jp  **·** ジャパンサーチ
-**·** TWL  （  2023年5月  ）  
-  
+|  **この記事は 検証可能  な  参考文献や出典  が全く示されていないか、不十分です。 ** 出典を追加  して記事の信頼性向上にご協力ください。
+（  このテンプレートの使い方  ）  
+出典検索  ?  :  "ひめひび -Princess Days-"  –  ニュース  **·** 書籍  **·** スカラー  **·** CiNii
+**·** J-STAGE  **·** NDL  **·** dlib.jp  **·** ジャパンサーチ  **·** TWL  （  2023年5月
+）  
 ---|---  
-ひめひび -Princess Days-  |  ジャンル  |  学園ラブコメアドベンチャー   
+ひめひび -Princess Days-  ジャンル  |  学園ラブコメアドベンチャー   
 ---|---  
-対応機種  |  PlayStation 2  PlayStation Portable  PlayStation Vita  Nintendo Switch   
+対応機種  |  PlayStation 2    
+PlayStation Portable  
+PlayStation Vita  
+Nintendo Switch  
 開発元  |  TAKUYO   
 発売元  |  TAKUYO   
 人数  |  1人   
-メディア  |  [PSP]  UMD  [PS Vita]PS Vitaカード  [Switch]ダウンロード   
-発売日  |  [PS2]  2006年  12月28日  [PSP]  2008年  7月17日  [PS Vita]  2017年  7月20日  [Switch]  2020年  9月10日   
+メディア  |  [PSP]  UMD    
+[PS Vita]PS Vitaカード  
+[Switch]ダウンロード  
+発売日  |  [PS2]  2006年  12月28日    
+[PSP]  2008年  7月17日  
+[PS Vita]  2017年  7月20日  
+[Switch]  2020年  9月10日  
 対象年齢  |  CERO  ：  **B** （12才以上対象）   
-コンテンツ  アイコン  |  恋愛、セクシャル、犯罪       
+コンテンツ  
+アイコン  |  恋愛、セクシャル、犯罪       
 テンプレートを表示  
   
 『 **ひめひび -Princess Days-** 』は  TAKUYO  より  2006年  12月28日  に発売された  PlayStation

@@ -3,7 +3,6 @@
 官方译名  梦之翼
 类型  AVG
 平台  Windows、PlayStation、Dreamcast
-分级  CERO  :  - 全年龄
 开发  KID
 模式  单人单机
 发行时间  2000年9月28日

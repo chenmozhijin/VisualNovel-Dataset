@@ -1,14 +1,14 @@
-|  LOVESICK PUPPIES -我们为了恋爱而诞生-  ||
-|---|---|
-|原名  |  LOVESICK PUPPIES-僕らは恋するために生まれてきた-   |
-|常用译名  |  LOVESICK PUPPIES -我们为了恋爱而诞生-   |
-|类型  |  ADV   |
-|平台  |  Windows XP/Vista/7   |
-|开发  |  COSMIC CUTE   |
-|发行  |  COSMIC CUTE   |
-|引擎  |  吉里吉里   |
-|发行时间  |  2013年3月22日   |
-|相关作品  |  格林花园的少女   |
+LOVESICK PUPPIES -我们为了恋爱而诞生-  
+---  
+原名  |  LOVESICK PUPPIES-僕らは恋するために生まれてきた-   
+常用译名  |  LOVESICK PUPPIES -我们为了恋爱而诞生-   
+类型  |  ADV   
+平台  |  Windows XP/Vista/7   
+开发  |  COSMIC CUTE   
+发行  |  COSMIC CUTE   
+引擎  |  吉里吉里   
+发行时间  |  2013年3月22日   
+相关作品  |  格林花园的少女   
   
 **LOVESICK PUPPIES -我们为了恋爱而诞生-** （日语：  **LOVE SICK PUPPIES-僕らは恋するために生まれてきた-**
 ）是由 ** COSMIC CUTE  ** 制作并发行的一款  堪称青梅完胜天降教科书级作品的  Galgame，于2013年3月22日发售。

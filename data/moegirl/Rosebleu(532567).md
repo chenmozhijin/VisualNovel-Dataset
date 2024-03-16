@@ -1,11 +1,11 @@
-|  Rosebleu  ||
-|---|---|
-|名称  |  Rosebleu   |
-|类型  |  Galgame公司   |
-|成立时间  |  2008年   |
-|母公司  |  Chartreux   |
-|主要作品  |  微小地牢   |
-|网址  |  https://www.rosebleu.jp/   |
+Rosebleu  
+---  
+名称  |  Rosebleu   
+类型  |  Galgame公司   
+成立时间  |  2008年   
+母公司  |  Chartreux   
+主要作品  |  微小地牢   
+网址  |  https://www.rosebleu.jp/   
   
 **Rosebleu** 是青猫和あごバリア从Navel辞职后创立于2008年的游戏品牌，已于2016年停止活动。
 
@@ -19,7 +19,7 @@
 
   * 系列作品仅列出第一部 
 
-|  作品名称  |  译名  |  编剧  |  原画  |  发行时间   
+作品名称  |  译名  |  编剧  |  原画  |  发行时间   
 ---|---|---|---|---  
 Stellar☆Theater  |  |  あごバリア  、守屋天  |  鈴平ひろ  |  2009年6月26日   
 Tiny Dungeon ～BLACK and WHITE～  |  微小地牢  |  あごバリア  |  鱼、久远树、观音王子、  すずめみく  |  2010年6月25日   

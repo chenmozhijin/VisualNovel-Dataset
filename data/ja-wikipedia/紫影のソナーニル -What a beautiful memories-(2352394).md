@@ -1,11 +1,13 @@
-紫影のソナーニル  -What a beautiful memories-  |  発売元  |  ライアーソフト   
+紫影のソナーニル  
+-What a beautiful memories-  発売元  |  ライアーソフト   
 ---|---  
 発売日  |  2010年11月26日   
 レイティング  |  18禁   
-画面サイズ  |  4:3(PC版)    16:9(Refrain)     
+画面サイズ  |  4:3(PC版)      
+16:9(Refrain)    
 備考  |  予約特典：サウンドトラック   
 テンプレートを表示  
-|  映像外部リンク  
+映像外部リンク  
 ---  
 紫影のソナーニルRefrain -What a beautiful memories-PV  
   

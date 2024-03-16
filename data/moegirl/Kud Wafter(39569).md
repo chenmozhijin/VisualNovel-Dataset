@@ -1,18 +1,29 @@
-|  Kud Wafter  ||
-|---|---|
-|原名  |  クドわふたー   |
-|常用译名  |  Kud Wafter   |
-|类型  |  Galgame   |
-|平台  |  **初版** ：PC、Android、BD  **全年龄版** ：PC  **移植版** ：PlayStation Portable、PlayStation Vita   |
-|分级  |  18+（初版）  全年龄（全年龄版）  移植版：    CERO  :    \- 15岁以上|
-|开发  |  Key   |
-|发行  |  VisualArt's   |
-|编剧  |  城桐央   |
-|音乐  |  清水准一   |
-|模式  |  单人   |
-|发行时间  |  2010年6月25日（PC初版）   <br>2013年1月31日（Android）  <br>2013年3月29日（BD）  <br>2013年5月9日（PSP）  <br>2013年6月28日（PC全年龄）  <br>2013年12月29日（PSV）  <br>2023年11月22日（Switch）  |
-|改编载体  |  漫画、动画   |
-|相关作品  |  Little Busters!   |
+Kud Wafter  
+---  
+原名  |  クドわふたー   
+常用译名  |  Kud Wafter   
+类型  |  Galgame   
+平台  |  **初版** ：PC、Android、BD   
+**全年龄版** ：PC  
+**移植版** ：PlayStation Portable、PlayStation Vita  
+分级  |  18+（初版）   
+全年龄（全年龄版）  
+移植版：  |  CERO  :  |  \- 15岁以上   
+---|---  
+开发  |  Key   
+发行  |  VisualArt's   
+编剧  |  城桐央   
+音乐  |  清水准一   
+模式  |  单人   
+发行时间  |  2010年6月25日（PC初版）   
+2013年1月31日（Android）  
+2013年3月29日（BD）  
+2013年5月9日（PSP）  
+2013年6月28日（PC全年龄）  
+2013年12月29日（PSV）  
+2023年11月22日（Switch）  
+改编载体  |  漫画、动画   
+相关作品  |  Little Busters!   
   
 **《Kud Wafter》** （日语： **クドわふたー** ）是由日本  Visual Art's  公司旗下的  Key
 （“Key社”）所制作发行的AVG游戏。其故事背景为游戏《  Little Busters!  》的平行世界，因此接触本作前建议对《Little
@@ -126,7 +137,7 @@ CV按R18/全年龄对象版之顺序
 同名漫画由爆天童作画，于《  电击G's magazine  》2010年5月号至2014年2月号连载，单行本由  ASCII Media Works
 出版。
 
-|  卷  |  发售日期  |  ISBN   
+卷  |  发售日期  |  ISBN   
 ---|---|---  
 1  |  2011年2月26日  |  ISBN 978-4-04-870331-4   
 2  |  2011年10月27日  |  ISBN 978-4-04-870900-2   

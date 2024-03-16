@@ -1,4 +1,4 @@
-Deep Love Diary -恋人日記-  |  ジャンル  |  ADV   
+Deep Love Diary -恋人日記-  ジャンル  |  ADV   
 ---|---  
 対応機種  |  Microsoft Windows  7  /  8  /  8.1  /  10  Android   
 発売元  |  Campus   
@@ -10,7 +10,7 @@ Deep Love Diary -恋人日記-  |  ジャンル  |  ADV
 メディア  |  DVD-ROM   
 画面サイズ  |  640×360から3840×2160までの解像度を自由に選択可能   
 テンプレートを表示  
-|  映像外部リンク  
+映像外部リンク  
 ---  
 『Deep Love Diary -恋人日記-』 オープニングムービー  \-  YouTube  
   

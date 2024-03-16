@@ -1,4 +1,4 @@
-おにいちゃんだぁいすき! 〜LOVE? or LIKE?〜  |  ジャンル  |  恋愛ADV   
+おにいちゃんだぁいすき! 〜LOVE? or LIKE?〜  ジャンル  |  恋愛ADV   
 ---|---  
 対応機種  |  Microsoft Windows 98SE  /  Me  /  2000  /  XP  /  Vista   
 発売元  |  CUFFS   

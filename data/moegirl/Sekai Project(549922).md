@@ -1,15 +1,18 @@
 **此页面中存在需要长期更新的内容及资料列表，现存条目中资料未必是最新。**  
 另请编辑者注意：请不要在人物历程等相关内容中悬挂此模板。具体使用方法详见  模板说明文档  。
 
-|  Sekai Project  ||
-|---|---|
-|名称  |  Sekai Project   |
-|成立时间  |  2013年   |
-|总部地址  |  美国  加利福尼亚州  洛杉矶   |
-|主要作品  |  《  CLANNAD  》  《  猫娘乐园  》  《  9-nine-  》   |
-|创办人  |  Raymond Qian  Chris Ling   |
-|相关公司  |  JAST USA  、  MangaGamer   |
-|网址  |  https://sekaiproject.com   |
+Sekai Project  
+---  
+名称  |  Sekai Project   
+成立时间  |  2013年   
+总部地址  |  美国  加利福尼亚州  洛杉矶   
+主要作品  |  《  CLANNAD  》   
+《  猫娘乐园  》  
+《  9-nine-  》  
+创办人  |  Raymond Qian   
+Chris Ling  
+相关公司  |  JAST USA  、  MangaGamer   
+网址  |  https://sekaiproject.com   
   
 **Sekai Project** 是一家  美国  的游戏发行商，主要从事非英文  视觉小说  的  本地化
 及销售，以及原创视觉小说、漫画等作品的发行。部分代理作品也会发行中文版本。
@@ -46,7 +49,7 @@
 
 ###  视觉小说
 
-|  作品名  |  开发商  |  发售时间   
+作品名  |  开发商  |  发售时间   
 ---|---|---  
 WORLD END ECONOMiCA episode.01  |  Spicy Tails  |  2014-05-05   
 太阳骑士：阿卡迪乌斯的面具  |  Love in Space  |  2014-07-10   
@@ -58,14 +61,16 @@ Rising Angels: Reborn  |  IDHAS Studios  |  2014-09-13
 樱花天使  |  Winged Cloud  |  2015-01-17   
 The Way We All Go  |  ebi-hime  |  2015-03-25   
 Sunrider Academy  |  Love in Space  |  2015-04-16   
-Narcissu  Narcissu 2nd  |  Stage☆nana  |  2015-04-24   
+Narcissu  
+Narcissu 2nd  |  Stage☆nana  |  2015-04-24   
 The Reject Demon: Toko Chapter 0 — Prelude  |  Lupiesoft  |  2015-05-09   
 一目钟情  |  Creepy Cute  |  2015-05-19   
 Sakura Fantasy Chapter 1  |  Winged Cloud  |  2015-05-30   
 灰色的果实  |  FrontWing  |  2015-05-30   
 雨的边缘  |  Stage☆nana  |  2015-07-07   
 WORLD END ECONOMiCA episode.02  |  Spicy Tails  |  2015-07-22   
-偶像魔法少女☆小满 前篇  偶像魔法少女☆小满 后篇  |  FrontWing  |  2015-07-30   
+偶像魔法少女☆小满 前篇  
+偶像魔法少女☆小满 后篇  |  FrontWing  |  2015-07-30   
 窒息  |  ebi-hime  |  2015-08-05   
 Sakura Beach  |  Winged Cloud  |  2015-08-15   
 猫娘乐园 Vol.0  |  NEKO WORKs  |  2015-08-17   
@@ -140,7 +145,8 @@ The Bell Chimes for Gold  |  OTUSUN Club  |  2018-04-07
 CyberRebeat -The Fifth Domain of Warfare-  |  E.N.Nach  |  2018-08-25   
 尚有佳蜜伴恋心  |  CANVAS+GARDEN  |  2018-09-08   
 Shining Song Starnova  |  Love in Space  |  2018-09-14   
-Innocent Forest: The Bird of Light  Innocent Forest 2: The Bed in the Sky  |  MyDearest  |  2018-10-06   
+Innocent Forest: The Bird of Light  
+Innocent Forest 2: The Bed in the Sky  |  MyDearest  |  2018-10-06   
 Last Stanza  |  Innocence  |  2018-11-10   
 与我恋爱的废柴小恶魔  |  Smile  |  2018-10-26   
 9-nine-九次九日九重色  |  Palette  |  2019-02-01   
@@ -170,7 +176,8 @@ Real Life Plus Ver. Kaname Komatsuzaki  |  Fan-na  |  2020-05-09
 和怪物恋爱吧！For少女  |  nostalgia  |  2020-11-01   
 猫娘乐园 Vol.4  |  NEKO WORKs  |  2020-11-26   
 与我恋爱的废柴小恶魔 Fandisc  |  Smile  |  2020-12-16   
-末世孤雄 Vol. 0  末世孤雄 Vol. 3  |  SEACOX  |  2020-12-26   
+末世孤雄 Vol. 0  
+末世孤雄 Vol. 3  |  SEACOX  |  2020-12-26   
 龙姬混~日子  |  Whirlpool  |  2021-01-30   
 9-nine-雪色雪花雪之痕  |  Palette  |  2021-03-20   
 Girls in Glasses  |  nostalgia  |  2021-04-10   
@@ -209,9 +216,10 @@ NTR幻想之我的藤木同学  |  Kurenaibook  |  2023-04-08
 妹的圣域  |  feng  |  2023-06-27   
 巧克甜恋2  |  Cabbage Soft  |  2023-06-29   
 棉花糖☆妹妹☆魅魔  |  Orcsoft  |  2023-09-23   
-学校的圣域  |  feng  |  2023第四季度   
-始于谎言的夏日恋情  |  LYCORIS  |  2023   
-贽之匣庭  |  Chatte Noire  |  2024第一季度   
+始于谎言的夏日恋情  |  LYCORIS  |  2023-11-04   
+兽娘道☆GirlishSquare LOVE+PLUS  |  Whirlpool  |  2023-11-18   
+学校的圣域  |  feng  |  2023-12-16   
+贽之匣庭  |  Chatte Noire  |  2024-02-15   
 猫忍之心SPIN!  |  Whirlpool  |  TBA   
 全ての恋に、花束を。  |  Cosmillica  |  TBA   
 染红的街道  |  feng  |  TBA   
@@ -231,13 +239,13 @@ Narcissu ~Lumière éternelle edition~  |  Stage☆nana  |  TBA
 Rewrite Harvest festa!  |  Key  |  TBA   
 サナララR  |  猫猫社  |  TBA   
 由梦想与色彩编织而成  |  feng  |  TBA   
-ずっと前から女子でした  |  feng  |  TBA   
+一直都是女孩子  |  feng  |  TBA   
   
   * 此外，Sekai Project于2015年7月宣布5个新的代理作品，其中包括《  天神乱漫  》  [9]  。然而此后Sekai Project方面便不再有关于此作的任何消息，自2018年起NekoNyan及HIKARI FIELD成为  YUZU SOFT  的传统外文发行商，不知此作将作何安排。 
 
 ###  其他游戏
 
-|  作品名  |  开发商  |  发售时间  |  类型   
+作品名  |  开发商  |  发售时间  |  类型   
 ---|---|---|---  
 Tobari and the Night of the Curious Moon  |  desunoya  |  2015-05-26  |  ACT   
 Raiders Sphere 4th  |  Rectangle  |  2015-06-01  |  ACT   

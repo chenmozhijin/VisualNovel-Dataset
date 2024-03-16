@@ -1,7 +1,12 @@
-Little Witch Nobeta  小魔女諾貝塔  リトルウィッチノベタ  |  ジャンル  |  アクション  、  サードパーソン・シューティング   
+Little Witch Nobeta  
+小魔女諾貝塔  
+リトルウィッチノベタ  ジャンル  |  アクション  、  サードパーソン・シューティング   
 ---|---  
-対応機種  |  Windows  7 以上  Nintendo Switch    PlayStation 4       
-開発元  |  Pupuya Games  希萌創意   
+対応機種  |  Windows  7 以上   
+Nintendo Switch    
+PlayStation 4      
+開発元  |  Pupuya Games   
+希萌創意  
 発売元  |  JUSTDAN INTERNATIONAL   
 プロデューサー  |  Pupuya   
 シナリオ  |  Lalio、Wei、Chikoto   
@@ -15,7 +20,11 @@ Little Witch Nobeta  小魔女諾貝塔  リトルウィッチノベタ  |  ジ�
 
 正式版：2022年9月29日    
 対象年齢  |  CERO  ：  **C** （15才以上対象）   
-必要環境  |  CPU：  Intel Core i3  以上  GPU：NVIDIA GeForce GTX 750 Ti または ATI Radeon HD 7950 以上  メモリー：4GB以上  DirectX：Version 11  ストレージ容量：4GB以上   
+必要環境  |  CPU：  Intel Core i3  以上   
+GPU：NVIDIA GeForce GTX 750 Ti または ATI Radeon HD 7950 以上  
+メモリー：4GB以上  
+DirectX：Version 11  
+ストレージ容量：4GB以上  
 エンジン  |  Unity   
 売上本数  |  20万本以上（2021年時点）     
 テンプレートを表示  

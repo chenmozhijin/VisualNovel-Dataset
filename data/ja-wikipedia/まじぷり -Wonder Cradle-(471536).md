@@ -1,8 +1,12 @@
-まじぷり -Wonder Cradle-  |  ジャンル  |  AVG   
+まじぷり -Wonder Cradle-  ジャンル  |  AVG   
 ---|---  
-対応機種  |  Windows 98/Me/2000/XP  Windows 10 (FANZA GAMES)   
+対応機種  |  Windows 98/Me/2000/XP   
+Windows 10 (FANZA GAMES)  
 発売元  |  Purple software   
-発売日  |  2004年6月4日  2004年8月13日（ふぁんでぃすく）  2010年9月17日（月刊メガストア付録）  2022年4月26日 (FANZA GAMES)   
+発売日  |  2004年6月4日   
+2004年8月13日（ふぁんでぃすく）  
+2010年9月17日（月刊メガストア付録）  
+2022年4月26日 (FANZA GAMES)  
 レイティング  |  18禁   
 キャラクター名設定  |  不可   
 エンディング数  |  5   

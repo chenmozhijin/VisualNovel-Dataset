@@ -1,12 +1,16 @@
-|  LAMUNATION!  ||
-|---|---|
-|原名  |  LAMUNATION!  ラムネーション!   |
-|类型  |  ADV   |
-|平台  |  Microsoft Windows   |
-|分级  |  R-18  全年龄（Steam）   |
-|开发  |  WHITE POWDER   |
-|发行  |  WHITE POWDER（日文版）  Love Lab（国际版）   |
-|相关作品  |  2016年6月24日（PC日文）  2019年11月22日（Steam）   |
+LAMUNATION!  
+---  
+原名  |  LAMUNATION!   
+ラムネーション!  
+类型  |  ADV   
+平台  |  Microsoft Windows   
+分级  |  R-18   
+全年龄（Steam）  
+开发  |  WHITE POWDER   
+发行  |  WHITE POWDER（日文版）   
+Love Lab（国际版）  
+相关作品  |  2016年6月24日（PC日文）   
+2019年11月22日（Steam）  
   
 《 **LAMUNATION!** 》（日语：  **ラムネーション!** ）是由  WHITE POWDER  制作发行的一部  恋爱  冒险游戏  （
 波子汽水  广告  ）  ，于2016年6月24日发售。

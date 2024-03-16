@@ -1,21 +1,17 @@
 WHITE ALBUM  > **WHITE ALBUMのディスコグラフィ**
 
-|
-
-|
-
-**この記事は 検証可能  な  参考文献や出典  が全く示されていないか、不十分です。 ** 出典を追加  して記事の信頼性向上にご協力ください。  （
-このテンプレートの使い方  ）  出典検索  ?  :  "WHITE ALBUMのディスコグラフィ"  –  ニュース  **·** 書籍  **·**
-スカラー  **·** CiNii  **·** J-STAGE  **·** NDL  **·** dlib.jp  **·** ジャパンサーチ
-**·** TWL  （  2019年8月  ）  
-  
+|  **この記事は 検証可能  な  参考文献や出典  が全く示されていないか、不十分です。 ** 出典を追加  して記事の信頼性向上にご協力ください。
+（  このテンプレートの使い方  ）  
+出典検索  ?  :  "WHITE ALBUMのディスコグラフィ"  –  ニュース  **·** 書籍  **·** スカラー  **·** CiNii
+**·** J-STAGE  **·** NDL  **·** dlib.jp  **·** ジャパンサーチ  **·** TWL  （  2019年8月
+）  
 ---|---  
-** WHITE ALBUM  のディスコグラフィ ** |  リリースリスト   ||
-|---|---|
-|↙  シングル  |  6   |
-|↙  **サウンドトラック** |  2   |
-|↙  ドラマCD  |  2   |
-|↙  コンピレーションアルバム  |  1   |
+** WHITE ALBUM  のディスコグラフィ ** リリースリスト  
+---  
+↙  シングル  |  6   
+↙  **サウンドトラック** |  2   
+↙  ドラマCD  |  2   
+↙  コンピレーションアルバム  |  1   
 脚注  
   
 **WHITE ALBUMのディスコグラフィ** （ホワイト・アルバムのディスコグラフィ）では、  キングレコード  から発売された、  アダルトゲーム
@@ -27,30 +23,40 @@ WHITE ALBUM  > **WHITE ALBUMのディスコグラフィ**
 
 ####  WHITE ALBUM  
 
-|  「  WHITE ALBUM  」  
+「  WHITE ALBUM  」  
 ---  
 森川由綺（CV：  平野綾  ）  の  シングル  
 初出アルバム『  WHITE ALBUM Character Song Best & Sound Track  』  
 B面  |  ツイてるねノッてるね   
 リリース  |  2009年  4月1日   
 規格  |  マキシシングル   
-ジャンル  |  （キャラクターソング）  （  ドラマCD  ）   
+ジャンル  |  （キャラクターソング）   
+（  ドラマCD  ）  
 時間  |  16分46秒   
-レーベル  |  キングレコード  （KICM-3188）   
-作詞・作曲  |  須谷尚子（作詞 #1）  石川真也（作曲 #1）  松本隆  （作詞 #2）  筒美京平  （作曲 #2）   
-プロデュース  |  三嶋章夫  Elements Garden   
+レーベル  |  キングレコード    
+（KICM-3188）  
+作詞・作曲  |  須谷尚子（作詞 #1）   
+石川真也（作曲 #1）  
+松本隆  （作詞 #2）  
+筒美京平  （作曲 #2）  
+プロデュース  |  三嶋章夫    
+Elements Garden  
 チャート最高順位  
   
   * 23位  （オリコン） 
 
   
 森川由綺（CV：  平野綾  ） シングル 年表  
-|  \-  |  **WHITE ALBUM** （2009年）  |  恋色空  （  2010年  ）   
+|  \-  |  **WHITE ALBUM**   
+（2009年）  |  恋色空    
+（  2010年  ）  
 ---|---|---  
-  
-|  『  WHITE ALBUM Character Song Best & Sound Track  』  収録曲  ||||
-|---|---|---|---|
-||  夢幻  （TV SIZE）（Live Ver.）  （2）  |  **WHITE ALBUM** （3）  |  SOUND OF DESTINY  （4）   |
+|  『  WHITE ALBUM Character Song Best & Sound Track  』  収録曲  ||
+|---|---|
+||  夢幻  （TV SIZE）（Live Ver.）  |
+|（2）  |  **WHITE ALBUM**   |
+|（3）  |  SOUND OF DESTINY    <br>（4）  |
+|---|------|
   
 テンプレートを表示  
   
@@ -78,18 +84,25 @@ WHITE ALBUM2 -introductory chapter-  』でも劇中歌として使用されて�
 
 ####  恋色空  
 
-|  「  恋色空  」  
+「  恋色空  」  
 ---  
 森川由綺（CV：  平野綾  ）  の  シングル  
 初出アルバム『  WHITE ALBUM Character Song Best & Sound Track  』  
 B面  |  悲しみよこんにちは   
 リリース  |  2010年  1月1日   
 規格  |  マキシシングル   
-ジャンル  |  J-POP  （アニメソング）  （キャラクターソング）   
+ジャンル  |  J-POP   
+（アニメソング）  
+（キャラクターソング）  
 時間  |  21分07秒   
-レーベル  |  キングレコード  （KICM-3196）   
-作詞・作曲  |  Bee'（作詞 #1）  藤間仁  （作曲 #1）  森雪之丞  （作詞 #2）  玉置浩二  （作曲 #2）   
-プロデュース  |  三嶋章夫  Elements Garden   
+レーベル  |  キングレコード    
+（KICM-3196）  
+作詞・作曲  |  Bee'（作詞 #1）   
+藤間仁  （作曲 #1）  
+森雪之丞  （作詞 #2）  
+玉置浩二  （作曲 #2）  
+プロデュース  |  三嶋章夫    
+Elements Garden  
 チャート最高順位  
   
   * 38位  （オリコン） 
@@ -97,12 +110,16 @@ B面  |  悲しみよこんにちは
 
   
 森川由綺（CV：  平野綾  ） シングル 年表  
-|  WHITE ALBUM  （2009年）  |  **恋色空** （2010年）  |  \-   
+|  WHITE ALBUM  
+（2009年）  |  **恋色空**   
+（2010年）  |  \-   
 ---|---|---  
-  
-|  『  WHITE ALBUM Character Song Best & Sound Track  』  収録曲  ||||
-|---|---|---|---|
-||  SOUND OF DETINY  （4）  |  **恋色空** （5）  |  POWDER SNOW  （Live Ver.）  （6）   |
+|  『  WHITE ALBUM Character Song Best & Sound Track  』  収録曲  ||
+|---|---|
+||  SOUND OF DETINY  |
+|（4）  |  **恋色空**   |
+|（5）  |  POWDER SNOW  （Live Ver.）   <br>（6）  |
+|---|------|
   
 テンプレートを表示  
   
@@ -126,7 +143,7 @@ B面  |  悲しみよこんにちは
 
 収録アルバム
 
-|  曲名  |  アルバム  |  発売日  |  備考   
+曲名  |  アルバム  |  発売日  |  備考   
 ---|---|---|---  
 恋色空  |  『 ** WHITE ALBUM Character Song Best & Sound Track  ** 』  |  2010年3月24日  |  キャラクターソングアルバム  ＆  サウンドトラック   
   
@@ -134,18 +151,24 @@ B面  |  悲しみよこんにちは
 
 ####  SOUND OF DESTINY  
 
-|  「  SOUND OF DESTINY  」  
+「  SOUND OF DESTINY  」  
 ---  
 緒方理奈（CV：  水樹奈々  ）  の  シングル  
 初出アルバム『  WHITE ALBUM Character Song Best & Sound Track  』  
 B面  |  ガラスの華   
 リリース  |  2009年4月8日   
 規格  |  マキシシングル   
-ジャンル  |  J-POP  （アニメソング）  （キャラクターソング）   
+ジャンル  |  J-POP   
+（アニメソング）  
+（キャラクターソング）  
 時間  |  18分43秒   
 レーベル  |  キングレコード（KICM-3189）   
-作詞・作曲  |  須谷尚子（作詞 #1）  中上和英（作曲 #1）  有里泉美（作詞 #2）  藤間仁  （作曲 #2）   
-プロデュース  |  三嶋章夫  Elements Garden   
+作詞・作曲  |  須谷尚子（作詞 #1）   
+中上和英（作曲 #1）  
+有里泉美（作詞 #2）  
+藤間仁  （作曲 #2）  
+プロデュース  |  三嶋章夫    
+Elements Garden  
 チャート最高順位  
   
   * 週間12位  （オリコン） 
@@ -153,12 +176,16 @@ B面  |  ガラスの華
 
   
 緒方理奈（CV：  水樹奈々  ） シングル 年表  
-|  \-  |  **SOUND OF DESTINY** （2009年）  |  POWDER SNOW  （2010年）   
+|  \-  |  **SOUND OF DESTINY**   
+（2009年）  |  POWDER SNOW    
+（2010年）  
 ---|---|---  
-  
-|  『  WHITE ALBUM Character Song Best & Sound Track  』  収録曲  ||||
-|---|---|---|---|
-||  WHITE ALBUM  （Live Ver.）  （3）  |  **SOUND OF DESTINY** （4）  |  恋色空  （5）   |
+|  『  WHITE ALBUM Character Song Best & Sound Track  』  収録曲  ||
+|---|---|
+||  WHITE ALBUM  （Live Ver.）  |
+|（3）  |  **SOUND OF DESTINY**   |
+|（4）  |  恋色空    <br>（5）  |
+|---|------|
   
 テンプレートを表示  
   
@@ -189,24 +216,30 @@ ALBUM』の挿入歌をカバーしたもので、アーティストが異なる
 
 収録アルバム
 
-|  曲名  |  アルバム  |  発売日  |  備考   
+曲名  |  アルバム  |  発売日  |  備考   
 ---|---|---|---  
 SOUND OF DESTINY  |  『 ** WHITE ALBUM Character Song Best & Sound Track  ** 』  |  2010年3月24日  |  キャラクターソングアルバム＆サウンドトラック   
   
 ####  POWDER SNOW  
 
-|  「  POWDER SNOW  」  
+「  POWDER SNOW  」  
 ---  
 緒方理奈（CV：  水樹奈々  ）  の  シングル  
 初出アルバム『  WHITE ALBUM Character Song Best & Sound Track  』  
 B面  |  1986年のマリリン   
 リリース  |  2010年  1月1日   
 規格  |  マキシシングル   
-ジャンル  |  J-POP  （アニメソング）  （キャラクターソング）   
+ジャンル  |  J-POP   
+（アニメソング）  
+（キャラクターソング）  
 時間  |  18分14秒   
 レーベル  |  キングレコード（KICM-3197）   
-作詞・作曲  |  須谷尚子（作詞 #1）  下川直哉  （作曲 #1）  秋元康  （作詞 #2）  筒美京平  （作曲 #2）   
-プロデュース  |  三嶋章夫  Elements Garden   
+作詞・作曲  |  須谷尚子（作詞 #1）   
+下川直哉  （作曲 #1）  
+秋元康  （作詞 #2）  
+筒美京平  （作曲 #2）  
+プロデュース  |  三嶋章夫    
+Elements Garden  
 チャート最高順位  
   
   * 週間16位  （オリコン） 
@@ -215,12 +248,16 @@ B面  |  1986年のマリリン
 
   
 緒方理奈（CV：  水樹奈々  ） シングル 年表  
-|  SOUND OF DESTINY  (2009年）  |  **POWDER SNOW** (2010年）  |  \-   
+|  SOUND OF DESTINY  
+(2009年）  |  **POWDER SNOW**   
+(2010年）  |  \-   
 ---|---|---  
-  
-|  『  WHITE ALBUM Character Song Best & Sound Track  』  収録曲  ||||
-|---|---|---|---|
-||  WHITE ALBUM  （3）  |  **POWDER SNOW** （4）  |  WHITE ALBUM  （5）   |
+|  『  WHITE ALBUM Character Song Best & Sound Track  』  収録曲  ||
+|---|---|
+||  WHITE ALBUM  |
+|（3）  |  **POWDER SNOW**   |
+|（4）  |  WHITE ALBUM    <br>（5）  |
+|---|------|
   
 テンプレートを表示  
   
@@ -250,7 +287,7 @@ B面  |  1986年のマリリン
 
 収録アルバム
 
-|  曲名  |  アルバム  |  発売日  |  備考   
+曲名  |  アルバム  |  発売日  |  備考   
 ---|---|---|---  
 POWDER SNOW  |  『 ** WHITE ALBUM Character Song Best & Sound Track  ** 』  |  2010年3月24日  |  キャラクターソングアルバム＆サウンドトラック   
 1986年のマリリン  |  『 **筒美京平 Hitstory Ultimate Collection 1967-1997 2013Edition** 』  |  2013年12月25日  |  筒美京平作曲作品アンソロジーアルバム（9枚組）   
@@ -268,16 +305,21 @@ POWDER SNOW  |  『 ** WHITE ALBUM Character Song Best & Sound Track  ** 』  | 
 
 ####  01  
 
-|  『  WHITE ALBUM  サウンドステージ01  』  
+『  WHITE ALBUM  
+サウンドステージ01  』  
 ---  
 WHITE ALBUM  の  スタジオ・アルバム  
 リリース  |  2010年1月27日   
-ジャンル  |  ドラマCD  キャラクターソング   
+ジャンル  |  ドラマCD    
+キャラクターソング  
 時間  |  70分58秒   
-レーベル  |  キングレコード  （KICA-2501）   
+レーベル  |  キングレコード   
+（KICA-2501）  
 プロデュース  |  三嶋章夫   
 WHITE ALBUM  アルバム 年表  
-|  \-  |  **WHITE ALBUM サウンドステージ01** （2010年）  |  WHITE ALBUM サウンドステージ02  （2010年）   
+|  \-  |  **WHITE ALBUM サウンドステージ01**   
+（2010年）  |  WHITE ALBUM サウンドステージ02    
+（2010年）  
 ---|---|---  
 テンプレートを表示  
   
@@ -329,13 +371,16 @@ WHITE ALBUM  アルバム 年表
 
 ####  02  
 
-|  『  WHITE ALBUM  サウンドステージ02  』  
+『  WHITE ALBUM  
+サウンドステージ02  』  
 ---  
 WHITE ALBUM  の  スタジオ・アルバム  
 リリース  |  2010年2月24日   
-ジャンル  |  ドラマCD  キャラクターソング   
+ジャンル  |  ドラマCD    
+キャラクターソング  
 時間  |  70分40秒   
-レーベル  |  キングレコード  （KICA-2502）   
+レーベル  |  キングレコード   
+（KICA-2502）  
 プロデュース  |  三嶋章夫   
 チャート最高順位  
   
@@ -343,7 +388,10 @@ WHITE ALBUM  の  スタジオ・アルバム
 
   
 WHITE ALBUM アルバム 年表  
-|  WHITE ALBUM サウンドステージ01  （2010年）  |  **WHITE ALBUM サウンドステージ02** （2010年）  |  WHITE ALBUM Character Song Best & Sound Track  （2010年）   
+|  WHITE ALBUM サウンドステージ01  
+（2010年）  |  **WHITE ALBUM サウンドステージ02**   
+（2010年）  |  WHITE ALBUM Character Song Best & Sound Track    
+（2010年）  
 ---|---|---  
 テンプレートを表示  
   
@@ -397,16 +445,22 @@ WHITE ALBUM アルバム 年表
 
 ##  コンピレーションアルバム  
 
-|  『  WHITE ALBUM  Character Song Best & Sound Track  』  
+『  WHITE ALBUM  
+Character Song Best & Sound Track  』  
 ---  
 WHITE ALBUM  の  コンピレーション・アルバム  
 リリース  |  2010年3月24日   
-ジャンル  |  サウンドトラック  キャラクターソング   
-時間  |  105分37秒  （DISC-1：63分21秒）  （DISC-2：41分58秒）   
+ジャンル  |  サウンドトラック    
+キャラクターソング  
+時間  |  105分37秒   
+（DISC-1：63分21秒）  
+（DISC-2：41分58秒）  
 レーベル  |  キングレコード  （KICA-2505/6）   
 プロデュース  |  三嶋章夫  、  Elements Garden   
 WHITE ALBUM  アルバム 年表  
-|  WHITE ALBUM サウンドステージ02  （2010年）  |  **WHITE ALBUM Character Song Best & Sound Track ** （2010年）  |   
+|  WHITE ALBUM サウンドステージ02  
+（2010年）  |  **WHITE ALBUM Character Song Best & Sound Track **   
+（2010年）  |   
 ---|---|---  
 テンプレートを表示  
   

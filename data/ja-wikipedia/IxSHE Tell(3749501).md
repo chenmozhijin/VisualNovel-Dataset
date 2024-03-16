@@ -1,22 +1,30 @@
-|
-
-|
-
-**この記事のほとんどまたは全てが 唯一の出典  にのみ基づいています ** 。  他の出典の追加
-も行い、記事の正確性・中立性・信頼性の向上にご協力ください。  出典検索  ?  :  "IxSHE Tell"  –  ニュース  **·** 書籍
-**·** スカラー  **·** CiNii  **·** J-STAGE  **·** NDL  **·** dlib.jp  **·**
-ジャパンサーチ  **·** TWL  （  2023年5月  ）  
-  
+|  **この記事のほとんどまたは全てが 唯一の出典  にのみ基づいています ** 。  他の出典の追加
+も行い、記事の正確性・中立性・信頼性の向上にご協力ください。  
+出典検索  ?  :  "IxSHE Tell"  –  ニュース  **·** 書籍  **·** スカラー  **·** CiNii  **·**
+J-STAGE  **·** NDL  **·** dlib.jp  **·** ジャパンサーチ  **·** TWL  （  2023年5月  ）  
 ---|---  
-IxSHE Tell  |  ジャンル  |  告白されて始まる恋愛ADV   
+IxSHE Tell  ジャンル  |  告白されて始まる恋愛ADV   
 ---|---  
-対応機種  |  Windows  （  Vista  /  7  /  8  /  8.1  /  10  （日本語版））  PlayStation 4  PlayStation Vita  Nintendo Switch   
-発売元  |  **Win** HOOKSOFT  **PS4, PS Vita, Switch** エンターグラム   
+対応機種  |  Windows  （  Vista  /  7  /  8  /  8.1  /  10  （日本語版））   
+PlayStation 4  
+PlayStation Vita  
+Nintendo Switch  
+発売元  |  **Win**   
+HOOKSOFT  
+**PS4, PS Vita, Switch**  
+エンターグラム  
 キャラクターデザイン  |  RINKS   
 シナリオ  |  桜城なお、松倉慎二   
-発売日  |  **Win** 2018年  2月23日  **PS4, PS Vita, Switch** 2020年  1月30日   
-レイティング  |  **Win** 18禁  **PS4, PS Vita, Switch** CERO  ：  **C** （15才以上対象）   
-コンテンツアイコン  |  **PS4, PS Vita, Switch** 恋愛・セクシャル   
+発売日  |  **Win**   
+2018年  2月23日  
+**PS4, PS Vita, Switch**  
+2020年  1月30日  
+レイティング  |  **Win**   
+18禁  
+**PS4, PS Vita, Switch**  
+CERO  ：  **C** （15才以上対象）  
+コンテンツアイコン  |  **PS4, PS Vita, Switch**   
+恋愛・セクシャル  
 キャラクター名設定  |  不可   
 メディア  |  DVD-ROM   
 ディスクレス起動  |  可   
@@ -31,7 +39,7 @@ CGモード  |  あり
 オートモード  |  あり   
 備考  |  初回特典：気持ちがよくなれるアレンジハイレゾサントラ、画面カスタムパッチ！あなたによるあなたのためのIxSHE Tell！   
 テンプレートを表示  
-|  映像外部リンク  
+映像外部リンク  
 ---  
 IxSHE Tell オープニングムービー  （HOOKSOFT) -  YouTube  
 IxSHE Tell ティザームービー  （HOOKSOFT) -  YouTube  

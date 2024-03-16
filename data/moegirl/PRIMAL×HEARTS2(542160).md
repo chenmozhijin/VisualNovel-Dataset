@@ -1,13 +1,15 @@
-|  PRIMAL×HEARTS2  ||
-|---|---|
-|原名  |  PRIMAL×HEARTS2   |
-|类型  |  ADV   |
-|平台  |  Windows   |
-|分级  |  R-18   |
-|开发  |  MARMALADE   |
-|发行  |  MARMALADE（日文）  Shiravune  （中英文）   |
-|发行时间  |  2015年10月30日（日文）  2021年9月30日（中英文）   |
-|相关作品  |  PRIMAL×HEARTS   |
+PRIMAL×HEARTS2  
+---  
+原名  |  PRIMAL×HEARTS2   
+类型  |  ADV   
+平台  |  Windows   
+分级  |  R-18   
+开发  |  MARMALADE   
+发行  |  MARMALADE（日文）   
+Shiravune  （中英文）  
+发行时间  |  2015年10月30日（日文）   
+2021年9月30日（中英文）  
+相关作品  |  PRIMAL×HEARTS   
   
 《 **PRIMAL×HEARTS2** 》（日语：  プライマルハーツ2  ）是由  MARMALADE  制作发行的一部  Galgame
 ，于2015年10月30日发售。

@@ -1,11 +1,12 @@
-|  Purrfect Apawcalypse  ||
-|---|---|
-|本名  |  Purrfect Apawcalypse   |
-|别名  |  完美末日   |
-|标签  |  猫  、  狗  、  furry  可爱  、  血浆  、  LGBTQ   |
-|制作  |  90%Studios   |
-|平台  |  Windows  /  macOS   |
-|类型  |  视觉小说   |
+Purrfect Apawcalypse  
+---  
+本名  |  Purrfect Apawcalypse   
+别名  |  完美末日   
+标签  |  猫  、  狗  、  furry    
+可爱  、  血浆  、  LGBTQ  
+制作  |  90%Studios   
+平台  |  Windows  /  macOS   
+类型  |  视觉小说   
   
 《  Purrfect Apawcalypse  》，由  90％Studios  创作的萌系血浆恋爱猫狗轻喜剧系列游戏。
 
@@ -38,40 +39,44 @@ Purrfect Apawcalypse  ，“完美末日”。是由  90％Studios  制作并发
 
 ##  游戏
 
-|  **1《Purrfect Apawcalypse》** |  **2《Purrfect Apawcalypse: Purrgatory Furever》**  
+**1《Purrfect Apawcalypse》**  
+|  **2《Purrfect Apawcalypse: Purrgatory Furever》**  
+  
 ---|---  
-**3《Purrfect Apawcalypse: Patches' Infurno》** |  **4《Purrfect Apawcalypse: Love at Furst Bite》**  
+**3《Purrfect Apawcalypse: Patches' Infurno》**  
+|  **4《Purrfect Apawcalypse: Love at Furst Bite》**  
+  
   
 ##  时间线
 
-|  剧透内容  
+剧透内容  
 ---  
-**19年10月17日** </br>
+**19年10月17日**
 
   * Patches  与  Angel  相识。 
 
-**19年10月23日** </br>
+**19年10月23日**
 
   * Angel  被  Patches  杀害。 
 
-**19年10月25日** （PA1） </br>
+**19年10月25日** （PA1）
 
   * Coco  寻找凶爪为弟弟报仇，在八公高中展开无差别屠杀。 
   * 幸存的  Olive  与结识的伙伴们协助Grimalkin姐弟使凶爪  Patches  付出代价，最终幸存并收获友谊。 
 
-**19年10月31日** （PA2） </br>
+**19年10月31日** （PA2）
 
   * 众猫狗为参加  Olive  的生日派对相聚在Grimalkin宅院。 
   * Patches  利用遇难的狗狗们和  Ginger  对幸存的猫狗们展开复仇，最终被挫败。 
 
-**19年11月2日** （PA3） </br>
+**19年11月2日** （PA3）
 
   * Coco  与  Ginger  前往精英魔法部以寻求帮助复活遇难的狗狗们。 
   * Ginger  被复活。 
   * 幸存的众猫狗再次聚集在Grimalkin宅院，等待  Coco  传达消息。 
   * 在  Mittens  的要求下众猫狗回到八公高中为公学日做准备。 
 
-**19年11月4日** （PA3） </br>
+**19年11月4日** （PA3）
 
   * 猫狗公学日在八公高中举办 
   * 八公高中的遇难狗狗们被复活 

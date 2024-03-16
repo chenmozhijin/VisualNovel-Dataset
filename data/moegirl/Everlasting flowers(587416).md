@@ -1,0 +1,77 @@
+本条目所介绍的作品仍未发售/未开放/未开服/未播出，但已有确认的官方 **发布消息** 。  
+欢迎在情报相对明朗并确认资料来源准确性后  编辑更新  。
+
+「  |  _Where there is a will,there is a way._ |  」   
+---|---|---  
+everlasting flowers  
+---  
+原名  |  エバーラスティング·フラワーズ   
+官方译名  |  everlasting flowers   
+类型  |  视觉小说   
+平台  |  Nintendo Switch    
+PlayStation 4  
+Steam  
+分级  |  |  CERO  :  |  \- 审查预定   
+---|---  
+开发  |  sprite   
+发行  |  RIGHTWAY   
+制作人  |  sprite/flowers.studio   
+角色设计  |  Suzumori   
+编剧  |  四葩   
+美工  |  あざみじゅん   
+音乐  |  Elements Garden   
+发行时间  |  2024年6月27日   
+  
+《 **everlasting flowers** 》（日语：  エバーラスティング·フラワーズ  ），简称「 **evers** 」（  エバーズ
+），是由  sprite  制作，预定于2024年6月27日发行的一款  视觉小说  。
+
+##  目录
+
+  * 1  简介 
+  * 2  CAST 
+  * 3  STAFF 
+  * 4  相关音乐 
+  * 5  注释及外部链接 
+
+##  简介
+
+待补充
+
+##  CAST
+
+  * 坂下深菜  ：  上田丽奈 
+  * 星野兰  ：  Lynn 
+  * 橘纱波  ：  斋藤千和 
+  * 成濑阳毬  ：  富田美忧 
+  * 柳濑美智子  ：  宫寺智子 
+
+##  STAFF
+
+  * 原画·艺术总监：Suzumori 
+  * 脚本：四葩 
+  * 美术监督：あざみじゅん 
+  * 音效监督：滨野高年（Magic Capsule） 
+  * 音乐：  Elements Garden 
+  * 音效制作：Magic Capsule 
+  * Logo设计：BALCOLONY. 
+  * 英语、中文翻译：  Frontwing 
+  * 企划·制作：sprite/flowers.studio 
+  * 发行：RIGHTWAY 
+
+##  相关音乐
+
+  * OP：  Convallaria 
+
+     演唱：  安月名莉子 
+     作词：  Ceui 
+     作曲/编曲：  藤永龍太郎  （Elements Garden） 
+
+  * ED：  Herbarium 
+
+     演唱：  Ceui 
+     作词：  Ceui 
+     作曲/编曲：菊田大介（Elements Garden） 
+
+  
+
+  

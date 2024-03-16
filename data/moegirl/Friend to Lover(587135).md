@@ -1,14 +1,21 @@
-|  Friend to Lover  ||
-|---|---|
-|原名  |  フレラバ 〜Friend to Lover〜  （PC）  Friend to Lover 〜フレラバ〜  （PSV）   |
-|类型  |  ADV   |
-|分级  |    EOCS  :    \- 18岁以下禁止|
-|<br>（PC）  |
-||  CERO  :    \- 15岁以上|
-|<br>（PSV）  <br>全年龄（Steam）  |
-|开发  |  SMEE   |
-|发行  |  SMEE  （PC）   <br>DMM.com  （PC DL版、PC HD版）  <br>加賀クリエイト  →TGL→ENTERGRAM（PSV）  <br>NekoNyan（HD英文版）  |
-|发行时间  |  2013年6月28日（PC 初回版）   |
+Friend to Lover  
+---  
+原名  |  フレラバ 〜Friend to Lover〜  （PC）   
+Friend to Lover 〜フレラバ〜  （PSV）  
+类型  |  ADV   
+分级  |  |  EOCS  :  |  \- 18岁以下禁止   
+---|---  
+（PC）  
+CERO  :  |  \- 15岁以上   
+---|---  
+（PSV）  
+全年龄（Steam）  
+开发  |  SMEE   
+发行  |  SMEE  （PC）   
+DMM.com  （PC DL版、PC HD版）  
+加賀クリエイト  →TGL→ENTERGRAM（PSV）  
+NekoNyan（HD英文版）  
+发行时间  |  2013年6月28日（PC 初回版）   
 2013年9月27日（PC 通常版）  
 2015年2月13日（PC DL版）  
 2015年3月26日（PSV）  

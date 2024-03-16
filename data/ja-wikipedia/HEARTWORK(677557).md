@@ -1,16 +1,18 @@
-|  HEARTWORK  
+HEARTWORK  
 ---  
   
 本作の主題である、  コルト・オートマチック1911A1  
-  
-ゲーム：HEARTWORK  Symphony of Destrucion  
+ゲーム：HEARTWORK  
+Symphony of Destrucion  
 ゲームジャンル  |  アドベンチャーゲーム   
-対応機種  |  Windows 95  Macintosh   
+対応機種  |  Windows 95   
+Macintosh  
 開発元  |  Active   
 プロデューサー  |  ぽち屋   
 キャラクターデザイン  |  聖少女   
 メディア  |  CD-ROM   
-発売日  |  1997年  12月19日  (Windows版)  1998年  2月27日  (Macintosh版)   
+発売日  |  1997年  12月19日  (Windows版)   
+1998年  2月27日  (Macintosh版)  
 レイティング  |  18禁   
 エンディング数  |  19     
 画面サイズ  |  640×480   

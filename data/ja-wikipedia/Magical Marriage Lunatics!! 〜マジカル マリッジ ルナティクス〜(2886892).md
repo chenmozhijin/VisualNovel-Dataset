@@ -1,4 +1,4 @@
-Magical Marriage Lunatics!! 〜マジカル マリッジ ルナティクス〜  |  対応機種  |  日本語版  Windows XP  /  Vista  /  7(32bit),7(64bit)  /  8   
+Magical Marriage Lunatics!! 〜マジカル マリッジ ルナティクス〜  対応機種  |  日本語版  Windows XP  /  Vista  /  7(32bit),7(64bit)  /  8   
 ---|---  
 発売元  |  MOONSTONE   
 発売日  |  2013年  9月27日   

@@ -1,9 +1,9 @@
-|  **基本资料**  ||
-|---|---|
-|用语名称  |  Countryhuman   |
-|其他表述  |  countryhumans、ch、国拟（国家拟人）   |
-|用语出处  |  DeviantArt  [1]   |
-|相关条目  |  countryfurry  、  波兰球   |
+**基本资料**  
+---  
+用语名称  |  Countryhuman   
+其他表述  |  countryhumans、ch、国拟（国家拟人）   
+用语出处  |  DeviantArt  [1]   
+相关条目  |  countryfurry  、  波兰球   
   
 **Countryhuman** 是指将国际组织和国家（或地区）等以拟人的方式表现出来的艺术形式，类似于波兰球；
 
@@ -90,7 +90,7 @@ OC  通常需要创作者创建一个虚拟国家，然后为其添加以下设�
 
 可以参考  reddit论坛的规矩  。
 
-|  非常让人感到不适的cp组合包括但不限于：  
+非常让人感到不适的cp组合包括但不限于：  
 ---  
   
   * 日帝 x 中国 

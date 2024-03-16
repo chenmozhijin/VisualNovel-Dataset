@@ -1,11 +1,7 @@
-|
-
-|
-
-この項目には性的な表現や記述が含まれます。  免責事項  もお読みください。  
-  
+|  この項目には性的な表現や記述が含まれます。  免責事項  もお読みください。  
 ---|---  
-SILVER CHAOS  |  ジャンル  |  ボーイズラブゲーム  恋愛アドベンチャーゲーム   
+SILVER CHAOS  ジャンル  |  ボーイズラブゲーム    
+恋愛アドベンチャーゲーム  
 ---|---  
 対応機種  |  Microsoft Windows  98  /  Me  /  XP  （日本語版専用）   
 発売元  |  Vivid Color   
@@ -22,7 +18,9 @@ CGモード  |  あり
 メッセージスキップ  |  あり   
 オートモード  |  なし   
 テンプレートを表示  
-SILVER CHAOS FAN BOX  〜ETERNAL FANTASIA〜  |  ジャンル  |  ボーイズラブゲーム  恋愛アドベンチャーゲーム   
+SILVER CHAOS FAN BOX  
+〜ETERNAL FANTASIA〜  ジャンル  |  ボーイズラブゲーム    
+恋愛アドベンチャーゲーム  
 ---|---  
 対応機種  |  Microsoft Windows  98  /  Me  /  XP  （日本語版専用）   
 発売元  |  Vivid Color   
@@ -39,7 +37,9 @@ CGモード  |  あり
 メッセージスキップ  |  あり   
 オートモード  |  なし   
 テンプレートを表示  
-Artificial Mermaid  〜SILVER CHAOS II〜  |  ジャンル  |  ボーイズラブゲーム  恋愛アドベンチャーゲーム   
+Artificial Mermaid  
+〜SILVER CHAOS II〜  ジャンル  |  ボーイズラブゲーム    
+恋愛アドベンチャーゲーム  
 ---|---  
 対応機種  |  Microsoft Windows  98  /  Me  /  XP  （日本語版専用）   
 発売元  |  Vivid Color   
@@ -56,7 +56,9 @@ CGモード  |  あり
 メッセージスキップ  |  あり   
 オートモード  |  なし   
 テンプレートを表示  
-Silver Chaos  -トリプルセレクション-  |  ジャンル  |  ボーイズラブゲーム  恋愛アドベンチャーゲーム   
+Silver Chaos  
+-トリプルセレクション-  ジャンル  |  ボーイズラブゲーム    
+恋愛アドベンチャーゲーム  
 ---|---  
 対応機種  |  Microsoft Windows  98  /  Me  /  2000  /  XP  /  Vista   
 発売元  |  Vivid Color   

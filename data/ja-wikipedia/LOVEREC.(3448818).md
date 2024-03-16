@@ -1,4 +1,4 @@
-LOVEREC.  |  ジャンル  |  美少女をRECして、動画作りに励む青春部活ADV   
+LOVEREC.  ジャンル  |  美少女をRECして、動画作りに励む青春部活ADV   
 ---|---  
 対応機種  |  Win Vista/7/8/8.1   
 発売元  |  ALcot   

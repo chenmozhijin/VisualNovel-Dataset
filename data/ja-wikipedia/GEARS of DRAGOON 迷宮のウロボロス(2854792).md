@@ -1,4 +1,5 @@
-GEARS of DRAGOON  迷宮のウロボロス  |  ジャンル  |  3DダンジョンRPG   
+GEARS of DRAGOON  
+迷宮のウロボロス  ジャンル  |  3DダンジョンRPG   
 ---|---  
 対応機種  |  Windows XP / Vista / 7   
 発売元  |  ninetail   

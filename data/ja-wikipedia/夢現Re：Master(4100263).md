@@ -1,14 +1,28 @@
-夢現Re:Master  |  ジャンル  |  キラ☆ふわ  ガールズラブ  ゲーム制作会社  アドベンチャーゲーム     
+夢現Re:Master  ジャンル  |  キラ☆ふわ  ガールズラブ  ゲーム制作会社  アドベンチャーゲーム     
 ---|---  
-対応機種  |  PlayStation 4  PlayStation Vita  Nintendo Switch  Microsoft Windows  Steam   
+対応機種  |  PlayStation 4    
+PlayStation Vita  
+Nintendo Switch  
+Microsoft Windows  
+Steam  
 開発元  |  工画堂スタジオ しまりすさんちーむ     
 発売元  |  工画堂スタジオ   
 シナリオ  |  向坂氷緒、志水はつみ、  竹内なおゆき  、  西川真音   
 美術  |  早瀬あきら  、  藤ちょこ   
 人数  |  1人   
-発売日  |  **夢現Re:Master** 2019年  6月13日    **夢現Re:After** 2020年  4月23日     
-対象年齢  |  **夢現Re:Master** CERO  ：  **D** （17才以上対象）  **夢現Re:After** CERO  ：  **C** （15才以上対象）   
-コンテンツ  アイコン  |  **夢現Re:Master** セクシャル  **夢現Re:After** 恋愛・セクシャル   
+発売日  |  **夢現Re:Master**   
+2019年  6月13日    
+**夢現Re:After**  
+2020年  4月23日    
+対象年齢  |  **夢現Re:Master**   
+CERO  ：  **D** （17才以上対象）  
+**夢現Re:After**  
+CERO  ：  **C** （15才以上対象）  
+コンテンツ  
+アイコン  |  **夢現Re:Master**   
+セクシャル  
+**夢現Re:After**  
+恋愛・セクシャル  
 テンプレートを表示  
   
 『 **夢現Re:Master** 』（ゆめうつつりますたー）は、  工画堂スタジオ  より  2019年  6月13日  に発売された  百合  系
@@ -138,7 +152,7 @@ FLOWERS  』などのシナリオを手掛けた志水はつみが担当した  
 
 ##  書籍  
 
-|  タイトル  |  発行日   
+タイトル  |  発行日   
 ---|---  
 夢現Re:Master 公式ファンブック「ゆリマニュアル」  |  2019年12月28日   
   

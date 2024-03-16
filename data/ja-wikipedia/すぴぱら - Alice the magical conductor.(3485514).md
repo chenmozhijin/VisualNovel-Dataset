@@ -1,4 +1,6 @@
-すぴぱら  \- Alice the magical conductor.  STORY #01 - Spring Has Come !  |  ジャンル  |  インタラクティブ・ノベル     
+すぴぱら  
+\- Alice the magical conductor.  
+STORY #01 - Spring Has Come !  ジャンル  |  インタラクティブ・ノベル     
 ---|---  
 対応機種  |  XP  /  Vista  /  7     
 開発元  |  minori     

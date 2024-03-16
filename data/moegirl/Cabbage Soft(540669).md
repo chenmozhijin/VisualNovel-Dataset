@@ -1,10 +1,11 @@
-|  Cabbage Soft  ||
-|---|---|
-|名称  |  きゃべつそふと   |
-|别名  |  卷心菜社   |
-|类型  |  Galgame公司   |
-|主要作品  |  《  巧克甜恋  》  《  樱色之云＊绯色之恋  》   |
-|网址  |  http://cabbage-soft.com/   |
+Cabbage Soft  
+---  
+名称  |  きゃべつそふと   
+别名  |  卷心菜社   
+类型  |  Galgame公司   
+主要作品  |  《  巧克甜恋  》   
+《  樱色之云＊绯色之恋  》  
+网址  |  http://cabbage-soft.com/   
   
 **Cabbage Soft** （日语：  **きゃべつそふと** ）是日本的  Galgame  制作公司，国内通常称为“卷心菜社”。
 

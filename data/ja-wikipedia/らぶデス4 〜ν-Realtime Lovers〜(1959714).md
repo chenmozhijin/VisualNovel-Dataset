@@ -1,9 +1,11 @@
-らぶデス4 〜ν-Realtime Lovers〜  Love Death 4  |  ジャンル  |  リアルタイム3D-ADV   
+らぶデス4 〜ν-Realtime Lovers〜  
+Love Death 4  ジャンル  |  リアルタイム3D-ADV   
 ---|---  
 対応機種  |  Windows XP/Vista/7   
 発売元  |  TEATIME   
 発売日  |  2009年12月18日   
-価格  |  9,240円  10,290円（T-CAM同梱版）   
+価格  |  9,240円   
+10,290円（T-CAM同梱版）  
 レイティング  |  18歳以上   
 キャラクター名設定  |  不可   
 セーブファイル数  |  100   

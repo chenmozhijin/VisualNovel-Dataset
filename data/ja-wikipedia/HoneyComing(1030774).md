@@ -1,15 +1,23 @@
-HoneyComing (PC)  Sweet HoneyComing (PS2)  |  ジャンル  |  はにかみ学園ラブコメADV   
+HoneyComing (PC)  
+Sweet HoneyComing (PS2)  ジャンル  |  はにかみ学園ラブコメADV   
 ---|---  
-対応機種  |  Windows 98/Me/2000/XP (PC)  PlayStation 2 (PS2)   
-発売元  |  HOOK (PC)  角川書店 (PS2)   
-発売日  |  2007年6月29日（PC初回版）  2007年8月24日（PC通常版）  2009年9月3日（PS2版）   
-レイティング  |  18禁 (PC)  CERO  ：  **B** （12才以上対象）  (PS2)   
+対応機種  |  Windows 98/Me/2000/XP (PC)   
+PlayStation 2 (PS2)  
+発売元  |  HOOK (PC)   
+角川書店 (PS2)  
+発売日  |  2007年6月29日（PC初回版）   
+2007年8月24日（PC通常版）  
+2009年9月3日（PS2版）  
+レイティング  |  18禁 (PC)   
+CERO  ：  **B** （12才以上対象）  (PS2)  
 コンテンツアイコン  |  恋愛、セクシャル、言葉・その他   
 キャラクター名設定  |  不可   
 エンディング数  |  8(ps2)   
-セーブファイル数  |  90 (PC)  32(PS2)   
+セーブファイル数  |  90 (PC)   
+32(PS2)  
 メディア  |  DVD-ROM   
-画面サイズ  |  800×600  ハイカラー   
+画面サイズ  |  800×600   
+ハイカラー  
 BGMフォーマット  |  DirectSound   
 キャラクターボイス  |  主人公以外   
 CGモード  |  あり   
@@ -18,7 +26,7 @@ CGモード  |  あり
 メッセージスキップ  |  既読 / 全文   
 オートモード  |  あり   
 テンプレートを表示  
-@HoneyComing RoyalSweet  |  ジャンル  |  はにかみ学園ラブいちゃADV   
+@HoneyComing RoyalSweet  ジャンル  |  はにかみ学園ラブいちゃADV   
 ---|---  
 対応機種  |  Windows 2000/XP/Vista   
 発売元  |  HOOKSOFT   
@@ -36,7 +44,8 @@ CGモード  |  あり
 回想モード  |  あり   
 メッセージスキップ  |  全文/既読   
 オートモード  |  あり   
-備考  |  初回特典: あつめていっぱいハニカミ原画集  予約特典: 『@HoneyComing RoyalSweet Vocal Song Collection』   
+備考  |  初回特典: あつめていっぱいハニカミ原画集   
+予約特典: 『@HoneyComing RoyalSweet Vocal Song Collection』  
 テンプレートを表示  
   
 『 **HoneyComing** 』（ハニーカミング）は  2007年  6月29日  に  HOOK  より発売された18歳未満購入禁止の  パソコン

@@ -1,9 +1,15 @@
-PIZZICATO POLKA 〜彗星幻夜〜(PC)  PIZZICATO POLKA 〜縁鎖現夜〜(PS2,DC)  |  ジャンル  |  ミステリアスアドベンチャー   
+PIZZICATO POLKA 〜彗星幻夜〜(PC)  
+PIZZICATO POLKA 〜縁鎖現夜〜(PS2,DC)  ジャンル  |  ミステリアスアドベンチャー   
 ---|---  
-対応機種  |  Windows  98SE  /  2000  /  ME  /  XP  PlayStation 2  ドリームキャスト   
-発売元  |  ぱじゃまソフト  (Win)  KID  (PS2)   
-発売日  |  2003年  12月12日  (Win)  2004年  6月17日  (PS2)   
-レイティング  |  ソフ倫  :18歳未満販売禁止(Win)  CERO 18 (PS2)   
+対応機種  |  Windows  98SE  /  2000  /  ME  /  XP    
+PlayStation 2  
+ドリームキャスト  
+発売元  |  ぱじゃまソフト  (Win)   
+KID  (PS2)  
+発売日  |  2003年  12月12日  (Win)   
+2004年  6月17日  (PS2)  
+レイティング  |  ソフ倫  :18歳未満販売禁止(Win)   
+CERO 18 (PS2)  
 セーブファイル数  |  64 (Win)   
 ゲームエンジン  |  Ethornell  (Win)   
 画面サイズ  |  800×600  フルカラー (Win)   

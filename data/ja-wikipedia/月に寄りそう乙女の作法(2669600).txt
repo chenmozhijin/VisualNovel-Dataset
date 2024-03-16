@@ -1,11 +1,13 @@
 月に寄りそう乙女の作法  ジャンル  恋愛アドベンチャーゲーム
 対応機種  Microsoft Windows XP  /  Vista  /  7
-steam
-発売元  Navel
-発売日  2012年10月26日(Limited Edition)
-2012年12月21日(Standard Edition)
-2022年6月17日(steam)
-レイティング  18禁
+開発元  Navel
+発売元  [PC]  Navel
+[Steam]HIKARI FIELD
+発売日  [PC Limited Edition]  2012年  10月26日
+[PC Standard Edition]  2012年  12月21日
+[Steam]  2022年  6月17日
+レイティング  [PC]18禁
+[Steam]全年齢
 キャラクター名設定  不可
 エンディング数  5
 セーブファイル数  100+AUTO10+QUICK10
@@ -13,8 +15,8 @@ steam
 メディア  DVD-ROM  1枚/ダウンロード
 ディスクレス起動  可
 アクチベーション  不要
-画面サイズ  1280×720
-1920×1080(steam)
+画面サイズ  [PC]1280×720
+[Steam]1920×1080
 BGMフォーマット  PCM音源
 キャラクターボイス  フルボイス（主人公を除く）  
 CGモード  有
@@ -22,7 +24,8 @@ CGモード  有
 回想モード  有
 メッセージスキップ  全文/既読
 オートモード  有
-備考  Limited Editionには修正パッチが必要。
+備考  [PC Limited Edition]修正パッチが必要
+[Steam]18禁パッチ有
 テンプレートを表示
 月に寄りそう乙女の作法 〜ひだまりの日々〜  ジャンル  恋愛アドベンチャーゲーム
 対応機種  PlayStation Vita

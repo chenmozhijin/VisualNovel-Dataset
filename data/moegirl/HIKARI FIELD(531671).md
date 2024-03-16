@@ -1,15 +1,21 @@
-|  “  |  ** 凝新聚华，将美少女游戏文化推向世界！  ** |  ”   
+**此页面的内容及资料需要长期更新，现存条目中资料未必是最新。**  
+本条目的最后更新时间为 _2024年3月8日 (五) 19:26 (CST)_ ，距现在 _ \--  _ 。
+
+“  |  ** 凝新聚华，将美少女游戏文化推向世界！  ** |  ”   
 ---|---|---  
-|  HIKARI FIELD  ||
-|---|---|
-|名称  |  株式会社 HIKARI FIELD   |
-|类型  |  美少女游戏  发行商   |
-|成立时间  |  2016年7月1日   |
-|总部地址  |  东京都港区台场2-2-2   |
-|主要作品  |  《  游魂2  》、《  爱上火车  》、《  千恋*万花  》、《  苍之彼方的四重奏  》、《  月影魅像  》、《  近月少女的礼仪  》   |
-|相关人物  |  冰天火焰  （董事长、总经理）   |
-|相关公司  |  NekoNyan  Lump of Sugar  Lose  MOONSTONE   |
-|网址  |  https://hikarifield.com/   |
+HIKARI FIELD  
+---  
+名称  |  株式会社 HIKARI FIELD   
+类型  |  美少女游戏  发行商   
+成立时间  |  2016年7月1日   
+总部地址  |  东京都港区台场2-2-2   
+主要作品  |  《  游魂2  》、《  爱上火车  》、《  千恋*万花  》、《  苍之彼方的四重奏  》、《  月影魅像  》、《  近月少女的礼仪  》   
+相关人物  |  冰天火焰  （董事长、总经理）   
+相关公司  |  NekoNyan   
+Lump of Sugar  
+Lose  
+MOONSTONE  
+网址  |  https://hikarifield.com/   
   
 **HIKARI FIELD** 是一家由中国二次元玩家作为核心团队的日本企业，  美少女游戏  发行商。
 
@@ -44,135 +50,106 @@ FIELD已与20多个日本美少女游戏品牌建立了合作关系。
 
 2020年12月25日，官网商城功能更新。
 
-2021年11月05日，独立客户端HIKARI FIELD CLIENT公测。此后一些被Steam拒绝的作品便单独在HIKARI
-FIELD平台上发行，这类作品目前有《Happiness！2 樱花盛典》《来自昏暗的时间尽头》《魔卡魅恋！》。
+2021年11月05日，独立客户端HIKARI FIELD CLIENT公测。此后一些被拒绝上架Steam或面临档期困难的作品便单独或先行在HIKARI
+FIELD平台上发行，这类作品目前有《Happiness！2 樱花盛典》《来自昏暗的时间尽头》《魔卡魅恋！》《制服女友》。
 
 2022年03月11日，首次发行  音声作品  。
 
-2023年09月08日，公开新的子品牌HIKARI PULSE。
+2023年09月08日，公开新的子品牌HIKARI PULSE。2024年03月08日于HIKARI FIELD CLIENT发行其第一部作品《制服女友》
+[1]  。
 
 ##  发行作品
 
 ###  HIKARI FIELD视觉小说
 
-|  主视图  |  作品名  |  类型  |  品牌  |  发售  时间   
+主视图  |  作品名  |  类型  |  品牌  |  发售   
+时间  
 ---|---|---|---|---  
-  
-|  游魂2  -you're the only one-  |  恋爱少女超能力ADV  |  Lump of Sugar  |  2016-12-09  （中文版）  待定  （英文版）   
-  
+|  游魂2  
+-you're the only one-  |  恋爱少女超能力ADV  |  Lump of Sugar  |  2016-12-09   
+（中文版）  
+待定  
+（英文版）  
 |  樱之杜†净梦者  |  校园动作惊悚ADV  |  MOONSTONE  |  2017-12-29   
-  
-|  茂伸奇谈  -Monobeno-  |  剧情类视觉小说  |  Lose  |  2018-01-26   
-  
-|  茂伸奇谈  -Happy End-  |  剧情类视觉小说  |  Lose  |  2018-05-22   
-  
+|  茂伸奇谈  
+-Monobeno-  |  剧情类视觉小说  |  Lose  |  2018-01-26   
+|  茂伸奇谈  
+-Happy End-  |  剧情类视觉小说  |  Lose  |  2018-05-22   
 |  淑女同萌！  |  新至尊学园ADV  |  晓WORKS  |  2018-06-29   
-  
-|  爱上火车  -Pure Station-  |  E-mote动态视觉小说  |  Lose  |  2018-09-21   
-  
+|  爱上火车  
+-Pure Station-  |  E-mote动态视觉小说  |  Lose  |  2018-09-21   
 |  樱之杜†净梦者2  |  校园动作惊悚ADV  |  MOONSTONE  |  2019-03-15   
-  
-|  淑女同萌！  -New Division-  |  新至尊学园ADV  |  晓WORKS  |  2019-04-19   
-  
+|  淑女同萌！  
+-New Division-  |  新至尊学园ADV  |  晓WORKS  |  2019-04-19   
 |  月影魅像-解放之羽-  |  履约纯爱ADV  |  Applique  |  2019-07-26   
-  
 |  苍之彼方的四重奏  |  少女们空中飞翔ADV  |  sprite  |  2019-09-28   
-  
 |  爱丽娅的明日盛典！  |  不思议学园恋爱ADV  |  NanaWind  |  2019-11-15   
-  
 |  追忆夏色年华  |  恋爱冒险ADV  |  MOONSTONE  |  2019-12-06   
-  
 |  千恋＊万花  |  恋爱冒险ADV  |  YUZU SOFT  |  2020-02-14   
-  
-|  TrymenT  ―献给渴望改变的你―  |  视觉小说  |  TrymenT  |  2020-02-20   
-  
+|  TrymenT  
+―献给渴望改变的你―  |  视觉小说  |  TrymenT  |  2020-02-20   
 |  魔卡魅恋！零之编年史  |  恋爱卡牌ADV  |  Lump of Sugar  |  2020-03-20   
-  
 |  Happiness！2 樱花盛典  |  心动不已的魔法学园ADV  |  Windmill Oasis  |  2020-04-24   
-  
-|  爱上火车  -Last Run!!-  |  E-mote动态视觉小说  |  Lose  |  2020-10-30   
-  
+|  爱上火车  
+-Last Run!!-  |  E-mote动态视觉小说  |  Lose  |  2020-10-30   
 |  苍之彼方的四重奏 EXTRA1  |  少女们空中飞翔ADV  |  sprite  |  2020-11-06   
-  
 |  Riddle Joker  |  校园超能力ADV  |  YUZU SOFT  |  2020-12-18   
-  
-|  Re:LieF  ～献给亲爱的你～  |  重返校园ADV  |  RASK  |  2021-02-26   
-  
+|  Re:LieF  
+～献给亲爱的你～  |  重返校园ADV  |  RASK  |  2021-02-26   
 |  金辉恋曲四重奏  |  金色学园恋爱冒险游戏  |  SAGA PLANETS  |  2021-06-11   
-  
 |  PARQUET  |  恋爱ADV  |  YUZUSOFT SOUR  |  2021-08-27   
-  
 |  来自昏暗的时间尽头  |  恐怖悬疑ADV  |  MOONSTONE  |  2021-12-17   
-  
-|  淑女同萌！  -Superior Entelecheia-  |  新至尊学园ADV  |  晓WORKS  |  2022-01-21   
-  
+|  淑女同萌！  
+-Superior Entelecheia-  |  新至尊学园ADV  |  晓WORKS  |  2022-01-21   
 |  雪境迷途遇仙踪  |  恋爱ADV  |  Lump of Sugar  |  2022-02-04   
-  
 |  在世界与世界的正中央  |  心路旅程ADV  |  Lump of Sugar  |  2022-02-11   
-  
 |  星光咖啡馆与死神之蝶  |  恋爱ADV  |  YUZU SOFT  |  2022-03-25   
-  
 |  五色浮影绽放于花之海洋  |  恋爱ADV  |  Applique  |  2022-04-22   
-  
 |  魔卡魅恋！  |  恋爱卡牌ADV  |  Lump of Sugar  |  2022-05-20   
-  
 |  近月少女的礼仪  |  恋爱冒险ADV  |  Navel  |  2022-06-17   
-  
-|  金辉恋曲四重奏  -Golden Time-  |  金色学园恋爱冒险游戏  |  SAGA PLANETS  |  2022-07-15   
-  
-|  真愿朦幻馆  ～在时间暂停的洋馆里追寻明天的羔羊们～  |  为迈向明天而存在的ADV  |  Lump of Sugar  |  2022-08-12   
-  
+|  金辉恋曲四重奏  
+-Golden Time-  |  金色学园恋爱冒险游戏  |  SAGA PLANETS  |  2022-07-15   
+|  真愿朦幻馆  
+～在时间暂停的洋馆里追寻明天的羔羊们～  |  为迈向明天而存在的ADV  |  Lump of Sugar  |  2022-08-12   
 |  交汇协奏曲  |  恋爱ADV  |  Applique  |  2022-09-23   
-  
 |  天空的蓝与白/如梭夏日  |  恋爱ADV  |  Barista Lab  |  2022-11-04   
-  
 |  青夏轨迹  |  电影式学园恋爱冒险游戏  |  GIGA  / ENTERGRAM  |  2022-12-02   
-  
 |  苍之彼方的四重奏 EXTRA2  |  少女们空中飞翔ADV  |  sprite  |  2022-12-16   
-  
 |  未来广播与人工鸽  |  科幻AVG  |  Laplacian  |  2023-02-17   
-  
-|  SHUFFLE! episode2  ～被神与魔同时盯上的男人～  |  恋爱冒险ADV  |  Navel  |  2023-03-10   
-  
+|  SHUFFLE! episode2  
+～被神与魔同时盯上的男人～  |  恋爱冒险ADV  |  Navel  |  2023-03-10   
 |  魔女的花园  |  恋爱ADV  |  Windmill Oasis  |  2023-04-07   
-  
-|  爱丽娅的明日盛典！  Flowering Sky  |  不思议学园恋爱ADV  |  NanaWind  |  2023-06-21   
-  
+|  爱丽娅的明日盛典！  
+Flowering Sky  |  不思议学园恋爱ADV  |  NanaWind  |  2023-06-21   
 |  魔女的夜宴  |  恋爱ADV  |  YUZU SOFT  |  2023-07-21   
-  
 |  想要传达给你的爱恋  |  恋爱ADV  |  Us:track  |  2023-08-04   
-  
 |  幸运草的约定  |  现代学园冒险游戏  |  ALcot  |  2023-08-18   
-  
 |  炼爱秘仪  |  恋爱ADV  |  Lump of Sugar  |  2023-09-22   
-  
 |  少女理论及其周边  |  恋爱冒险ADV  |  Navel  |  2023-12-15   
-  
-|  突然＊恋人  |  恋爱AVG  |  SMEE  |  2023秋季  （制作中）   
-  
-|  恋爱与选举与巧克力  |  恋爱ADV  |  sprite  |  2023  （制作中）   
-  
-|  天使☆嚣嚣 RE-BOOT!  |  恋爱ADV  |  YUZU SOFT  |  2024-01  （制作中）   
-  
-|  繁花落舞恋如樱  -Re:BIRTH-  |  恋爱ADV  |  Navel  |  2024春季  （制作中）   
+|  突然＊恋人  |  恋爱AVG  |  SMEE  |  预计2024   
+|  恋爱与选举与巧克力  |  恋爱ADV  |  sprite  |  2024   
+（制作中）  
+|  繁花落舞恋如樱  -Re:BIRTH-  |  恋爱ADV  |  Navel  |  2024春季   
+（制作中）  
+|  天使☆嚣嚣 RE-BOOT!  |  恋爱ADV  |  YUZU SOFT  |  待定  [2]    
+（制作中）  
   
   * 此外，HIKARI FIELD曾经代理发行《  可爱女友的获取方法  》中文版，但出于  一些风波  而宣布停止代理该游戏并无条件接受退款。 
   * HIKARI FIELD也参与了《  野良与皇女与流浪猫之心  2》中文版的制作及宣传，但并未作为发行方。 
 
 ###  HIKARI PULSE视觉小说
 
-|  主视图  |  作品名  |  类型  |  品牌  |  发售  时间   
+主视图  |  作品名  |  类型  |  品牌  |  发售   
+时间  
 ---|---|---|---|---  
-  
-|  制服女友  |  恋爱模拟  |  ENTERGRAM  |  2024-02-22   
+|  制服女友  |  恋爱模拟  |  ENTERGRAM  |  2024-03-08   
   
 ###  音声作品
 
-|  主视图  |  作品名  |  品牌  |  发售  时间   
+主视图  |  作品名  |  品牌  |  发售   
+时间  
 ---|---|---|---  
-  
 |  妖异乡愁谭  |  Lose  |  2022-03-11   
-  
 |  蓄音铁路  |  Lose  |  2023-09-05   
   
 ##  官网商城简介

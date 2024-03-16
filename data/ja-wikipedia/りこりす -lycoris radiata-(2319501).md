@@ -1,27 +1,33 @@
-|
-
-|
-
-この項目には性的な表現や記述が含まれます。  免責事項  もお読みください。  
-  
+|  この項目には性的な表現や記述が含まれます。  免責事項  もお読みください。  
 ---|---  
   
 本来の表記は「 ** りこりす〜Lycoris Radiata〜  ** 」です。この記事に付けられたページ名は  技術的な制限  または  記事名の制約
 により不正確なものとなっています。
 
-りこりす〜Lycoris Radiata〜(PC/DL)  りこりす〜Lycoris Radiata〜 DVDPG Edition(DVDPG)  |  ジャンル  |  恋愛アドベンチャー   
+りこりす〜Lycoris Radiata〜(PC/DL)  
+りこりす〜Lycoris Radiata〜 DVDPG Edition(DVDPG)  ジャンル  |  恋愛アドベンチャー   
 ---|---  
-対応機種  |  Windows 98/Me/2000/XP(PC)  DVDプレーヤー(DVDPG)  Windows XP(DL)   
-開発元  |  Terios(PC/DL)  Finish!(DVDPG)   
-発売元  |  Terios(PC)  Finish!(DVDPG)  DMM(DL)   
+対応機種  |  Windows 98/Me/2000/XP(PC)   
+DVDプレーヤー(DVDPG)  
+Windows XP(DL)  
+開発元  |  Terios(PC/DL)   
+Finish!(DVDPG)  
+発売元  |  Terios(PC)   
+Finish!(DVDPG)  
+DMM(DL)  
 キャラクターデザイン  |  横田守   
 シナリオ  |  浮月愁京   
-発売日  |  2006年3月24日(PC)  2007年12月20日(DVDPG)  2012年6月15日(DL)   
+発売日  |  2006年3月24日(PC)   
+2007年12月20日(DVDPG)  
+2012年6月15日(DL)  
 レイティング  |  18禁   
 キャラクター名設定  |  不可   
 エンディング数  |  本編：7 / Another：1   
-セーブファイル数  |  通常 - 100(PC/DL)  オート - 10(PC/DL)  クイック - 10(PC/DL)   
-メディア  |  DVD-ROM - 1枚(PC)  DVD - 1枚(DVDPG)   
+セーブファイル数  |  通常 - 100(PC/DL)   
+オート - 10(PC/DL)  
+クイック - 10(PC/DL)  
+メディア  |  DVD-ROM - 1枚(PC)   
+DVD - 1枚(DVDPG)  
 画面サイズ  |  800×600 16bit-COLOR(PC/DL)   
 BGMフォーマット  |  PCM   
 キャラクターボイス  |  主人公以外フルボイス   

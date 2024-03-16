@@ -1,13 +1,14 @@
 关于同名内容，见  Nostalgia  。
 
-|  Nostalgia  ||
-|---|---|
-|演唱  |  Lia   |
-|作曲  |  麻枝准   |
-|填词  |  麻枝准   |
-|编曲  |  冈部亮   |
+Nostalgia  
+---  
+演唱  |  Lia   
+作曲  |  麻枝准   
+填词  |  麻枝准   
+编曲  |  冈部亮   
 收录专辑  
-《  Natukage／nostalgia  》  《  enigmatic LIA2  》  
+《  Natukage／nostalgia  》  
+《  enigmatic LIA2  》  
   
 _Nostalgia_ 是日本  视觉小说  《  AIR  》的印象曲。由Lia演唱。歌曲未曾在《  AIR  》中出现，收录于2001年8月10日在
 Comic Market 60  推出的单曲专辑《  Natukage／nostalgia  》中。专辑中的另一首歌是《  夏影  》。

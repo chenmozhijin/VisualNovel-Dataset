@@ -1,21 +1,18 @@
-|  PrismRhythm  ||
-|---|---|
-|原名  |  PrismRhythm   |
-|常用译名  |  七色旋律   |
-|类型  |  ADV   |
-|平台  |  Windows   |
-|分级  |    EOCS  :    \- 18岁以下禁止|
-|开发  |  Lump of Sugar   |
-|发行  |  Lump of Sugar   |
-|引擎  |  Ethornell   |
-|模式  |  单人单机   |
-|发行时间  |  2010年4月2日   |
-|相关作品  |  Diamic Days   |
-||  “    **|
-
-♪Welcome to the world with kindness！  </br>
-
-** |  ”   
+PrismRhythm  
+---  
+原名  |  PrismRhythm   
+常用译名  |  七色旋律   
+类型  |  ADV   
+平台  |  Windows   
+分级  |  |  EOCS  :  |  \- 18岁以下禁止   
+---|---  
+开发  |  Lump of Sugar   
+发行  |  Lump of Sugar   
+引擎  |  Ethornell   
+模式  |  单人单机   
+发行时间  |  2010年4月2日   
+相关作品  |  Diamic Days   
+“  |  ** ♪Welcome to the world with kindness！  ** |  ”   
 ---|---|---  
   
 《 **PrismRhythm** 》（日语：  プリズムリズム  ，中文：七色旋律）是  Lump of Sugar  开发的一款  Galgame
@@ -101,7 +98,7 @@ Monde”的感谢祭那个夜晚，为了找寻从祖父那里听来的妖精，
 
 小说PrismRhythm由RICOTTA著，改编自艾尔斯线，单行本由Paradigm出版。
 
-|  卷数  |  发售日期  |  ISBN   
+卷数  |  发售日期  |  ISBN   
 ---|---|---  
 1  |  2010年8月31日  |  ISBN 9784894909700   
   

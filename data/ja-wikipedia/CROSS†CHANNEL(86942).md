@@ -1,21 +1,44 @@
-CROSS†CHANNEL  |  ジャンル  |  学園青春アドベンチャー   
+CROSS†CHANNEL  ジャンル  |  学園青春アドベンチャー   
 ---|---  
-対応機種  |  Windows 98  /  2000  /  Me  /  XP  PlayStation 2  PlayStation Portable  Xbox 360  PlayStation 3  PlayStation Vita  Nintendo Switch   
-発売元  |  FlyingShine  (Win)  KID  (PS2)  サイバーフロント  (PSP・360)  5pb.  (PS3 / PS Vita)  レジスタ  (Switch)   
-発売日  |  2003年  9月26日  (Win)  2004年  3月18日  (PS2)  2006年  5月18日  (PS2再)  2010年  2月25日  (PSP)  2011年  4月14日  (360)  2012年  11月22日  (Win復刻)  2014年  6月24日  (PS3 / PS Vita)  2014年  9月24日  (Win完全)  2020年  8月20日  (Switch)   
-レイティング  |  18禁 (Win)  CERO  ：18歳以上対象（PS2）  CERO  ：  **D** （17才以上対象）  （PS2再・PSP・360・PS3・PS Vita・Switch）   
+対応機種  |  Windows 98  /  2000  /  Me  /  XP    
+PlayStation 2  
+PlayStation Portable  
+Xbox 360  
+PlayStation 3  
+PlayStation Vita  
+Nintendo Switch  
+発売元  |  FlyingShine  (Win)   
+KID  (PS2)  
+サイバーフロント  (PSP・360)  
+5pb.  (PS3 / PS Vita)  
+レジスタ  (Switch)  
+発売日  |  2003年  9月26日  (Win)   
+2004年  3月18日  (PS2)  
+2006年  5月18日  (PS2再)  
+2010年  2月25日  (PSP)  
+2011年  4月14日  (360)  
+2012年  11月22日  (Win復刻)  
+2014年  6月24日  (PS3 / PS Vita)  
+2014年  9月24日  (Win完全)  
+2020年  8月20日  (Switch)  
+レイティング  |  18禁 (Win)   
+CERO  ：18歳以上対象（PS2）  
+CERO  ：  **D** （17才以上対象）  （PS2再・PSP・360・PS3・PS Vita・Switch）  
 キャラクター名設定  |  不可   
 エンディング数  |  1   
-セーブファイル数  |  100 (Win)  32+クイック32 (PS2)   
+セーブファイル数  |  100 (Win)   
+32+クイック32 (PS2)  
 画面サイズ  |  640×480 (Win)   
 BGMフォーマット  |  OGG Vorbis 499kbps (Win)   
 キャラクターボイス  |  あり   
 CGモード  |  あり   
 音楽モード  |  あり   
-回想モード  |  あり (Win)  なし (PS2)   
+回想モード  |  あり (Win)   
+なし (PS2)  
 メッセージスキップ  |  あり   
 オートモード  |  あり   
-備考  |  PS2版初回限定版にはドラマCDとそれの台本を同梱  PS2の音楽モードはEDテーマを含む   
+備考  |  PS2版初回限定版にはドラマCDとそれの台本を同梱   
+PS2の音楽モードはEDテーマを含む  
 テンプレートを表示  
   
 『 **CROSS†CHANNEL** 』（クロスチャンネル）は、  FlyingShine  制作の  アダルトゲーム

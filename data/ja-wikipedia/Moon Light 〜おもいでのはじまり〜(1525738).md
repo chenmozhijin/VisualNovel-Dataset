@@ -1,11 +1,16 @@
-Moon Light  Moon Light Renewal  |  ジャンル  |  恋愛ADV   
+Moon Light  
+Moon Light Renewal  ジャンル  |  恋愛ADV   
 ---|---  
-対応機種  |  Windows 95/98  Windows 98/Me/2000/XP（Renewal）   
+対応機種  |  Windows 95/98   
+Windows 98/Me/2000/XP（Renewal）  
 発売元  |  Clear   
-発売日  |  2000年2月25日  2003年7月25日（Renewal）   
-価格  |  7800円  4800円（Renewal）   
+発売日  |  2000年2月25日   
+2003年7月25日（Renewal）  
+価格  |  7800円   
+4800円（Renewal）  
 レイティング  |  18禁（win）   
-セーブファイル数  |  25  100（Renewal）   
+セーブファイル数  |  25   
+100（Renewal）  
 メディア  |  CD-ROM   
 画面サイズ  |  640x480   
 BGMフォーマット  |  CD-DA・PCM（Renewal）   
@@ -70,7 +75,8 @@ Light Renewalが 発売されている
     * 歌：寺田はるひ 
     * 作詞：Clear 
 
-|  |  この項目は、  アダルトゲーム  に関連した ** 書きかけの項目  ** です。  この項目を加筆・訂正  などしてくださる  協力者を求めています  （  P:コンピュータゲーム  /  PJ:美少女ゲーム系  /  P:性  /  PJ:性  ）。 </br>  
+|  この項目は、  アダルトゲーム  に関連した ** 書きかけの項目  ** です。  この項目を加筆・訂正  などしてくださる  協力者を求めています
+（  P:コンピュータゲーム  /  PJ:美少女ゲーム系  /  P:性  /  PJ:性  ）。  
 ---|---  
   
   * 表示 

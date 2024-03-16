@@ -1,20 +1,19 @@
-|  Hello,good-bye  ||
-|---|---|
-|原名  |  H  ello,  g  ood-  b  ye   |
-|官方译名  |  Hello, Goodbye   |
-|类型  |  ADV   |
-|平台  |  Windows   |
-|分级  |    EOCS  :    \- 18岁以下禁止|
-|开发  |  Lump of Sugar   |
-|发行  |  Lump of Sugar   <br>NekoNyan（英文版）  |
-|引擎  |  Ethornell   |
-|模式  |  单人单机   |
-|发行时间  |  2010年12月17日   <br>2019年4月19日（Steam）  |
-||  “    **|
-
-素敵なことだと思うの——過ちの原因が愛なら  </br>
-
-** |  ”   
+Hello,good-bye  
+---  
+原名  |  H  ello,  g  ood-  b  ye   
+官方译名  |  Hello, Goodbye   
+类型  |  ADV   
+平台  |  Windows   
+分级  |  |  EOCS  :  |  \- 18岁以下禁止   
+---|---  
+开发  |  Lump of Sugar   
+发行  |  Lump of Sugar   
+NekoNyan（英文版）  
+引擎  |  Ethornell   
+模式  |  单人单机   
+发行时间  |  2010年12月17日   
+2019年4月19日（Steam）  
+“  |  ** 素敵なことだと思うの——過ちの原因が愛なら  ** |  ”   
 ---|---|---  
   
 《 ** H  ello,  g  ood-  b  ye ** 》是  Lump of Sugar  开发的一款  Galgame  。

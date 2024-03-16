@@ -1,4 +1,4 @@
-Please teach! My Angel  |  ジャンル  |  もえっちアドベンチャー   
+Please teach! My Angel  ジャンル  |  もえっちアドベンチャー   
 ---|---  
 対応機種  |  Win98/2000/Me/XP   
 発売元  |  ぷちぱじゃま   

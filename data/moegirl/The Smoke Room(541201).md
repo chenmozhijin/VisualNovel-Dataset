@@ -1,19 +1,21 @@
 **此条目介绍的作品或其衍生作品中有至少一项尚未完结。**  
 萌娘百科不是新闻的搜集处。欢迎在情报相对明朗并确认资料来源准确性后  编辑更新  。
 
-|  The Smoke Room  ||
-|---|---|
-|原名  |  The Smoke Room   |
-|常用译名  |  吸烟室   |
-|类型  |  视觉小说   |
-|平台  |  Microsoft Windows  MacOS  Linux  Android   |
-|分级  | |
-
-R-18  
-  
+The Smoke Room  
+---  
+原名  |  The Smoke Room   
+常用译名  |  吸烟室   
+类型  |  视觉小说   
+平台  |  Microsoft Windows    
+MacOS  
+Linux  
+Android  
+分级  |  R-18   
 开发  |  The Echo Project   
 发行时间  |  2019年11月1日   
-相关作品  |  Echo  Echo: Route 65  Arches   
+相关作品  |  Echo    
+Echo: Route 65  
+Arches  
   
 《 **The Smoke Room** 》是  The Echo Project  制作的一部  视觉小说  ，为  Echo
 的独立前传，于2019年11月1日起发布。
@@ -46,7 +48,7 @@ Echo镇似乎知道他所做的一切，绝不让他轻易遗忘。
 
 ###  主要角色
 
-|  |  ** Samuel Ayers  **
+|  ** Samuel Ayers  **
 
      主角。患有白化病的美洲狮。 
      Saguaro's Hip里唯一的男妓。 
@@ -76,7 +78,7 @@ Echo镇似乎知道他所做的一切，绝不让他轻易遗忘。
   
 ###  其他角色
 
-|  |  ** Cynthia  **
+|  ** Cynthia  **
 
      沙漠狐。Saguaro's Hip的风俗娘。 
      Samuel最好的朋友。 
@@ -196,19 +198,14 @@ Echo镇似乎知道他所做的一切，绝不让他轻易遗忘。
 
 ###  圣诞特辑
 
-|  |  **The Smoke Room 圣诞特辑**
-
-2021年12月25日于Patreon上公开，The Smoke Room的现代版本，背景为平行宇宙，剧情与正作无关。
-Samuel在本作中成功实现了五人行。  </br>  
-  
+|  **The Smoke Room 圣诞特辑** 2021年12月25日于Patreon上公开，The Smoke
+Room的现代版本，背景为平行宇宙，剧情与正作无关。  
+Samuel在本作中成功实现了五人行。  
 ---|---  
   
 ###  夏日特辑
 
-|  |  **The Smoke Room 夏日特辑**
-
-2022年8月1日于Patreon上公开，设定等方面与圣诞特辑相同。 </br>  
-  
+|  **The Smoke Room 夏日特辑** 2022年8月1日于Patreon上公开，设定等方面与圣诞特辑相同。  
 ---|---  
   
   

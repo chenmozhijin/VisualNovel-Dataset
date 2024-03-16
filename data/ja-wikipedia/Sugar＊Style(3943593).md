@@ -1,15 +1,24 @@
-Sugar*Style  |  ジャンル  |  恋愛ADV   
+Sugar*Style  ジャンル  |  恋愛ADV   
 ---|---  
-対応機種  |  Microsoft Windows  7  /  8  /  10  PlayStation 4  Nintendo Switch   
-発売元  |  **Win** SMEE  **PS4, Switch** エンターグラム   
+対応機種  |  Microsoft Windows  7  /  8  /  10    
+PlayStation 4  
+Nintendo Switch  
+発売元  |  **Win**   
+SMEE  
+**PS4, Switch**  
+エンターグラム  
 ディレクター  |  早瀬ゆう、宅本うと   
 キャラクターデザイン  |  谷山さん   
 シナリオ  |  岸田ソラ、モーリー   
 音楽  |  SONO MAKERS   
 オープニングテーマ  |  Day before Memory   
 エンディングテーマ  |  Happy Opening！   
-発売日  |  **Win** 2019年  1月25日  **PS4, Switch** 2021年  3月25日   
-レイティング  |  **Win** 18禁   
+発売日  |  **Win**   
+2019年  1月25日  
+**PS4, Switch**  
+2021年  3月25日  
+レイティング  |  **Win**   
+18禁  
 セーブファイル数  |  200   
 メディア  |  DVD-ROM   
 ディスクレス起動  |  可   
@@ -22,7 +31,7 @@ CGモード  |  あり
 オートモード  |  あり   
 備考  |  初回特典:Sugar*Styleオリジナルマキキシングル、ヒロイン服装透過パッチ   
 テンプレートを表示  
-|  映像外部リンク  
+映像外部リンク  
 ---  
 Sugar*Style - オープニングムービー  （  SMEE  ） -  YouTube  
   

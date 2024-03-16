@@ -1,4 +1,4 @@
-月染の枷鎖 -the end of scarlet luna-  |  ジャンル  |  伝奇  ミステリー  ノベル   
+月染の枷鎖 -the end of scarlet luna-  ジャンル  |  伝奇  ミステリー  ノベル   
 ---|---  
 対応機種  |  Windows 2000  /  XP  /  Vista   
 発売元  |  ひよこソフト   

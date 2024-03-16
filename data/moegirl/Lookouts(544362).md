@@ -1,20 +1,21 @@
-|  ||
-|---|---|
-|原名  |  Lookouts   |
-|类型  |  视觉小说   |
-|平台  |  Windows  Android  HTML5   |
-|开发  |  Hawky、Col   |
-|制作人  |  Hawky   |
-|设计师  |  Col   |
-|角色设计  |  Col   |
-|编剧  |  Hawky   |
-|程序  |  Hawky   |
-|美工  |  Col   |
-|音乐  |  fakegamercomics   |
-|模式  |  单人   |
-|发行时间  |  2022年4月1日   |
-||  “    **你是我藏身之处， 你必保佑我脱离苦难， 以得救的欢呼四面环绕我。**   ”|
-|---|------|
+---  
+原名  |  Lookouts   
+类型  |  视觉小说   
+平台  |  Windows   
+Android  
+HTML5  
+开发  |  Hawky、Col   
+制作人  |  Hawky   
+设计师  |  Col   
+角色设计  |  Col   
+编剧  |  Hawky   
+程序  |  Hawky   
+美工  |  Col   
+音乐  |  fakegamercomics   
+模式  |  单人   
+发行时间  |  2022年4月1日   
+“  |  **你是我藏身之处， 你必保佑我脱离苦难， 以得救的欢呼四面环绕我。** |  ”   
+---|---|---  
 ——诗篇32:7  
   
 《 **Lookouts** 》是由  Hawky  和  Col  制作发行的一款  视觉小说  ，于2022年4月1日发售。

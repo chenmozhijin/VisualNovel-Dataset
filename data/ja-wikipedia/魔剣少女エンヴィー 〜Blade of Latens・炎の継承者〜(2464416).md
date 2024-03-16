@@ -1,4 +1,5 @@
-魔剣少女エンヴィー  〜Blade of Latens・炎の継承者〜  |  ジャンル  |  シミュレーションRPG   
+魔剣少女エンヴィー  
+〜Blade of Latens・炎の継承者〜  ジャンル  |  シミュレーションRPG   
 ---|---  
 対応機種  |  Microsoft Windows  98  /  2000  /  Me  /  XP  （日本語版専用）   
 発売元  |  ZyX   

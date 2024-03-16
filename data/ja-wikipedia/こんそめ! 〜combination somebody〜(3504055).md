@@ -1,4 +1,4 @@
-こんそめ! 〜combination somebody〜  |  ジャンル  |  パーティdeクエスト解決！ハートフルコ（ンソ）メディADV   
+こんそめ! 〜combination somebody〜  ジャンル  |  パーティdeクエスト解決！ハートフルコ（ンソ）メディADV   
 ---|---  
 対応機種  |  Microsoft Windows 2000  /  XP  /  Vista  /  Android  2.1以上   
 発売元  |  Silver Bullet   
@@ -7,7 +7,8 @@
 シナリオ  |  日野亘、沖水ミル、鍛冶屋多郎   
 音楽  |  M.U.T.Sミュージックスタジオ   
 オープニングテーマ  |  combination somebody!（  西沢はぐみ  ）   
-発売日  |  2010年  6月25日  (PC)  2012年  11月30日  (Android)   
+発売日  |  2010年  6月25日  (PC)   
+2012年  11月30日  (Android)  
 レイティング  |  R18（Androidアプリ版は全年齢）   
 メディア  |  DVD-ROM   
 画面サイズ  |  800×600以上   

@@ -1,4 +1,4 @@
-幻奏童話 ALICETALE  |  対応機種  |  Windows  XP  /  Vista  /  7   
+幻奏童話 ALICETALE  対応機種  |  Windows  XP  /  Vista  /  7   
 ---|---  
 発売元  |  GALACTICA   
 キャラクターデザイン  |  かんたか   
@@ -19,7 +19,7 @@ CGモード  |  あり
 メッセージスキップ  |  あり   
 オートモード  |  あり   
 テンプレートを表示  
-|  映像外部リンク  
+映像外部リンク  
 ---  
 https://www.youtube.com/watch?v=te1fLevRjQk  
   

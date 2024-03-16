@@ -1,4 +1,4 @@
-Sugar＋Spice2  |  ジャンル  |  オトメカイセキ  AVG     
+Sugar＋Spice2  ジャンル  |  オトメカイセキ  AVG     
 ---|---  
 対応機種  |  Windows XP/Vista (32bit)/7 (32 bit)     
 開発元  |  チュアブルソフト     

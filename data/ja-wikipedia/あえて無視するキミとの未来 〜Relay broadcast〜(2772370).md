@@ -1,4 +1,5 @@
-あえて無視するキミとの未来  〜Relay broadcast〜  |  ジャンル  |  君と未来を探すADV     
+あえて無視するキミとの未来  
+〜Relay broadcast〜  ジャンル  |  君と未来を探すADV     
 ---|---  
 対応機種  |  Windows XP/Vista/7(32bit)     
 発売元  |  ALcotハニカム     

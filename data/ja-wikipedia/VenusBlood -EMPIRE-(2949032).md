@@ -1,4 +1,4 @@
-VenusBlood -EMPIRE-  |  ジャンル  |  女神悪堕ち触手SLG   
+VenusBlood -EMPIRE-  ジャンル  |  女神悪堕ち触手SLG   
 ---|---  
 対応機種  |  Windows XP/Vista   
 発売元  |  dualtail   

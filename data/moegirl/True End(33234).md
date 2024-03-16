@@ -1,9 +1,9 @@
-|  **基本资料**  ||
-|---|---|
-|用语名称  |  True End   |
-|其他表述  |  TE、トゥルーエンド、真相END、Real End、正史结局   |
-|用语出处  |  未知   |
-|相关条目  |  Good End  、  Bad End  、  Dead End  、  Bed End  、  Normal End   |
+**基本资料**  
+---  
+用语名称  |  True End   
+其他表述  |  TE、トゥルーエンド、真相END、Real End、正史结局   
+用语出处  |  未知   
+相关条目  |  Good End  、  Bad End  、  Dead End  、  Bed End  、  Normal End   
   
 **True End** 就是通常所说的 **真实结局** ，也可以写成「 **真相结局（真相END）** 」、「 **Real End** 」、「
 **正史结局（正史END）** 」。适用范围为  泛ACG  界，某种情况下代表 **完美结局** ，缩写形式为TE。
@@ -80,7 +80,7 @@ End为达成玩家养成角色剧情初始时最渴望达成的梦想，或是�
 
 ##  延伸要素和现象
 
-  * 部分多结局游戏里，当玩家完成True End乃至于游戏里的所有结局（包含  Dead End  、  Bad End  、Normal Bad End、  Normal End  、  Good End  、  True End  ），将会开启游戏里的特典章篇、额外CG、小游戏等奖励要素。其中某些多结局游戏（部份较偏向成人向、致郁向、正经严肃向剧情）的游戏制作方会设计在玩家通关所有结局路线及达到隐藏要素后，可开启的喜剧向终幕特典章篇短剧（调侃游戏正剧性质兼感谢玩家全程参与游戏性质的  彩蛋  ），调剂玩家通关所有游戏结局后的心情。例如：  Aromarie  公司旗下的游戏系列、《  Rewrite  》的欧派线【乙月杯日】。 
+  * 部分多结局游戏里，当玩家完成True End乃至于游戏里的所有结局（包含  Dead End  、  Bad End  、Normal Bad End、  Normal End  、  Good End  、  True End  ），将会开启游戏里的特典章篇、额外CG、小游戏等奖励要素。其中某些多结局游戏（部分较偏向成人向、致郁向、正经严肃向剧情）的游戏制作方会设计在玩家通关所有结局路线及达到隐藏要素后，可开启的喜剧向终幕特典章篇短剧（调侃游戏正剧性质兼感谢玩家全程参与游戏性质的  彩蛋  ），调剂玩家通关所有游戏结局后的心情。例如：  Aromarie  公司旗下的游戏系列、《  Rewrite  》的欧派线【乙月杯日】。 
 
   * 部分多结局游戏会在玩家达成游戏的True End路线和播放工作人员名单时，播放游戏作品的真正片尾主题曲和其他结局作区别。例如：《  Rewrite  》的Terra线片尾曲为游戏的真正片尾主题曲《  CANOE  》；《  Little Busters!  》的Refrain线片尾曲《校园克星 -Little Jumper Ver.-》；《  蝶之毒 华之锁  》系列本篇的真岛芳树线Good End暨游戏正篇True End及其片尾曲《  心空－kokorosora－  》。 
 

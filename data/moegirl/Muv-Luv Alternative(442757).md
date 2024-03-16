@@ -1,19 +1,27 @@
 Muv-Luv系列  > Muv-Luv Alternative
 
-|  Muv-Luv Alternative  ||
-|---|---|
-|原名  |  マブラヴ オルタネイティヴ   |
-|官方译名  |  Muv-Luv Alternative   |
-|类型  |  galgame   |
-|平台  |  Microsoft Windows  Xbox 360  PlayStation 3  PlayStation Vita   |
-|分级  |    CERO  :    \- 17岁以上|
-|ESRB  :  |  \- 成熟   <br>（Xbox 360、PS3、PSV）  |
-|开发  |  âge   |
-|发行  |  âge  、Degica、  Sekai Project  (Windows)   <br>5pb.（Xbox 360、PS3、PSV）  |
-|总监  |  吉宗钢纪   |
-|编剧  |  吉宗钢纪   <br>鬼畜人タムー  <br>松永北斗  |
-|程序  |  号滋树   |
-|音乐  |  渡来亚人   |
+Muv-Luv Alternative  
+---  
+原名  |  マブラヴ オルタネイティヴ   
+官方译名  |  Muv-Luv Alternative   
+类型  |  galgame   
+平台  |  Microsoft Windows    
+Xbox 360  
+PlayStation 3  
+PlayStation Vita  
+分级  |  |  CERO  :  |  \- 17岁以上   
+---|---  
+ESRB  :  |  \- 成熟   
+（Xbox 360、PS3、PSV）  
+开发  |  âge   
+发行  |  âge  、Degica、  Sekai Project  (Windows)   
+5pb.（Xbox 360、PS3、PSV）  
+总监  |  吉宗钢纪   
+编剧  |  吉宗钢纪   
+鬼畜人タムー  
+松永北斗  
+程序  |  号滋树   
+音乐  |  渡来亚人   
 河野阳吾  
 须藤贤一  
 影山浩宣  
@@ -22,7 +30,7 @@ Muv-Luv系列  > Muv-Luv Alternative
 系列  |  Muv-Luv系列   
 发行时间  |  2006年2月24日   
 相关作品  |  Muv-Luv   
-|  “  |  ** 别小看人类了啊啊啊啊！！  （  人間をなめるなぁぁぁっ！！  ）  ** |  ”   
+“  |  ** 别小看人类了啊啊啊啊！！  （  人間をなめるなぁぁぁっ！！  ）  ** |  ”   
 ---|---|---  
   
 **《Muv-Luv Alternative（マブラヴ オルタネイティヴ）》** 是由âge开发的一部  Galgame  ，是  Muv-Luv系列
@@ -94,24 +102,30 @@ Luv Alternative剧情。
 
 ###  电视动画
 
-|  Muv-Luv Alternative  ||
-|---|---|
-|原名  |  マブラヴ オルタネイティヴ   |
-|译名  |  Muv-Luv Alternative   |
-|地区  |  日本   |
-|首播时间  |  1期：2021年10月6日~12月21日  2期：2022年10月5日-12月22日   |
-|总话数  |  12话   |
-|制作公司  |  FLAGSHIP LINE、  梦太公司  ×  Graphinica   |
-|监督  |  西本由纪夫   |
-|编剧  |  浦畑达彦   |
-|角色设计  |  谷拓也   |
-|音乐  |  EVAN CALL   |
-|出品  |  Alternative第三计划   |
-|主要声优  |  神木孝一  楠木灯  奈波果林  伊藤美来  田中贵子  Lynn   |
-|代理发行  |  木棉花国际   |
-|播放平台  |  日本：富士电视台、BS富士、AT-X；FOD（网络配信） 等   |
-|播放状态  |  已完结   |
-|相关作品  |  Muv-Luv   |
+Muv-Luv Alternative  
+---  
+原名  |  マブラヴ オルタネイティヴ   
+译名  |  Muv-Luv Alternative   
+地区  |  日本   
+首播时间  |  1期：2021年10月6日~12月21日   
+2期：2022年10月5日-12月22日  
+总话数  |  12话   
+制作公司  |  FLAGSHIP LINE、  梦太公司  ×  Graphinica   
+监督  |  西本由纪夫   
+编剧  |  浦畑达彦   
+角色设计  |  谷拓也   
+音乐  |  EVAN CALL   
+出品  |  Alternative第三计划   
+主要声优  |  神木孝一    
+楠木灯  
+奈波果林  
+伊藤美来  
+田中贵子  
+Lynn  
+代理发行  |  木棉花国际   
+播放平台  |  日本：富士电视台、BS富士、AT-X；FOD（网络配信） 等   
+播放状态  |  已完结   
+相关作品  |  Muv-Luv   
   
 
 《Muv-Luv Alternative》的电视动画版于2021年10月6日播出。
@@ -170,34 +184,139 @@ Luv Alternative剧情。
 
 ####  各话标题
 
-|  话数  |  日文标题  |  中文标题  |  剧本  |  分镜  |  演出  |  作画监督  |  总作画监督   
+话数  |  日文标题  |  中文标题  |  剧本  |  分镜  |  演出  |  作画监督  |  总作画监督   
 ---|---|---|---|---|---|---|---  
 第1期  
-1话  |  世界の日常  |  世界的日常  |  石野敦夫  浦畑达彦  |  小野龙太  大河广行  西本由纪夫  |  鹿谷拓史  |  坂上怜司  北条裕之  林怡君  |  谷拓也  つなきあき   
+1话  |  世界の日常  |  世界的日常  |  石野敦夫   
+浦畑达彦  |  小野龙太   
+大河广行  
+西本由纪夫  |  鹿谷拓史  |  坂上怜司   
+北条裕之  
+林怡君  |  谷拓也   
+つなきあき  
 2话  |  繰り返す世界  |  重复的世界  |  浦畑达彦  |  西本由纪夫  |  深濑重  |  堀光明   
-3话  |  守りたいもの  |  想守护的事物  |  高桥亨  |  田中贵大  |  五十川久史  镰田均  千叶茂  中岛美子  金泽龙   
-4话  |  仲間  |  伙伴  |  石野敦夫  |  斋藤久  |  曾根利幸  |  绪方浩美  安达祐辅  吉田和香子  山村俊了  小泽和则  清水胜祐  上西麻耶  和田伸一   
-5话  |  新しい力  |  新的力量  |  铃木贵昭  |  白井宏旨  |  村上勉  |  重松晋一  铃木信一  服部宪知  金凯   
-6话  |  転送実験  |  转送实验  |  石野敦夫  |  濑藤健嗣  |  Won Chang hee  |  Oh Eun soo  Jeong Yeon soon  Lim Keun soo   
-7话  |  約束  |  约定  |  铃木贵昭  |  西本由纪夫  高桥亨  |  鹰取圣夜  |  泉明宏  金元会  白桦鸠  林隆祥  林信秀  Wei Xu Long  Qki  |  堀光明   
-8话  |  帝都動乱  |  帝都动乱  |  浦畑达彦  |  西村纯二  |  白石道太  |  坂本千代子  斋藤格  |  谷拓也  つなきあき   
-9话  |  戦場  |  战场  |  铃木贵昭  |  大冢健  |  于地纮仁  |  工藤慎也  北条裕之  江口麻里  lee eun young   
-10话  |  覚悟  |  觉悟  |  石野敦夫  |  西本由纪夫  |  高桥亨  |  吉田翔太  东美帆工  藤慎也  王振  山口聪   
-11话  |  それぞれの想い  |  各自的思考  |  铃木贵昭  |  大畑清隆  |  斋藤大辅  大西纪子  谷川政辉  寺尾宪治   
-12话  |  宿命  |  宿命  |  浦畑达彦  |  大河广行  濑藤健嗣  |  西本由纪夫  鹿谷拓史  |  林怡君  北条裕之  重松晋一  松本胜次  金凯   
+3话  |  守りたいもの  |  想守护的事物  |  高桥亨  |  田中贵大  |  五十川久史   
+镰田均  
+千叶茂  
+中岛美子  
+金泽龙  
+4话  |  仲間  |  伙伴  |  石野敦夫  |  斋藤久  |  曾根利幸  |  绪方浩美   
+安达祐辅  
+吉田和香子  
+山村俊了  
+小泽和则  
+清水胜祐  
+上西麻耶  
+和田伸一  
+5话  |  新しい力  |  新的力量  |  铃木贵昭  |  白井宏旨  |  村上勉  |  重松晋一   
+铃木信一  
+服部宪知  
+金凯  
+6话  |  転送実験  |  转送实验  |  石野敦夫  |  濑藤健嗣  |  Won Chang hee  |  Oh Eun soo   
+Jeong Yeon soon  
+Lim Keun soo  
+7话  |  約束  |  约定  |  铃木贵昭  |  西本由纪夫   
+高桥亨  |  鹰取圣夜  |  泉明宏   
+金元会  
+白桦鸠  
+林隆祥  
+林信秀  
+Wei Xu Long  
+Qki  |  堀光明   
+8话  |  帝都動乱  |  帝都动乱  |  浦畑达彦  |  西村纯二  |  白石道太  |  坂本千代子   
+斋藤格  |  谷拓也   
+つなきあき  
+9话  |  戦場  |  战场  |  铃木贵昭  |  大冢健  |  于地纮仁  |  工藤慎也   
+北条裕之  
+江口麻里  
+lee eun young  
+10话  |  覚悟  |  觉悟  |  石野敦夫  |  西本由纪夫  |  高桥亨  |  吉田翔太   
+东美帆工  
+藤慎也  
+王振  
+山口聪  
+11话  |  それぞれの想い  |  各自的思考  |  铃木贵昭  |  大畑清隆  |  斋藤大辅   
+大西纪子  
+谷川政辉  
+寺尾宪治  
+12话  |  宿命  |  宿命  |  浦畑达彦  |  大河广行   
+濑藤健嗣  |  西本由纪夫   
+鹿谷拓史  |  林怡君   
+北条裕之  
+重松晋一  
+松本胜次  
+金凯  
 第2期  
-13话  |  卒業  |  毕业  |  浦畑达彦  |  西本由纪夫  |  高桥亨  西本由纪夫  |  谷拓也  |  \-   
-14话  |  XM3  |  XM3  |  石野敦夫  |  小野龙太  |  Jang Hee kyu  |  Ju Hyeong jong  Chae Gwang han  |  つなきあき   
-15话  |  逃亡  |  逃亡  |  铃木贵昭  |  スギムラヒロ  |  工藤慎也  东美帆  KIM YONG-SIK  LEE SUNG-JIN  Enzo D'Avino  佐藤结花   
-16话  |  日記  |  日记  |  石野敦夫  |  濑藤健嗣  |  佐佐木纯人  |  Kwon Oh sik  Lim Keun soo  Oh Eun soo  Lee Joo hyeu  Jang Hee kyu  Chae Gwang han   
-17话  |  再起  |  再起  |  浦畑达彦  |  西本由纪夫  |  月野正志  |  羽野广范  臼田美夫  王敏  刘冬冬  李伟峰  周晓华  赵小川  陈玲玲  姜海华  关鹏  李庆   
-18话  |  純夏  |  纯夏  |  イシノアツオ  |  スギムラヒロ  |  片贝慎  鹿谷拓史  スギムラヒロ  |  工藤慎也  阵内美帆  高桥和德  川岛尚  权伍骥  徐晨寅  LEE EUN-YOUNG  LEE SUNG-JIN  KIM YOUNG  STUDIO MASSKET  |  つなきあき  谷拓也   
-19话  |  出撃前夜  |  出击前夜  |  浦畑达彦  |  西本由纪夫  |  西邑大辅  |  Joung Eun joung  Lim Keun soo  Oh Eun soo  Ju Hyeong jong  Chae Gwang han  Park Yoon ok  Kim Yoon jung  Jang Hee kyu  Won Chang hee  林怡君  高桥和德   
-20话  |  作戦  |  作战  |  铃木贵昭  |  大冢健  |  月野正志  |  羽野广范  臼田美夫  工藤慎也  林怡君  |  つなきあき   
-21话  |  希望の光  |  希望之光  |  イシノアツオ  |  小野龙太  |  Jang Hee kyu  |  Ju Hyeong jong  Chae Gwang han   
-22话  |  脱出  |  逃脱  |  浦畑达彦  |  大冢健  |  月野正志  |  羽野广范  臼田美夫  高添响   
-23话  |  継承  |  继承  |  铃木贵昭  |  小野龙太  |  Jang Hee kyu  |  Jang Hee kyu  Won Chang hee  Lee Joo hyeu  林怡君   
-24话  |  進む世界  |  前进的世界  |  浦畑达彦  |  西本由纪夫  |  工藤慎也  阵内美穗  川岛尚  LEE EUN-YOUNG  KIM YONG-SIK  |  谷拓也  つなきあき   
+13话  |  卒業  |  毕业  |  浦畑达彦  |  西本由纪夫  |  高桥亨   
+西本由纪夫  |  谷拓也  |  \-   
+14话  |  XM3  |  XM3  |  石野敦夫  |  小野龙太  |  Jang Hee kyu  |  Ju Hyeong jong   
+Chae Gwang han  |  つなきあき   
+15话  |  逃亡  |  逃亡  |  铃木贵昭  |  スギムラヒロ  |  工藤慎也   
+东美帆  
+KIM YONG-SIK  
+LEE SUNG-JIN  
+Enzo D'Avino  
+佐藤结花  
+16话  |  日記  |  日记  |  石野敦夫  |  濑藤健嗣  |  佐佐木纯人  |  Kwon Oh sik   
+Lim Keun soo  
+Oh Eun soo  
+Lee Joo hyeu  
+Jang Hee kyu  
+Chae Gwang han  
+17话  |  再起  |  再起  |  浦畑达彦  |  西本由纪夫  |  月野正志  |  羽野广范   
+臼田美夫  
+王敏  
+刘冬冬  
+李伟峰  
+周晓华  
+赵小川  
+陈玲玲  
+姜海华  
+关鹏  
+李庆  
+18话  |  純夏  |  纯夏  |  イシノアツオ  |  スギムラヒロ  |  片贝慎   
+鹿谷拓史  
+スギムラヒロ  |  工藤慎也   
+阵内美帆  
+高桥和德  
+川岛尚  
+权伍骥  
+徐晨寅  
+LEE EUN-YOUNG  
+LEE SUNG-JIN  
+KIM YOUNG  
+STUDIO MASSKET  |  つなきあき    
+谷拓也  
+19话  |  出撃前夜  |  出击前夜  |  浦畑达彦  |  西本由纪夫  |  西邑大辅  |  Joung Eun joung   
+Lim Keun soo  
+Oh Eun soo  
+Ju Hyeong jong  
+Chae Gwang han  
+Park Yoon ok  
+Kim Yoon jung  
+Jang Hee kyu  
+Won Chang hee  
+林怡君  
+高桥和德  
+20话  |  作戦  |  作战  |  铃木贵昭  |  大冢健  |  月野正志  |  羽野广范   
+臼田美夫  
+工藤慎也  
+林怡君  |  つなきあき   
+21话  |  希望の光  |  希望之光  |  イシノアツオ  |  小野龙太  |  Jang Hee kyu  |  Ju Hyeong jong   
+Chae Gwang han  
+22话  |  脱出  |  逃脱  |  浦畑达彦  |  大冢健  |  月野正志  |  羽野广范   
+臼田美夫  
+高添响  
+23话  |  継承  |  继承  |  铃木贵昭  |  小野龙太  |  Jang Hee kyu  |  Jang Hee kyu   
+Won Chang hee  
+Lee Joo hyeu  
+林怡君  
+24话  |  進む世界  |  前进的世界  |  浦畑达彦  |  西本由纪夫  |  工藤慎也   
+阵内美穗  
+川岛尚  
+LEE EUN-YOUNG  
+KIM YONG-SIK  |  谷拓也   
+つなきあき  
   
 ####  相关音乐
 

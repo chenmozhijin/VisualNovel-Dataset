@@ -1,13 +1,9 @@
 **此页面中存在需要长期更新的内容及资料列表，现存条目中资料未必是最新。**  
 另请编辑者注意：请不要在人物历程等相关内容中悬挂此模板。具体使用方法详见  模板说明文档  。
 
-|  株式会社ALcot Honey Comb  
+株式会社ALcot Honey Comb  
 ---  
-  
-ALcot Honey Comb
-
-ALcot Citrus  
-  
+ALcot Honey Comb  ALcot Citrus  
 名称  |  ALcot Honey Comb   
 别名  |  蜂巢社   
 类型  |  Galgame会社   

@@ -1,13 +1,12 @@
-|  Camp Buddy: Scoutmaster Season  ||
-|---|---|
-|原名  |  Camp Buddy: Scoutmaster Season   |
-|常用译名  |  Camp Buddy:教官季等   |
-|类型  |  㚻向视觉小说   |
-|平台  |  Microsoft Windows  MacOS  Android   |
-|分级  | |
-
-R-18  
-  
+Camp Buddy: Scoutmaster Season  
+---  
+原名  |  Camp Buddy: Scoutmaster Season   
+常用译名  |  Camp Buddy:教官季等   
+类型  |  㚻向视觉小说   
+平台  |  Microsoft Windows    
+MacOS  
+Android  
+分级  |  R-18   
 开发  |  BLits   
 发行  |  BLits   
 引擎  |  Ren'Py   
@@ -70,7 +69,7 @@ Aiden Flynn——一位无忧无虑的营地主厨，
 
 ##  角色简介
 
-|  英文名  |  声优  |  性别  |  设定年龄  |  身高  |  体重  |  生日  |  血型  |  对应动物  |  备注   
+英文名  |  声优  |  性别  |  设定年龄  |  身高  |  体重  |  生日  |  血型  |  对应动物  |  备注   
 ---|---|---|---|---|---|---|---|---|---  
 ** Yoshinori Nagira  ** |  Kiba Walker  |  男  |  29  |  188cm  |  85kg  |  3月7日  |  A型  |  灰熊  |  本作主角与主视角，与其它教官、工人们一同扩张营地。   
 ** Aiden Flynn  ** |  Sean Chiplock  |  男  |  27  |  183cm  |  88kg  |  6月9日  |  AB型  |  蜥蜴  |  本作可攻略对象之一，扩张营地时负责30多名工人的吃穿住行。  热衷于调戏Hyunjin Choi。   

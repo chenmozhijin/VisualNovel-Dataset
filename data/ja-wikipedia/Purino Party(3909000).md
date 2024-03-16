@@ -1,4 +1,4 @@
-Purino Party  |  対応機種  |  Windows Vista/7/8.1/10（モバイル除く）   
+Purino Party  対応機種  |  Windows Vista/7/8.1/10（モバイル除く）   
 ---|---  
 開発元  |  フロントウイング   
 発売元  |  Frontwing USA   
@@ -7,7 +7,7 @@ Purino Party  |  対応機種  |  Windows Vista/7/8.1/10（モバイル除く）
 画面サイズ  |  1280×720   
 備考  |  タッチスクリーンには非対応   
 テンプレートを表示  
-|  映像外部リンク  
+映像外部リンク  
 ---  
 PV  
   

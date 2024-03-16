@@ -1,3 +1,5 @@
+この項目には、一部のコンピュータや  閲覧ソフト  で表示できない文字（  Microsoftコードページ932  （  はしご高  ））が含まれています
+（  詳細  ）  。
 プリンセスコネクト！Re:Dive
 ジャンル  仮想世界
 ゲーム
@@ -10,41 +12,44 @@ So-net Entertainment Taiwan
 Kakao Games  
 Bilibili  
 Ini3 Digital PLC  
-Crunchyroll  
+Crunchyroll Games  
 プロデューサー  木村唯人
 シナリオ  日日日
-音楽  田中公平  （オープニング）
-本多友紀  （  Arte Refact  ）
-市橋卓也（  Cygames  ）
-伊禮完（Cygames）
-Enarak（Cygames）
-加藤慶久（Cygames）
-佐藤遥（Cygames）
-関根周平（Cygames）
-中村早織（Cygames）
-長門千晴（Cygames）
-長谷部翔（Cygames）
-畑田浩孝（Cygames）
-本田晃弘  （Cygames）
-金山秀士（Dream Monster）
-佐藤厚仁（Dream Monster）
-白戸佑輔  （Dream Monster）
-毛蟹（LIVE LAB.）
-北川勝利（  ROUND TABLE  ）
-内海孝彰（  TRYTONELABO  ）
-瀧澤俊輔（TRYTONELABO）
-坪田修平（TRYTONELABO）
-池田健仁
-植田能平
-澤下葵
-塩原大貴
-高木龍一
-出口遼
-東大路憲太
-西木康智
-睦月周平
-守谷勇人
-山口朗彦
+音楽
+
+田中公平  （オープニング） 
+本多友紀  （  Arte Refact  ） 
+市橋卓也（  Cygames  ） 
+伊禮完（Cygames） 
+Enarak（Cygames） 
+加藤慶久（Cygames） 
+佐藤遥（Cygames） 
+関根周平（Cygames） 
+中村早織（Cygames） 
+長門千晴（Cygames） 
+長谷部翔（Cygames） 
+畑田浩孝（Cygames） 
+本田晃弘  （Cygames） 
+金山秀士（Dream Monster） 
+佐藤厚仁（Dream Monster） 
+白戸佑輔  （Dream Monster） 
+毛蟹（LIVE LAB.） 
+北川勝利（  ROUND TABLE  ） 
+内海孝彰（  TRYTONELABO  ） 
+瀧澤俊輔（TRYTONELABO） 
+坪田修平（TRYTONELABO） 
+池田健仁 
+植田能平 
+澤下葵 
+塩原大貴 
+高木龍一 
+出口遼 
+東大路憲太 
+西木康智 
+睦月周平 
+守谷勇人 
+山口朗彦 
+
 プレイ人数  1人
 稼動時期  2018年2月15日    -
 （iOS・Android版）
@@ -64,11 +69,17 @@ Enarak（Cygames）
 プリンセスコネクト！Re:Dive Season 2（第2期）
 原作  Cygames
 総監督  金崎貴臣  （第2期）
-監督  金崎貴臣（第1期）
-いわもとやすお（第2期）
+監督
+
+金崎貴臣（第1期） 
+いわもとやすお（第2期） 
+
 シリーズ構成  金崎貴臣
-脚本  金崎貴臣
-亀井博之（第1期）
+脚本
+
+金崎貴臣 
+亀井博之（第1期） 
+
 キャラクターデザイン  栗田聡美、楊烈駿、  野田康行
 渡辺舞（第2期）
 音楽  イマジン  
@@ -99,7 +110,7 @@ GAMES版サービス開始当初は無償ジュエルも独立管理だったが
 Entertainment Taiwan Limited  をパブリッシャーに配信された    。2019年3月28日に  韓国語  版がKakao
 Gamesから    、2020年4月20日に中国本土を対象にした  簡体字  版がbilibiliから    、2020年9月18日に
 タイ語  版がIni3 Digital PLCから    配信された。2020年12月4日、  英語  版がアメリカの  Crunchyroll
-から配信されることが決定し    、2021年1月20日に配信が開始された    。
+Games  から配信されることが決定し    、2021年1月20日に配信が開始された    。
 2019年12月配信の第15章をもって、メインストーリー第1部が完結。2020年1月より第2部の配信が開始された。
 開発  
 元々Cygamesは『プリコネ』においてキャラクター制作を担当しており、これらのキャラクターを用いた続編を作りたいという思いから、許可を得たうえで企画が始動した
@@ -757,7 +768,7 @@ Gamesから    、2020年4月20日に中国本土を対象にした  簡体字  
  声 - 相坂優歌 
  ギルドハウス3階に囚われていたいたずら好きな妖精でフィオの妹にあたる。前作の記憶を保持している。
 
-エルフィリア・タレル・ダール・ゾラ
+エルフィリア・タレル・ダール・ゾラ / 棗 宙（なつめ そら）
  声 -  井上和彦  /  山内健嗣  （NPCアバター） 
  嚮導老君（グレートガイダンス）の異名を持つ七冠の一人にして、コッコロこと棗こころの実父。「長老」の渾名は彼が七冠の最年長メンバーであることが由来。 
  アストルムやミネルヴァの開発者でもあるが、本人は年齢やゲームに興味が無い性格の為、こころが彼の代理としてアストルムをプレイすることとなった。 
@@ -776,7 +787,7 @@ Gamesから    、2020年4月20日に中国本土を対象にした  簡体字  
 第3部の登場人物  
 クローチェ / 九郎 千恵（くろう ちえ）
  声 -  長谷川育美 
- 裏世界ジオ・テオゴニアの住人。機械人族（オートマトン）の少女。
+ 裏世界ジオ・テオゴニアの住人。機械人族(オートマトン)の少女。
 
 ライラエル / 祓樹 える（ばらき える）
  声 -  河瀬茉希 
@@ -801,7 +812,28 @@ Gamesから    、2020年4月20日に中国本土を対象にした  簡体字  
  「ふぁんふぁんファーム」で出会った羽根つき子豚。懐いてついてきたのでプレシアが面倒を見る。
 
 クルル
- 宝石兎(カーバンクル)の少女。
+ 声 -  田中美海 
+ ジオ・テオゴニアの住人。宝石兎族(カーバンクル)の少女。
+
+アネモネ
+ 声 -  立花日菜 
+ ジオ・ゲヘナの住人でネフィ＝ネラの守護騎士。アルラウネの妖魔人(モンストレス)。
+
+ネフィ＝ネラ
+ 声 -  大久保瑠美 
+ ジオ・ゲヘナのプリンセス。スライムの妖魔人(モンストレス)。ネアの姉妹で姉。
+
+ホウオウ
+ 声 -  篠田みなみ 
+ ジオ・ゲヘナに君臨していた『六凶』の一柱、カレイドフェニックスの転生体。
+
+カノン
+ 声 -  幸村恵理 
+ ジオ・ゲヘナの住人で“元”貴族令嬢。マンティコアの妖魔人(モンストレス)。
+
+ナーナ
+ 声 -  黒沢ともよ 
+ ジオ・ゲヘナの住人でネフィ＝ネラに仕える兵士の一人。アルミラージの妖魔人(モンストレス)。
 
 他作品とのコラボキャラクター  
 ここでは他作品とのコラボキャラクターのうち、メインストーリーに関わらないゲストキャラクターについて記載する。
@@ -966,7 +998,11 @@ Gamesから    、2020年4月20日に中国本土を対象にした  簡体字  
 2023年9月27日  PRICONNE CHARACTER SONG 35  イリヤ
 ネネカ  COCC-18074
 2023年11月29日  PRICONNE CHARACTER SONG 36  ランファ
-キャル  COCC-18075  
+キャル  COCC-18075
+2024年1月31日  PRICONNE CHARACTER SONG 37  サレン、ルカ
+リリ、クリア、プレシア  COCC-18076
+2024年3月27日  PRICONNE CHARACTER SONG 38  ペコリーヌ、クレジッタ
+ハツネ  COCC-18077  
 PRINCESS CONNECT! Re:Dive CHARACTER SONG ALBUM
 発売日  タイトル  収録曲  規格品番
 2020年2月12日  CHARACTER SONG ALBUM VOL.01  PRICONNE CHARACTER SONG 01 - 07収録曲
@@ -975,20 +1011,30 @@ PRINCESS CONNECT! Re:Dive CHARACTER SONG ALBUM
 2021年2月17日  CHARACTER SONG ALBUM VOL.02  PRICONNE CHARACTER SONG 08 - 13収録曲
 限定盤: COZX-1722-4
 通常盤: COCX-41393
-2022/02/16  CHARACTER SONG ALBUM VOL.03  PRICONNE CHARACTER SONG 14 - 19収録曲
+2022年2月16日  CHARACTER SONG ALBUM VOL.03  PRICONNE CHARACTER SONG 14 - 19収録曲
 限定盤: COZX-1868-69
-通常盤: COCX-41718  
+通常盤: COCX-41718
+2023年2月15日  CHARACTER SONG ALBUM VOL.04  PRICONNE CHARACTER SONG 20 - 25収録曲
+限定盤: COZX-1976-77
+通常盤: COCX-41975
+2024年2月14日  CHARACTER SONG ALBUM VOL.05  PRICONNE CHARACTER SONG 26 - 31、36収録曲
+限定盤: COZX-2069-70
+通常盤: COCX-42177  
 PRINCESS CONNECT! Re:Dive ORIGINAL SOUNDTRACK
 発売日  タイトル  規格品番
 2019年4月3日  ORIGINAL SOUNDTRACK  COCX-40805-6
 2020年2月12日  ORIGINAL SOUNDTRACK VOL.2  COCX-41079-81
 2021年2月17日  ORIGINAL SOUNDTRACK VOL.3  COCX-41394-6
-2022/02/16  ORIGINAL SOUNDTRACK VOL.4  COCX-41719-21  
+2022年2月16日  ORIGINAL SOUNDTRACK VOL.4  COCX-41719-21
+2023年2月15日  ORIGINAL SOUNDTRACK VOL.5  COCX-41972-74
+2024年2月14日  ORIGINAL SOUNDTRACK VOL.6  COCX-42174-76  
 その他のCD
 発売日  タイトル  参加キャラクター  規格品番  備考
 2019年4月3日  プリンセスコネクト！Re:Dive
 Lost Princess 〜ようこそ美食殿へ！〜  ペコリーヌ、コッコロ、キャル  COCX-40804  ゲーム・ラジオ主題歌集
-2020年4月29日  「それでもともに歩いていく」&「Lost Princess」  COCC-17763  テレビアニメ第1期主題歌  
+2020年4月29日  「それでもともに歩いていく」&「Lost Princess」  COCC-17763  テレビアニメ第1期主題歌
+2022年2月16日  「旅立ちの季節」  COCC-17968  テレビアニメ第2期エンディング・テーマ
+ノゾミ、チカ、ツムギ  テレビアニメ第2期挿入歌  
 テレビCM  
 通常は美食殿のキャラクターが登場するが、まれにタレントを起用したCMが流れることもある。
 

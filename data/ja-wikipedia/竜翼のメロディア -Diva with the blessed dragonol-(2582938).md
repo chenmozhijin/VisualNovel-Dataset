@@ -1,21 +1,22 @@
-|
-
-|
-
-**この記事は 検証可能  な  参考文献や出典  が全く示されていないか、不十分です。 ** 出典を追加  して記事の信頼性向上にご協力ください。  （
-このテンプレートの使い方  ）  出典検索  ?  :  "竜翼のメロディア -Diva with the blessed dragonol-"  –
-ニュース  **·** 書籍  **·** スカラー  **·** CiNii  **·** J-STAGE  **·** NDL  **·**
-dlib.jp  **·** ジャパンサーチ  **·** TWL  （  2014年11月  ）  
-  
+|  **この記事は 検証可能  な  参考文献や出典  が全く示されていないか、不十分です。 ** 出典を追加  して記事の信頼性向上にご協力ください。
+（  このテンプレートの使い方  ）  
+出典検索  ?  :  "竜翼のメロディア -Diva with the blessed dragonol-"  –  ニュース  **·** 書籍
+**·** スカラー  **·** CiNii  **·** J-STAGE  **·** NDL  **·** dlib.jp  **·**
+ジャパンサーチ  **·** TWL  （  2014年11月  ）  
 ---|---  
-竜翼のメロディア -Diva with the blessed dragonol-  |  ジャンル  |  竜と音楽が紡ぐファンタジー恋愛ADV   
+竜翼のメロディア -Diva with the blessed dragonol-  ジャンル  |  竜と音楽が紡ぐファンタジー恋愛ADV   
 ---|---  
-対応機種  |  Windows XP / Vista / 7  PlayStation Vita   
-発売元  |  [PC]  Whirlpool  [PS Vita]  GN Software   
-発売日  |  [PC]  2012年  9月28日  [PS Vita]  2015年  11月26日   
-レイティング  |  [PC]18禁  [PS Vita]  CERO  ：  **D** （17才以上対象）   
+対応機種  |  Windows XP / Vista / 7   
+PlayStation Vita  
+発売元  |  [PC]  Whirlpool    
+[PS Vita]  GN Software  
+発売日  |  [PC]  2012年  9月28日    
+[PS Vita]  2015年  11月26日  
+レイティング  |  [PC]18禁   
+[PS Vita]  CERO  ：  **D** （17才以上対象）  
 コンテンツアイコン  |  [PS Vita]セクシャル   
-メディア  |  [PC]DVD-ROM / ダウンロード  [PS Vita]PS Vitaカード / ダウンロード   
+メディア  |  [PC]DVD-ROM / ダウンロード   
+[PS Vita]PS Vitaカード / ダウンロード  
 画面サイズ  |  1280*720   
 キャラクターボイス  |  主人公以外フルボイス   
 CGモード  |  あり   

@@ -1,4 +1,4 @@
-Endless Serenade  |  ジャンル  |  ノベルアドベンチャー   
+Endless Serenade  ジャンル  |  ノベルアドベンチャー   
 ---|---  
 対応機種  |  Windows 95/98   
 発売元  |  DISKDREAM   

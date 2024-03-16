@@ -1,8 +1,10 @@
 EVEシリーズ  > **EVE rebirth terror**
 
-EVE rebirth terror  |  ジャンル  |  アドベンチャーゲーム   
+EVE rebirth terror  ジャンル  |  アドベンチャーゲーム   
 ---|---  
-対応機種  |  PlayStation 4  PlayStation Vita  Nintendo Switch   
+対応機種  |  PlayStation 4    
+PlayStation Vita  
+Nintendo Switch  
 開発元  |  El Dia   
 発売元  |  Red Flagship   
 キャラクターデザイン  |  巌本英利   
@@ -11,7 +13,9 @@ EVE rebirth terror  |  ジャンル  |  アドベンチャーゲーム
 レイティング  |  CERO  ：  **D** （17才以上対象）   
 コンテンツアイコン  |  セクシャル   
 キャラクター名設定  |  不可   
-メディア  |  Vita：PS Vitaカード  PS4：BD-ROM  両機種・Switch：  ダウンロード販売   
+メディア  |  Vita：PS Vitaカード   
+PS4：BD-ROM  
+両機種・Switch：  ダウンロード販売  
 キャラクターボイス  |  あり   
 CGモード  |  あり   
 音楽モード  |  あり   

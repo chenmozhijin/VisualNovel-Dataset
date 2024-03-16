@@ -1,14 +1,14 @@
-|  ASa Project  ||
-|---|---|
-|名称  |  ASa Project   |
-|别名  |  颜艺社   |
-|类型  |  Galgame公司   |
-|前身  |  adonis project   |
-|成立时间  |  2005年   |
-|母公司  |  Robo Planning   |
-|主要作品  |  《  寄宿之恋  》、《  恋爱×决胜战  》   |
-|相关公司  |  HOOKSOFT   |
-|网址  |  https://www.asa-pro.com/   |
+ASa Project  
+---  
+名称  |  ASa Project   
+别名  |  颜艺社   
+类型  |  Galgame公司   
+前身  |  adonis project   
+成立时间  |  2005年   
+母公司  |  Robo Planning   
+主要作品  |  《  寄宿之恋  》、《  恋爱×决胜战  》   
+相关公司  |  HOOKSOFT   
+网址  |  https://www.asa-pro.com/   
   
 **ASa Project** （日语：  **アサプロジェクト** ）是日本的  Galgame  制作公司，隶属于Robo
 Planning，国内通称“颜艺社”。
@@ -62,6 +62,7 @@ Planning，国内通称“颜艺社”。
     * 2022年8月26日 -  フタマタ恋愛 瑠衣&宮子 ミニアフターストーリー  （《恋爱成双 瑠衣&宫子 Mini After Story》） 
     * 2022年11月25日 -  フタマタ恋愛 結愛&煌 ミニアフターストーリー  （《恋爱成双 结爱&煌 Mini After Story》） 
   * 2023年9月29日 -  コイバナ恋愛  （《八卦恋爱》） 
+    * 2024年3月29日 -  コイバナ恋愛 ミニファンディスク アフターフェスティバル  （《八卦恋爱 Mini Fan Disc After Festival》） 
 
 ##  参考资料
 

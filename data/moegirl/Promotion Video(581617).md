@@ -1,9 +1,9 @@
-|  **基本资料**  ||
-|---|---|
-|用语名称  |  Promotion Video   |
-|其他表述  |  Promotion Video、MV、 ~~广告骗~~  |
-|用语出处  |  来自日本Promotion Video的略称   |
-|相关条目  |  视效  、  特效  、  PV师  、  插画  、  特效合成软件   |
+**基本资料**  
+---  
+用语名称  |  Promotion Video   
+其他表述  |  Promotion Video、MV、 ~~广告骗~~  
+用语出处  |  来自日本Promotion Video的略称   
+相关条目  |  视效  、  特效  、  PV师  、  插画  、  特效合成软件   
   
 **PV** 的称呼是来自日本Promotion
 Video的略称。其中的Promotion直译为：推广、推销、促销，其本质是一种带有很强的广告性质的推销短片。

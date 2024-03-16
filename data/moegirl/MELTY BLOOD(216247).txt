@@ -318,7 +318,7 @@ Melty Blood  (OP1)
 
 歌：来兔 
 作曲、编曲：来兔；作词：保堂京 
-MB无印版片头曲。 
+MB无印版的片头曲。 
 
 
 
@@ -326,18 +326,18 @@ Blood Drain  (OP2)
 
 歌：笑歌 
 作曲：リサレコ；作词：绫菓；编曲：来兔 
-Actress Again(Current Code)片头曲。 
+Actress Again(Current Code)的片头曲。 
 
 
 
 片尾曲(ED)
 
 
-memories of once  (ED1) 
+Memories of Once  (ED1) 
 
 歌：木ノ下ゆり 
 作曲、编曲：来兔；作词：保堂京 
-MB无印版、Re:ACT、Act Cadenz♯♯尾曲。在Re:ACT、Act Cadenza中出场于守序善良的角色结局。 
+MB无印版、Re:ACT、Act Cadenza的片尾曲。在Re:ACT、Act Cadenza中出场于守序善良的角色结局。 
 
 
 
@@ -345,7 +345,7 @@ MB无印版、Re:ACT、Act Cadenz♯♯尾曲。在Re:ACT、Act Cadenza中出场
 
 歌：绫菓 
 作曲、编曲：来兔；作词：保堂京 
-Re:ACT、Act Cadenz♯♯尾曲，出场于混乱邪恶系角色的最终结局。 
+Re:ACT、Act Cadenza的片尾曲，出场于混乱邪恶系角色的最终结局。 
 
 
 
@@ -353,7 +353,7 @@ Everlasting Destiny  (ED3)
 
 歌：笑歌 
 作曲：リサレコ；作词：绫菓；编曲：来兔 
-Actress Again(Current Code)片尾曲，出场于守序善良的角色结局。 
+Actress Again(Current Code)的片尾曲，出场于守序善良的角色结局。 
 
 
 
@@ -361,7 +361,7 @@ Actress Again(Current Code)片尾曲，出场于守序善良的角色结局。
 
 歌：笑歌 
 作曲：リサレコ；作词：绫菓；编曲：来兔 
-Actress Again(Current Code)片尾曲，出场于混乱邪恶系角色的最终结局。 
+Actress Again(Current Code)的片尾曲，出场于混乱邪恶系角色的最终结局。 
 
 
 
@@ -369,7 +369,7 @@ wandering in torture  (ED5)
 
 歌：美弥乃静 
 作曲：リサレコ；作词：绫菓；编曲：来兔 
-Actress Again(Current Code)片尾曲，其中大部分剧情伏笔就在ED5里出现。 
+Actress Again(Current Code)的片尾曲，其中大部分剧情伏笔就在ED5里出现。 
 
 
 

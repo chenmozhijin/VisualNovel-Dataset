@@ -1,4 +1,5 @@
-機械仕掛けのイヴ  〜Dea Ex Machina〜  |  ジャンル  |  淫具開発SLG+AVG   
+機械仕掛けのイヴ  
+〜Dea Ex Machina〜  ジャンル  |  淫具開発SLG+AVG   
 ---|---  
 対応機種  |  Windows 98 SE/2000/Me/XP   
 発売元  |  ninetail   

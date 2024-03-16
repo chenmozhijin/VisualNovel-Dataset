@@ -1,8 +1,12 @@
-未来にキスを -Kiss the Future-  |  ジャンル  |  AVG   
+未来にキスを -Kiss the Future-  ジャンル  |  AVG   
 ---|---  
-対応機種  |  Windows  95/98/Me/2000/XP（SE）  Android 4.0以上   
-発売元  |  otherwise  13cm  (SE)   
-発売日  |  2001年  9月21日  2005年7月15日(SE)  2017年11月（Android）   
+対応機種  |  Windows  95/98/Me/2000/XP（SE）   
+Android 4.0以上  
+発売元  |  otherwise    
+13cm  (SE)  
+発売日  |  2001年  9月21日    
+2005年7月15日(SE)  
+2017年11月（Android）  
 レイティング  |  18禁   
 キャラクター名設定  |  可   
 エンディング数  |  5(4+1)   
@@ -10,7 +14,8 @@
 ゲームエンジン  |  ビジュアルアーツ  RealLive  (SE)   
 メディア  |  DVD-ROM1枚(SE)   
 画面サイズ  |  640×480 16bit(24bit推奨)   
-BGMフォーマット  |  CD-DA  Visual Art's独自形式(SE)   
+BGMフォーマット  |  CD-DA    
+Visual Art's独自形式(SE)  
 キャラクターボイス  |  あり   
 CGモード  |  あり   
 音楽モード  |  あり   

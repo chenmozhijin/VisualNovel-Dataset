@@ -1,12 +1,14 @@
-|  Muv-Luv系列  ||
-|---|---|
-|原名  |  マブラヴ   |
-|官方译名  |  Muv-Luv   |
-|类型  |  Galgame   |
-|开发  |  âge   |
-|设计师  |  吉宗钢纪   |
-|初代  |  Muv-Luv  （2003年2月28日）   |
-|最新作  |  Schwarzesmarken  （2015年11月27日）   |
+Muv-Luv系列  
+---  
+原名  |  マブラヴ   
+官方译名  |  Muv-Luv   
+类型  |  Galgame   
+开发  |  âge   
+设计师  |  吉宗钢纪   
+初代  |  Muv-Luv    
+（2003年2月28日）  
+最新作  |  Schwarzesmarken   
+（2015年11月27日）  
   
 **《Muv-Luv》** （日语：  マブラヴ  ），是由日本游戏公司  âge
 于2003年2月28日与2006年2月24日推出的18禁电脑冒险游戏，《Muv-
@@ -114,38 +116,63 @@ Muv-Luv Alternative 编年史（Chronicles）收录了一些Alternative宇宙中
 
 ###  系列游戏/视觉小说
 
-|  名称  |  发行日期  |  游戏平台  |  主角  |  备注   
+名称  |  发行日期  |  游戏平台  |  主角  |  备注   
 ---|---|---|---|---  
-Muv-Luv  |  2003年2月28日  |  Microsoft Windows  Xbox 360  PlayStation 3  PlayStation Vita  |  白银武  |  游戏本篇，分Extra和Unlimited两部分。Extra篇为日常校园生活，Unlimited篇则是白银武即将完成Extra篇的  纯夏  线或  冥夜  线时，突然穿越到的异星生物BETA入侵地球的平行世界的2001年10月22日。  2016年7月15日上架Steam的旧版因绕过Steam提供反和谐补丁，违反Valve政策而被Steam官方下架。2018年2月28日在Steam重新上架的新版本不支持反和谐补丁。   
-Muv-Luv Supplement  |  2004年12月17日  |  Microsoft Windows  PlayStation 3  |  Muv-Luv的  Fan Disc  ，收录了Muv-Luv纯夏、千鹤、慧、壬姬路线的后日谈和在Muv-Luv故事发生前，冥夜的两个故事。后被收录于Muv-Luv photonflowers*。   
-Muv-Luv Alternative  |  2006年2月26日  |  Microsoft Windows  Xbox 360  PlayStation 3  PlayStation Vita  |  主角经历经历Unlimited篇Alternative IV计划失败后，带着相关记忆回到穿越至Alternative宇宙的2001年10月22日，意图改变未来的故事。  2017年9月18日上架Steam的旧版因绕过Steam提供反和谐补丁，违反Valve政策而被Steam官方下架。2018年2月28日在Steam重新上架的新版本不支持反和谐补丁。   
-Muv-Luv Altered Fable  |  2007年8月31日  |  Microsoft Windows  PlayStation 3  |  主角Alternative篇后回到没有BETA的世界后的故事。Alternative篇的Fan Disc。后被收录于photonmelodies♮。   
+Muv-Luv  |  2003年2月28日  |  Microsoft Windows    
+Xbox 360  
+PlayStation 3  
+PlayStation Vita  |  白银武  |  游戏本篇，分Extra和Unlimited两部分。Extra篇为日常校园生活，Unlimited篇则是白银武即将完成Extra篇的  纯夏  线或  冥夜  线时，突然穿越到的异星生物BETA入侵地球的平行世界的2001年10月22日。   
+2016年7月15日上架Steam的旧版因绕过Steam提供反和谐补丁，违反Valve政策而被Steam官方下架。2018年2月28日在Steam重新上架的新版本不支持反和谐补丁。  
+Muv-Luv Supplement  |  2004年12月17日  |  Microsoft Windows   
+PlayStation 3  |  Muv-Luv的  Fan Disc  ，收录了Muv-Luv纯夏、千鹤、慧、壬姬路线的后日谈和在Muv-Luv故事发生前，冥夜的两个故事。后被收录于Muv-Luv photonflowers*。   
+Muv-Luv Alternative  |  2006年2月26日  |  Microsoft Windows   
+Xbox 360  
+PlayStation 3  
+PlayStation Vita  |  主角经历经历Unlimited篇Alternative IV计划失败后，带着相关记忆回到穿越至Alternative宇宙的2001年10月22日，意图改变未来的故事。   
+2017年9月18日上架Steam的旧版因绕过Steam提供反和谐补丁，违反Valve政策而被Steam官方下架。2018年2月28日在Steam重新上架的新版本不支持反和谐补丁。  
+Muv-Luv Altered Fable  |  2007年8月31日  |  Microsoft Windows   
+PlayStation 3  |  主角Alternative篇后回到没有BETA的世界后的故事。Alternative篇的Fan Disc。后被收录于photonmelodies♮。   
 Atonement  |  2008年6月  |  神宫司麻理茉  |  Alternative宇宙神宫司麻理茉第一次上战场面对BETA的故事。后被收录于Muv-Luv photonflowers*。   
 Inheritance  |  伊隅美知留  |  Alternative宇宙中伊隅姐妹的故事。后被收录于Muv-Luv photonflowers*。   
-Ayu-Mayu Alternative  |  2008年6月30日  |  Microsoft Windows  |  大空寺亚由  |  《你所期望的永远》角色大空寺亚由和玉野真由穿越到Muv-Luv Alternative宇宙的故事  Muv众：为什么对我们而言这么难对付的敌人被他们这么轻松解决掉了？？？   
-Muv-Luv Unlimited The Day After  |  2010年  |  Microsoft Windows  PlayStation 3  |  威尔  龙浪响  |  Unlimited篇的后续，Alternative IV计划失败，人类执行Alternative V后的故事。  虽然是Unlimited篇的后续，但承接的不是该篇的任何一个结局。2021年2月5日，00-03于Steam上架，并进行了高清重制。   
+Ayu-Mayu Alternative  |  2008年6月30日  |  Microsoft Windows  |  大空寺亚由  |  《你所期望的永远》角色大空寺亚由和玉野真由穿越到Muv-Luv Alternative宇宙的故事   
+Muv众：为什么对我们而言这么难对付的敌人被他们这么轻松解决掉了？？？  
+Muv-Luv Unlimited The Day After  |  2010年  |  Microsoft Windows   
+PlayStation 3  |  威尔   
+龙浪响  |  Unlimited篇的后续，Alternative IV计划失败，人类执行Alternative V后的故事。   
+虽然是Unlimited篇的后续，但承接的不是该篇的任何一个结局。2021年2月5日，00-03于Steam上架，并进行了高清重制。  
 Chicken Divers  |  亨利·基茨  |  Alternative宇宙中甲21号作战中全灭的第六轨道空降部队的故事。被收录于Muv-Luv Alternative 编年史01和Muv-Luv photonflowers*。   
-Rain Dancers  |  休·温斯顿  莫妮卡·贾克莉莎  |  Alternative宇宙中1995年，一支守卫意大利的机战部队的故事。被收录于Muv-Luv Alternative 编年史01和Muv-Luv photonflowers*。   
+Rain Dancers  |  休·温斯顿   
+莫妮卡·贾克莉莎  |  Alternative宇宙中1995年，一支守卫意大利的机战部队的故事。被收录于Muv-Luv Alternative 编年史01和Muv-Luv photonflowers*。   
 Muv-Luv Alternative 编年史01  |  \-  |  视觉小说合集，收录了The Day After Episode 00、Chicken Divers和Rain Dancers   
 晴子的狂热追求者  |  2010年9月28日  |  Microsoft Windows  |  柏木晴子  |  Extra篇角色柏木晴子的外传   
-Adoration  |  2011年  |  Microsoft Windows  PlayStation 3  |  真壁清十郎  |  Alternative宇宙中主角在欧洲前线视察研修的搞笑故事。被收录于Muv-Luv Alternative 编年史02。后被改名为Aspiration收录于photonmelodies♮。   
+Adoration  |  2011年  |  Microsoft Windows   
+PlayStation 3  |  真壁清十郎  |  Alternative宇宙中主角在欧洲前线视察研修的搞笑故事。被收录于Muv-Luv Alternative 编年史02。后被改名为Aspiration收录于photonmelodies♮。   
 Muv-Luv Alternative 编年史02  |  \-  |  视觉小说合集，收录了The Day After Episode 01、Aspiration   
-Confessions  |  神宫司麻理茉  伊隅美知留  |  Alternative宇宙中，神宫司麻理茉和伊隅美知留过去的故事。后被收录于Muv-Luv photonflowers*。   
+Confessions  |  神宫司麻理茉   
+伊隅美知留  |  Alternative宇宙中，神宫司麻理茉和伊隅美知留过去的故事。后被收录于Muv-Luv photonflowers*。   
 Resurrection  |  2012年3月30日  |  希鲁维奥  |  Alternative宇宙中，作为双面间谍的主角意图破坏Alternative IV相关的实验设施的故事。被收录于Muv-Luv Alternative 编年史03和photonmelodies♮。   
 Muv-Luv Alternative 编年史03  |  \-  |  视觉小说合集，收录了The Day After Episode 02和Resurrection   
-Muv-Luv Alternative Total Eclipse  |  2013年5月16日  |  Microsoft Windows  Xbox 360  PlayStation 3  PlayStation Vita  |  勇哉·布里吉斯  |  Muv-Luv Alternative的前传，原作载体系小说。GAL游戏在小说基础上改编而成。   
+Muv-Luv Alternative Total Eclipse  |  2013年5月16日  |  Microsoft Windows   
+Xbox 360  
+PlayStation 3  
+PlayStation Vita  |  勇哉·布里吉斯  |  Muv-Luv Alternative的前传，原作载体系小说。GAL游戏在小说基础上改编而成。   
 Last Divers  |  2013年9月27日  |  Microsoft Windows  |  艾伦·艾斯  |  Muv-Luv Unlimited的后续，Muv-Luv Unlimited The Day After的前传。被收录于Muv-Luv Alternative 编年史04。   
 War Ensemble  |  |  被收录于Muv-Luv Alternative 编年史04。   
 Haiburu!  |  |  被收录于Muv-Luv Alternative 编年史04。   
 Muv-Luv Alternative 编年史04  |  \-  |  视觉小说合集，收录了The Day After Episode 03、Last Divers和War Ensemble   
-Muv-Luv photonflowers*  |  2014年4月24日  |  Microsoft Windows  PlayStation 3  |  \-  |  视觉小说合集，收录了Muv-Luv Supplement、Atonement、Inheritance、Chicken Divers、Rain Dancers和Confessions。   
+Muv-Luv photonflowers*  |  2014年4月24日  |  Microsoft Windows   
+PlayStation 3  |  \-  |  视觉小说合集，收录了Muv-Luv Supplement、Atonement、Inheritance、Chicken Divers、Rain Dancers和Confessions。   
 Muv-Luv photonmelodies♮  |  2014年8月28日  |  \-  |  视觉小说合集，收录了Muv-Luv Altered Fable、Aspiration和Resurrection   
 Schwarzesmarken  |  2015年11月27日  |  Microsoft Windows  |  提奥多尔·艾伯巴赫  |  Alternative宇宙中，1983年以后Beta入侵欧洲的故事。原作载体系轻小说。GAL游戏在轻小说基础上改编而成。   
-Muv-Luv Alternative Strike Frontier  |  2016年9月22日  |  浏览器  Android  |  \-  |  DMM出品的抽卡氪金页游，仅在日本运营，曾计划推出iOS版，但后来计划取消。2018年7月6日停服。主角一行人穿越至Alternative宇宙暴揍BETA  并且顺带啪啪啪各种女性角色  的龙傲天故事   
+Muv-Luv Alternative Strike Frontier  |  2016年9月22日  |  浏览器   
+Android  |  \-  |  DMM出品的抽卡氪金页游，仅在日本运营，曾计划推出iOS版，但后来计划取消。2018年7月6日停服。主角一行人穿越至Alternative宇宙暴揍BETA  并且顺带啪啪啪各种女性角色  的龙傲天故事   
 Muv-Luv VR  |  2016年6月17日  |  Microsoft Windows  |  \-  |  免费游戏，已于2018年8月8日下架。   
-你所期望的真爱  |  2017年3月31日  |  白银武  鸣海孝之  威尔  |  有两个故事，其一是与âge社另一作品《  你所期望的永远  》恶搞性质的联动作品，两位男主互换了灵魂。另一个故事是The Day After序章主角威尔在和平时期在咖啡厅打工的故事。âge为粉丝俱乐部会员免费发放的赠品，未发售   
+你所期望的真爱  |  2017年3月31日  |  白银武   
+鸣海孝之  
+威尔  |  有两个故事，其一是与âge社另一作品《  你所期望的永远  》恶搞性质的联动作品，两位男主互换了灵魂。另一个故事是The Day After序章主角威尔在和平时期在咖啡厅打工的故事。âge为粉丝俱乐部会员免费发放的赠品，未发售   
 Project MIKHAIL: A Muv-Luv War Story  |  2021年11月2日  |  \-  |  版权被收购后放出来的屑作，换了声优，且明明是个手机游戏却硬上Steam发售，操作手感奇差无比。   
-Immortals:Muv-Luv Alternative  |  2022年3月17日  |  Android  iOS  |  \-  |   
+Immortals:Muv-Luv Alternative  |  2022年3月17日  |  Android   
+iOS  |  \-  |   
   
   
 マブラヴ
@@ -188,14 +215,14 @@ Immortals:Muv-Luv Alternative  |  2022年3月17日  |  Android  iOS  |  \-  |
 
 ###  关联作品
 
-|  名称  |  发行日期  |  游戏平台  |  主角  |  备注   
+名称  |  发行日期  |  游戏平台  |  主角  |  备注   
 ---|---|---|---|---  
 小茜的狂热追求者~流星传说刚田~  |  2002年5月1日  |  Microsoft Windows  |  刚田城二  |  你所期望的永远和Muv-Luv Extra篇之间的过渡剧情，大部分Muv-Luv的主角是最初从这个游戏登场的。   
 无尽之夏，永恒旋律  |  2009年7月24日  |  冬马巧  |  玩家可能会感到难以置信，但这个整体氛围轻松愉悦的游戏真的是处于BETA入侵地球的宇宙中的。但目前尚不明确该作处于Unlimited时间线还是Alternative时间线（当然也有可能开了一个新的平行宇宙）   
   
 ###  同人作品
 
-|  名称  |  发行日期  |  游戏平台  |  制作公司  |  主角  |  备注   
+名称  |  发行日期  |  游戏平台  |  制作公司  |  主角  |  备注   
 ---|---|---|---|---|---  
 Drill Milky Punch  |  2003年10月5日  |  Microsoft Windows  |  French Bread  |  \-  |  以  鉴纯夏  的绝招“牛奶钻钻拳”命名的街机画风格斗游戏，玩家可以操作Muv-Luv和你所期望的永远中的角色。   
 Muv-Luv Substance  |  2005年9月6日  |  Tの贰乘  |  白银武  |  Extra篇同人作品，可以免费下载游玩。   
@@ -739,7 +766,7 @@ BETA巢穴中心的存在，可以为其他BETA补充能量，也能为头脑级
 
 **以下内容含有 剧透成分  ，可能影响观赏作品兴趣，请酌情阅读 **
 
-|  20世纪50年代以前  
+20世纪50年代以前  
 ---  
   
   * 1867年 
@@ -755,7 +782,7 @@ BETA巢穴中心的存在，可以为其他BETA补充能量，也能为头脑级
     * 美国建立太空军。 
 
   
-|  20世纪50年代  
+20世纪50年代  
 ---  
   
   * 1950年 
@@ -778,7 +805,7 @@ BETA巢穴中心的存在，可以为其他BETA补充能量，也能为头脑级
     * 海盗1号在火星表面发现了大型建筑。这一发现在整个科学界引起了轰动，因为这意味着火星可能存在有智慧的生命体。一个由12位数学家、语言学家和其他专家组成的组织“庄严 12”成立，意图与火星生命展开交流。 
 
   
-|  20世纪60年代  
+20世纪60年代  
 ---  
   
   * 1961年 
@@ -797,7 +824,7 @@ BETA巢穴中心的存在，可以为其他BETA补充能量，也能为头脑级
     * 苏联开始尝试采用心灵感应与BETA进行沟通。 
 
   
-|  20世纪70年代  
+20世纪70年代  
 ---  
   
   * 1970年 
@@ -869,7 +896,7 @@ BETA巢穴中心的存在，可以为其他BETA补充能量，也能为头脑级
     * 波兰沦陷。 
 
   
-|  20世纪80年代  
+20世纪80年代  
 ---  
   
   * 1980年 
@@ -950,7 +977,7 @@ BETA巢穴中心的存在，可以为其他BETA补充能量，也能为头脑级
     * 6月15日：苏伊士运河保卫战在北非打响。 
 
   
-|  20世纪90年代  
+20世纪90年代  
 ---  
   
   * 1990年 
@@ -1052,7 +1079,7 @@ BETA巢穴中心的存在，可以为其他BETA补充能量，也能为头脑级
     * 美国部署了第三代两栖 A-12复仇者。 
 
   
-|  21世纪  
+21世纪  
 ---  
   
   * 2000年 

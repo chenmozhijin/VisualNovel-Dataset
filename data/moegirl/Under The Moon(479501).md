@@ -1,27 +1,31 @@
-|  |  关于PC版同名主题曲，请见“ ** Under The Moon(歌曲)  ** ”。关于幻影异闻录♯FE歌曲，请见“ ** Under the moon  ** ”。   
+|  关于PC版同名主题曲，请见“ ** Under The Moon(歌曲)  ** ”。关于幻影异闻录♯FE歌曲，请见“ ** Under the
+moon  ** ”。  
 ---|---  
   
-|  Under The Moon  ||
-|---|---|
-|原名  |  Under The Moon  Crescent（PS2副标题）   |
-|官方译名  |  Under The Moon   |
-|类型  |  ADV   |
-|平台  |  Windows、PlayStation 2   |
-|分级  |  Win：    EOCS  :    \- 18岁以下禁止|
-|PS2：  |  CERO  :    \- 17岁以上|
-|开发  |  Sugar Beans   |
-|发行  |  Sugar Beans   <br>Dimple（PS2）  <br>未来数位（繁体中文）  |
-|编剧  |  ひよ , 高冈いるる   |
-|美工  |  东条さかな   |
-|音乐  |  あるるかん   |
-|模式  |  单人单机   |
-|发行时间  |  2006年12月15日（PC）   <br>2009年6月25日（PS2版）  <br>2008年7月（繁中）  |
-|相关作品  |  我的坏心主人   |
-||  “|
-
-爱情  与  情欲  无论何时都是紧紧  连在一起  —— </br>
-
-|  ”  
+Under The Moon  
+---  
+原名  |  Under The Moon   
+Crescent（PS2副标题）  
+官方译名  |  Under The Moon   
+类型  |  ADV   
+平台  |  Windows、PlayStation 2   
+分级  |  Win：  |  EOCS  :  |  \- 18岁以下禁止   
+---|---  
+PS2：  CERO  :  |  \- 17岁以上   
+---|---  
+开发  |  Sugar Beans   
+发行  |  Sugar Beans   
+Dimple（PS2）  
+未来数位（繁体中文）  
+编剧  |  ひよ , 高冈いるる   
+美工  |  东条さかな   
+音乐  |  あるるかん   
+模式  |  单人单机   
+发行时间  |  2006年12月15日（PC）   
+2009年6月25日（PS2版）  
+2008年7月（繁中）  
+相关作品  |  我的坏心主人   
+“  |  爱情  与  情欲  无论何时都是紧紧  连在一起  ——  |  ”   
 ---|---|---  
   
 《 **Under The Moon** 》是  Sugarbeans  开发的一款  乙女游戏

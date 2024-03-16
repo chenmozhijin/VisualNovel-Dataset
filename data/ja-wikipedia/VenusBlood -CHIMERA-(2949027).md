@@ -1,4 +1,4 @@
-VenusBlood -CHIMERA-  |  ジャンル  |  戦姫触手調教SLG   
+VenusBlood -CHIMERA-  ジャンル  |  戦姫触手調教SLG   
 ---|---  
 対応機種  |  Windows 2000/XP/Vista   
 発売元  |  dualtail   

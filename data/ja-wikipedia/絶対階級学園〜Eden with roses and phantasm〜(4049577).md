@@ -1,14 +1,24 @@
-|  絶対階級学園〜Eden with roses and phantasm〜  ||
-|---|---|
-|ジャンル  |  恋愛アドベンチャーゲーム   <br>ゲーム  |
-|対応機種  |  Windows  Vista/7/8/10  PlayStation Vita  (Vita TV対応)  PlayStation 4  Nintendo Switch   |
-|発売元  |  PC :  Daisy2  PS Vita,PS4,NSw :  プロトタイプ   |
-|キャラクターデザイン  |  和田ベコ   |
-|プレイ人数  |  1人   |
-|発売日  |  PC :  2015年  5月28日  PS Vita :  2016年  6月30日  PS4 :  2019年  1月10日  NSw : 2019年  12月19日   |
-|レイティング  |  PC: 全年齢  PS Vita,PS4,NSw :  CERO  ：  **D** （17才以上対象）   |
-|キャラクターボイス  |  あり   <br>ドラマCD  |
-|発売日  |  2015年2月15日   |
+絶対階級学園〜Eden with roses and phantasm〜  
+---  
+ジャンル  |  恋愛アドベンチャーゲーム   
+ゲーム  
+対応機種  |  Windows  Vista/7/8/10   
+PlayStation Vita  (Vita TV対応)  
+PlayStation 4  
+Nintendo Switch  
+発売元  |  PC :  Daisy2    
+PS Vita,PS4,NSw :  プロトタイプ  
+キャラクターデザイン  |  和田ベコ   
+プレイ人数  |  1人   
+発売日  |  PC :  2015年  5月28日    
+PS Vita :  2016年  6月30日  
+PS4 :  2019年  1月10日  
+NSw : 2019年  12月19日  
+レイティング  |  PC: 全年齢   
+PS Vita,PS4,NSw :  CERO  ：  **D** （17才以上対象）  
+キャラクターボイス  |  あり   
+ドラマCD  
+発売日  |  2015年2月15日   
 テンプレート  \-  ノート  
   
 『 **絶対階級学園〜Eden with roses and phantasm〜** 』(ぜったいかいきゅうがくえん エデン ウィズ ローゼス アンド

@@ -1,4 +1,4 @@
-|  FairlyLife  
+FairlyLife  
 ---  
 ゲーム  
 ゲームジャンル  |  重力無限大! 全力どたばたミラクルラブコメADV   

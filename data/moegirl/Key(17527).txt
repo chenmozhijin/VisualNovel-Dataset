@@ -115,18 +115,21 @@ anemoi  待定  待定
 PC视觉小说（Kinetic Novel系列）
 “Kinetic Novel”  是由  VISUAL ARTS  主导的  短篇文学作品  品牌。其中  单线短篇视觉小说作品
 方面，以下由Key出版发售。
-日文原名  中文惯用名称  PC版首次发售日期  年龄分级  其它可游玩平台  备注
-planetarian ～ちいさなほしのゆめ～  星之梦  2004.11.29  全年龄  PS2、Android、iOS、Switch
+全部是全年龄作品。
+日文原名  中文惯用名称  PC版首次发售日期  其它可游玩平台  备注
+planetarian  ～ちいさなほしのゆめ～  星之梦  2004.11.29  PS2、Android、iOS、Switch
+～雪圏球～  星之梦  ～雪圈球～  2021.9.3  无其它平台
 Harmonia  2016.9.23  Switch
 LOOPERS  2021.5.28  Android、iOS、Switch
-planetarian ～雪圏球～  星之梦  ～雪圈球～  2021.9.3  无其它平台
-LUNARiA -Virtualized Moonchild-  2021.12.24  Android、iOS
+LOOPERS PLUS  预定2024  待定
+LUNARiA -Virtualized Moonchild-  2021.12.24  Android、iOS、Switch
 終のステラ  星之终途  2022.9.30  Android、iOS
 プリマドール  冬空花火／雪華文様  天籁人偶  冬空焰火/雪花纹理  2023.4.28  待定  多媒体企划子企划之一  改编自同企划网络小说（
 アンコール  ）
-無名典礼  无名典礼  预定2023
-皇都探偵  皇都侦探
-プリマドール・アンコール  天籁人偶  · Encore  预定2024  
+無名典礼  无名典礼  预定2024
+皇都探偵  皇都侦探  待定
+プリマドール・アンコール  天籁人偶  · Encore
+虹彩都市  预定2024  待定  
 原创动画
 日文原名  中文正式名称  制作公司  动画类型  首播时间  集数  备注
 Angel Beats!  P.A.WORKS  TV动画  2010年4月  13+Another Epilogue+2OVA  与  Aniplex
@@ -151,9 +154,9 @@ Key COLLECTION  2013.10.15  [7]  手机浏览器游戏(mobage平台)  index  [8]
 [注 3]
 资料：  官网（已下线）  记载1  记载2  ）
 プリマドール  天籁人偶  2020.10.26  综合多媒体企划  寿屋  已宣布项目：手办、音乐、小说、TV动画、漫画、视觉小说
-HEAVEN BURNS RED  绯染天空  2022.2.10
+HEAVEN BURNS RED  炽焰天穹  2022.2.10
 （首发）  免费游玩的联网型  角色扮演游戏
-（含氪金内容）  Wright Flyer Studio（WFS）  
+（含氪金内容）  Wright Flyer Studios  （WFS）  
 相关作品
 核心成员在Key外创作的重要作品
 创作时期  日文原名  中文惯用名称  发行时间  备注
@@ -201,7 +204,7 @@ Summer Pockets  待定  待定  待定  待定
 
 新作《  LOOPERS  》以实体版（豪华限定版/初回限定版)、DL版三种贩售形式于2021年5月28日发售！ 
 续作《  Summer Pockets REFLECTION BLUE  》PV发布  [11]  ！2020年6月26日发售！ 
-Key全新企划始动！《  星之梦  》外传《雪圈球》OVA众筹开始、麻枝准执笔新作手游《  绯染天空  》配信决定、《  Summer Pockets REFLECTION BLUE  》制作决定！ 
+Key全新企划始动！《  星之梦  》外传《雪圈球》OVA众筹开始、麻枝准执笔新作手游《  炽焰天穹  》配信决定、《  Summer Pockets REFLECTION BLUE  》制作决定！ 
 新作《  Summer Pockets  》PV发布  [12]  ！2018年6月29日发售！ 
 《  星之梦  》全CG制作VR动画化企划始动！ 
 《  Kud Wafter  》动画化众筹目标达成！2019年秋完成预定！ 

@@ -1,26 +1,40 @@
-|
-
-|
-
-**この記事は 検証可能  な  参考文献や出典  が全く示されていないか、不十分です。 ** 出典を追加  して記事の信頼性向上にご協力ください。  （
-このテンプレートの使い方  ）  出典検索  ?  :  "PriministAr -プライミニスター-"  –  ニュース  **·** 書籍
-**·** スカラー  **·** CiNii  **·** J-STAGE  **·** NDL  **·** dlib.jp  **·**
-ジャパンサーチ  **·** TWL  （  2021年7月  ）  
-  
+|  **この記事は 検証可能  な  参考文献や出典  が全く示されていないか、不十分です。 ** 出典を追加  して記事の信頼性向上にご協力ください。
+（  このテンプレートの使い方  ）  
+出典検索  ?  :  "PriministAr -プライミニスター-"  –  ニュース  **·** 書籍  **·** スカラー  **·**
+CiNii  **·** J-STAGE  **·** NDL  **·** dlib.jp  **·** ジャパンサーチ  **·** TWL  （
+2021年7月  ）  
 ---|---  
-PriministAr  -プライミニスター-  |  ジャンル  |  くせになりそうな学園純愛ADV   
+PriministAr  
+-プライミニスター-  ジャンル  |  くせになりそうな学園純愛ADV   
 ---|---  
-対応機種  |  Microsoft Windows  XP  /  Vista  /  7  /  8  /  8.1  /  10  /  11  PlayStation Vita  Nintendo Switch  PlayStation 4   
-発売元  |  HOOKSOFT  (PC)  エンターグラム  (PS Vita/Switch/PS4)   
-発売日  |  2013年  8月30日  (PC)  2015年  2月19日  (PC全年齢版)  2016年  9月29日  (PS Vita)  2023年  5月26日  (PCフルHDリマスター)  2024年  3月28日  (Switch/PS4)   
-レイティング  |  18禁 (PC)  全年齢対象 (PC DL版)  CERO  ：  **D** （17才以上対象）  (PS Vita)   
+対応機種  |  Microsoft Windows  XP  /  Vista  /  7  /  8  /  8.1  /  10  /  11    
+PlayStation Vita  
+Nintendo Switch  
+PlayStation 4  
+発売元  |  HOOKSOFT  (PC)   
+エンターグラム  (PS Vita/Switch/PS4)  
+発売日  |  2013年  8月30日  (PC)   
+2015年  2月19日  (PC全年齢版)  
+2016年  9月29日  (PS Vita)  
+2023年  5月26日  (PCフルHDリマスター)  
+2024年  3月28日  (Switch/PS4)  
+レイティング  |  18禁 (PC)   
+全年齢対象 (PC DL版)  
+CERO  ：  **D** （17才以上対象）  (PS Vita)  
 キャラクター名設定  |  不可   
-エンディング数  |  6+1 (初回限定盤のみ)  8 (PS Vita/Switch/PS4)   
+エンディング数  |  6+1 (初回限定盤のみ)   
+8 (PS Vita/Switch/PS4)  
 セーブファイル数  |  119+オート1   
-メディア  |  DVD-ROM  (PC)  ダウンロード版 (PC全年齢版)  PS Vitaカード (PS Vita)  Switchカード (Switch)  BD-ROM (PS4)   
+メディア  |  DVD-ROM  (PC)   
+ダウンロード版 (PC全年齢版)  
+PS Vitaカード (PS Vita)  
+Switchカード (Switch)  
+BD-ROM (PS4)  
 ディスクレス起動  |  可   
 アクチベーション  |  なし   
-画面サイズ  |  1920×1080 (PCフルHDリマスター)  1280×720 (PC)  960×544 (PS Vita)   
+画面サイズ  |  1920×1080 (PCフルHDリマスター)   
+1280×720 (PC)  
+960×544 (PS Vita)  
 BGMフォーマット  |  DirectSound  に正式対応したサウンドカード   
 キャラクターボイス  |  あり（主人公以外フルボイス）   
 CGモード  |  あり   
@@ -28,9 +42,10 @@ CGモード  |  あり
 回想モード  |  あり   
 メッセージスキップ  |  あり   
 オートモード  |  あり   
-備考  |  初回限定版特典として、アレンジCD「PriministArrange+」が同梱。  予約特典として、描き下ろしB2タペストリー、「そんな馬鹿な！“文化部棟の幽霊”攻略パッチ！」や挿入歌マキシCDをプレゼント。   
+備考  |  初回限定版特典として、アレンジCD「PriministArrange+」が同梱。   
+予約特典として、描き下ろしB2タペストリー、「そんな馬鹿な！“文化部棟の幽霊”攻略パッチ！」や挿入歌マキシCDをプレゼント。  
 テンプレートを表示  
-|  映像外部リンク  
+映像外部リンク  
 ---  
 PriministAr デモムービー 安芸かのこ編  （hooksoftofficial） -  YouTube  
 PriministAr デモムービー 木倉汐路編  （hooksoftofficial） - YouTube  

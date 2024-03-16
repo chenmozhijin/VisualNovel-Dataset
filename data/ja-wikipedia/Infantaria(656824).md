@@ -1,15 +1,19 @@
-Infantaria  Infantaria XP  |  ジャンル  |  ファンタジーノベルAVG   
+Infantaria  
+Infantaria XP  ジャンル  |  ファンタジーノベルAVG   
 ---|---  
-対応機種  |  Windows 95  /  98  /  Me  Microsoft Windows 98/Me/  2000  /  XP  （XP）   
+対応機種  |  Windows 95  /  98  /  Me    
+Microsoft Windows 98/Me/  2000  /  XP  （XP）  
 発売元  |  CIRCUS NORTHERN   
-発売日  |  2001年  1月26日  2003年  3月28日  （  XP  ）   
+発売日  |  2001年  1月26日    
+2003年  3月28日  （  XP  ）  
 レイティング  |  18禁   
 キャラクター名設定  |  変更可   
 エンディング数  |   
 セーブファイル数  |  59+1（オートモード）   
 画面サイズ  |  800×600 24bit   
 BGMフォーマット  |  PCM   
-キャラクターボイス  |  一部キャラフルボイス  女性キャラフルボイス（XP）   
+キャラクターボイス  |  一部キャラフルボイス   
+女性キャラフルボイス（XP）  
 CGモード  |  あり   
 音楽モード  |  あり   
 回想モード  |  あり   

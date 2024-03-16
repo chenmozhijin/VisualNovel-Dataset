@@ -1,25 +1,41 @@
 **此作品已完结**
 
-|  Angel Beats!  ||
-|---|---|
-|原名  |  Angel Beats!   |
-|译名  |  天使的脉动  天使的心跳  ~~围殴天使 神仙打架  仙人跳  Angel Beast ~~  |
-|作者  |  麻枝准   |
-|地区  |  日本   |
-|分级  |  G级   |
-|首播时间  |  2010年4月2日~6月25日   |
-|总话数  |  全13话   |
-|制作公司  |  P.A.WORKS   |
-|监督  |  岸诚二   |
-|编剧  |  麻枝准   |
-|音乐  |  ANANT-GARDE EYES  麻枝准   |
-|出品人  |  Angel Beats! Project  中部日本放送   |
-|主要声优  |  神谷浩史  樱井浩美  花泽香菜  木村良平  喜多村英梨  泽城美雪  绪方惠美   |
-|发行  |  Aniplex   |
-|代理发行  |  台湾地区：普威尔国际   |
-|播放平台  |  日本：CBCテレビ、TBS、BS11  中国大陆：Bilibili   |
-|播放状态  |  已完结   |
-|相关作品  |  Charlotte  成神之日  ~~ Beat in Angel  ~~  |
+Angel Beats!  
+---  
+原名  |  Angel Beats!   
+译名  |  天使的脉动   
+天使的心跳  
+~~围殴天使  
+神仙打架  
+仙人跳  
+Angel Beast ~~  
+作者  |  麻枝准   
+地区  |  日本   
+分级  |  G级   
+首播时间  |  2010年4月2日~6月25日   
+总话数  |  全13话   
+制作公司  |  P.A.WORKS   
+监督  |  岸诚二   
+编剧  |  麻枝准   
+音乐  |  ANANT-GARDE EYES   
+麻枝准  
+出品人  |  Angel Beats! Project   
+中部日本放送  
+主要声优  |  神谷浩史    
+樱井浩美  
+花泽香菜  
+木村良平  
+喜多村英梨  
+泽城美雪  
+绪方惠美  
+发行  |  Aniplex   
+代理发行  |  台湾地区：普威尔国际   
+播放平台  |  日本：CBCテレビ、TBS、BS11   
+中国大陆：Bilibili  
+播放状态  |  已完结   
+相关作品  |  Charlotte    
+成神之日  
+~~ Beat in Angel  ~~  
   
 **《Angel Beats!》** （エンジェルビーツ，中文名：天使的心跳/天使的脉动）是由  Key
 主导的系列企划。包括共13话的原创TV动画，以及漫画、小说、游戏、网络广播、Guide Book等作品。
@@ -93,7 +109,7 @@ BOX收录了特别篇第二话。
   * 日向秀树  ：  木村良平 
   * 由依  ：  喜多村英梨 
   * 岩泽雅美  ：  泽城美雪 
-  * 久子  ：  松浦知惠 
+  * 渊田久子  ：  松浦知惠 
   * 入江美雪  ：  阿澄佳奈 
   * 关根诗织  ：  加藤英美里 
   * 高松  ：  水岛大宙 
@@ -110,24 +126,53 @@ BOX收录了特别篇第二话。
 
 ###  各话标题
 
-|  话数  |  英文标题  中文标题  |  分镜  |  演出  |  作画监督   
+话数  |  英文标题   
+中文标题  |  分镜  |  演出  |  作画监督   
 ---|---|---|---|---  
-EPISODE.1  |  Departure  出发  |  岸诚二  |  平田雄三   
-EPISODE.2  |  Guild  公会  |  平井义通  |  川面恒介   
-EPISODE.3  |  My Song  我的歌  |  あおきえい  |  安斋刚文  |  海谷敏久  岩冈优子   
-EPISODE.4  |  Day Game  竞技日  |  湖山祯崇  |  桥本裕之  |  宫下雄次   
-EPISODE.5  |  Favorite Flavor  最喜欢的味道  |  浅井义之  |  平井义通  |  川面恒介  朱炫祐  许箕栋   
-EPISODE.6  |  Family Affair  家事  |  平松祯史  |  许琮  |  平松祯史   
-EPISODE.7  |  Alive  生存  |  安斋刚文  |  岩冈优子  松本刚彦   
-EPISODE.8  |  Dancer in the Dark  黑暗中的舞者  |  桥本裕之  |  宫下雄次   
-EPISODE.9  |  In Your Memory  在你的记忆中  |  あおきえい  |  柿本广大  |  关口可奈味   
-EPISODE.10  |  Goodbye Days  离别的日子  |  政木伸一  |  安斋刚文  高桥正典  |  石井百合子  川面恒介  铃木美咲   
-EPISODE.11  |  Change the World  改变世界  |  许琮  |  金祈南  许箕栋  川面恒介   
-EPISODE.12  |  Knockin' on heaven's door  敲响天堂的大门  |  小仓陈利  |  平井义通  |  平田雄三  仓川英锡   
-EPISODE.13  |  Graduation  毕业  |  桥本昌和  |  桥本裕之  |  宫下雄次  川面恒介  铃木美咲   
-SPECIAL EPISODE.  |  Stairway to Heaven  通向天堂的阶梯  |  浅井义之  |  安斋刚文  |  宫下雄次   
-ANOTHER EPILOGUE.  |  ANOTHER EPILOGUE  另一个后记  |  桥本裕之  |  平田雄三   
-SPECIAL EPISODE. 2  |  Hell's Kitchen  地狱的厨房  |  宫下雄次   
+EPISODE.1  |  Departure   
+出发  |  岸诚二  |  平田雄三   
+EPISODE.2  |  Guild   
+公会  |  平井义通  |  川面恒介   
+EPISODE.3  |  My Song   
+我的歌  |  あおきえい  |  安斋刚文  |  海谷敏久   
+岩冈优子  
+EPISODE.4  |  Day Game   
+竞技日  |  湖山祯崇  |  桥本裕之  |  宫下雄次   
+EPISODE.5  |  Favorite Flavor   
+最喜欢的味道  |  浅井义之  |  平井义通  |  川面恒介   
+朱炫祐  
+许箕栋  
+EPISODE.6  |  Family Affair   
+家事  |  平松祯史  |  许琮  |  平松祯史   
+EPISODE.7  |  Alive   
+生存  |  安斋刚文  |  岩冈优子   
+松本刚彦  
+EPISODE.8  |  Dancer in the Dark   
+黑暗中的舞者  |  桥本裕之  |  宫下雄次   
+EPISODE.9  |  In Your Memory   
+在你的记忆中  |  あおきえい  |  柿本广大  |  关口可奈味   
+EPISODE.10  |  Goodbye Days   
+离别的日子  |  政木伸一  |  安斋刚文   
+高桥正典  |  石井百合子   
+川面恒介  
+铃木美咲  
+EPISODE.11  |  Change the World   
+改变世界  |  许琮  |  金祈南   
+许箕栋  
+川面恒介  
+EPISODE.12  |  Knockin' on heaven's door   
+敲响天堂的大门  |  小仓陈利  |  平井义通  |  平田雄三   
+仓川英锡  
+EPISODE.13  |  Graduation   
+毕业  |  桥本昌和  |  桥本裕之  |  宫下雄次   
+川面恒介  
+铃木美咲  
+SPECIAL EPISODE.  |  Stairway to Heaven   
+通向天堂的阶梯  |  浅井义之  |  安斋刚文  |  宫下雄次   
+ANOTHER EPILOGUE.  |  ANOTHER EPILOGUE   
+另一个后记  |  桥本裕之  |  平田雄三   
+SPECIAL EPISODE. 2  |  Hell's Kitchen   
+地狱的厨房  |  宫下雄次   
   
 ###  相关音乐
 
@@ -172,9 +217,9 @@ SPECIAL EPISODE. 2  |  Hell's Kitchen  地狱的厨房  |  宫下雄次
     * 歌：karuta 
     * 作词、作曲：麻枝准，编曲：ANANT-GARDE EYES 
 
-|  单曲和专辑  
+单曲和专辑  
 ---  
-单曲  </br>
+单曲
 
   * 【专辑名】My Soul,Your Beats! / Brave Song 
 
@@ -261,7 +306,7 @@ SPECIAL EPISODE. 2  |  Hell's Kitchen  地狱的厨房  |  宫下雄次
     作词、作曲：麻枝准，编曲：朝井泰生
     
 
-专辑  </br>
+专辑
 
   * 【专辑名】Keep The Beats! 
 
@@ -356,9 +401,9 @@ SPECIAL EPISODE. 2  |  Hell's Kitchen  地狱的厨房  |  宫下雄次
 
 ###  漫画版
 
-  * 《Angel Beats!》系列的四格连环漫画 **《Angel Beats! 我们的战线进行曲♪》** （Angel Beats! The4コマ 仆らの战线行进曲♪）自2009年12月开始，在ASCII Media Works发行的《电击G's magazine》杂志连载。 **已完结** ，总4卷。 
+  * 《Angel Beats!》系列的四格连环漫画 **《Angel Beats! 我们的战线进行曲♪》** （  Angel Beats! The4コマ 僕らの戦線行進曲♪  ）自2009年12月开始，在ASCII Media Works发行的《电击G's magazine》杂志连载。 **已完结** ，总4卷。 
 
-|  卷数  |  发售时间  |  ISBN   
+卷数  |  发售时间  |  ISBN   
 ---|---|---  
 Angel Beats! The4コマ 僕らの戦線行進曲♪  
 1  |  2010年12月18日  |  ISBN 978-4048701921   
@@ -368,7 +413,7 @@ Angel Beats! The4コマ 僕らの戦線行進曲♪
   
   * 浅见百合子作画的、基于短篇小说《Angel Beats! -Track ZERO-》的剧情和其他几名战线成员加入时的故事的前传漫画 **《 Angel Beats! -Heaven's Door-  》 ** ，于2010年5月开始在《电击G's magazine》杂志连载。 **已完结** ，总11卷。 
 
-|  卷数  |  发售时间  |  ISBN   
+卷数  |  发售时间  |  ISBN   
 ---|---|---  
 Angel Beats! -Heaven's Door-  
 0  1  |  2010年12月18日  |  ISBN 978-4048701884   
@@ -385,7 +430,7 @@ Angel Beats! -Heaven's Door-
   
   * 浅见百合子作画、以动画本篇剧情为基础，追加了麻枝准新作剧本的 **《 Angel Beats! -The Last Operation-  》 ** 于2017年8月30日在《电击G's Comic》10月号开始连载。单行本由KADOKAWA出版。第1部于单行本第4卷完结，第2部原预计于2020年秋展开。 
 
-|  卷数  |  发售时间  |  ISBN   
+卷数  |  发售时间  |  ISBN   
 ---|---|---  
 Angel Beats! -The Last Operation-  
 1  |  2018年  0  1月26日  |  ISBN 978-4048936057   
@@ -421,12 +466,12 @@ Ga，也是Na-Ga参加人设的第二部、独立人设的第一部key社游戏�
 
 游戏第一卷发售以后，关于“游戏后续卷数的发布时间”这一方面，长期没有任何消息。
 
-|  实际现状  （以下内容你确定要看吗？？？）  
+实际现状  （以下内容你确定要看吗？？？）  
 ---  
 |  不要后悔呦？  
 ---  
 《Angel Beats -Heaven's Door-》单行本最终卷最后，麻枝准亲自确认了： **“《Angel Beats! -2nd
-beat-》因为1st过〇〇而不再可能，只能以漫画陪伴大家。”** [1]  </br> AB新漫画的连载也印证了这一点。  </br>  
+beat-》因为1st过〇〇而不再可能，只能以漫画陪伴大家。”** [1]  AB新漫画的连载也印证了这一点。  
   
 ####  STAFF
 
@@ -444,11 +489,10 @@ beat-》因为1st过〇〇而不再可能，只能以漫画陪伴大家。”** 
 
 ####  轶事
 
-|  黑历史  
+黑历史  
 ---  
 2015年2月26日公布人气投票结果：松下以19116票碾压立华奏获得第一，不过马上被查出刷了17988票，改奏为第一。之后游戏第一卷的特典彩图则为裸天使。
-~~谢天谢地不是松下的裸体……~~ </br>
-后来6月的OVA2中，松下位居全系列最惨的死状，成为了真正的松下（身体）五段，说不准就是官方的复仇。“无码”分尸变成“六段”，复活后又马上被恶魔化的久子口爆。）
-</br>  
+~~谢天谢地不是松下的裸体……~~
+后来6月的OVA2中，松下位居全系列最惨的死状，成为了真正的松下（身体）五段，说不准就是官方的复仇。“无码”分尸变成“六段”，复活后又马上被恶魔化的久子口爆。）  
   
   

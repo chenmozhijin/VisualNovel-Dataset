@@ -1,26 +1,27 @@
-|
-
-|
-
-**この記事は 検証可能  な  参考文献や出典  が全く示されていないか、不十分です。 ** 出典を追加  して記事の信頼性向上にご協力ください。  （
-このテンプレートの使い方  ）  出典検索  ?  :  "School Days" フェイス  –  ニュース  **·** 書籍  **·** スカラー
-**·** CiNii  **·** J-STAGE  **·** NDL  **·** dlib.jp  **·** ジャパンサーチ  **·** TWL
-（  2015年4月  ）  
-  
+|  **この記事は 検証可能  な  参考文献や出典  が全く示されていないか、不十分です。 ** 出典を追加  して記事の信頼性向上にご協力ください。
+（  このテンプレートの使い方  ）  
+出典検索  ?  :  "School Days" フェイス  –  ニュース  **·** 書籍  **·** スカラー  **·** CiNii
+**·** J-STAGE  **·** NDL  **·** dlib.jp  **·** ジャパンサーチ  **·** TWL  （  2015年4月
+）  
 ---|---  
-School Days（PC版）  ScooP「School Days」DVDPG Edition（DVDPG版）  |  ジャンル  |  恋愛アドベンチャーゲーム   
+School Days（PC版）  
+ScooP「School Days」DVDPG Edition（DVDPG版）  ジャンル  |  恋愛アドベンチャーゲーム   
 ---|---  
-対応機種  |  Windows 95/98（PC版）  DVDプレーヤー（DVDPG版）   
+対応機種  |  Windows 95/98（PC版）   
+DVDプレーヤー（DVDPG版）  
 開発元  |  フェイス   
-発売元  |  フェイス（PC版）  BLACKRAINBOW DVDPG Division（DVDPG版）   
-発売日  |  2000年3月24日（PC版）  2003年12月11日（DVDPG版）   
+発売元  |  フェイス（PC版）   
+BLACKRAINBOW DVDPG Division（DVDPG版）  
+発売日  |  2000年3月24日（PC版）   
+2003年12月11日（DVDPG版）  
 レイティング  |  18禁   
 キャラクター名設定  |  可   
 エンディング数  |  6   
 セーブファイル数  |  8   
 メディア  |  CD-ROM：1枚   
 画面サイズ  |  640x480 8bit-COLOR   
-BGMフォーマット  |  MIDI  （PC版）  PCM  （DVDPG版）   
+BGMフォーマット  |  MIDI  （PC版）   
+PCM  （DVDPG版）  
 キャラクターボイス  |  主人公以外フルボイス   
 CGモード  |  有り   
 回想モード  |  有り   

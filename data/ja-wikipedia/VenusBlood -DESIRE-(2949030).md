@@ -1,4 +1,4 @@
-VenusBlood -DESIRE-  |  ジャンル  |  女神悪堕ち触手SLG   
+VenusBlood -DESIRE-  ジャンル  |  女神悪堕ち触手SLG   
 ---|---  
 対応機種  |  Windows 2000/XP/Vista   
 発売元  |  dualtail   
