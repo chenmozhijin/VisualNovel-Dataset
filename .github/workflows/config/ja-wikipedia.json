@@ -1,7 +1,7 @@
 {
         "name": "日本维基",
         "source": "ja-wikipedia",
-        "site_url": "https://ja.wikipedia.org/w/index.php",
+        "index_url": "https://ja.wikipedia.org/w/index.php",
         "excludeExistingPages": false,
         "table_fix": true,
         "cell_newline": "<br>",
@@ -9,7 +9,6 @@
         "page_ids": [632466],
         "page_titles": ["Key (ゲームブランド)","CIRCUS (ブランド)","オーガスト (ブランド)","Leaf","まどそふと","アニプレックス","フロントウイング","Lose","ネコぱら","枕 (ゲームブランド)","ぱれっと (ゲームブランド)"],
         "categories": ["美少女ゲーム","ギャルゲー","恋愛アドベンチャーゲーム","CLANNAD","D.C._〜ダ・カーポ〜","WHITE_ALBUM","EVEシリーズ"],
-        "exclude_ids": [],
         "exclude_categories": [],
         "exclude_titles": ["Category:.*","Template:.*","User:.*"],
         "cleaning_rule": ["#* *脚注  \\[  編集  \\].*","#* *外部リンク  \\[  編集  \\].*","\\[  編集  \\]","\\[[0-9]+\\]"]
