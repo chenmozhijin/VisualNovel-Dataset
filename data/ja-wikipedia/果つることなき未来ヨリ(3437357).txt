@@ -4,20 +4,21 @@ PlayStation Vita
 Steam
 Nintendo Switch
 発売元  [PC]  フロントウイング
-[PS Vita, Switch]  プロトタイプ
+[PS Vita/Switch]  プロトタイプ
 発売日  [PC]  2015年  11月27日
 [PS Vita]  2016年  12月22日
 [Steam]  2022年  4月28日
 [Switch]  2024年  4月11日
 レイティング  [PC]全年齢向け（15歳以上推奨） / 18禁（X-RATED版パッチ適用時）
-[PS Vita]  CERO  ：  D  （17才以上対象）
-コンテンツアイコン  [PS Vita]犯罪  
+[PS Vita/Switch]  CERO  ：  D  （17才以上対象）
+コンテンツアイコン  [PS Vita/Switch]犯罪  
 キャラクター名設定  主人公の名前変更不可
 メディア  [PC]DVD-ROM
-[PS Vita]PS Vitaカード / ダウンロード
+[PS Vita/Switch]ゲームカード / ダウンロード
 ディスクレス起動  [PC]起動
-画面サイズ  [PC]1280×720
+画面サイズ  [PC/Switch（携帯モード）]1280×720
 [PS Vita]960×544
+[Switch（TVモード）]1920×1080
 キャラクターボイス  主人公以外フルボイス
 備考  PC版初回特典：『グリザイアの旋律』
 テンプレートを表示  

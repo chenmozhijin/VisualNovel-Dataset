@@ -66,7 +66,7 @@ STORY」のシナリオで流れる曲、Disc3に作中で使用されていな�
   6. それは風のように 
      * 作曲：折戸伸治 
      * ヒロイン・藤林杏のテーマ曲。「 ** オーバー  ** 」の原曲。 
-  7. Étude pours les petites supercordes 
+  7. Étude pour les petites supercordes 
      * 作曲：戸越まごめ 
      * ヒロイン・一ノ瀬ことみのテーマ曲。「  TOE  」の原曲。 
   8. は〜りぃすたーふぃっしゅ 

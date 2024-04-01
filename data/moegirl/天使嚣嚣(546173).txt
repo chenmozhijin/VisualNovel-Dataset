@@ -7,8 +7,8 @@ Tenshi Souzou "Angelic Chaos" RE-BOOT!
 类型  恋爱ADV
 平台  Windows 10/11
 分级  R-18
-开发  YUZU SOFT
-发行  YUZU SOFT
+开发  柚子社
+发行  柚子社
 NekoNyan  （英）  [4]
 HIKARI FIELD  （汉）  [4]
 总监  Famishin
@@ -19,7 +19,7 @@ KAZUKIFUMI
 美工  小舞一
 梦璃凛
 HOKAN
-羽纯Rio
+羽纯RIO
 菰绵遥华  （SDCG）
 音乐  Famishin
 Angel Note
@@ -28,7 +28,7 @@ Angel Note
 “  喧闹的新生活，正式开幕。  喧闹的新生活，正式开幕。  （  騒々しい日々、はじめました  騒々しい日々、はじめました  ）
 喧闹的新生活，正式开幕。  喧闹的新生活，正式开幕。  （  騒々しい日々、はじめました  騒々しい日々、はじめました  ）  ”  
 《  天使☆嚣嚣 RE-BOOT!  》（日语：  天使  （  てんし  ）  ☆  騒々  （  そうぞう  ）  RE-BOOT!  、英语：
-Tenshi Souzou "Angelic Chaos" RE-BOOT!  ）是由  YUZU SOFT  制作的  Galgame
+Tenshi Souzou "Angelic Chaos" RE-BOOT!  ）是由  柚子社  制作的  Galgame
 ，原版于2023年4月28日发售。
 目录
 
@@ -90,7 +90,7 @@ CV：  夏和小
 喜欢玩游戏，比如多人对战类的。
 经常一玩起劲就玩到深夜，甚至通宵。
 是个起床困难户。
-“  什么啊这个反应。明明你可爱的妹妹都在用甜言蜜语讨好你了，只咂两下嘴算怎么回事啊？  ”  
+“  我是妹妹所以没有关系！这可是做妹妹的特权！把老哥当杂鱼的只能是妹妹我！  ”  
 小云雀来海
 小雲雀  （  こひばり  ）  来海  （  くるみ  ）
 CV：  柳瞳
@@ -421,5 +421,5 @@ CV：  夏野こおり
 百里风实花
 三国彩里
 其他
-自2022年12月9日 (五) 02:37创建以来共有795 人投票。
+自2022年12月9日 (五) 02:37创建以来共有799 人投票。
 poll-id 645A638DAEF592883D692C88F6F5D0F7

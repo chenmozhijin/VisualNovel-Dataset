@@ -33,8 +33,8 @@ CGモード  |  あり
 アフターエピソード2』、2023年10月25日に『AMBITIOUS MISSION つばめエッチ追加パッチ』が発売。
 
 2024年3月21日には、  エンターグラム  より  PlayStation 4  /  Nintendo Switch
-版が発売予定。また、Nintendo Switch版限定で、同じくSAGA PLANETS開発の『  かけぬけ★青春スパーキング!
-』をセットにしアクリルキーホルダーを同梱したパッケージ版「AMBITIOUS MISSION＋かけぬけ★青春スパーキング！セット」も同時発売される  
+版が発売。また、Nintendo Switch版限定で、同じくSAGA PLANETS開発の『  かけぬけ★青春スパーキング!
+』をセットにしアクリルキーホルダーを同梱したパッケージ版「AMBITIOUS MISSION＋かけぬけ★青春スパーキング！セット」も同時発売された  
 。
 
 ##  あらすじ  

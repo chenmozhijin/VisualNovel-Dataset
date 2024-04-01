@@ -5,7 +5,7 @@
 (メーカー公称：)
 甘やかされ系ADV
 対応機種  Windows 98/Me/2000/XP
-必要環境  CPU：  PentiumII 233MHz相当以上
+必要環境  CPU：  Pentium II 233MHz相当以上
 メモリ：  128MB以上
 HDD：  300MB程度
 DirectX：  8.0a以上

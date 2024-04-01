@@ -121,52 +121,35 @@ TK  ：Michael Rivas
 查  ：  东地宏树 
 
 各话标题
-话数  英文标题
-中文标题  分镜  演出  作画监督
-EPISODE.1  Departure
-出发  岸诚二  平田雄三
-EPISODE.2  Guild
-公会  平井义通  川面恒介
-EPISODE.3  My Song
-我的歌  あおきえい  安斋刚文  海谷敏久
+话数  英文标题  中文标题  脚本  分镜  演出  作画监督
+EPISODE.1  Departure  出发  麻枝准  岸诚二  平田雄三
+EPISODE.2  Guild  公会  平井义通  川面恒介
+EPISODE.3  My Song  我的歌  青木英  安斋刚文  海谷敏久
 岩冈优子
-EPISODE.4  Day Game
-竞技日  湖山祯崇  桥本裕之  宫下雄次
-EPISODE.5  Favorite Flavor
-最喜欢的味道  浅井义之  平井义通  川面恒介
+EPISODE.4  Day Game  竞技日  湖山祯崇  桥本裕之  宫下雄次
+EPISODE.5  Favorite Flavor  最喜欢的味道  浅井义之  平井义通  川面恒介
 朱炫祐
 许箕栋
-EPISODE.6  Family Affair
-家事  平松祯史  许琮  平松祯史
-EPISODE.7  Alive
-生存  安斋刚文  岩冈优子
+EPISODE.6  Family Affair  家事  平松祯史  许琮  平松祯史
+EPISODE.7  Alive  生存  安斋刚文  岩冈优子
 松本刚彦
-EPISODE.8  Dancer in the Dark
-黑暗中的舞者  桥本裕之  宫下雄次
-EPISODE.9  In Your Memory
-在你的记忆中  あおきえい  柿本广大  关口可奈味
-EPISODE.10  Goodbye Days
-离别的日子  政木伸一  安斋刚文
+EPISODE.8  Dancer in the Dark  黑暗中的舞者  桥本裕之  宫下雄次
+EPISODE.9  In Your Memory  在你的记忆中  青木英  柿本广大  关口可奈味
+EPISODE.10  Goodbye Days  离别的日子  政木伸一  安斋刚文
 高桥正典  石井百合子
 川面恒介
 铃木美咲
-EPISODE.11  Change the World
-改变世界  许琮  金祈南
+EPISODE.11  Change the World  改变世界  许琮  金祈南
 许箕栋
 川面恒介
-EPISODE.12  Knockin' on heaven's door
-敲响天堂的大门  小仓陈利  平井义通  平田雄三
-仓川英锡
-EPISODE.13  Graduation
-毕业  桥本昌和  桥本裕之  宫下雄次
+EPISODE.12  Knockin' on heaven's door  敲响天堂的大门  小仓陈利  平井义通  平田雄三
+仓川英扬
+EPISODE.13  Graduation  毕业  桥本昌和  桥本裕之  宫下雄次
 川面恒介
 铃木美咲
-SPECIAL EPISODE.  Stairway to Heaven
-通向天堂的阶梯  浅井义之  安斋刚文  宫下雄次
-ANOTHER EPILOGUE.  ANOTHER EPILOGUE
-另一个后记  桥本裕之  平田雄三
-SPECIAL EPISODE. 2  Hell's Kitchen
-地狱的厨房  宫下雄次  
+SPECIAL EPISODE.  Stairway to Heaven  通向天堂的阶梯  浅井义之  安斋刚文  宫下雄次
+ANOTHER EPILOGUE.  ANOTHER EPILOGUE  另一个后记  桥本裕之  平田雄三
+SPECIAL EPISODE. 2  Hell's Kitchen  地狱的厨房  宫下雄次  
 相关音乐
 片头曲(OP)
 

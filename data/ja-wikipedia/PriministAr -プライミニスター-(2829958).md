@@ -60,7 +60,7 @@ MiniFandisc 枝那森千里 &駒萱野 Ver. ** 』が発売された。
 
 2023年  5月26日  には『 **PriministAr -プライミニスター- フルHDリマスター** 』が発売された。
 
-2024年  3月28日  には  Nintendo Switch  版と  PlayStation 4  版が発売される。
+2024年  3月28日  には  Nintendo Switch  版と  PlayStation 4  版が発売された。
 
 ##  解説  
 
@@ -79,7 +79,7 @@ Nauts』の追加ルートにて今作の舞台である粟生七舟学園が登
 
 ##  登場人物  
 
-※声はPC版 / PS Vita版の順。
+※声は18禁版 / 家庭用版の順。
 
 ###  主人公  
 

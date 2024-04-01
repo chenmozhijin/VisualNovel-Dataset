@@ -14,7 +14,7 @@ PC
 PlayStation 4
 PlayStation 5
 Nintendo Switch
-必要環境  OS：Windows7/8.1/10 64bit
+必要環境  OS：Windows 7/8.1/10 64bit
 CPU：Core i5-4300U以上
 メモリ：4GB以上
 HDD：約2GB以上 推奨約4GB

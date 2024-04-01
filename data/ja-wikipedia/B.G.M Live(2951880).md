@@ -8,6 +8,7 @@ Bishoujo Game Music Live!!
 会場  |  TSUTAYA O-EAST  （2015年 - ）   
 主催  |  B.G.M Live!! 制作委員会   
 **公式サイト**  
+テンプレートを表示  
   
 **B.G.M Live** （ビージーエムライブ）は、PCゲームによるPCゲーム楽曲を中心としたライブイベント。BGMとは「美少女ゲームミュージック（
 **B** ishoujo **G** ame **M** usic）」の略称。

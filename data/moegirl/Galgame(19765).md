@@ -198,7 +198,7 @@ PlayStation 4  、  PlayStation 5  和  Nintendo Switch  平台。
 
 电脑（Windows / MAC / Linux）
 
-360
+367
 
 平板（安卓 / Windows / iPad）
 
@@ -216,7 +216,7 @@ PlayStation 4  、  PlayStation 5  和  Nintendo Switch  平台。
 
 1
 
-自2023年1月16日 (一) 00:09创建以来共有401 人投票。
+自2023年1月16日 (一) 00:09创建以来共有408 人投票。
 
 poll-id C8EBEF93C120AC282EF7CA2934B07F63
 

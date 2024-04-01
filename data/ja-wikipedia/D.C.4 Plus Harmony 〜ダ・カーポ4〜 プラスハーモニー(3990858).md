@@ -8,13 +8,15 @@ D.C.4 〜ダ・カーポ4〜
 ゲーム  
 ゲームジャンル  |  こそばゆい学園  恋愛アドベンチャー   
 対応機種  |  Windows 7  /  8  /  10      
-Nintendo Switch  
 PlayStation 4  
+Nintendo Switch  
 発売元  |  CIRCUS NORTHERN  (PC)   
+エンターグラム  (PS4/Switch)  
 メディア  |  DVD-ROM     
 ディスクレス起動  |  可能   
 プレイ人数  |  1人   
-発売日  |  2019年  5月31日  （初回限定版）     
+発売日  |  Win：  2019年  5月31日  （初回限定版）      
+PS4/Switch：2019年12月19日  
 レイティング  |  全年齢対象（PC）   
 CERO  ：  **D** （17才以上対象）  （PS4/Switch）  
 キャラクター名設定  |  不可   

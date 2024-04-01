@@ -16,7 +16,7 @@ Nintendo Switch
 2023年  2月23日  （Switch）
 対象年齢  18禁（PC）
 CERO  ：  D  （17才以上対象）  （PSP）
-必要環境  CPU：Pentium4-1.1Ghz以上（PC）
+必要環境  CPU：Pentium 4 1.1Ghz以上（PC）
 解像度  800×600以上（PC）
 テンプレートを表示  
 『  越えざるは紅い花  』（こえざるはあかいはな）は、  Operetta Due  より  2012年  9月7日
