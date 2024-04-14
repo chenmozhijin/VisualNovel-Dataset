@@ -8,12 +8,17 @@ on:
         description: '增量更新'
         required: true
         type: boolean
+      bangumi_only:
+        description: '只更新bangumi'
+        required: false
+        type: boolean
 permissions:
     contents: write
     discussions: write
 jobs:
     ja-wikipedia:
         runs-on: ubuntu-22.04
+        if: ${{ !contains(github.event.inputs.bangumi_only, 'true') }}
         steps: 
             - name: 将存储库签出到运行器
               uses: actions/checkout@v3
@@ -52,6 +57,7 @@ jobs:
                   path: "workdir/ja-wikipedia.json"
 
     moegirl:
+        if: ${{ !contains(github.event.inputs.bangumi_only, 'true') }}
         runs-on: ubuntu-22.04
         steps: 
             - name: 将存储库签出到运行器
@@ -107,7 +113,7 @@ jobs:
 
             - name: 安装依赖
               run: |
-                pip install requests
+                pip install requests tqdm
 
             - name: 运行脚本
               run: |
@@ -121,6 +127,7 @@ jobs:
 
 
     push: 
+        if: ${{ !contains(github.event.inputs.bangumi_only, 'true') }}
         needs: [ja-wikipedia,moegirl,bangumi-Name-Glossary]
         runs-on: ubuntu-22.04
         steps:

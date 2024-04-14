@@ -6,6 +6,7 @@ import re
 import requests
 import logging
 import zipfile
+import tqdm
 
 def get_newest_archive():
     url = "https://api.github.com/repos/bangumi/Archive/releases/tags/archive"
@@ -64,11 +65,55 @@ def clear(content):
 
 results = []
 
-with open("/tmp/character.jsonlines", 'r', encoding='utf-8') as file:
-    contents = [json.loads(line) for line in file]
+def clear(content):
+    content = content.replace("\t", "")
+    content = content.replace("\n", "")
+    content = content.replace("\r", "")
+    content = content.replace("‎", "")
+    content = re.sub(r"^ +| +$", "", content)
+    content = re.sub(r"[（(\[【［][^)）】\]］]*[】］\])）]", "", content)
+    return content
 
+
+results = []
+
+logging.info("开始加载character.jsonlines")
+with open("character.jsonlines", 'r', encoding='utf-8') as file:
+    contents = [json.loads(line) for line in file]
+logging.info("开始加载subject-characters.jsonlines")
+with open("subject-characters.jsonlines", 'r', encoding='utf-8') as file:
+    subject_characters = [json.loads(line) for line in file]
+logging.info("开始加载subject.jsonlines")
+with open("subject.jsonlines", 'r', encoding='utf-8') as file:
+    o_subjects = [json.loads(line) for line in file]
+
+logging.info("开始处理subjects")
+o_subjects_dict = {item["id"]: item for item in o_subjects}
+o_subjects = None
+mapping = {}
+
+logging.info("开始处理subject-characters映射表")
+total = len(subject_characters)
+for subject_character in tqdm(subject_characters, total=total):
+    character_id = subject_character['character_id']
+    subject_id = subject_character['subject_id']
+
+    subject = o_subjects_dict.get(subject_id)
+
+    if subject is None:
+        continue
+    subject_name = subject['name']
+    subject_name_zh = subject['name_cn']
+    subject_type: int = subject['type']
+    if character_id not in mapping:
+        mapping[character_id] = []
+    mapping[character_id].append({"subject_id": subject_id, "subject_name": subject_name, "subject_name_zh": subject_name_zh, "subject_type": subject_type})
+
+
+logging.info("开始生成结果")
 # 遍历contents列表中的每一项
-for content in contents:
+total = len(contents)
+for content in tqdm(contents, total=total):
     # 获取infobox内容
     infobox = content["infobox"]
     if content["id"] == 28556:
@@ -112,17 +157,19 @@ for content in contents:
             cleared_item = [cleared_item]
         info[key] = cleared_item
 
-    zh_name: list | None = info["zh_name"]
-    zh_name2: list | None = info["zh_name2"]
-    ja_name: list | None = info["ja_name"]
-    ja_name2: list | None = info["ja_name2"]
-    kana_name: list | None = info["kana_name"]
-    kana_name2: list | None = info["kana_name2"]
-    en_name: list | None = info["en_name"]
-    en_name2: list | None = info["en_name2"]
-    gender: list | None = info["gender"]
-    nick_name: list | None = info["nick_name"]
-    nick_name2: list | None = info["nick_name2"]
+    zh_name: list = info["zh_name"]
+    zh_name2: list = info["zh_name2"]
+    ja_name: list = info["ja_name"]
+    ja_name2: list = info["ja_name2"]
+    kana_name: list = info["kana_name"]
+    kana_name2: list = info["kana_name2"]
+    en_name: list = info["en_name"]
+    en_name2: list = info["en_name2"]
+    gender: str = info["gender"]
+    nick_name: list = info["nick_name"]
+    nick_name2: list = info["nick_name2"]
+
+    subjects = mapping.get(content["id"], [])
 
     if zh_name2:
         zh_name.extend(zh_name2)
@@ -138,7 +185,7 @@ for content in contents:
     if not zh_name or not ja_name:
         continue
     else:
-        result = {"id": content["id"], "zh": zh_name, "ja": ja_name, "en": en_name, "kana": kana_name, "nick_name": nick_name, "gender": gender}
+        result = {"id": content["id"], "zh": zh_name, "ja": ja_name, "en": en_name, "kana": kana_name, "nick_name": nick_name, "gender": gender, "subjects": subjects}
         results.append(result)
 
 with open("character.jsonl", 'w', encoding='utf-8') as file:
