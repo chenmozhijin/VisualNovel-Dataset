@@ -111,7 +111,7 @@ jobs:
 
             - name: 运行脚本
               run: |
-                python $GITHUB_WORKSPACE/push/.github/workflows/scripts/bangumi_get_name_glossary.py
+                python $GITHUB_WORKSPACE/.github/workflows/scripts/bangumi_get_name_glossary.py
 
             - name: 上传文件
               uses: actions/upload-artifact@v3
