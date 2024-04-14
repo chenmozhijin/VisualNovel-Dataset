@@ -6,7 +6,7 @@ import re
 import requests
 import logging
 import zipfile
-import tqdm
+from tqdm import tqdm
 
 def get_newest_archive():
     url = "https://api.github.com/repos/bangumi/Archive/releases/tags/archive"
