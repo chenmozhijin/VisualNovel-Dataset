@@ -23,6 +23,7 @@
     * 2.1  Laplacian本社作品 
       * 2.1.1  galgame 
       * 2.1.2  游戏衍生音乐作品 
+      * 2.1.3  朗读剧 
     * 2.2  子会社PRINCIPIA作品 
       * 2.2.1  galgame 
       * 2.2.2  游戏衍生音乐作品 
@@ -58,6 +59,10 @@ Laplacian由  緒乃ワサビ  与霜降，上都河希  这几名理科爱好�
   * 『  白昼夢の青写真 ORIGINAL SOUNDTRACK  』（白日梦的构想图 OST）2020年09月25日 
   * 『  白昼夢の青写真 COMPLETE SOUND COLLECTION  』（白日梦的构想图 完整音乐收藏）2020年09月25日 
   * 『  白昼夢の青写真 VOCAL COLLECTION  』（白日梦的构想图 歌唱集）2021年01月15日 
+
+####  朗读剧
+
+  * 白昼夢の青写真 CASE-_ 誰が為のIHATOV  （白日梦的构想图 CASE-_ 为谁而建的理想乡）2023年7月29日 
 
 ###  子会社PRINCIPIA作品
 
