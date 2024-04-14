@@ -90,8 +90,38 @@ jobs:
                   name: moegirl-json
                   path: "workdir/moegirl.json"
 
+    bangumi-Name-Glossary:
+      runs-on: ubuntu-22.04
+      steps: 
+            - name: 将存储库签出到运行器
+              uses: actions/checkout@v3
+        
+            - name: 输出运行器硬件信息
+              run: |
+                bash $GITHUB_WORKSPACE/.github/workflows/scripts/hardware_info.sh
+
+            - uses: actions/setup-python@v5
+              with:
+                python-version: 3.11
+                architecture: x64
+
+            - name: 安装依赖
+              run: |
+                pip install requests
+
+            - name: 运行脚本
+              run: |
+                python $GITHUB_WORKSPACE/push/.github/workflows/scripts/bangumi_get_name_glossary.py
+
+            - name: 上传文件
+              uses: actions/upload-artifact@v3
+              with:
+                  name: bangumi-Name-Glossary
+                  path: "character.jsonl"
+
+
     push: 
-        needs: [ja-wikipedia,moegirl]
+        needs: [ja-wikipedia,moegirl,bangumi-Name-Glossary]
         runs-on: ubuntu-22.04
         steps:
           - name: 将存储库签出到运行器
@@ -109,12 +139,19 @@ jobs:
             with:
                 name: moegirl-json
 
+          - name: 下载bangumi-Name-Glossary-json文本
+            uses: actions/download-artifact@v3
+            with:
+                name: bangumi-Name-Glossary
+
           - name: 复制与拆分
             run: |
                 mkdir -p push/data
                 mkdir -p upload/data
                 cp -f ja-wikipedia.json upload/data/ja-wikipedia.json
                 cp -f moegirl.json upload/data/moegirl.json
+                cp -f character.jsonl upload/data/bangumi-character.jsonl
+                cp -f character.jsonl push/data/bangumi-character.jsonl
                 python $GITHUB_WORKSPACE/push/.github/workflows/scripts/json_to_files.py ja-wikipedia.json push/data/ja-wikipedia
                 python $GITHUB_WORKSPACE/push/.github/workflows/scripts/json_to_files.py moegirl.json push/data/moegirl
 
