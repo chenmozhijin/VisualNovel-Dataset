@@ -78,13 +78,13 @@ def clear(content):
 results = []
 
 logging.info("开始加载character.jsonlines")
-with open("character.jsonlines", 'r', encoding='utf-8') as file:
+with open("/tmp/character.jsonlines", 'r', encoding='utf-8') as file:
     contents = [json.loads(line) for line in file]
 logging.info("开始加载subject-characters.jsonlines")
-with open("subject-characters.jsonlines", 'r', encoding='utf-8') as file:
+with open("/tmp/subject-characters.jsonlines", 'r', encoding='utf-8') as file:
     subject_characters = [json.loads(line) for line in file]
 logging.info("开始加载subject.jsonlines")
-with open("subject.jsonlines", 'r', encoding='utf-8') as file:
+with open("/tmp/subject.jsonlines", 'r', encoding='utf-8') as file:
     o_subjects = [json.loads(line) for line in file]
 
 logging.info("开始处理subjects")
