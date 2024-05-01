@@ -10,34 +10,47 @@ CiNii  **·** J-STAGE  **·** NDL  **·** dlib.jp  **·** ジャパンサーチ 
 ---|---  
 パルフェ 〜Chocolat second brew〜  
 ---  
-ゲーム：パルフェ 〜Chocolat second brew〜(PC)  
-パルフェ -Chocolat Second Style-(PS2)  
+ゲーム：パルフェ 〜Chocolat second brew〜（PC）  
+パルフェ -Chocolat Second Style-（PS2）  
+パルフェ リマスター版（PS Vita）  
+パルフェRemake（PC/PS4/Switch）  
 ゲームジャンル  |  メイド喫茶アドベンチャー   
-対応機種  |  Windows  98  /  ME  /  2000  /  XP    
+対応機種  |  [オリジナル]   
+Windows  98  /  ME  /  2000  /  XP  
 PlayStation 2  
 PlayStation Vita  
+[リメイク]  
+Windows  8.1  /  10  /  11  
 PlayStation 4  
 Nintendo Switch  
-発売元  |  戯画  (PC)   
-アルケミスト  (PS2)  
-テイジイエル企画→エンターグラム  (Standard Edition)  
-メディア  |  PS Vitaカード(PS Vita)   
-発売日  |  2005年  3月25日  (初回版)   
-2005年  12月22日  (Re-order)  
-2006年  6月29日  (PS2)  
-2007年  6月29日(Standard Edition)  
-2015年  2月26日  (PS Vita)  
-2021年  3月26日  (リメイク)  
-2021年  11月25日  (リメイクPS4/Switch)  
-レイティング  |  18禁(PC)   
-CERO  ：  **B** （12才以上対象）  (PS2/PS Vita)  
-コンテンツアイコン  |  セクシャル、恋愛(PS2)   
+発売元  |  戯画  （PC）   
+アルケミスト  （PS2）  
+TGL→エンターグラム  （PS Vita）  
+エンターグラム（PC/PS4/Switch）  
+メディア  |  DVD-ROM（PC）   
+BD-ROM（PS4）  
+ゲームカード（Switch/PS Vita）  
+発売日  |  2005年  3月25日  （初回版）   
+2005年  12月22日  （Re-order）  
+2006年  6月29日  （PS2）  
+2007年  6月29日（Standard Edition）  
+2015年  2月26日  （PS Vita）  
+2021年  3月26日  （リメイクPC18禁版）  
+2021年  11月25日  （リメイクPS4/Switch）  
+2022年  7月29日  （リメイクPC全年齢版）  
+レイティング  |  18禁（PC）   
+CERO  ：  **B** （12才以上対象）  （PS2/PS Vita）  
+CERO  ：  **C** （15才以上対象）  （PC/PS4/Switch通常版）  
+CERO  ：  **D** （17才以上対象）  （PS4/Switch限定版）  
+コンテンツアイコン  |  CERO：セクシャル、恋愛   
 キャラクター名設定  |  不可   
-エンディング数  |  13(PC)   
+エンディング数  |  13   
 セーブファイル数  |  99+AUTO10   
-画面サイズ  |  800×600 (PC)   
-960×544 (PS Vita)  
-音楽フォーマット  |  PCM   
+画面サイズ  |  800×600（PC）   
+960×544（PS Vita）  
+1920×1080（リメイクPC/PS4/Switch TVモード）  
+1280×720（Switch 携帯モード）  
+音楽フォーマット  |  PCM  （PC）   
 キャラクターボイス  |  主人公以外フルボイス   
 テンプレート  \-  ノート  
 プロジェクト  |  美少女ゲーム系   

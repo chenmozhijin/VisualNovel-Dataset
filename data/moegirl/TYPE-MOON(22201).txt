@@ -149,6 +149,7 @@ Fate/Requiem  2018年12月  星空流星所著的小说。在和平的、谁人�
 Fate/EXTRA Record  未定  2010年发售的Fate/EXTRA的重制版，利用虚幻引擎4进行制作。
 为TYPE-MOON旗下工作室Studio BB制作的第一部作品。
 迦勒底事件簿  第一卷：2020年2月16日  
+Template:Fate
 空之境界
 魔法使之夜
 其他作品
@@ -179,6 +180,7 @@ DDD  第一卷：2007年1月
 顺带一提，男主角的妹妹  石杖火铊  曾在型月2013年企划“路地里五月 女主角十二宫篇”中作为女主角之一守护巳之宫
 世界征服～谋略之星～  冈村天斋  、  星空流星  (TYPE-MOON所属)、  黑星红白  合作的原创动画企划。2014年1月播出。
 世界观与型月世界观完全无关联。Notes.加入了制作委员会。  
+Template:DDD  Template:Girls' Work  Template:Fire Girl  Template:世界征服谋略之星
 Template:CANAAN  Template:TYPE-MOON
 型月帝国军
 Template:Main  TYPE-MOON旗下游戏的支持者的自称。

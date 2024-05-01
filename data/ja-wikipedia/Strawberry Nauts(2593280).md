@@ -17,23 +17,26 @@ PlayStation Vita
 Nintendo Switch  
 PlayStation 4  
 発売元  |  HOOKSOFT  (PC/DMM)   
-エンターグラム  (PS Vita/Switch/PS4)  
+エンターグラム  (PS4/Switch/PSVita)  
 発売日  |  2011年  11月25日  (PC18禁版)   
 2016年  2月26日  (PC全年齢版)  
-2016年  7月28日  (PS Vita)  
-2022年  1月27日  (Switch/PS4)  
+2016年  7月28日  (PSVita)  
+2022年  1月27日  (PS4/Switch)  
 レイティング  |  18禁 (PC)   
 全年齢対象 (DMM)  
-CERO  ：  **D** （17才以上対象）  (PS Vita)  
+CERO  ：  **D** （17才以上対象）  (PS4/Switch/PSVita)  
+コンテンツアイコン  |  CERO：セクシャル   
 キャラクター名設定  |  不可   
 エンディング数  |  6+2+1+1（追加パッチ適用後）   
 セーブファイル数  |  100+1   
 メディア  |  DVD-ROM (PC)   
-ダウンロード版 (DMM)  
-PS Vitaカード/DL版 (PS Vita)  
+BD-ROM (PS4)  
+ゲームカード (Switch/PSVita)  
+ダウンロード版  
 画面サイズ  |  1024×576 (PC18禁版)   
-1280×720 (PC全年齢版)  
-960×544 (PS Vita)  
+1280×720 (PC全年齢版/Switch版携帯モード)  
+960×544 (PSVita)  
+1920×1080 (PS4/Switch版TVモード)  
 BGMフォーマット  |  DirectSound   
 キャラクターボイス  |  主人公以外フルボイス   
 CGモード  |  あり   

@@ -1,6 +1,6 @@
 Radio Girl's Symphony  
 ---  
-インターネットラジオ  
+ラジオ  
 配信期間  |  2009年  6月2日  \-  2010年  4月20日   
 配信サイト  |  HiBiKi Radio Station   
 配信日  |  **毎月** 第 1・第 3  火曜日   

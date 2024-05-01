@@ -17,6 +17,7 @@ Prototype（Switch）
 2017年5月26日（PC·初回限定版）  
 2019年4月26日（PC·通常版）  
 2022年10月20日（Switch）  [3]  
+2024年4月24日（PC·Steam·重制版）  [4]  
 “  |  **You taught me how important feelings are.**   
 **There is an everlasting song.** |  ”   
 ---|---|---  
@@ -43,7 +44,10 @@ Prototype（Switch）
 游戏的英文版于2016年9月23日正式登陆Steam，日文版则于2016年底在C91的Visual
 Art's展位先行发售，2017年5月26日开始全面发售。2021年12月23日，steam更新了官方中文版。
 
-其剧本蓝本来自早期某届由VA主办的“Kinetic Novel征稿大赛”中故事组的某份虽未获任何奖，但被特殊赏识继而被提上企划的民间参赛投稿  [4]  。
+游戏的高清重制版“Harmonia Full HD
+Edition”于2024年4月24日正式登陆Steam，该版本是拥有“黎”的角色声音的全语音版，同时自带中英日三语文本。
+
+其剧本蓝本来自早期某届由VA主办的“Kinetic Novel征稿大赛”中故事组的某份虽未获任何奖，但被特殊赏识继而被提上企划的民间参赛投稿  [5]  。
 
 ##  剧情介绍
 

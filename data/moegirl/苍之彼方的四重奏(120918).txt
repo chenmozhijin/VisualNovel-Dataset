@@ -9,6 +9,7 @@
 PlayStation Vita
 PlayStation 4
 Nintendo Switch
+Android
 分级  PC：  EOCS  :  - 18岁以下禁止
 主机版：  CERO  :  - 15岁以上
 开发  sprite
