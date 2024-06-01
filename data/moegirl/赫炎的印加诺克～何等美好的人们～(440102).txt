@@ -5,8 +5,9 @@
 类型  ADV
 平台  Windows
 分级  EOCS  :  - 18岁以下禁止
-开发  Liar-soft  、  Nekoday
-发行  Nekoday
+开发  Liar-soft
+发行  Liar-soft
+Nekoday  （中文版）
 角色设计  大石龙子
 编剧  樱井光
 美工  大石龙子（原画)
@@ -43,8 +44,7 @@ Adenium vocalless
 6  全语音重生版 
 7  衍生作品 
 8  其他 
-9  注释 
-10  外部链接 
+9  外部链接 
 
 剧情简介
 10年前的“复活”彻底孤立了“完全环境都市”印加诺克。

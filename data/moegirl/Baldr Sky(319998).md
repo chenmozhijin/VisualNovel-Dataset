@@ -202,7 +202,7 @@ Dive 1：《  Restoration ～沉默の空～  》
 
      作词：  KOTOKO  ／ 作曲：  C.G mix  ／ 编曲：  C.G mix  ／ 演唱：  KOTOKO 
 
-Dive 2：《  ♯♯♯♯♯  》
+Dive 2：《  jihad  》
 
      作词：  KOTOKO  ／ 作曲：  C.G mix  ／ 编曲：  C.G mix  ／ 演唱：  KOTOKO 
 

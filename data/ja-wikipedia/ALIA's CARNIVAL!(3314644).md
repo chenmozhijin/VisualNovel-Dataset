@@ -24,7 +24,6 @@ Android  /  iPhone
 [Steam]全年齢  
 画面サイズ  |  1280×720   
 キャラクターボイス  |  フルボイス   
-備考  |  [Steam]18禁パッチ有   
 テンプレートを表示  
 ALIA's CARNIVAL! Flowering Sky  ジャンル  |  花と蒼月のちょっと不思議な学園恋愛ADV   
 ---|---  

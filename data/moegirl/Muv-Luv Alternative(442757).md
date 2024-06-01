@@ -124,7 +124,7 @@ Muv-Luv Alternative
 Lynn  
 代理发行  |  木棉花国际   
 播放平台  |  日本：富士电视台、BS富士、AT-X；FOD（网络配信） 等   
-播放状态  |  已完结   
+播放状态  |  二期放送结束   
 相关作品  |  Muv-Luv   
   
 

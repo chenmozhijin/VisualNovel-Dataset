@@ -2,13 +2,13 @@ SNOW
 原名  SNOW
 常用译名  冬日恋歌
 类型  ADV
-平台  PC、Dreamcast、PlayStation Portable、PlayStation2
+平台  PC、Dreamcast、PlayStation Portable、PlayStation2、Android
 分级  PC：  EOCS  :  - 18岁以下禁止
 Dreamcast：全年龄
 PS2：  CERO  :  - 15岁以上
 PSP：  CERO  :  - 15岁以上
 开发  Studio Mebius
-发行  Studio Mebius（PC）
+发行  Studio Mebius（PC/Android）
 NEC Interchannel（DC/PS2）
 Prototype（PSP）
 模式  单人单机
@@ -18,6 +18,8 @@ Prototype（PSP）
 2004年9月24日（PC全语音）
 2006年9月29日（PC+）
 2007年8月16日（PSP）
+2008年7月25日（PC SE）
+2015年12月25日（Android）
 改编载体  漫画
 相关作品  朋友以上恋人未满  、 ~~ 夏空彼方  ~~  
 《  SNOW  》是  Studio Mebius  开发的一款游戏，并有漫画等衍生作品。

@@ -1,6 +1,6 @@
 Paradise Paradox  ジャンル  |  恋愛アドベンチャー   
 ---|---  
-対応機種  |  Win95  /  Win98   
+対応機種  |  Microsoft Windows 95  /  98   
 開発元  |  specious   
 発売元  |  specious   
 キャラクターデザイン  |  Take-C   

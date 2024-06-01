@@ -16,7 +16,7 @@ AQUAPRICE2800（PSP版）（F）
 ゲームジャンル  |  ビジュアルノベル  （A,E,F）   
 ADV  （ノベル形式）（B,C,D）  
 対応機種  |  Windows 95  /  98  （A）   
-Windows 98  /  ME  /  2000  /  XP  （Arp,C）  
+Windows 98  /  Me  /  2000  /  XP  （Arp,C）  
 PlayStation  （B）  
 PlayStation 2  （D）  
 PlayStation Portable  （E,F）  

@@ -71,7 +71,7 @@ sprite初期继承了Selen的全部成员，也因此在sprite成立后，Selen�
 
 3.  everlasting flowers
  FILMIC-02 
- 发售日期：2024年6月27日
+ 发售日期：2024年8月29日
 
 4.JASHINCHAN - 7th Devil -
  FILMIC-03 

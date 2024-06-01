@@ -43,6 +43,7 @@ CERO  ：  **C** （15才以上対象）  （PS4/Switch）
     
 
   * 1月26日、『D.C.5 Future Link ～ダ・カーポ5～ フューチャーリンク』(PC)発売。 
+  * 9月27日、『D.C.5 Plus Happiness ～ダ・カーポ5～プラスハピネス』(PC)発売。 
 
     
 

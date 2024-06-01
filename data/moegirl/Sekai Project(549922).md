@@ -30,9 +30,11 @@ Chris Ling
 
 ##  简介
 
-  * 总部位于美国的  洛杉矶  ，主要将非英文  视觉小说  作品（以日文为主，也有少量中文、韩文等其他语言）翻译为英文及其他语言的版本。除此之外也会发行一些日本漫画的英文翻译版本，以及其他类型的电子游戏。作品主要在  Steam  上发行，部分作品  因不可抗力因素而  发行于Denpasoft或GOG平台。 
+  * 总部位于美国的  洛杉矶  ，主要将非英文  视觉小说  作品（以日文为主，也有少量中文、韩文等其他语言）翻译为英文及其他语言的版本。除此之外也会发行一些日本漫画的英文翻译版本，以及其他类型的电子游戏。作品主要在  Steam  平台上发行，补丁一般由合作商Denpasoft发行；部分作品  因不可抗力因素而  发行于GOG平台。 
+  * 自营平台商城为Sekai Project  、Denpasoft  。以Sekai Games的名义发行主机端PS/NS版的Gal或其他类型游戏。 
   * 日本代理商代表中本直宏在采访中说，中国占据了其全世界视觉小说游戏份额的45%  [1]  。 
   * 除了自行制作以外，Sekai Project也会和其他制作组织合作进行各类语言的翻译，如  因  任性High Spec  官方繁体中文文本争议事件而搭上线的  SyawaseWorks  为其合作较多的简体中文游戏发行商  [注 1]  [2]  。2020年和MugyuMugyu、Syawase Group一同出展了  CP26  [3]  。 
+  * 吉祥物/看板娘是Sena Aozara(世奈)酱，宣传口号是「Connecting creators to their fans,all over the world!」（将全世界的创作者同他们的粉丝连接起来！） 
 
 ##  沿革
 
@@ -66,11 +68,11 @@ Narcissu 2nd  |  Stage☆nana  |  2015-04-24
 The Reject Demon: Toko Chapter 0 — Prelude  |  Lupiesoft  |  2015-05-09   
 一目钟情  |  Creepy Cute  |  2015-05-19   
 Sakura Fantasy Chapter 1  |  Winged Cloud  |  2015-05-30   
-灰色的果实  |  FrontWing  |  2015-05-30   
+灰色的果实  [注 2]  |  FrontWing  |  2015-05-30   
 雨的边缘  |  Stage☆nana  |  2015-07-07   
 WORLD END ECONOMiCA episode.02  |  Spicy Tails  |  2015-07-22   
 偶像魔法少女☆小满 前篇  
-偶像魔法少女☆小满 后篇  |  FrontWing  |  2015-07-30   
+偶像魔法少女☆小满 后篇  [注 2]  |  FrontWing  |  2015-07-30   
 窒息  |  ebi-hime  |  2015-08-05   
 Sakura Beach  |  Winged Cloud  |  2015-08-15   
 猫娘乐园 Vol.0  |  NEKO WORKs  |  2015-08-17   
@@ -80,7 +82,7 @@ Sound of Drop - fall into poison -  |  aiueoKompany  |  2015-10-31
 书之天宇  |  Unwonted Studios  |  2015-11-09   
 CLANNAD  |  Key  |  2015-11-24   
 Reverse x Reverse  |  Desunoya  |  2015-12-11   
-WAS -The Hourglass of Lepidoptera-  |  S.R.L.  |  2015-12-15  [注 2]   
+WAS -The Hourglass of Lepidoptera-  |  S.R.L.  |  2015-12-15  [注 3]   
 Sakura Santa  |  Winged Cloud  |  2015-12-21   
 Strawberry Vinegar  |  ebi-hime  |  2016-01-06   
 艾米琳·伯恩斯的悲惨往事  |  ebi-hime  |  2016-01-06   
@@ -98,7 +100,7 @@ CLANNAD Side Stories  |  Key  |  2016-06-03
 花开公路  |  Alienworks  |  2016-06-18   
 迷途羊的果树园  |  Namaage  |  2016-06-21   
 My Little Kitties  |  COSEN  |  2016-06-22   
-灰色的迷宫  |  FrontWing  |  2016-06-23   
+灰色的迷宫  [注 2]  |  FrontWing  |  2016-06-23   
 KARAKARA  |  calme  |  2016-06-28   
 Muv-Luv  |  âge  |  2016-07-15   
 Empty Horizons  |  ebi-hime  |  2016-07-20   
@@ -117,7 +119,7 @@ PacaPlus  |  PacoProject  |  2017-03-31
 伴星  |  Narrator  |  2017-04-01   
 The Falconers: Moonlight  |  Bionic Penguin  |  2017-04-19   
 猫忍之心  |  Whirlpool  |  2017-04-22   
-灰色的乐园  |  FrontWing  |  2017-04-29   
+灰色的乐园  [注 2]  |  FrontWing  |  2017-04-29   
 A Butterfly in the District of Dreams  |  Life a Little  |  2017-05-13   
 Walkerman  |  ScalemaiL  |  2017-05-23   
 猫娘乐园 Vol.3  |  NEKO WORKs  |  2017-05-25   
@@ -152,7 +154,7 @@ Last Stanza  |  Innocence  |  2018-11-10
 9-nine-九次九日九重色  |  Palette  |  2019-02-01   
 Serment - Contract with a Devil  |  Nkt Studio  |  2019-02-02   
 森灵之心  |  Studio Élan  |  2019-02-15   
-青梅竹马是人鱼姬！？  [注 3]  |  TALESSHOP  |  2019-02-28   
+青梅竹马是人鱼姬！？  [注 4]  |  TALESSHOP  |  2019-02-28   
 National Park Girls  |  Studio Élan  |  2019-03-15   
 东京时笼  |  MyDearest  |  2019-03-20   
 Exogenesis ~Perils of Rebirth~  |  Kwan  |  2019-04-20   
@@ -162,7 +164,7 @@ Exogenesis ~Perils of Rebirth~  |  Kwan  |  2019-04-20
 Muv-Luv Photonflowers*  |  âge  |  2019-08-03   
 9-nine-天色天歌天籁音  |  Palette  |  2019-08-17   
 七色轮回  |  Silky's Plus Wasabi  |  2019-09-28   
-fault - milestone one  [注 4]  |  ALICE IN DISSONANCE  |  2019-10-03   
+fault - milestone one  [注 5]  |  ALICE IN DISSONANCE  |  2019-10-03   
 兽娘的养成方法  |  SWEET&TEA  |  2019-10-12   
 猫忍之心3  |  Whirlpool  |  2019-10-19   
 冬季北极星  |  Stage☆nana  |  2019-12-13   
@@ -182,7 +184,7 @@ Real Life Plus Ver. Kaname Komatsuzaki  |  Fan-na  |  2020-05-09
 9-nine-雪色雪花雪之痕  |  Palette  |  2021-03-20   
 Girls in Glasses  |  nostalgia  |  2021-04-10   
 Childhood Friends  |  OrcSoft  |  2021-04-17   
-WORLD END ECONOMiCA ~complete~  [注 5]  |  Spicy Tails  |  2021-04-21   
+WORLD END ECONOMiCA ~complete~  [注 6]  |  Spicy Tails  |  2021-04-21   
 龙姬混~日子 LOVE + PLUS  |  Whirlpool  |  2021-06-23   
 ISLAND DIARY  |  watakubi  |  2021-07-03   
 猫郎乐园  |  NEKO WORKs  |  2021-07-15   
@@ -199,7 +201,7 @@ Rewrite+  |  Key  |  2021-12-18
 家喵二三事 Vol. 1  |  Animal Herb  |  2022-04-09   
 最后的千纸鹤  |  Blissful Work's  |  2022-07-05   
 天津罪  |  Purple software  |  2022-07-29   
-青梅竹马是人鱼姬！？ Refine  [注 6]  |  TALESSHOP  |  2019-08-05   
+青梅竹马是人鱼姬！？ Refine  [注 7]  |  TALESSHOP  |  2019-08-05   
 Miko no Kanata: Curious Tales from Oguni Shrine -Cycles-  |  Fan-na  |  2022-08-06   
 兽娘道☆GirlishSquare  |  Whirlpool  |  2022-08-13   
 天作之合的我们 1  |  黑彩黄泉路  |  2022-09-24   
@@ -219,11 +221,12 @@ NTR幻想之我的藤木同学  |  Kurenaibook  |  2023-04-08
 始于谎言的夏日恋情  |  LYCORIS  |  2023-11-04   
 兽娘道☆GirlishSquare LOVE+PLUS  |  Whirlpool  |  2023-11-18   
 学校的圣域  |  feng  |  2023-12-16   
+兽娘道☆GirlishSquare 2  |  Whirlpool  |  2023-12-29   
 贽之匣庭  |  Chatte Noire  |  2024-02-15   
-猫忍之心SPIN!  |  Whirlpool  |  TBA   
+猫忍之心SPIN!  |  Whirlpool  |  2024   
+娇小少女的小夜曲  |  feng  |  2024   
 全ての恋に、花束を。  |  Cosmillica  |  TBA   
 染红的街道  |  feng  |  TBA   
-娇小少女的小夜曲  |  feng  |  TBA   
 '하나'님의 캠퍼스 라이프!  |  Limited Factory  |  TBA   
 HAPPY SAIN† SHEOL  |  半径122pxの冥土  |  TBA   
 春开，意遥遥。  |  Sumikko Soft  |  TBA   
@@ -240,6 +243,7 @@ Rewrite Harvest festa!  |  Key  |  TBA
 サナララR  |  猫猫社  |  TBA   
 由梦想与色彩编织而成  |  feng  |  TBA   
 一直都是女孩子  |  feng  |  TBA   
+任性High Spec OC  |  Madosoft  |  TBA   
   
   * 此外，Sekai Project于2015年7月宣布5个新的代理作品，其中包括《  天神乱漫  》  [9]  。然而此后Sekai Project方面便不再有关于此作的任何消息，自2018年起NekoNyan及HIKARI FIELD成为  YUZU SOFT  的传统外文发行商，不知此作将作何安排。 
 
@@ -262,7 +266,7 @@ AL･FINE  |  CrimsonRabbit  |  2016-11-12  |  SLG
 魔法高校少女  |  illuCalab  |  2016-11-23  |  RPG   
 MAGICAL×SPIRAL  |  Broken Desk  |  2016-12-21  |  ACT   
 Trapper Knight, Sharpshooter Princess  |  desunoya  |  2017-04-11  |  RPG   
-Rabi-Ribi  [注 7]  |  CreSpirit  |  2017-10-31  |  STG   
+Rabi-Ribi  [注 8]  |  CreSpirit  |  2017-10-31  |  STG   
 Tactical Chronicle  |  Yellow Factory  |  2018-04-19  |  RPG   
 M.A.S.S. Builder  |  Vermillion Digital  |  2019-09-14  |  SLG   
 The Emerald Tablet  |  {uni}  |  2019-12-17  |  RPG   
@@ -272,13 +276,14 @@ Machina of the Planet Tree -Unity Unions-  |  Denneko Yuugi  |  2020-05-16  |  R
 Tobari 2: Dream Ocean  |  desunoya  |  2020-07-18  |  ACT   
 终结的世界与你和我  |  illuCalab  |  2020-09-23  |  SLG   
 Undead Darlings ~no cure for love~  |  Mr. Tired Media  |  2020-09-29  |  RPG   
-Clea  [注 8]  |  InvertMouse  |  2020-10-30  |  PUZ   
+Clea  [注 9]  |  InvertMouse  |  2020-10-30  |  PUZ   
 阿丽莎游记  |  ShiroKuroSoft  |  2020-11-25  |  RPG   
-Clea 2  [注 8]  |  InvertMouse  |  2021-03-25  |  PUZ   
+Clea 2  [注 9]  |  InvertMouse  |  2021-03-25  |  PUZ   
 Tobari 2: Dream Ocean  |  desunoya  |  2021-07-10  |  ACT   
 Lys and Ruka's Magical Bag  |  desunoya  |  2022-08-06  |  PUZ   
 寻找爱丽丝！  |  illuCalab  |  2023-01-28  |  ACT   
 Sunrider 4: The Captain's Return  |  Love in Space  |  2023-02-09  |  RPG   
 复兴游记  |  ShiroKuroSoft  |  2023-03-25  |  RPG   
 LOOP LOOP ROOM  |  desunoya  |  2023-08-01  |  ACT   
+公主游记  |  ShiroKuroSoft  |  2024-03-09  |  RPG   
   

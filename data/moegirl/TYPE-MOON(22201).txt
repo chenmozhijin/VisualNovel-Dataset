@@ -180,8 +180,9 @@ DDD  第一卷：2007年1月
 顺带一提，男主角的妹妹  石杖火铊  曾在型月2013年企划“路地里五月 女主角十二宫篇”中作为女主角之一守护巳之宫
 世界征服～谋略之星～  冈村天斋  、  星空流星  (TYPE-MOON所属)、  黑星红白  合作的原创动画企划。2014年1月播出。
 世界观与型月世界观完全无关联。Notes.加入了制作委员会。  
-Template:DDD  Template:Girls' Work  Template:Fire Girl  Template:世界征服谋略之星
-Template:CANAAN  Template:TYPE-MOON
+Template:DDD
+invoke:Nav  Template:Fire Girl  Template:世界征服谋略之星  Template:CANAAN
+Template:TYPE-MOON
 型月帝国军
 Template:Main  TYPE-MOON旗下游戏的支持者的自称。
 型月梗

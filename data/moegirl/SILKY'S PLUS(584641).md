@@ -10,11 +10,14 @@
 相关会社  |  elf  ，  SILKY'S SAKURA  ，  NightWind   
 网址  |  http://www.silkysplus.jp   
   
+**SILKY'S PLUS** （ ** シルキーズプラス  ** ）是日本株式会社Night Wind旗下的  Galgame
+品牌，旗下亦有SILKY'S PLUS A5和牛、SILKY'S PLUS DOLCE、SILKY'S PLUS WASABI等若干子品牌。
+
 ##  概要
 
-  * 2014年创立的美少女游戏品牌，前身是SILKY'S,母公司是Night Wind社，姊妹社为SILKY'S SAKURA（专攻拔作）。 
+  * 2014年创立的美少女游戏品牌，前身是  ELF  旗下品牌SILKY'S，母公司是Night Wind社，姊妹社为SILKY'S SAKURA（专攻拔作）。 
 
-  * 2017年，  ELF  社倒闭，该社吸收了其大部分员工，制作水平大幅提升。 
+  * 2017年，ELF社倒闭，该社吸收了其大部分员工，制作水平大幅提升。 
 
   * 新作  きまぐれテンプテーション  2制作中。 
 
