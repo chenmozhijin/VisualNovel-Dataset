@@ -377,7 +377,7 @@ Soul Link ORIGINAL SOUNDTRACK  [注 1]
 
 ###  キャラクターソングアルバム  
 
-『  Soul Link  
+『Soul Link  
 Character Vocal Album  [注 1]  』  
 ---  
 ゲーム『Soul Link』  の  スタジオ・アルバム  

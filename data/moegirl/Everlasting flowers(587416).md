@@ -11,7 +11,7 @@ everlasting flowers
 平台  |  Nintendo Switch    
 PlayStation 4  
 Steam  
-分级  |  |  CERO  :  |  \- 审查预定   
+分级  |  |  CERO  :  |  \- 12岁以上   
 ---|---  
 开发  |  sprite    
 Frontwing  （中英文）  

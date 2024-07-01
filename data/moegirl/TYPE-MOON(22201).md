@@ -186,10 +186,8 @@ DDD  |  第一卷：2007年1月
   
   
 
-Template:DDD
-
-#invoke:Nav  Template:Fire Girl  Template:世界征服谋略之星  Template:CANAAN
-Template:TYPE-MOON
+Template:DDD  Template:Girls' Work  Template:Fire Girl  Template:世界征服谋略之星
+Template:CANAAN  Template:TYPE-MOON
 
 ##  型月帝国军
 

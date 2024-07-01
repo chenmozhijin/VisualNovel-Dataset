@@ -1,4 +1,4 @@
-『  五色詠-Immortal Lovers-  』  
+『五色詠-Immortal Lovers-』  
 ---  
 黒崎真音  の  EP  
 リリース  |  2011年  8月10日   

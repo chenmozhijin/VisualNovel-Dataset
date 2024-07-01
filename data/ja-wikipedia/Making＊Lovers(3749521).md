@@ -448,7 +448,7 @@ Making*Lovers
 
 ###  CD  
 
-『  Making*Lovers Original Soundtrack  』  
+『Making*Lovers Original Soundtrack』  
 ---  
 SMEE  の  サウンドトラック  
 リリース  |  2017年  12月29日   

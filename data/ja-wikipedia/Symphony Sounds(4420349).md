@@ -133,6 +133,7 @@ Symphony Sounds Generation 2018  |  2020/05/29
 Symphony Sounds Generation 2019  |  2021/05/28   
 Symphony Sounds Generation 2020  |  2022/05/27   
 Symphony Sounds Generation 2021  |  2023/05/26   
+Symphony Sounds Generation 2022  |  2024/05/31   
 Symphony Sounds Record 2018 ～from 2003 to 2017～  |  2018/08/31   
 Symphony Sounds Record 2019 ～from 2004 to 2018～  |  2019/08/30   
 Symphony Sounds Record 2020 ～from 2005 to 2019～  |  2020/08/28   

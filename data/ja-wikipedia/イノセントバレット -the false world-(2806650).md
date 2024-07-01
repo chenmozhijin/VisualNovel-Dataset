@@ -149,8 +149,8 @@ CGモード  |  あり
 
 ###  サウンドトラック  
 
-『  イノセントバレット -the false world-  
--Original Sound Track-  』   
+『イノセントバレット -the false world-  
+-Original Sound Track-』   
 ---  
 イノセントバレット -the false world-  の  サウンドトラック  
 リリース  |  2013年8月13日   

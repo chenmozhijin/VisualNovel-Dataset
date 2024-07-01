@@ -4,6 +4,7 @@
 类型  模拟经营
 视觉小说
 平台  Microsoft Windows
+Nintendo Switch
 开发  落叶岛项目组
 橘子班
 总监  被炒的炒饭
@@ -11,7 +12,8 @@
 编剧  被炒的炒饭
 音乐  Windbell Project
 引擎  The NVL Maker
-发行时间  2021年11月12日  
+发行时间  2021年11月12日
+2024年6月13日（Switch）  
 《  小白兔电商  》（英语：  Bunny e-shop  ）是  落叶岛项目组&橘子班  开发的电商经营游戏，2021年11月12日在  Steam
 上发售。
 目录

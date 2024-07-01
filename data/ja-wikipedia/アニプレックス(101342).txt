@@ -398,6 +398,7 @@ Occultic;Nine -オカルティック・ナイン-
 クズの本懐 
 ぐだぐだオーダー 
 くノ一ツバキの胸の内 
+クラスの大嫌いな女子と結婚することになった。 
 グラビテーション 
 Classroom☆Crisis 
 グランクレスト戦記 
@@ -1114,6 +1115,8 @@ G-STYLE（開発協力）
 HERMIT WORKS（デザイン）  2023年7月31日
 8月28日  アスタータタリクス  FgG  配信中  運営・配信はgumi
 アニプレックスは共同プロデュースで参画
+2024年  年内予定  魔法少女まどか☆マギカ Magia Exedra  ポケラボ
+f4samurai  未配信  運営はポケラボ
 未公表  鬼滅の刃 血風剣戟ロワイアル  Quatro A  未配信  2020年に配信予定であったが延期された  
 コンシューマーゲーム  
 発売日  作品名  開発元  機種  備考
@@ -1123,10 +1126,10 @@ ATRI -My Dear Moments-  フロントウイング
 2021年  4月28日  毎日♪ 衛宮さんちの今日のごはん  グリッド  Nintendo Switch
 8月26日  月姫 -A piece of blue glass moon-  TYPE-MOON  PlayStation 4
 Nintendo Switch  発売元：  TYPE-MOON
-10月14日  鬼滅の刃 ヒノカミ血風譚  サイバーコネクトツー  PlayStation 4
-PlayStation 5
-Xbox One
+10月14日  鬼滅の刃 ヒノカミ血風譚  サイバーコネクトツー  PlayStation 5
+PlayStation 4
 Xbox Series X/S
+Xbox One
 Microsoft Windows（Steam）
 2022年  6月9日  Nintendo Switch
 3月10日  RPGタイム!〜ライトの伝説〜  デスクワークス  Xbox One
@@ -1137,13 +1140,21 @@ Nintendo Switch
 9月13日  Microsoft Windows（Steam）
 12月8日  魔法使いの夜  TYPE-MOON  PlayStation 4
 Nintendo Switch  発売元：TYPE-MOON
-2023年  9月28日  Fate/Samurai Remnant  オメガフォース  PlayStation 4
-PlayStation 5
-Xbox One
+2023年  9月28日  Fate/Samurai Remnant  オメガフォース  PlayStation 5
+PlayStation 4
 Xbox Series X/S
+Xbox One
 Microsoft Windows（Steam）  開発・発売元：  コーエーテクモゲームス
 11月17日  ヒラヒラヒヒル  BA-KU  Microsoft Windows（Steam）  ANIPLEX.EXEブランド
-12月14日  魔法使いの夜  TYPE-MOON  発売元：TYPE-MOON  
+12月14日  魔法使いの夜  TYPE-MOON  発売元：TYPE-MOON
+2024年  4月25日  鬼滅の刃 目指せ!最強隊士!  グルーブボックスジャパン  Nintendo Switch
+PlayStation 5
+PlayStation 4
+Xbox Series X/S
+Xbox One
+Microsoft Windows（Steam）
+7月11日  Hookah Haze  アクワイア  Nintendo Switch
+Microsoft Windows（Steam）  
 トレーディングカードゲーム  
 
 ビルディバイド 

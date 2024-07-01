@@ -12,6 +12,7 @@ PlayStation Vita  （Converted Edition、以下PS Vita）
 PlayStation 3  （Converted Edition、以下PS3）
 Nintendo Switch  （Converted Edition、以下Switch）
 ゲームエンジン  RealLive  (AVG2000)
+開発元  Key
 発売元  Key
 プロトタイプ  （PS2、PSP、PS Vita、Switch）
 キャラクターデザイン  樋上いたる  、  Na-Ga

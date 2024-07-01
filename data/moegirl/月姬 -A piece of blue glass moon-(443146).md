@@ -8,6 +8,9 @@
 Nintendo Switch  
 分级  |  |  CERO  :  |  \- 18岁以上   
 ---|---  
+ESRB  :  |  \- 成熟   
+PEGI  :  |  \- 18岁以上   
+GSRR  :  |  \- 限制级   
 开发  |  TYPE-MOON   
 发行  |  发售：TYPE-MOON   
 贩卖：  Aniplex  
@@ -19,7 +22,7 @@ Nintendo Switch
 音乐  |  深泽秀行、芳贺敬太   
 模式  |  单人游戏   
 发行时间  |  日本：2021年8月26日   
-欧美：2024年6月27日  
+港台、欧美：2024年6月27日  
 相关作品  |  《  月姬  》《  MELTY BLOOD TYPE LUMINA  》   
   
 《 **月姬 -A piece of blue glass moon-** 》是  TYPE-MOON  开发的一款视觉小说游戏。

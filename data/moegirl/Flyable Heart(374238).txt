@@ -10,7 +10,7 @@ Flyable Heart
 总监  @ピース
 编剧  市川环
 风间ぼなんざ
-あごバリア
+颚屏障
 美工  伊东杂音
 ぺろ
 笹仓绫人
@@ -210,7 +210,7 @@ Flyable CandyHeart
 发行  UNiSONSHIFT:Blossom
 总监  @ピース
 编剧  风间ぼなんざ
-あごバリア
+颚屏障
 望月JET
 神野マサキ
 明日原瓦斯

@@ -655,7 +655,7 @@ AVBA-26073（通常版）  |  映像特典「らぶドル」ミュージックTV
   
 ###  ライブ映像  
 
-『  らぶドル FIRST LIVE IN YOKOHAMA BLITZ  』  
+『らぶドル FIRST LIVE IN YOKOHAMA BLITZ』  
 ---  
 らぶドル  [メンバー 2]  の  ライブ・ビデオ  
 リリース  |  2007年7月25日   

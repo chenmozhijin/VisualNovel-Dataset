@@ -108,7 +108,7 @@ Camellia」のPRムービーとして  ニコニコ動画  にて、ら『Prince
 
 ##  音楽CD  
 
-『  Princess Party ボーカルアルバム  』  
+『Princess Party ボーカルアルバム』  
 ---  
 Princess Party 〜プリンセスパーティー〜  の  スタジオ・アルバム  
 リリース  |  2009年5月5日   

@@ -5,7 +5,7 @@
 CiNii  **·** J-STAGE  **·** NDL  **·** dlib.jp  **·** ジャパンサーチ  **·** TWL  （
 2011年8月  ）  
 ---|---  
-『  智代アフター ORIGINAL SOUNDTRACK  』  
+『智代アフター ORIGINAL SOUNDTRACK』  
 ---  
 Key  の  サウンドトラック  
 リリース  |  2005年  11月25日  （智代アフター初回特典）   

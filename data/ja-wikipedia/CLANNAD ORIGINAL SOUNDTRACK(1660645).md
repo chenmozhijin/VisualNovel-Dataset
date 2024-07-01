@@ -1,4 +1,4 @@
-『  CLANNAD ORIGINAL SOUNDTRACK  』  
+『CLANNAD ORIGINAL SOUNDTRACK』  
 ---  
 Key  の  サウンドトラック  
 リリース  |  2005年  1月28日   
@@ -181,7 +181,7 @@ STORY」のシナリオで流れる曲、Disc3に作中で使用されていな�
      * 最後のほうの間奏部分が一部ないため原曲よりも多少演奏時間が短い。 
   10. **メグメル（short ver.）**
      * ゲームサイズ版。 
-  11. **メグメル -cockool mix-（short ver.）   **
+  11. **メグメル -cockool mix-（short ver.）**  
      * 「メグメル -cockool mix-」をゲームサイズの演奏時間に編集したもの。 
   12. **-影二つ-（short ver.）**
      * ゲームサイズ版。 

@@ -305,8 +305,8 @@ POWDER SNOW  |  『 ** WHITE ALBUM Character Song Best & Sound Track  ** 』  | 
 
 ####  01  
 
-『  WHITE ALBUM  
-サウンドステージ01  』  
+『WHITE ALBUM  
+サウンドステージ01』  
 ---  
 WHITE ALBUM  の  スタジオ・アルバム  
 リリース  |  2010年1月27日   
@@ -371,8 +371,8 @@ WHITE ALBUM  アルバム 年表
 
 ####  02  
 
-『  WHITE ALBUM  
-サウンドステージ02  』  
+『WHITE ALBUM  
+サウンドステージ02』  
 ---  
 WHITE ALBUM  の  スタジオ・アルバム  
 リリース  |  2010年2月24日   
@@ -445,8 +445,8 @@ WHITE ALBUM アルバム 年表
 
 ##  コンピレーションアルバム  
 
-『  WHITE ALBUM  
-Character Song Best & Sound Track  』  
+『WHITE ALBUM  
+Character Song Best & Sound Track』  
 ---  
 WHITE ALBUM  の  コンピレーション・アルバム  
 リリース  |  2010年3月24日   
