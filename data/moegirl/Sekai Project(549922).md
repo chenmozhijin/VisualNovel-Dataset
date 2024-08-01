@@ -123,7 +123,7 @@ The Falconers: Moonlight  |  Bionic Penguin  |  2017-04-19
 A Butterfly in the District of Dreams  |  Life a Little  |  2017-05-13   
 Walkerman  |  ScalemaiL  |  2017-05-23   
 猫娘乐园 Vol.3  |  NEKO WORKs  |  2017-05-25   
-任性High Spec  |  Madosoft  |  2017-07-27   
+任性High Spec  |  madosoft  |  2017-07-27   
 Order of Ataxia: Initial Effects  |  IDHAS Studios  |  2017-08-18   
 根神京姬 后篇  |  黑彩黄泉路  |  2017-09-08   
 Muv-Luv Alternative  |  âge  |  2017-09-18   
@@ -223,29 +223,32 @@ NTR幻想之我的藤木同学  |  Kurenaibook  |  2023-04-08
 学校的圣域  |  feng  |  2023-12-16   
 兽娘道☆GirlishSquare 2  |  Whirlpool  |  2023-12-29   
 贽之匣庭  |  Chatte Noire  |  2024-02-15   
-猫忍之心SPIN!  |  Whirlpool  |  2024   
+Fleeting Iris: Alansya Chronicles  |  Heaven Studios  |  2024-06-27   
+猫忍之心SPIN!  |  Whirlpool  |  2024-07-15   
 娇小少女的小夜曲  |  feng  |  2024   
+KARAKARA3  |  calme  |  2024   
+染红的街道  |  feng  |  2024   
+巧克甜恋3  |  Cabbage Soft  |  2024   
+猫娘乐园 After  |  NEKO WORKs  |  2025   
 全ての恋に、花束を。  |  Cosmillica  |  TBA   
-染红的街道  |  feng  |  TBA   
 '하나'님의 캠퍼스 라이프!  |  Limited Factory  |  TBA   
 HAPPY SAIN† SHEOL  |  半径122pxの冥土  |  TBA   
 春开，意遥遥。  |  Sumikko Soft  |  TBA   
 架向星空之桥  |  feng  |  TBA   
 架向星空之桥AA  |  feng  |  TBA   
 犬娘乐园  |  NEKO WORKs  |  TBA   
-KARAKARA3  |  calme  |  TBA   
 Memory's Dogma CODE:01  |  LizArts  |  TBA   
 记忆信条：代码  系列  |  LizArts  |  TBA   
 Narcissu ~Lumière éternelle edition~  |  Stage☆nana  |  TBA   
 猫娘乐园  |  NEKO WORKs  |  TBA   
-女仆咖啡帕露菲  重置版  |  戏画  |  TBA   
 Rewrite Harvest festa!  |  Key  |  TBA   
 サナララR  |  猫猫社  |  TBA   
 由梦想与色彩编织而成  |  feng  |  TBA   
 一直都是女孩子  |  feng  |  TBA   
-任性High Spec OC  |  Madosoft  |  TBA   
+任性High Spec OC  |  madosoft  |  TBA   
   
   * 此外，Sekai Project于2015年7月宣布5个新的代理作品，其中包括《  天神乱漫  》  [9]  。然而此后Sekai Project方面便不再有关于此作的任何消息，自2018年起NekoNyan及HIKARI FIELD成为  YUZU SOFT  的传统外文发行商，不知此作将作何安排。 
+  * Sekai Project曾于2022年7月宣布代理《  纯爱咖啡厅~帕露菲重置版~  》  [10]  ，但最迟在2024年1月Sekai Project在其网站上删除有关此作的一切信息，且未作出任何说明  [11]  ，据称可能是已与Entergram解除代理合约。 
 
 ###  其他游戏
 
@@ -286,4 +289,5 @@ Sunrider 4: The Captain's Return  |  Love in Space  |  2023-02-09  |  RPG
 复兴游记  |  ShiroKuroSoft  |  2023-03-25  |  RPG   
 LOOP LOOP ROOM  |  desunoya  |  2023-08-01  |  ACT   
 公主游记  |  ShiroKuroSoft  |  2024-03-09  |  RPG   
+Seed of Heroes  |  Vermillion Digital  |  2024-09  |  RPG   
   

@@ -149,7 +149,7 @@ Fate/EXTRA Record  |  未定  |  2010年发售的Fate/EXTRA的重制版，利用
 为TYPE-MOON旗下工作室Studio BB制作的第一部作品。  
 迦勒底事件簿  |  第一卷：2020年2月16日  |   
   
-Template:Fate
+#invoke:Nav
 
 ###  空之境界
 
@@ -186,8 +186,10 @@ DDD  |  第一卷：2007年1月
   
   
 
-Template:DDD  Template:Girls' Work  Template:Fire Girl  Template:世界征服谋略之星
-Template:CANAAN  Template:TYPE-MOON
+Template:Navbox
+
+#invoke:Nav  Template:Fire Girl  Template:世界征服谋略之星  Template:CANAAN
+Template:TYPE-MOON
 
 ##  型月帝国军
 

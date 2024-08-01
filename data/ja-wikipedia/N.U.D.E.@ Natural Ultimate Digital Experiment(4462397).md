@@ -23,9 +23,18 @@ ersonal **A** ssist **S** ecretary **S** ystem）という女性型の  ヒュ�
 『N.U.D.E.@ Natural Ultimate Digital Experiment』は2002年9月19日に発表され、2002年
 東京ゲームショウ  でプロモーションビデオが上映された    。
 
-##  参考文献  
+##  参考文献
+
+
 
   1. ** ^  ** 稔 (2003年4月24日). “  Xbox「N.U.D.E.@ Natural Ultimate Digital Experiment」P.A.S.S.育てる楽しみからコミュニケーションへ  ” (Japanese). _GAME Watch_ . Impress Watch Corporation.  2013年3月18日  閲覧。 
   2. ^  _**a** _ _**b** _ Gantayat (2003年4月29日). “  N.U.D.E at IGN  ”.  IGN  .  2013年3月18日  閲覧。 
   3. ** ^  ** 稔 (2002年9月19日). “  レッドとMS、音声認識を使った美少女ロボット育成シミュレータ Xbox「N.U.D.E.@ Natural Ultimate Digital Experiment」  ” (Japanese). _GAME Watch_ .  2013年3月18日  閲覧。 
+
+##  外部リンク
+
+
+
+  * Xbox.comの製品ページ  （アーカイブ）  (日本語) 
+  * SOFTBANK GAMESでのゲーム情報  (日本語) 
 

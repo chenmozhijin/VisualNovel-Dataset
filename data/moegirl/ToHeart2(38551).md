@@ -252,8 +252,8 @@ ToHeart2 XRATED的续篇，PC版2008年2月29日发售。游戏系统不同于�
 
   * ToHeart2: Dungeon travelers（迷宫旅人） 
 
-3D角色扮演游戏，来源于Leaf发行的一个PC游戏  愛佳でいくの!! ～Leaf Amusement Soft Vol.5～
-中，该游戏有锁、ToHeart2、提亚拉之泪和  君が呼ぶ、メギドの丘で  中的角色登场  Leaf世界四重奏  。移植到PSP/PSV时使用了本标题。
+3D角色扮演游戏，来源于Leaf发行的一个PC游戏  愛佳でいくの!! ～Leaf Amusement Soft Vol.5～  中，该游戏有  锁
+、ToHeart2、提亚拉之泪和  君が呼ぶ、メギドの丘で  中的角色登场  Leaf世界四重奏  。移植到PSP/PSV时使用了本标题。
 
   * ToHeart Heartful party 
 

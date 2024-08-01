@@ -15,7 +15,9 @@ Project  が販売している  ビジュアルノベル  である    。  Stea
 このゲームは、  アニメ  風の絵とともに画面上の文章を読んでいく  ビジュアルノベル
 であるが、一般的なビジュアルノベルと異なり、（終盤の一つを除いて）プレイヤーの意思を反映するための選択肢を一切出さない      。
 
-##  ストーリー  
+##  ストーリー
+
+
 
 Sakura Spiritは、日本を代表する柔道選手になりたい17歳の少年、Gushiken
 Takahiroの物語である。十分に技術を身に着けたころには、日本代表を決める大会の数週間前になっていた。緊張をほぐすため、Takahiroは友人たちのアドバイスに従って、精霊の力が宿るとされる森の中に隠れた神社を見つける。試合で良い結果が出せるように祈ると、精霊が現れ、戦士として重要な役割を持っていると告げられ、別に世界に送られる
@@ -24,7 +26,9 @@ Takahiroの物語である。十分に技術を身に着けたころには、日
 Takahiroは、抗争の結果として狐娘は人間から信用されていないことを知る。このゲームは、人間と精霊の懸け橋として過ごしながら、元の世界に戻す方法を探すことに話の終点を置いている
   。
 
-##  評価  
+##  評価
+
+
 
 Sakura Spiritに対しては賛否両論である。  Hardcore Gamer    のBradly Stormは、Sakura
 Spiritについて、「Sakura
@@ -48,4 +52,25 @@ Vincentは、未熟なストーリーと、方向性の無さを批評し、「�
 4Gamer.net
 のgingerは、「イベントシーンの絵は日本人好みのものがほとんどで質の高いものが多いが、メインストーリーの展開が雑すぎるうえ、選択肢が全編を通じて1つしかないのが残念である。物語は含みを持たせた終わり方をしているので、もし続編を出すならストーリーにももう少し力を入れてほしかった」と評し、「日本語版の発売を待つ価値があるかは微妙なところなので、ストーリーについては考えず、海外製の萌えイラスト集として英語版を楽しむのもありかもしれない。」としめくくった
   。
+
+##  脚注
+
+
+
+  1. ^  _**a** _ _**b** _ _**c** _ _**d** _ _**e** _ _**f** _ _**g** _ Bruno, Travis. “  Sakura Spirit Review  ”. Capsule Computers.  2016年9月28日  閲覧。 
+  2. ^  _**a** _ _**b** _ _**c** _ _**d** _ Mueller, Jerimiah. “  Sakura Spirit Review: Why does this exist?  ”. Technology Tell.  2016年9月28日  閲覧。 
+  3. ^  _**a** _ _**b** _ Gollmer, Chris. “  Sakura Spirit Review – Spirits, Furries, & Bewbs  ”. Niche Gamer. 2014年7月29日時点の  オリジナル  よりアーカイブ。  2016年9月28日  閲覧。 
+  4. ** ^  ** Hardcore Gamer Hardcore Gamer No Nonsense, Just Games  公式サイト 
+  5. ** ^  ** Storm, Bradly. “  Review: Sakura Spirit  ”. Hardcore Gamer.  2016年9月28日  閲覧。 
+  6. ** ^  ** Capsule Computers  公式サイト 
+  7. ** ^  ** Vincent, Brittany. “  Review: Sakura Spirit  ”. Destructoid.  2016年9月28日  閲覧。 
+  8. ** ^  ** ginger (2014年7月16日). “  インディーズゲームの小部屋：Room＃340「Sakura Spirit」  ”.  4Gamer.net  .  2017年4月4日  閲覧。 
+
+##  外部リンク
+
+
+
+  * 公式ウェブサイト 
+  * Sakura Spirit  \-  ビジュアルノベル・データベース 
+  * Winged Cloud games  on  Steam 
 

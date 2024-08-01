@@ -45,7 +45,9 @@ INTERNATIONAL）より販売されるゲームソフト。2020年6月24日に  S
 。このことから、「ロリダクソ」    や「ロリダークソウル（  英語  :  Loli Dark Souls  ）」  
 と呼ばれる場合があり、公式Twitterアカウントでも「ロリダークソウル」という  ハッシュタグ  が一部で使われている    。
 
-##  開発の経緯  
+##  開発の経緯
+
+
 
 Pupuyaでは2017年6月から単独での開発に着手し、体験版を通じてフィードバックを重ねていた。その後、台湾で  高捷少女  や  食用系少女
 などを生み出した  希萌創意
@@ -58,9 +60,13 @@ Janが担当した        。
 2020年6月29日、グローバルセールスは1週目で5万本を達成したが      、過半数は日本での売上だった  
 。発売50日でセールスは15万本を超え、8月19日に売り上げ15万本突破記念トレイラーが公開された    。
 
-##  キャラクター  
+##  キャラクター
 
-###  主人公・ガイド役  
+
+
+###  主人公・ガイド役
+
+
 
 ノベタ/リトルウィッチノノタ
 
@@ -82,7 +88,9 @@ Janが担当した        。
      ノベタを玉座まで案内するが、道中でノベタを救うべく力を行使したのが仇となり玉座に座ったのを見届けた後に亡くなる。 
      その正体は大魔法使いノベタの使い魔。ノベタに肉体を返すべく、肉体に宿ったノノタを導いていた。 
 
-###  生魂人形・ボス  
+###  生魂人形・ボス
+
+
 
 謎のゴーストアーマー
 
@@ -109,7 +117,9 @@ Janが担当した        。
      声 - 小原好美 
      「迷える生魂」。本作のラストボス。ノベタ操作時の魔法をさらに強化したものを繰り出してくる。2戦目にはこれまで吸収した生魂（ゴーストアーマー・ターニア・モニカ）の技を織り交ぜてくる。 
 
-###  生魂（せいこん/クラフトソウル）  
+###  生魂（せいこん/クラフトソウル）
+
+
 
 噛み切り生魂
 
@@ -135,4 +145,84 @@ Janが担当した        。
 エクスプロージョン術師生魂
 
      赤い体に、赤いフード上のものをかぶり、白い目のある見た目。視野は広く、プレーヤーの足元に魔法陣を展開して攻撃を行う。登場地域は「オルケン神殿隠しステージ」    。 
+
+##  脚注
+
+
+
+  1. ^  _**a** _ _**b** _ _**c** _ かわいいソウルライク『リトルウィッチノベタ』の正式版がPS/Switchでもリリースへ！2021年末～2022年前半のリリースを目指す 
+  2. ** ^  ** 【TGS 21】《小魔女諾貝塔》確定推出 Switch、PS4 版 聲優情報預計 9 月公開《Little Witch Nobeta》 - 巴哈姆特 
+  3. ** ^  ** “  Little Witch Nobeta - Steam News Hub  ”. _Steam News Hub_ .  2020年7月21日  閲覧。 
+  4. ^  _**a** _ _**b** _ “  PC/PS4/Switch「Little Witch Nobeta -リトルウィッチノベタ-」，9月29日に発売決定。通常版と豪華限定版の特典内容も明らかに  ”. 4Gamer.net (2022年5月13日).  2022年5月13日  閲覧。 
+  5. ** ^  ** https://gnn.gamer.com.tw/detail.php?sn=221855 
+  6. ^  _**a** _ _**b** _ _**c** _ “  國產動作《小魔女諾貝塔》發售預備！實體序號卡6月12日搶先發行  ” (中国語). _udn遊戲角落_ .  2020年6月27日  閲覧。 
+  7. ** ^  ** “  國產獨立團隊遊戲《小魔女諾貝塔》預告曝光！與她一同探索古堡真相  ” (中国語). _udn遊戲角落_ .  2020年6月27日  閲覧。 
+  8. ^  _**a** _ _**b** _ _**c** _ 林卓恆 (2020年5月13日). “  台灣獨立遊戲Little Witch Nobeta小魔女諾貝塔 可愛版黑暗靈魂  ” (中国語). _香港01_ .  2020年6月27日  閲覧。 
+  9. ^  _**a** _ _**b** _ 巴哈姆特. “  巴哈姆特 ACG 創作大賽人氣賞作品《小魔女諾貝塔》曝光預告影片 6 月啟動搶先體驗  ”. _巴哈姆特電玩資訊站_ .  2020年6月27日  閲覧。 
+  10. ^  _**a** _ _**b** _ _**c** _ 巴哈姆特. “  台灣獨立遊戲新作《小魔女諾貝塔》Steam 實體序號卡即將搶先發行 製作人分享開發故事  ”. _巴哈姆特電玩資訊站_ .  2020年6月27日  閲覧。 
+  11. ** ^  ** “  世界が望んだ「ロリダクソ」に迫る『リトルウィッチノベタ』プレイレポ  ”. _Game*Spark_ . イード.  2020年7月7日  閲覧。 
+  12. ** ^  ** Yokoyama, Keiichi (2020年6月29日). “  高難度魔法3Dアクション『Little Witch Nobeta』発売5日で売上5万本突破。「ロリダークソウル」と称される作品  ”. _AUTOMATON_ .  2020年7月7日  閲覧。 
+  13. ** ^  ** “  【公式】リトルウィッチノベタ Little Witch Nobeta on Twitter: "生魂たちの設定図1 これからもどんどん更新します！お楽しみに！ #LittleWitchNobeta #リトルウィッチノベタ #ロリダークソウル https://t.co/77S60EGWiQ" / Twitter  ”. _Twitter_ .  2020年7月21日  閲覧。 
+  14. ** ^  ** （繁体字中国語）  “被稱「蘿莉版黑魂」《小魔女諾貝塔》發售破五萬套，推特二創大量發生中”  . 聯合報. (2020年6月29日)  .  https://game.udn.com/game/story/10453/4666434 
+  15. ** ^  ** ““ロリダークソウル”なアクション『リトルウィッチノベタ』発売初週の売上が5万本を達成！”  . Game*Spark. (2020年6月30日)  .  https://www.gamespark.jp/article/2020/06/30/100212.html 
+  16. ** ^  ** “  【公式】リトルウィッチノベタ Little Witch NobetaさんはTwitterを使っています 「本当にありがとうございます～ 皆様、今後ノベタちゃんの活躍、ぜひ見てくださいね Little Witch Nobeta in global First week of sale is 50000! Thank you all! https://t.co/hQBap172KZ」 / Twitter  ”. _Twitter_ .  2020年7月7日  閲覧。 
+  17. ** ^  ** Jessica (2020年6月29日).  “台灣獨立遊戲新作《小魔女諾貝塔》首週全球發行量突破 5 萬套 日本佔總銷售一半以上”  .  巴哈姆特電玩資訊站  .  https://gnn.gamer.com.tw/detail.php?sn=199144  2020年6月29日  閲覧。 
+  18. ** ^  ** “「ロリダークソウル」こと『Little Witch Nobeta』の売り上げが15万本突破。発売からわずか50日で「ノベタ成功しました」”  . _電ファミニコゲーマー_ . (2020年8月19日)  .  https://news.denfaminicogamer.jp/news/200819k  2020年8月21日  閲覧。 
+  19. ** ^  ** Yokoyama, Keiichi (2020年10月28日). “  高難度魔法3Dアクション『リトルウィッチノベタ』は2021年後半に完成予定。Q&A内では、マルチプラットフォーム展開についても示唆  ”. _AUTOMATON_ .  2020年11月15日  閲覧。 
+  20. ** ^  ** “  【公式】リトルウィッチノベタ Little Witch Nobeta on Twitter: "ドジっ子ではないです！(´；ω；`) #LittleWitchNobeta #リトルウィッチノベタ #ロリダークソウル https://t.co/4SQKOdx5d6" / Twitter  ”. _Twitter_ .  2020年7月21日  閲覧。 
+  21. ** ^  ** “  【公式】リトルウィッチノベタ Little Witch Nobeta on Twitter: "ターニアちゃんの設定図です！ #LittleWitchNobeta #リトルウィッチノベタ #ロリダークソウル https://t.co/AJd7qAVmlJ" / Twitter  ”. _Twitter_ .  2020年7月21日  閲覧。 
+  22. ** ^  ** “  【公式】リトルウィッチノベタ Little Witch Nobeta on Twitter: "モニカちゃんの身長はノベタちゃんより1cmの差がある ((((；ﾟДﾟ))))))) https://t.co/x3oIZarNQv" / Twitter  ”. _Twitter_ .  2020年7月21日  閲覧。 
+  23. ** ^  ** “  【公式】リトルウィッチノベタ Little Witch Nobeta on Twitter: "生魂たちの設定図1 これからもどんどん更新します！お楽しみに！ #LittleWitchNobeta #リトルウィッチノベタ #ロリダークソウル https://t.co/77S60EGWiQ" / Twitter  ”. _Twitter_ .  2020年7月21日  閲覧。 
+  24. ** ^  ** “  【公式】リトルウィッチノベタ Little Witch Nobeta on Twitter: "生魂の設定図2 この生魂怖い 😭 #LittleWitchNobeta #リトルウィッチノベタ #ロリダークソウル https://t.co/MmA7pTtc1V" / Twitter  ”. _Twitter_ .  2020年7月21日  閲覧。 
+  25. ** ^  ** “  【公式】リトルウィッチノベタ Little Witch Nobeta on Twitter: "生魂の設定図3 #LittleWitchNobeta #リトルウィッチノベタ #ロリダークソウル https://t.co/hh3Uh7fkym" / Twitter  ”. _Twitter_ .  2020年7月21日  閲覧。 
+  26. ** ^  ** “  【公式】リトルウィッチノベタ Little Witch Nobeta on Twitter: "生魂の設定図4 この生魂嫌だ😤 #LittleWitchNobeta #リトルウィッチノベタ #ロリダークソウル https://t.co/m4uOZxoEPx" / Twitter  ”. _Twitter_ .  2020年7月21日  閲覧。 
+  27. ** ^  ** “  【公式】リトルウィッチノベタ Little Witch Nobeta on Twitter: "生魂の設定図5 闇に潜んでいる生魂 #LittleWitchNobeta #リトルウィッチノベタ #ロリダークソウル https://t.co/IV7mCsxkEf" / Twitter  ”. _Twitter_ .  2020年7月21日  閲覧。 
+  28. ** ^  ** “  【公式】リトルウィッチノベタ Little Witch Nobeta on Twitter: "生魂の設定図6 #LittleWitchNobeta #リトルウィッチノベタ https://t.co/ySCTkbYOK9" / Twitter  ”. _Twitter_ .  2020年7月21日  閲覧。 
+  29. ** ^  ** “  【公式】リトルウィッチノベタ Little Witch Nobeta on Twitter: "生魂の設定図7 #LittleWitchNobeta #リトルウィッチノベタ https://t.co/i3RTU0xJNA" / Twitter  ”. _Twitter_ .  2020年7月23日  閲覧。 
+  30. ** ^  ** “  【公式】リトルウィッチノベタ Little Witch Nobeta on Twitter: "生魂の設定図8 #LittleWitchNobeta #リトルウィッチノベタ https://t.co/hkkbnBj2t6" / Twitter  ”. _Twitter_ .  2020年7月27日  閲覧。 
+
+##  関連項目
+
+
+
+  * 希萌創意 
+  * 食用系少女  \-  台湾  のB級グルメの  萌え擬人化  によるメディアミックス作品 
+
+##  外部リンク
+
+
+
+公式
+
+  * 【公式】リトルウィッチノベタ Little Witch Nobeta  (@nobeta_staff_jp) -  X（旧Twitter）  （日本語） 
+  * Little Witch Nobeta 小魔女諾貝塔  (LittleWitchNobeta) -  Facebook  （繁体字中国語） 
+  * Little Witch Nobeta  \-  Discord 
+
+Pupuya
+
+  * pupuya 
+  * Pupuya  (@lsw001231) -  X（旧Twitter）  （繁体字中国語） 
+
+希萌創意
+
+  * 希萌創意  \-  YouTube  チャンネル 
+  * 希萌商品館  (SimonStore8) -  Facebook  （繁体字中国語） 
+
+Steam Store
+
+  * Little Witch Nobeta  \-  Steam 
+
+|  この項目は、  コンピュータゲーム  に関連した ** 書きかけの項目  ** です。  この項目を加筆・訂正  などしてくださる
+協力者を求めています  （  P:コンピュータゲーム  /  PJ:コンピュータゲーム  ）。  
+---|---  
+  
+  * 表示 
+  * 編集 
+
+|  この項目は、  台湾  に関連した ** 書きかけの項目  ** です。  この項目を加筆・訂正  などしてくださる  協力者を求めています  （
+PJ:台湾  /  P:アジア  ）。  
+---|---  
+  
+  * 表示 
+  * 編集 
 

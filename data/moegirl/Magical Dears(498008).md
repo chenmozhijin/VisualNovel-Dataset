@@ -59,7 +59,7 @@ Magical☆Dears
   * 原画：鸣海ゆう、羽鸟ぴよこ 
   * SD原画：羽纯りお 
   * 程序：Ko-Ta 
-  * BGM：アッチョリケ 
+  * BGM：Acchorike 
   * 背景：meiz、コタロー、灯色 
 
 ##  CAST
@@ -80,10 +80,10 @@ Magical☆Dears
 
   * ZUTTO!MOTTO!LOVE? 
     * 歌：大岛はるな 
-    * 作词：西又葵，作曲：アッチョリケ，编曲：宝野聪史 
+    * 作词：西又葵，作曲：Acchorike，编曲：宝野聪史 
 
 片尾曲
 
   * falling star 
     * 歌：大岛はるな 
-    * 作词：西又葵，作曲：アッチョリケ，编曲：宝野聪史 
+    * 作词：西又葵，作曲：Acchorike，编曲：宝野聪史 

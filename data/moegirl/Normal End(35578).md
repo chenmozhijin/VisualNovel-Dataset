@@ -62,8 +62,8 @@ End、Normal End、Good End时，就会达成Normal Bad End。
 
 ###  多种Normal End的多结局游戏
 
-在《  白色相簿2  》当中，CC的  千晶线  和Coda都设有未能和攻略角色成功发展恋情的Normal End。  乙女游戏  《失忆症
-AMNESIA》亦有此情形。
+在《  白色相簿2  》当中，CC的  千晶线  和Coda都设有未能和攻略角色成功发展恋情的Normal End。  乙女游戏  《
+AMNESIA失忆症  》亦有此情形。
 
 ##  延伸要素
 

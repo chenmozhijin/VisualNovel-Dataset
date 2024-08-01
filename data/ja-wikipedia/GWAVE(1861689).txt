@@ -1,7 +1,8 @@
 『  GWAVE  』（ジーウェイブ）は、  2003年  12月    から  2016年  12月    まで発売されていた
 アダルト美少女ゲーム  の主題歌をまとめた  コンピレーションアルバム  のシリーズ。販売・発売はアニメ制作会社の株式会社  スタジオディーン  。
 2016年  12月  に発売された「  GWAVE 2016 1st advance  」を最後に発売が休止となっている。
-概要  
+概要
+
 プロデューサーの加藤義治によって企画・立案された。企画の動機は『美少女ゲームの音楽が好きだったから』とゲーム雑誌のインタビューで語っており  
 、別のインタビューでも同様の発言をしていた    。
 アダルト美少女ゲーム  の主題歌にフォーカスした  コンピレーションアルバム
@@ -22,7 +23,8 @@ GWAVE Super Feature's シリーズ
 電気街おみやげシリーズ
  「オタクな電気街らしい内容」と「新しい出会いのある音楽CD」  （  GWAVE『Love Bullets』紹介ページ  から引用）をテーマにした新たなアルバムシリーズで、他のシリーズと異なりほぼ全ての収録曲がオリジナル作品となっている。  テクノ  アレンジしたいわゆる  電波ソング  が中心となり、全体としてアッパーテンポな作品に仕上がっている。電気街おみやげシリーズの作品は、基本的にGWAVE Super Feature's シリーズとしてナンバリングされている。
 
-販売休止  
+販売休止
+
 2003年  12月29日  に発売された「  GWAVE 2003 1st Beat  」  
 を皮切りに、GWAVEシリーズは毎年2枚（上半期作品は同年12月、下半期作品は翌年6月）の発売を行っていたが、  2016年  12月29日
 に発売された「  GWAVE 2016 1st advance  」の販売    を最後に発売休止となっている  [注 3]  。
@@ -39,8 +41,10 @@ record」と共に公式サイトへのアクセスは可能であったが、20
 2018年からは「  Gyutto  」や「萌えAPP」などで知られる  株式会社ハブロッツ  が「  Symphony Sounds
 」というコンピネーションアルバムをシリーズ展開している  
 。1年間に発売された作品の楽曲を上半期・下半期単位で分けて発売するGWAVEとは異なって、1年単位での発売となっており、発売までに2年近く要するなどタイムラグが大きい。
-アルバム  
-GWAVE シリーズ  
+アルバム
+
+GWAVE シリーズ
+
 GWAVE 2003 1st Beat
 曲名  歌手  タイトル  ブランド
 1  風の中の青い鳥  佐藤裕美  モエかん  ケロQ
@@ -661,7 +665,8 @@ GWAVE 2016 1st advance
 イラスト  八島タカヒロ  (  PULLTOP  ) 
 発売日：2016年12月29日 
 
-GWAVE SuperFeature's シリーズ  
+GWAVE SuperFeature's シリーズ
+
 vol  タイトル  アーティスト・ブランド・作品
 GWAVE SuperFeature's vol.1  ADVANCED BLUE  真理絵
 GWAVE SuperFeature's vol.2  Ultra:U  U
@@ -691,7 +696,8 @@ GWAVE SuperFeature's vol.22  アステリズム Blue Disc  『  アステリズ�
 GWAVE SuperFeature's vol.23  mode:Experience  「  アストロノーツ  」
 GWAVE SuperFeature's vol.24  ノブレスオブルージュ オリジナルサウンドトラック  『  ノブレスオブルージュ  』
 GWAVE SuperFeature's vol.25  あの晴れわたる空より高く サウンドトラック  『  あの晴れわたる空より高く  』  
-GWAVE その他  
+GWAVE その他
+
 
 GWAVE 5th Anniversary Festa! 
 Frontwing×GWAVE タイムリープぱらだいす コラボSP 「It's show time」 
@@ -700,3 +706,33 @@ COMICMERKET77 SPECIAL 「NICONICO☆BabyBaby」
 LoveBullets/ドキドキお姉さん A to Z 
 Chuablesoft 5th Anniversarry BEST!!!!! 
 
+脚注
+
+注釈
+
+
+^  公式サイトは、グループ会社だった株式会社  サーファーズパラダイス  のサーバー内に設置・運営されていた(URLがhttp://gwave.surpara.com/ であった)。 
+^  各期間中に発売されるゲームのタイトルは100以上に及ぶため、当然のことながらそれらの主題歌を1つのアルバムに収録することはできない。したがって、収録される主題歌は16曲ほどが選曲されることとなっている。 
+^  通常の流れでは  2017年  6月  に「  GWAVE 2016 2nd  」、同年  12月  には「  GWAVE 2017 1st  」が発売される予定だが、どちらも発売され無かったため、発売休止として扱う。 
+^  正確には「SuperFeature's vol.11」が冠せられたアルバムは存在しない。しかし、SuperFeature's シリーズのvol.10とvol.12の間に発売されたのは「Love Bullets」と「GWAVE 2008 1st Experience」であり、後に発売された「Love Bullets II」はSuperFeature's シリーズに入っているため、このアルバムが実質的に「SuperFeature's vol.11」となるが、ロットによってはCD背表紙に「GWAVE SuperFeature's vol.11」と入っているものも存在する 
+
+出典
+
+
+^  a  b  | GWAVEオフィシャルWEBサイト  - Webアーカイブ 
+^  a  b  GWAVEオフィシャルWEBサイト  - Webアーカイブ 
+^  マックス  『  PUSH!!  』2008年8月号 p166.167の特集記事 
+^  GWAVE 5周年記念インタビュー特集  Galge.com 
+^  メール内容が掲載されたツイート  - もちゃちゃ（Twitter）2017年9月4日 
+^  アクセス不可能で有ることが記載されたツイート  - タッキー（Twitter）2020年1月21日 
+^  「CLANNAD」や「Clover Heart's」など美少女ゲーム15作の主題歌コンピ盤がC94で販売 - 4Gamer 
+
+関連項目
+
+
+Symphony Sounds  - 株式会社ハブロッツが販売・発売を行うGWAVE同様のコンピネーションアルバムシリーズ 
+
+外部リンク
+
+
+GWAVE 公式サイト  -  ウェイバックマシン  （2019年12月20日アーカイブ分） 

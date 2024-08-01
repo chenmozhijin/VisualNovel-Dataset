@@ -190,271 +190,276 @@ Dash）。
 此栏目记录因为制作商、版本兼容等多种原因，已从移动端下架（或未下架，但已不能游玩）的游戏。
 游戏名  制作组  发行时间  停运时间  备注
 Tap Tap Revenge系列  Tapulous  2008/07/11 (iOS)  [1]
-2011/03/25 (Android)  [2]  本系列共有23作，其中有18个与艺术家联名合作的特别版本。  [3]
-Guitar Rock Tour  Gameloft  2008/11/03 (iOS)  [4]  2013/09/18  [5]  iOS
+2011/03/25 (Android)  [2]  2014/02/05 (iOS/Android)  [3]
+本系列共有23作，其中有18个与艺术家联名合作的特别版本。  [4]
+Guitar Rock Tour  Gameloft  2008/11/03 (iOS)  [5]  2013/09/18  [6]  iOS
 7.0后无法使用
-Guitar Rock Tour 2  Gameloft  2009/07/29 (iOS)  [6]  2013/09/18  [7]  iOS
+Guitar Rock Tour 2  Gameloft  2009/07/29 (iOS)  [7]  2013/09/18  [8]  iOS
 7.0后无法使用
-Rock Band/摇滚乐队  Harmonix，由EA发行  2009/10/19 (iOS)  [8]  2012/07/31  [8]  -
-Guitar Hero 5/吉他英雄5  Harmonix，由Glu Mobile发行  2009/12/23 (Android)  [9]
-2014/03/31  [10]  目前游戏仍可在少数机种上单机游玩，但包括Google Play在内的所有官方平台均已下架。
-Guitar Hero/吉他英雄  Harmonix，由Activision发行  2010/06/07 (iOS)  [11]  2014/03/31
-[10]  -
+Rock Band/摇滚乐队  Harmonix，由EA发行  2009/10/19 (iOS)  [9]  2012/07/31  [9]  -
+Guitar Hero 5/吉他英雄5  Harmonix，由Glu Mobile发行  2009/12/23 (Android)  [10]
+2014/03/31  [11]  目前游戏仍可在少数机种上单机游玩，但包括Google Play在内的所有官方平台均已下架。
+Guitar Hero/吉他英雄  Harmonix，由Activision发行  2010/06/07 (iOS)  [12]  2014/03/31
+[11]  -
 Guitar Hero: Warriors of Rock/吉他英雄：摇滚战士  Harmonix，由Glu Mobile发行  2010/10/08
-(Android)  [12]  2014/03/31  [10]  目前游戏仍可在少数机种上单机游玩，但包括Google
+(Android)  [13]  2014/03/31  [11]  目前游戏仍可在少数机种上单机游玩，但包括Google
 Play在内的所有官方平台均已下架。
-Rock Band Reloaded/摇滚乐队：重装上阵（非官译）  Harmonix，由EA发行  2010/12/02 (iOS)  [13]
-2012/07/31  [13]  -
-Tap Sonic  NEOWIZ  2011/01/20 (iOS)  [14]
-2011/07/01 (Android)  [14]  2016/07/25 (iOS/Android)  [14]  -
-Groove Coaster（iOS初代）  TAITO  2011/07/28 (iOS)  [15]  2017/09/30  [16]
+Rock Band Reloaded/摇滚乐队：重装上阵（非官译）  Harmonix，由EA发行  2010/12/02 (iOS)  [14]
+2012/07/31  [14]  -
+Tap Sonic  NEOWIZ  2011/01/20 (iOS)  [15]
+2011/07/01 (Android)  [15]  2016/07/25 (iOS/Android)  [15]  -
+Groove Coaster（iOS初代）  TAITO  2011/07/28 (iOS)  [16]  2017/09/30  [17]
 因iOS11对32位应用程序的兼容停止而下架，但其所有特色及收录曲目均已被续作继承。
-O2Jam Analog  O2Jam Company  2011/07/29 (Android)  [17]  2013/10/25（最终更新）
-[18]  游戏在2013年最后一次更新后仍可游玩一段时间，但目前已下架
-beat gather  KONAMI  2011/10/13 (iOS)  [19]  2020/01/28  [20]  -
-beat gather U  2015/7/29 (Android)  [19]
-O2Jam U  MOMO Corporation  2012/05/18 (iOS)  [21]
-2012/09/21 (Android)  [22]  2017/09/19 (iOS)  [23]  iOS端因iOS
+O2Jam Analog  O2Jam Company  2011/07/29 (Android)  [18]  2013/10/25（最终更新）
+[19]  游戏在2013年最后一次更新后仍可游玩一段时间，但目前已下架
+beat gather  KONAMI  2011/10/13 (iOS)  [20]  2020/01/28  [21]  -
+beat gather U  2015/7/29 (Android)  [20]
+O2Jam U  MOMO Corporation  2012/05/18 (iOS)  [22]
+2012/09/21 (Android)  [23]  2017/09/19 (iOS)  [24]  iOS端因iOS
 11对32位应用程序的兼容停止而下架，且无法游玩；Android端亦于之后的几个月内下架，但已下载的玩家仍可游玩一段时间
-O2Jam S/O2Jam Shoot  MOMO Corporation  2012/06/07  [24]  2012/12/13（最终更新）
-[25]  游戏在2012年最后一次更新后仍可游玩一段时间，但目前已下架
+O2Jam S/O2Jam Shoot  MOMO Corporation  2012/06/07  [25]  2012/12/13（最终更新）
+[26]  游戏在2012年最后一次更新后仍可游玩一段时间，但目前已下架
 DJMAX RAY  NEOWIZ  2012/09/28 (iOS)
-2013/03/04 (Android)  [26]  2018/02/26 (iOS/Android)  [27]  -
+2013/03/04 (Android)  [27]  2018/02/26 (iOS/Android)  [28]  -
 GITADORA Mobile  KONAMI  2013/02/21 (iOS)
-2013/08/27 (Android)  [28]  2016/12/15 (iOS/Android)  [28]  -
+2013/08/27 (Android)  [29]  2016/12/15 (iOS/Android)  [29]  -
 Thapster/喵电时代系列  Sinoze  2013/02/28 (iOS)
-2014/03/07 (Android)  [29]  2017/12/15 (iOS/Android)  [30]  -
-O2Jam Pop  MOMO Corporation  2013/04/17 (Android)  [31]
-2013/11/07 (iOS)  [32]  2014/08/11 (iOS/Android)  [33]  -
-pop'n rhythmin  KONAMI  2013/09/20 (iOS)  [34]  2016/08/31  [34]  -
-DJMAX TECHNIKA Q/DMTQ  NEOWIZ  2013/10/13 (iOS/Android)  [35]  2019/02/02
-[36]  游戏虽然停运，但仍可以在2019/03/29的14:00前进行游玩。其续作  DJMAX Respect  中收录了不少来自本作的歌曲。
+2014/03/07 (Android)  [30]  2017/12/15 (iOS/Android)  [31]  -
+O2Jam Pop  MOMO Corporation  2013/04/17 (Android)  [32]
+2013/11/07 (iOS)  [33]  2014/08/11 (iOS/Android)  [34]  -
+pop'n rhythmin  KONAMI  2013/09/20 (iOS)  [35]  2016/08/31  [35]  -
+DJMAX TECHNIKA Q/DMTQ  NEOWIZ  2013/10/13 (iOS/Android)  [36]  2019/02/02
+[37]  游戏虽然停运，但仍可以在2019/03/29的14:00前进行游玩。其续作  DJMAX Respect  中收录了不少来自本作的歌曲。
 节奏怪盗R Premium Live/Rhythm Thief & the Paris Caper  SEGA  2013/10/30 (iOS)
-[37]  2016/09/30  [38]  游戏本体于停运前一年改为免费并关闭氪金功能，转为全曲免费游玩。
-Bang Cha Cha  乐酷网路  2013/11/06 (Android)  [39]  2017/12/12（制作公司解散）  [40]
+[38]  2016/09/30  [39]  游戏本体于停运前一年改为免费并关闭氪金功能，转为全曲免费游玩。
+Bang Cha Cha  乐酷网路  2013/11/06 (Android)  [40]  2017/12/12（制作公司解散）  [41]
 由于本作在推出时的相关信息有限，加上年代久远，iOS版本的推出时间与停服时间已不可考。
-CROSS×BEATS  CAPCOM  2013/12/01 (iOS)  [41]  2018/06/25 (iOS)  [42]  -
-BeatTube  Technon  2014/05/01 (iOS)  [43]  2019/12/30  [44]  -
-ReRave Plus  Step Revolution  2015/04/29 (Android)  [45]
-2015/10/22  [45]  2015/10/21 (Android)  [45]
+CROSS×BEATS  CAPCOM  2013/12/01 (iOS)  [42]  2018/06/25 (iOS)  [43]  -
+BeatTube  Technon  2014/05/01 (iOS)  [44]  2019/12/30  [45]  -
+ReRave Plus  Step Revolution  2015/04/29 (Android)  [46]
+2015/10/22  [46]  2015/10/21 (Android)  [46]
 游戏虽可以注册，但曲目文件下载服务器已停止运营，无法游玩，在Appstore与Google Play中均已下架
-Tap Tap Disco  O2Jam Company  2015/07/17 (iOS)  [46]
-2015/12/02 (Android)  [47]  2018/05/10 (iOS)
+Tap Tap Disco  O2Jam Company  2015/07/17 (iOS)  [47]
+2015/12/02 (Android)  [48]  2018/05/10 (iOS)
 2019/05/25 (Android)  -
-Guitar Hero Live/吉他英雄Live  Harmonix，由Activision发行  2015/10/20 (iOS)  [48]
-2018/06/01  [49]  -
-载音/Zion/Zyon  AQUATRAX，由bilibili发行  2015/11/18 (iOS)  [50]
-2016/04/29 (Android)  [51]  2018/12/18 (Android)  [52]
+Guitar Hero Live/吉他英雄Live  Harmonix，由Activision发行  2015/10/20 (iOS)  [49]
+2018/06/01  [50]  -
+载音/Zion/Zyon  AQUATRAX，由bilibili发行  2015/11/18 (iOS)  [51]
+2016/04/29 (Android)  [52]  2018/12/18 (Android)  [53]
 iOS版本在Android下架后，继续存在了一段时间，但现已下架。游戏续作  音灵  中收录了不少来自本作的歌曲。
-nanobeat  nanoconnect, Inc.  2015/12/07 (iOS/Android)  [53]  2020/03/31  [54]
+nanobeat  nanoconnect, Inc.  2015/12/07 (iOS/Android)  [54]  2020/03/31  [55]
 -
 Hachi Hachi  /八音节奏 (非官译)  Skytree Digital Limited  2016/02/18 (iOS/Android)
-[55]  2018/01/18 (iOS)
-2016/06/22 (Android) （最终更新）  [56]  -
-Music & Beat  Mobirix  2016/04/01 (Android)  [57]
-2016/06/17 (iOS)  [58]  2017/10/12  [59]  下架后，制作组将此游戏与同制作组游戏O2Jam
+[56]  2018/01/18 (iOS)
+2016/06/22 (Android) （最终更新）  [57]  -
+Music & Beat  Mobirix  2016/04/01 (Android)  [58]
+2016/06/17 (iOS)  [59]  2017/10/12  [60]  下架后，制作组将此游戏与同制作组游戏O2Jam
 U结合，制作出新App：O2Jam - Music & Game
-唯舞独尊M  鈊象电子  2016/07/28 (Android)  [60]
-2018/06/12 (iOS)  [61]  2020/12/01  [62]
-Rhythmsia  Bitter Sweet Entertainment Inc.  2016/11/12 (iOS)  [63]
-2017/05/29 (Android)  [64]  2017/09/12 （最终更新）  [65]
-CiRCLINK  FULSE  2016/11/15 (Android)  [66]
-2017/01/04 (iOS)  [67]  2018/06/29  [68]  -
-STUM - Global Rhythm Game  DOTSOFT Inc.  2017/04/29 (iOS/Android)  [69]
+唯舞独尊M  鈊象电子  2016/07/28 (Android)  [61]
+2018/06/12 (iOS)  [62]  2020/12/01  [63]
+Rhythmsia  Bitter Sweet Entertainment Inc.  2016/11/12 (iOS)  [64]
+2017/05/29 (Android)  [65]  2017/09/12 （最终更新）  [66]
+CiRCLINK  FULSE  2016/11/15 (Android)  [67]
+2017/01/04 (iOS)  [68]  2018/06/29  [69]  -
+STUM - Global Rhythm Game  DOTSOFT Inc.  2017/04/29 (iOS/Android)  [70]
 2023年8月  游戏于2023年6月从应用平台下架，后于8月服务器关停，无法游玩。
-O2Jam Battle系列  MOMO Corporation  2017/07/26 (Android)  [70]  -  停服时间已无法考证
-TAPSONIC World Champion/冠军超音速  NEOWIZ  2017/11/06（国际服）  [71]
-2018/02/21（日服/韩服）  [72]
-2019/12/19（中文服）  [73]  2021/07/27（中文服）  [74]
-2021/12/03（国际服/日服/韩服）  [75]  -
-Muse Maker  NEOWIZ  2018/03/07 (iOS/Android)  [76]  2020/02/28  [77]  -
-MUZIQLO  MAPIACOMPANY  2019/03/04 (Android)  [78]
-2019/03/14 (iOS)  [78]  2021/11/25  [78]  -
+O2Jam Battle系列  MOMO Corporation  2017/07/26 (Android)  [71]  -  停服时间已无法考证
+TAPSONIC World Champion/冠军超音速  NEOWIZ  2017/11/06（国际服）  [72]
+2018/02/21（日服/韩服）  [73]
+2019/12/19（中文服）  [74]  2021/07/27（中文服）  [75]
+2021/12/03（国际服/日服/韩服）  [76]  -
+RIDE-ZERO  /零-云之声  Loadcomplete  2017/11/02 (iOS/Android)  [77]  2022/02/08
+[78]  2020年5月从Google Play/App
+Store下架；曾预定于2021年12月31日停止服务，但最终还是于2022年2月8日关闭了服务器
+Muse Maker  NEOWIZ  2018/03/07 (iOS/Android)  [79]  2020/02/28  [80]  -
+MUZIQLO  MAPIACOMPANY  2019/03/04 (Android)  [81]
+2019/03/14 (iOS)  [81]  2021/11/25  [81]  -
 KINETIC LIGHT  FULSE  2017年11月底/12月初 (韩服)
-2019/04/26 (港澳台服)  [79]  2019年8月 (港澳台服)  [80]  韩服于2017/11/16-19参与了2017 WEGL场测
-[81]  ，并于2017/12/11之前上架  [82]  ，具体日期未知；韩服停服时间已无法考证。港澳台服的游戏标题为“KINETIC LIGHT:
+2019/04/26 (港澳台服)  [82]  2019年8月 (港澳台服)  [83]  韩服于2017/11/16-19参与了2017 WEGL场测
+[84]  ，并于2017/12/11之前上架  [85]  ，具体日期未知；韩服停服时间已无法考证。港澳台服的游戏标题为“KINETIC LIGHT:
 FEVER”。
-Project FX  LinkedTune与SQUARE MUSIQ  2019/10/24 (iOS)  [83]  2021/10/01  [84]
-Android版本发布时间远早于iOS，但仅在Taptap上提供测试版的apk，未正式发布于其他应用商城，因此不作为发布时间记录。公测结束后，测试版apk在Taptap平台继续存在了一段时间，但亦于2022年4月下架。官方未具体说明停服的具体原因，但据玩家总结，可能包括曾属于
-SQUARE MUSIQ  的曲师ampstyle.离世，以及制作团队的弃坑等
-SEVEN's CODE  Applibot Inc./Unlimited Studio  2019/10/21 (iOS/Android)  [85]
-2022/06/30  [86]  游戏既定的运营周期即为一年，一年运营期结束后不再进行定时更新。
-Pump It Up M  Andamiro  2019/10/21 (Android)  [87]  , 2020/01/20 (iOS)  [88]
-2022/06/30  [89]  在停运下架前游戏服务器已停止运行
+Project FX  LinkedTune与SQUARE MUSIQ  2019/10/24 (iOS)  [86]  2021/10/01  [87]
+Android版本发布时间远早于iOS，但仅在Taptap上提供测试版的apk，未正式发布于其他应用商城，因此不作为发布时间记录。公测结束后，测试版apk在Taptap平台继续存在了一段时间，但亦于2022年4月下架。
+官方未具体说明停服的具体原因，但据玩家总结，可能包括曾属于  SQUARE MUSIQ
+的曲师ampstyle.的离世，以及制作团队“全力制作其他音乐游戏”而弃坑等
+SEVEN's CODE  Applibot Inc./Unlimited Studio  2019/10/21 (iOS/Android)  [88]
+2022/06/30  [89]  游戏既定的运营周期即为一年，一年运营期结束后不再进行定时更新。
+Pump It Up M  Andamiro  2019/10/21 (Android)  [90]  , 2020/01/20 (iOS)  [91]
+2022/06/30  [92]  在停运下架前游戏服务器已停止运行
 Fate/Grand Order Waltz in the MOONLIGHT/LOSTROOM  DELiGHTWORKS  2020/08/11
-(iOS/Android)  [90]  2021/07/26  [91]
+(iOS/Android)  [93]  2021/07/26  [94]
 游戏是为了纪念FGO日服五周年而制作的作品，无更新计划，2021年7月后关闭下载通道和服务器，已下载资料的用户可继续享用部分离线功能
-Qono Cafe  /科诺咖啡店  MiLai Visual Performance Group  2022/03/29 (iOS)  [92]
-2022/04/08 (Android)  [93]  2024/06/16 (iOS/Android)  [94]  -  
+Qono Cafe  /科诺咖啡店  MiLai Visual Performance Group  2022/03/29 (iOS)  [95]
+2022/04/08 (Android)  [96]  2024/06/16 (iOS/Android)  [97]  -  
 仍可游玩，但已不再持续更新的音乐游戏
 此栏目记录因制作组等原因已不再更新／维护（或2年内无任何更新及官方信息），但仍可下载游玩的游戏。若游戏重新开始更新，则会移回“运营中的音乐游戏”一栏。
 游戏名  制作组  发行时间  最后更新时间  备注
-Reflec Beat Plus  KONAMI  2011/11/24 (iOS)  [95]  2017/11/30  [96]
+Reflec Beat Plus  KONAMI  2011/11/24 (iOS)  [98]  2017/11/30  [99]
 2018年10月1日，原官网页面被替换为简单的应用介绍页面并不再更新
-Cytus  雷亚  2012/01/12 (iOS)  [97]
-2012/04/05 (Android)  [98]  2016/09/06 (iOS/Android)  [99]
+Cytus  雷亚  2012/01/12 (iOS)  [100]
+2012/04/05 (Android)  [101]  2016/09/06 (iOS/Android)  [102]
 完成10.0最终版本更新（完结），此后虽然有曲目联动和移植但游戏本身不再更新
-Tone Sphere  /音调领域  bit192 Labs  2012/06/22 (iOS)  [100]  , 2015/10/14
-(Android)  [101]  2021/02/12 (iOS/Android)  [102]
+Tone Sphere  /音调领域  bit192 Labs  2012/06/22 (iOS)  [103]  , 2015/10/14
+(Android)  [104]  2021/02/12 (iOS/Android)  [105]
 作者Sta表示ToneSphere可能未来会进行重制或以其他方式出现，但在Starbirth发布前ToneSphere的开发会逐步停止
-滑音达人  /Touch Music系列  Apiji Mobile Games  2013/01/23 (Android)  [103]
-2017/11/01  [104]  本系列最后一作“手指KTV OL”自最后更新后，两年内无任何消息，因此推测不再更新
-ちくたくコンチェルト  （Tikutaku Concert）  龍獣楽団  Ryuju Orchestra  2013/04/13 (iOS)  [105]
-2014/03/01 (Android)  [106]  2018/12/16  [107]
-制作组于10周年发布了新作开发公告。本作仅维持现状运营，不再更新。  [108]
-SongArc  Turtle Games  2013/10/02 (Windows Phone)  [109]
-2015/03/12 (iOS/Android)  [110]  2017/05/13  [111]
+滑音达人  /Touch Music系列  Apiji Mobile Games  2013/01/23 (Android)  [106]
+2017/11/01  [107]  本系列最后一作“手指KTV OL”自最后更新后，两年内无任何消息，因此推测不再更新
+ちくたくコンチェルト  （Tikutaku Concert）  龍獣楽団  Ryuju Orchestra  2013/04/13 (iOS)  [108]
+2014/03/01 (Android)  [109]  2018/12/16  [110]
+制作组于10周年发布了新作开发公告。本作仅维持现状运营，不再更新。  [111]
+SongArc  Turtle Games  2013/10/02 (Windows Phone)  [112]
+2015/03/12 (iOS/Android)  [113]  2017/05/13  [114]
 游戏官方于Twitter与Facebook发表了停更通告，游戏从应用内购转为全免费，目前离线模式可游玩
-Pokerizu - Pocket Rhythm  /  ポケリズ  yamy  2014/08/14 (Android)  [112]
-2017/03/09  [113]  制作者推特简介中显示“过去开发过此游戏”，因此推测不再更新  [114]
-Noah's bottle  /诺亚之瓶（非官译）  RNOVA Studio  [115]  2015/05/14 (Android)  [116]  ,
-2015/06/05 (iOS)  [117]  2019/03/14  [118]  该游戏在App Store与Google
+Pokerizu - Pocket Rhythm  /  ポケリズ  yamy  2014/08/14 (Android)  [115]
+2017/03/09  [116]  制作者推特简介中显示“过去开发过此游戏”，因此推测不再更新  [117]
+Noah's bottle  /诺亚之瓶（非官译）  RNOVA Studio  [118]  2015/05/14 (Android)  [119]  ,
+2015/06/05 (iOS)  [120]  2019/03/14  [121]  该游戏在App Store与Google
 Play应用商店均处于下架状态
-CycleBeat  lter team  2016/04/26 (Android)  [119]  2016/05/10  [120]
+CycleBeat  lter team  2016/04/26 (Android)  [122]  2016/05/10  [123]
 游戏为制作组用于大学专题的作品，无更新计划
-RHYTH-METRIA  MIS.W（  早稲田大学経営情報学会  ）  2016/12/20 (iOS/Android)  [121]  [122]
-2017/04/08  [123]  制作组为大学社团，没有更新计划。iOS因版本兼容问题已下架，Android版本仍可游玩
-Lethe  Lethe Studio  2016/12/22 (iOS)  [124]
-2017/06/21 (Android)  [125]  2017/08/10  [126]  因制作组解散，游戏不再更新，但仍可游玩
-STELLIGHTS  COLLESTA  2017/01/07 (iOS)  [127]
-2017/05/01 (Android)  [128]  2019/11/05 (Android)
+RHYTH-METRIA  MIS.W（  早稲田大学経営情報学会  ）  2016/12/20 (iOS/Android)  [124]  [125]
+2017/04/08  [126]  制作组为大学社团，没有更新计划。iOS因版本兼容问题已下架，Android版本仍可游玩
+Lethe  Lethe Studio  2016/12/22 (iOS)  [127]
+2017/06/21 (Android)  [128]  2017/08/10  [129]  因制作组解散，游戏不再更新，但仍可游玩
+STELLIGHTS  COLLESTA  2017/01/07 (iOS)  [130]
+2017/05/01 (Android)  [131]  2019/11/05 (Android)
 游戏已下架，虽仍具备联网检测功能，但服务器已关闭，可直接通过离线模式游玩
-lter  lter team  2017/01/10 (iOS/Android)  [129]  2017/07/07  [130]
+lter  lter team  2017/01/10 (iOS/Android)  [132]  2017/07/07  [133]
 游戏为制作组参加游戏设计展的作品，无更新计划
-Neon FM  Unit-e Technologies  2017/04/13 (iOS/Android)  [131]  2019/07/13
-[132]  该游戏在App Store与Google Play应用商店均处于下架状态，但联网服务仍继续维持
-P:h Diver  NextFloor  2017/04/24 (iOS/Android)  [133]  2019/12/09  [134]
+Neon FM  Unit-e Technologies  2017/04/13 (iOS/Android)  [134]  2019/07/13
+[135]  该游戏在App Store与Google Play应用商店均处于下架状态，但联网服务仍继续维持
+P:h Diver  NextFloor  2017/04/24 (iOS/Android)  [136]  2019/12/09  [137]
 制作组已关闭氪金功能，转为全曲免费游玩并不再更新
-Travel Square  ALSAR Studio  2017/05/05 (Android)  [135]  2017/05/08  [136]
+Travel Square  ALSAR Studio  2017/05/05 (Android)  [138]  2017/05/08  [139]
 游戏为制作组参加软件开发比赛的作品，无更新计划
-Kllaver  jack  2017/06/09 (iOS)  [137]
-2017/06/15 (Android)  [138]  -  游戏为制作组参加软件开发展示的作品，无更新计划
+Kllaver  jack  2017/06/09 (iOS)  [140]
+2017/06/15 (Android)  [141]  -  游戏为制作组参加软件开发展示的作品，无更新计划
 Nora - Touch Your Feeling  /诺拉Nora  Soulo Studio  2017/07/21 (iOS/Android)
 2019/04/22  因游戏服务器下架，现已无法注册/登录，但安卓版的离线模式仍可游玩
-RIDE-ZERO  /零-云之声  Loadcomplete  2017/11/02 (iOS/Android)  [139]  2018/01/03
-(iOS)  制作组自最后更新后，两年内无任何消息，因此推测不再更新
-グリメロ～グリモワールメロディプロジェクト～  Applibot Inc.  2018/01/19 (iOS/Android)  [140]  -
+グリメロ～グリモワールメロディプロジェクト～  Applibot Inc.  2018/01/19 (iOS/Android)  [142]  -
 游戏是即时卡牌战斗游戏《  私立格里莫瓦魔法学园  》的延伸作品，无更新计划
-Ekscita  筑駒69期縁日班  2020/10/30 (iOS/Android)  [141]  -
+Ekscita  筑駒69期縁日班  2020/10/30 (iOS/Android)  [143]  -
 游戏为高中文化祭制作的作品，无更新计划。目前iOS/Google Play商店已下架，但安卓版仍可下载安装包游玩
-CYNELLIA  筑駒71期縁日班  2022/10/28 (iOS/Android)  [142]  -
+CYNELLIA  筑駒71期縁日班  2022/10/28 (iOS/Android)  [144]  -
 游戏为高中文化祭制作的作品，无更新计划。目前iOS/Google Play商店已下架，但安卓版仍可下载安装包游玩  
 运营中的音乐游戏
 此栏目记录正在运营中的移动端游戏，按照发行时间从早到晚进行排列。
-游戏官方名称  [143]  其他名称  [144]  制作组  发行时间  [145]  备注
-Jubeat ~~Plus~~ 乐动魔方  KONAMI  2010/11/08 (iOS)  [146]
+游戏官方名称  [145]  其他名称  [146]  制作组  发行时间  [147]  备注
+Jubeat ~~Plus~~ 乐动魔方  KONAMI  2010/11/08 (iOS)  [148]
 2021年5月7日更新换代为新版本jubeat移动端，原版本商店于2021年4月26日起已不可用
-Beat Beat Vocaloid  -  Kestrel Games Studio  2012/02/18 (1代/Plus)  [147]
-2017/07/26 (Reborn)  [148]  -
-节奏大师  Rhythm Master  腾讯游戏  2012/05/25 (iOS/Android)  [149]
+Beat Beat Vocaloid  -  Kestrel Games Studio  2012/02/18 (1代/Plus)  [149]
+2017/07/26 (Reborn)  [150]  -
+节奏大师  Rhythm Master  腾讯游戏  2012/05/25 (iOS/Android)  [151]
 2021年2月5日宣布因需进行游戏优化原因暂停运营游戏，2022年12月26日在Android少量开放内测，定档于2023年11月7日重新开始运营。
-Groove Coaster 2 Original Style  -  TAITO  2012/11/19 (iOS)  [150]
-2015/07/01 (Android)  [151]  2.0版本前游戏名为Groove Coaster Zero，版本更新后更名为现名称。
-Deemo  古树旋律（非官译）  雷亚  2013/11/13 (iOS)  [152]
-2013/12/27 (Android)  [153]  -
-Dynamix  炫光动感（非官译）  C4Cat Entertainment  2014/10/30 (Android)  [154]
-2015/05/19 (iOS)  [155]  -
-同步音律喵赛克  Musync/Musynx  I-Inferno  2015/07/07 (iOS)  [156]
-2016/04/05 (Android)  [157]  -
-OverRapid  超高速（非官译）  Team ArcStar  2015/07/13 (Android)  [158]
-2016/06/02 (iOS)  [159]  -
-Behind You!!  /Hide & Dance!  在你身后！  hap inc.  2016/03/18 (iOS/Android)  [160]
+Groove Coaster 2 Original Style  -  TAITO  2012/11/19 (iOS)  [152]
+2015/07/01 (Android)  [153]  2.0版本前游戏名为Groove Coaster Zero，版本更新后更名为现名称。
+Deemo  古树旋律（非官译）  雷亚  2013/11/13 (iOS)  [154]
+2013/12/27 (Android)  [155]  -
+Dynamix  炫光动感（非官译）  C4Cat Entertainment  2014/10/30 (Android)  [156]
+2015/05/19 (iOS)  [157]  -
+同步音律喵赛克  Musync/Musynx  I-Inferno  2015/07/07 (iOS)  [158]
+2016/04/05 (Android)  [159]  -
+OverRapid  超高速（非官译）  Team ArcStar  2015/07/13 (Android)  [160]
+2016/06/02 (iOS)  [161]  -
+Behind You!!  /Hide & Dance!  在你身后！  hap inc.  2016/03/18 (iOS/Android)  [162]
 -
-VOEZ  兰空  雷亚  2016/05/26 (iOS)  [161]
-2016/06/02 (Android)  [162]  -
-缪斯计划  P.MUSE  RinzzGame  2016/07/01 (iOS)  [163]
-2016/07/20 (Android)  [164]  -
-ChainBeeT  -  カエル組  2016/07/06 (Android)  [165]
-2017/09/19 (iOS)  [166]  -
-Lanota  调律诗篇  Noxy Games  2016/07/13 (iOS)  [167]
-2016/08/26 (Android)  [168]  -
-Tsumamia!旋钮神律  -  CQube Games  2016/09/18 (Android)  [169]  -
-Pianista  钢琴师  SUPERB Corp.  2016/12/04 (iOS)  [170]
-2017/07/07 (Android)  [171]  -
+VOEZ  兰空  雷亚  2016/05/26 (iOS)  [163]
+2016/06/02 (Android)  [164]  -
+缪斯计划  P.MUSE  RinzzGame  2016/07/01 (iOS)  [165]
+2016/07/20 (Android)  [166]  -
+ChainBeeT  -  カエル組  2016/07/06 (Android)  [167]
+2017/09/19 (iOS)  [168]  -
+Lanota  调律诗篇  Noxy Games  2016/07/13 (iOS)  [169]
+2016/08/26 (Android)  [170]  -
+Tsumamia!旋钮神律  -  CQube Games  2016/09/18 (Android)  [171]  -
+Pianista  钢琴师  SUPERB Corp.  2016/12/04 (iOS)  [172]
+2017/07/07 (Android)  [173]  -
 WAVEAT
 
 初代 
 ReLIGHT 
 
--  A-ZERO Entertainment  2017/01/25 (WAVEAT)  [172]
-2019/01/25 (ReLIGHT)  [173]  -
-Arcaea  韵律源点  lowiro  2017/03/09 (iOS/Android)  [174]  -
-コトノネドライブ  /Kotonone Drive  -  Drossel/Studio  2017/03/16 (iOS/Android)  [175]
+-  A-ZERO Entertainment  2017/01/25 (WAVEAT)  [174]
+2019/01/25 (ReLIGHT)  [175]  -
+Arcaea  韵律源点  lowiro  2017/03/09 (iOS/Android)  [176]  -
+コトノネドライブ  /Kotonone Drive  -  Drossel/Studio  2017/03/16 (iOS/Android)  [177]
 -
-Dance Rail  -  SORA GAMES  2017/04/24 (Dance Rail 1代/refresh)  [176]
-2019/03/20 (DanceRail 3)  [177]  -
+Dance Rail  -  SORA GAMES  2017/04/24 (Dance Rail 1代/refresh)  [178]
+2019/03/20 (DanceRail 3)  [179]  -
 不可思议乐队  Wonder Parade  ~~studioQuare~~ Pawoofur
-AQUATRAX  2017/08/30 (iOS)  [178]
-2018/04/27 (Android)  [179]  -
-阳春白雪  Lyrica  RNOVA Studio  [115]  2017/11/15 (iOS/Android)  [180]  -
-polytone  -  Impact Studios  2017/12/25 (Android)  [181]
-2018/01/23 (iOS)  [182]  -
-Cytus II  音乐世界2/赛特斯2  雷亚  2018/01/18 (iOS)  [183]
-2018/03/08 (Android)  [184]  -
+AQUATRAX  2017/08/30 (iOS)  [180]
+2018/04/27 (Android)  [181]  -
+阳春白雪  Lyrica  RNOVA Studio  [118]  2017/11/15 (iOS/Android)  [182]  -
+polytone  -  Impact Studios  2017/12/25 (Android)  [183]
+2018/01/23 (iOS)  [184]  -
+Cytus II  音乐世界2/赛特斯2  雷亚  2018/01/18 (iOS)  [185]
+2018/03/08 (Android)  [186]  -
 RhythmStar: Music Adventure  节奏之星：音乐冒险  ANB Games  2018/02/27 (iOS/Android)
-[185]  -
+[187]  -
 Muse Dash  喵斯快跑  PeroPeroGames
-（心动网络发行）  2018/06/15 (iOS/Android)  [186]  -
-东方键盘游戏  -  FlightGame  2018/10/28 (Android)  [187]
-2018/12/21 (iOS)  [188]  -
-HULCUS  -  AZURITE EYES  2018/11/18 (iOS/Android)  [189]  -
-Touhou Mix  -  Kailang Fu  2019/03/03 (iOS/Android)  [190]  -
-O2Jam - Music & Game  -  O2Jam Company  2019/06/27 (iOS)  [191]
-2020/03/08 (Android)  [192]  -
+（心动网络发行）  2018/06/15 (iOS/Android)  [188]  -
+东方键盘游戏  -  FlightGame  2018/10/28 (Android)  [189]
+2018/12/21 (iOS)  [190]  -
+HULCUS  -  AZURITE EYES  2018/11/18 (iOS/Android)  [191]  -
+Touhou Mix  -  Kailang Fu  2019/03/03 (iOS/Android)  [192]  -
+O2Jam - Music & Game  -  O2Jam Company  2019/06/27 (iOS)  [193]
+2020/03/08 (Android)  [194]  -
 Sonic Beat feat. Crash Fever  -  WonderPlanet  2019/07/23 (iOS/Android)
-[193]  -
-Phigros  -  Pigeon Games  2019/08/31 (Android)  [194]
-2019/09/03 (iOS)  [195]  -
-メロディ's  -  @melodies_game  2019/10/31 (iOS/Android)  [196]  -
-beatmania IIDX ULTIMATE MOBILE  -  KONAMI  2019/12/09 (iOS/Android)  [197]
+[195]  -
+Phigros  -  Pigeon Games  2019/08/31 (Android)  [196]
+2019/09/03 (iOS)  [197]  -
+メロディ's  -  @melodies_game  2019/10/31 (iOS/Android)  [198]  -
+beatmania IIDX ULTIMATE MOBILE  -  KONAMI  2019/12/09 (iOS/Android)  [199]
 -
-RAVON  -  Synthnova  2019/12/22 (iOS/Android)  [198]  -
-SAAZ  -  minume studio  2020/01/29 (iOS)  [199]  -
-TAKUMI³  -  StrayCubic  2020/03/05 (iOS)  [200]
-2020/06/03 (Android)  [201]  -
-COXETA  costheta  [202]  Team Rhythmicals  2020/04/20 (Android)  [203]
-2020/10/20 (iOS)  [204]  -
-Sweet Sins Superstars  甜罪孽巨星  Platonic Games  2020/10/14 (Android/iOS)  [205]
-DEEMO -Reborn-  古树旋律（非官译）  雷亚  2020/12/17 (Android/iOS)  [206]  -
-Sixtar Gate  -  Lyrebird Ferdinant  2021/01/26 (Android)  [207]
+RAVON  -  Synthnova  2019/12/22 (iOS/Android)  [200]  -
+SAAZ  -  minume studio  2020/01/29 (iOS)  [201]  -
+TAKUMI³  -  StrayCubic  2020/03/05 (iOS)  [202]
+2020/06/03 (Android)  [203]  -
+COXETA  costheta  [204]  Team Rhythmicals  2020/04/20 (Android)  [205]
+2020/10/20 (iOS)  [206]  -
+Sweet Sins Superstars  甜罪孽巨星  Platonic Games  2020/10/14 (Android/iOS)  [207]
+DEEMO -Reborn-  古树旋律（非官译）  雷亚  2020/12/17 (Android/iOS)  [208]  -
+Sixtar Gate  -  Lyrebird Ferdinant  2021/01/26 (Android)  [209]
 已重制为新版本Sixtar Gate: Classic
-Café Twilight  -  Hitoshizuku x Yama△  2021/02/05 (Android/iOS)  [208]
-KALPA  -  Quesera Games  2021/02/11 (Android/iOS)  [209]
-TYERURIN  -  TYERU  2021/02/17 (Android)  [210]
-2021/05/06 (iOS)  [211]  iOS版本目前处于下架状态
-Orzmic  -  BTWorks  2021/02/21 (Android/iOS)  [212]  -
-Queen Rock Tour  -  Gameloft  2021/03/01 (Android/iOS)  [213]  -
-Liminality  -  ProjectZero  2021/04/03 (先行体验版)  [214]
-2022/04/29 (正式版)  [215]  -
-Azrael  心音计划  GAMSTER  2021/04/08 (iOS)  [216]
-2021/12/24 (Android)  [217]  -
-Beat Hacker  -  Neko Hacker  2021/07/09 (Android/iOS)  [218]  -
-シノビスラッシュ  /SHINOBI SLASH  -  Drossel/Studio  2021/11/05 (iOS)  [219]
-2023/09/15 (Android)  [220]
-Deemo II  花雨旋律  雷亚  2022/01/13 (Android/iOS)  [221]  -
-Calice  -  Ra:8bit Studio  2022/01/21 (Android/iOS)  [222]  因运营转移暂时下架
-NOISZ STΔRLIVHT  -  Anarch Entertainment  2022/02/02 (Android/iOS)  [223]  结合
+Café Twilight  -  Hitoshizuku x Yama△  2021/02/05 (Android/iOS)  [210]
+KALPA  -  Quesera Games  2021/02/11 (Android/iOS)  [211]
+TYERURIN  -  TYERU  2021/02/17 (Android)  [212]
+2021/05/06 (iOS)  [213]  iOS版本目前处于下架状态
+Orzmic  -  BTWorks  2021/02/21 (Android/iOS)  [214]  -
+Queen Rock Tour  -  Gameloft  2021/03/01 (Android/iOS)  [215]  -
+Liminality  -  ProjectZero  2021/04/03 (先行体验版)  [216]
+2022/04/29 (正式版)  [217]  -
+Azrael  心音计划  GAMSTER  2021/04/08 (iOS)  [218]
+2021/12/24 (Android)  [219]  -
+Beat Hacker  -  Neko Hacker  2021/07/09 (Android/iOS)  [220]  -
+シノビスラッシュ  /SHINOBI SLASH  -  Drossel/Studio  2021/11/05 (iOS)  [221]
+2023/09/15 (Android)  [222]
+Deemo II  花雨旋律  雷亚  2022/01/13 (Android/iOS)  [223]  -
+Calice  -  Ra:8bit Studio  2022/01/21 (Android/iOS)  [224]  因运营转移暂时下架
+NOISZ STΔRLIVHT  -  Anarch Entertainment  2022/02/02 (Android/iOS)  [225]  结合
 东方  风  弹幕射击游戏  的音乐游戏，原PC版游戏NOISZ的后续作品
-Twirdora  -  PΛИDΘX Project  2022/02/28 (Android/iOS)  [224]
+Twirdora  -  PΛИDΘX Project  2022/02/28 (Android/iOS)  [226]
 2023年9月19日进行Early Access阶段最终更新
-Rotaeno  旋转音律  Dream Engine Games  2022/05/30 (Android/iOS)  [225]  -
-Hexa Hysteria  -  Wiseye Studio  2022/08/19 (Android/iOS)  [226]  -
-Starri  星动旋律  NEX Team Inc.  2022/09/15 (Android/iOS)  [227]  -
-Berry Melody  -  Sky Way Studio  2022/11/20 (Android/iOS)  [228]  -
-Paradigm: Reboot  范式：起源  TunerGames  2022/12/08 (iOS)  [229]
-2022/12/19 (Android)  [230]  -
-Rizline  律动轨迹  Pigeon Games  2022/12/15 (iOS)  [231]  -
-Schiphalast  -  DeltaGames  2023/01/25 (Android)  [232]  -
-Gadvia  -  浮光游戏  2023/01/31 (Android)  [233]
-2023/02/07 (iOS)  [234]  -
-音札Étude  -  音札プロジェクト  2023/07/20 (网页端)  [235]  -
-SparkLine  -  WizDream Games  2023/07/28 (iOS/Android)  [236]  -
-RYCEAM  镜之韵律  音栖工作室  2023/08/08 (Android)  [237]
-2023/08/10 (iOS)  [238]
-DeltaBeats  -  iwate EVOLVED  2023/10/28 (iOS)  [239]  -
-Milthm  -  Morizero  2023/11/17 (iOS/Android)  [240]  -
-AnXiens  轴音旋律  GLACIA STUDIO  2023/12/12 (iOS/Android)  [241]  -
-ELLIA  -  Team ArcStar  2024/04/29 (iOS/Android)  [242]  -  
+Rotaeno  旋转音律  Dream Engine Games  2022/05/30 (Android/iOS)  [227]  -
+Hexa Hysteria  -  Wiseye Studio  2022/08/19 (Android/iOS)  [228]  -
+Starri  星动旋律  NEX Team Inc.  2022/09/15 (Android/iOS)  [229]  -
+Berry Melody  -  Sky Way Studio  2022/11/20 (Android/iOS)  [230]  -
+Paradigm: Reboot  范式：起源  TunerGames  2022/12/08 (iOS)  [231]
+2022/12/19 (Android)  [232]  -
+Rizline  律动轨迹  Pigeon Games  2022/12/15 (iOS)  [233]
+2023/04/09 (Android)  [234]
+2024/04/29 (国服)  [235]  -
+Schiphalast  -  DeltaGames  2023/01/25 (Android)  [236]  -
+Gadvia  -  浮光游戏  2023/01/31 (Android)  [237]
+2023/02/07 (iOS)  [238]  -
+音札Étude  -  音札プロジェクト  2023/07/20 (网页端)  [239]  -
+SparkLine  -  WizDream Games  2023/07/28 (iOS/Android)  [240]  -
+RYCEAM  镜之韵律  音栖工作室  2023/08/08 (Android)  [241]
+2023/08/10 (iOS)  [242]
+DeltaBeats  -  iwate EVOLVED  2023/10/28 (iOS)  [243]  -
+Milthm  -  Morizero  2023/11/17 (iOS/Android)  [244]  -
+AnXiens  轴音旋律  GLACIA STUDIO  2023/12/12 (iOS/Android)  [245]  -
+ELLIA  -  Team ArcStar  2024/04/29 (iOS/Android)  [246]  -  
 与影音平台结合的音乐游戏
 本栏目记录架设于YouTube平台框架下的游戏，该种类游戏会从选中的视频中以撷取音源的方式当作曲目给游戏使用，并自动生成谱面。
  BEAT MP3 for YouTube  /Beat Craft（CREAPPTIVE Co., Ltd.） 
@@ -467,21 +472,21 @@ ELLIA  -  Team ArcStar  2024/04/29 (iOS/Android)  [242]  -
 osu!stream  押忍！闘え！応援団
 太鼓之达人
 EZ2DJ（CATCH模式）
-O2JAM  ppy  2011/08/01 (iOS)  [243]  Android版本的  osu!droid  目前Google
-Play处于下架状态  [244]
-BeatX  DDR  Maniacs s.r.o.  2013/9/26 (Android)  [245]  上一版本更新日期为2018/11/26
+O2JAM  ppy  2011/08/01 (iOS)  [247]  Android版本的  osu!droid  目前Google
+Play处于下架状态  [248]
+BeatX  DDR  Maniacs s.r.o.  2013/9/26 (Android)  [249]  上一版本更新日期为2018/11/26
 Malody  下落式4K-9K
 EZ2DJ（CATCH模式）
 jubeat
-太鼓之达人  Mugzone  2014/05/13 (Android)  [246]
-2015/05/23 (iOS)  [247]  iOS发行时间为App Store上架时间，测试版本游戏发布日2014/04/01已可游玩
+太鼓之达人  Mugzone  2014/05/13 (Android)  [250]
+2015/05/23 (iOS)  [251]  iOS发行时间为App Store上架时间，测试版本游戏发布日2014/04/01已可游玩
 Cytoid  Cytus  Tiger Tang
-Zhixing Zhang  2017/08/12 (iOS/Android)  [248]  由于不可抗力因素，已在中国大陆停止运营
-Demoid  Deemo  Arke12917  2018/02/19 (iOS/Android)  [249]  -
-Layesta  Lanota  Schwarzer  2018/11/27 (Android)  [251]
-2018/11/28 (iOS)  [252]  -
-Arcaoid  Arcaea  Arke12917  2019/04/11 (iOS/Android)  [253]  -
-Dynamite  Dynamix  TunerGames  2019/12/29 (iOS/Android)  [254]  由于不可抗力因素，已停止运营
+Zhixing Zhang  2017/08/12 (iOS/Android)  [252]  由于不可抗力因素，已在中国大陆停止运营
+Demoid  Deemo  Arke12917  2018/02/19 (iOS/Android)  [253]  -
+Layesta  Lanota  Schwarzer  2018/11/27 (Android)  [255]
+2018/11/28 (iOS)  [256]  -
+Arcaoid  Arcaea  Arke12917  2019/04/11 (iOS/Android)  [257]  -
+Dynamite  Dynamix  TunerGames  2019/12/29 (iOS/Android)  [258]  由于不可抗力因素，已停止运营
 Sonolus  BanG Dream！少女乐团派对
 LoveLive!学园偶像祭
 22/7 音乐的时间
@@ -490,8 +495,8 @@ VOEZ
 Deemo
 世界计划 彩色舞台 feat. 初音未来
 HoneyWorks Premium Live
-World Dai Star 梦想的群星  Sonolus Team  2020/07/12 (Alpha)  [255]
-2022/08/10 (Beta)  [256]  本音乐游戏为模拟引擎
+World Dai Star 梦想的群星  Sonolus Team  2020/07/12 (Alpha)  [259]
+2022/08/10 (Beta)  [260]  本音乐游戏为模拟引擎
 Phira  Phigros  TeamFlos  2023年  -  
 卡牌养成类音乐游戏
  主条目：  卡牌养成类音乐游戏
@@ -502,84 +507,84 @@ PC端音乐游戏
 已停服/不再更新的PC端音乐游戏
 此处记录官方已停服，或已不再更新/官方两年内无消息的游戏。
 游戏名  制作组  发行时间  停服/最终更新时间  备注
-O2Jam/劲乐团  O2Media  2002/11/25 (韩服)  [257]
-2005/03/04 (中文服)  [258]  2012/05/30 (韩服)  [259]
-2008/04/28 (中文服)  [260]  游戏官方已停服。现存可游玩版本均为社群搭建的非官方服务器
-DJMAX Online  PENTAVISION  2004/05/22 (韩服、日服、中文服)  [261]  2008/03/21
-(韩服、日服、中文服)  [262]  制作团队为Neowiz MUCA的前身
-EZ2ON ONLINE TRAX  Retro Games  2008/12/23 (韩服)  [263]  2009/10/19 (韩服)  [264]
-DJMax Trilogy  NEOWIZ  2008/12/25 (Windows)  [265]  2013/12/19  [266]
+O2Jam/劲乐团  O2Media  2002/11/25 (韩服)  [261]
+2005/03/04 (中文服)  [262]  2012/05/30 (韩服)  [263]
+2008/04/28 (中文服)  [264]  游戏官方已停服。现存可游玩版本均为社群搭建的非官方服务器
+DJMAX Online  PENTAVISION  2004/05/22 (韩服、日服、中文服)  [265]  2008/03/21
+(韩服、日服、中文服)  [266]  制作团队为Neowiz MUCA的前身
+EZ2ON ONLINE TRAX  Retro Games  2008/12/23 (韩服)  [267]  2009/10/19 (韩服)  [268]
+DJMax Trilogy  NEOWIZ  2008/12/25 (Windows)  [269]  2013/12/19  [270]
 游戏官方已停运，不过可离线游玩
-EZ2ON REBOOT  Tok Tok Plus  2013/07/16 (韩服)  [267]  2013/12/30 (韩服)  [267]
-Takt-Rhythm  Leap Motion  2017/04/23 (Windows)  [268]  2017/11/02 (Mac)  [269]
+EZ2ON REBOOT  Tok Tok Plus  2013/07/16 (韩服)  [271]  2013/12/30 (韩服)  [271]
+Takt-Rhythm  Leap Motion  2017/04/23 (Windows)  [272]  2017/11/02 (Mac)  [273]
 2017/11/02（最终更新）  需搭配自家控制器“Leap Motion
 Controller”游玩。游戏在2017/11/02的ver1.02a更新后无任何消息，游戏官网也于2021年的某日下架，但软件仍可通过Internet
-Archive的存档页获取  [270]
-MUSIC=OPERATOR  Rhythnibus  2017/11/11 (Windows)  [271]  2021/02/23  [272]
+Archive的存档页获取  [274]
+MUSIC=OPERATOR  Rhythnibus  2017/11/11 (Windows)  [275]  2021/02/23  [276]
 官方已宣布2021/02/23发布的1.f版本为最终版本，自此不再更新
-音灵  /INVAXION  AQUATRAX，由bilibili发行  2018/12/19 (Windows)  [273]  2021/04/07
-(Windows)  [274]  游戏官方已停运，之前购买的玩家可离线游玩。也存在社群搭建的非官方服务器
-Hexeria  Hexeria_dev  游戏官网与推特目前均无法访问，推特上最后一张玩家游戏成绩图发送于2020/03/15  [275]  
+音灵  /INVAXION  AQUATRAX，由bilibili发行  2018/12/19 (Windows)  [277]  2021/04/07
+(Windows)  [278]  游戏官方已停运，之前购买的玩家可离线游玩。也存在社群搭建的非官方服务器
+Hexeria  Hexeria_dev  游戏官网与推特目前均无法访问，推特上最后一张玩家游戏成绩图发送于2020/03/15  [279]  
 运营中的非社群PC端音乐游戏
-此处记录官方服务器正在运营中的PC端游戏。本栏目中仅包含非社群游戏，即全部谱面均为官方谱师制作，且官方并不开放/鼓励自制的游戏。  [276]  [277]
+此处记录官方服务器正在运营中的PC端游戏。本栏目中仅包含非社群游戏，即全部谱面均为官方谱师制作，且官方并不开放/鼓励自制的游戏。  [280]  [281]
 社群游戏可参考下一个栏目。
 游戏名  制作组  发行时间  备注
-Audition Online/  劲舞团  /X-Beat  T3 Entertainment  2005/07 (韩服)  [278]
-2005/07 (中文服)  [278]
-吉他英雄III：摇滚传奇  Harmonix，由Activision发行  2007/11/13 (Windows)  [279]
-2007/12/10 (Mac)  [279]
-吉他英雄：世界巡回  Harmonix，由Activision发行  2009/12 (Windows/Mac)  [280]
-Keys X Six  Team SKYFORGE  2013/04/11 (Windows)  [281]
-Aim Click Evolution!  東北大学RPG制作会  2015/04/26 (Windows)  [282]
-Sparebeat  suzukibakery  2016/08/09 (网页版)  [283]
-beatmania IIDX INFINITAS  BEMANI  2015/12/1 (Windows)  [284]  需搭配IIDX专用手台游玩
+Audition Online/  劲舞团  /X-Beat  T3 Entertainment  2005/07 (韩服)  [282]
+2005/07 (中文服)  [282]
+吉他英雄III：摇滚传奇  Harmonix，由Activision发行  2007/11/13 (Windows)  [283]
+2007/12/10 (Mac)  [283]
+吉他英雄：世界巡回  Harmonix，由Activision发行  2009/12 (Windows/Mac)  [284]
+Keys X Six  Team SKYFORGE  2013/04/11 (Windows)  [285]
+Aim Click Evolution!  東北大学RPG制作会  2015/04/26 (Windows)  [286]
+Sparebeat  suzukibakery  2016/08/09 (网页版)  [287]
+beatmania IIDX INFINITAS  BEMANI  2015/12/1 (Windows)  [288]  需搭配IIDX专用手台游玩
 SOUND VOLTEX EXCEED GEAR  （第一代：SOUND VOLTEX III GRAVITY WARS コナステ，原名为SOUND
 VOLTEX III GRAVITY WARS e-AMUSEMENT CLOUD）  BEMANI  2017/10/04 (Windows)
-[285]  需搭配SDVX专用手台游玩（任意厂牌皆可）
+[289]  需搭配SDVX专用手台游玩（任意厂牌皆可）
 THE CHiRAL NIGHT rhythm carnival  NITRO CHiRAL  2017/10/13
 N+C旗下作品跨作品联动作，该社制作的第一部音乐游戏
-nature prhysm  定空間  2017/10/16 (Windows)  [286]
-KamuNi/ふりーむ！  sinusoidal wave  2018/06/12 (Windows)  [287]
-Groove Coaster for Steam  TAITO  2018/07/16 (Windows)  [288]
-NOISZ  Anarch Entertainment  2018/09/01 (Windows/Mac)  [289]  结合  东方  风
+nature prhysm  定空間  2017/10/16 (Windows)  [290]
+KamuNi/ふりーむ！  sinusoidal wave  2018/06/12 (Windows)  [291]
+Groove Coaster for Steam  TAITO  2018/07/16 (Windows)  [292]
+NOISZ  Anarch Entertainment  2018/09/01 (Windows/Mac)  [293]  结合  东方  风
 弹幕射击游戏  的音乐游戏
-SpaceTone  SpaceSoySauceStudio  2018/09/25 (Windows/Mac)  [290]
-URO  AnelaGamesStudio  2018/11/22 (Windows)  [291]
-同步音律喵赛克  /Musync/Musynx  I-Inferno  2018/12/05 (Windows)  [292]
-TAPSONIC BOLD  NEOWIZ  2019/03/26 (Windows)  [293]
-Caelyta  ネジ研究所  2019/05/01 (网页版)  [294]
-Muse Dash  PeroPeroGames  2019/06/20 (Windows/Mac)  [295]
-Spin Rhythm XD  Super Spin Digital  2019/10/22 (Windows/Mac)  [296]
-URO2  AnelaGamesStudio  2019/10/28 (Windows)  [297]
+SpaceTone  SpaceSoySauceStudio  2018/09/25 (Windows/Mac)  [294]
+URO  AnelaGamesStudio  2018/11/22 (Windows)  [295]
+同步音律喵赛克  /Musync/Musynx  I-Inferno  2018/12/05 (Windows)  [296]
+TAPSONIC BOLD  NEOWIZ  2019/03/26 (Windows)  [297]
+Caelyta  ネジ研究所  2019/05/01 (网页版)  [298]
+Muse Dash  PeroPeroGames  2019/06/20 (Windows/Mac)  [299]
+Spin Rhythm XD  Super Spin Digital  2019/10/22 (Windows/Mac)  [300]
+URO2  AnelaGamesStudio  2019/10/28 (Windows)  [301]
 AVICII Invector  Hello There Games with Wired Productions  2019/12/10
-(Windows)  [298]
-Halo Beats!  TJIS Record  2020/01/30 (Windows)  [299]
-DJMAX Respect V  NEOWIZ MUCA  2020/03/12 (Windows)  [300]
-Raindrops  PsychoFlux Entertainment  2020/04/24 (Windows)  [301]
-Moirs  XVVX STUDIO  2020/07/01  [302]
-RESONARK X  sep-neko-ya  2020/07/31 (Windows)  [303]
+(Windows)  [302]
+Halo Beats!  TJIS Record  2020/01/30 (Windows)  [303]
+DJMAX Respect V  NEOWIZ MUCA  2020/03/12 (Windows)  [304]
+Raindrops  PsychoFlux Entertainment  2020/04/24 (Windows)  [305]
+Moirs  XVVX STUDIO  2020/07/01  [306]
+RESONARK X  sep-neko-ya  2020/07/31 (Windows)  [307]
 Friday Night Funkin'  ninjamuffin99, PhantomArcade, Kawai Sprite, evilsk8r
-2020/11/01 (Windows/Mac/Linux/网页版)  [304]  [305]  揉合了DDR和PaRappa the Rapper的特色
-pop'n music Lively  BEMANI  2020/11/05 (Windows)  [306]  可搭配pop'n
+2020/11/01 (Windows/Mac/Linux/网页版)  [308]  [309]  揉合了DDR和PaRappa the Rapper的特色
+pop'n music Lively  BEMANI  2020/11/05 (Windows)  [310]  可搭配pop'n
 music专用手台游玩，官方手台正在开发中
-Celestial Shooter  Aquamarine Sky Project  2020/11/09 (Windows)  [307]
+Celestial Shooter  Aquamarine Sky Project  2020/11/09 (Windows)  [311]
 Fuser  Harmonix Music Systems  2020/11/10
 Chainsaw Dance  Benedique, fatalitiq, Breakthebans  2021/01/23 (Windows/网页版)
-[308]  [309]  基于  电锯人  /链锯人的同人音乐游戏
-コナステ ノスタルジア  BEMANI  2021/02/01 (Windows)  [310]  可搭配键盘或midi键盘游玩
+[312]  [313]  基于  电锯人  /链锯人的同人音乐游戏
+コナステ ノスタルジア  BEMANI  2021/02/01 (Windows)  [314]  可搭配键盘或midi键盘游玩
 EZ2ON REBOOT : R  Neonovice Co. Ltd., SQUARE PIXELS  2021/03/17 (Windows)
-[311]
-UNBEATABLE [white label]  D-CELL GAMES  2021/05/07 (Windows)  [312]
-Rhythm Capture  SoundHolicK (SHK)  2021/05/27 (Windows/网页版)  [313]  [314]
-Sixtar Gate: STARTRAIL  Lyrebird Studio  2021/11/06 (Windows)  [315]
-R2Beat/音速觉醒  SEED9  2021/11/18 (韩服)  [316]
-2022/04/28 (中文服)  [317]
+[315]
+UNBEATABLE [white label]  D-CELL GAMES  2021/05/07 (Windows)  [316]
+Rhythm Capture  SoundHolicK (SHK)  2021/05/27 (Windows/网页版)  [317]  [318]
+Sixtar Gate: STARTRAIL  Lyrebird Studio  2021/11/06 (Windows)  [319]
+R2Beat/音速觉醒  SEED9  2021/11/18 (韩服)  [320]
+2022/04/28 (中文服)  [321]
 韩服和中文服均为旧服务器关闭并停运后重新开始运营；中文服的旧服务器由腾讯代理，该时期的游戏官方中文名为《QQ音速》
-rote²  Poobool  2022/04/04 (Windows)  [318]
-Trombone Champ  Holy Wow  2022/09/22 (Windows)  [319]
-vivid/stasis  Hajimeli  2023/03/08 (Windows)  [320]
-音札Étude  音札プロジェクト  2023/07/20 (网页端)  [235]  -
-Starri  NEX Team Inc.  2023/10/02 (Windows/Mac)  [321]  -
+rote²  Poobool  2022/04/04 (Windows)  [322]
+Trombone Champ  Holy Wow  2022/09/22 (Windows)  [323]
+vivid/stasis  Hajimeli  2023/03/08 (Windows)  [324]
+音札Étude  音札プロジェクト  2023/07/20 (网页端)  [239]  -
+Starri  NEX Team Inc.  2023/10/02 (Windows/Mac)  [325]  -
 东方弹幕神乐 失落幻想  xeen  2024/02/07 (Windows)  -
 Notanote  zzzProject  2024/02/14 (Windows)  -
 Scratchin' Melodii  LJ LephemStar  目前释出的版本为Demo版，完整版仍在制作中。游戏玩法致敬了另一款音游PaRappa
@@ -590,16 +595,16 @@ the Rapper
 社群类PC端音乐游戏
 此处记录以玩家社群创作谱面为主的PC端音乐游戏。
 游戏名  制作组  发行时间  备注
-Flash Flash Revolution  Synthetic Light Studios  2002/10 (Windows/网页版)  [322]
+Flash Flash Revolution  Synthetic Light Studios  2002/10 (Windows/网页版)  [326]
 模拟系音乐游戏（模拟  DDR  ）
-Frets on Fire/热火吉他手  Unreal Voodoo  2006/08/03 (Windows/Mac/Linux)  [323]
+Frets on Fire/热火吉他手  Unreal Voodoo  2006/08/03 (Windows/Mac/Linux)  [327]
 模拟系音乐游戏（模拟吉他英雄）
-osu!  ppy pty Ltd.  2007/09/17 (公测)  [324]
+osu!  ppy pty Ltd.  2007/09/17 (公测)  [328]
 Malody  Mugzone  2014/4/1（Windows）
-Intralism  KHB-Soft  2016/11/04 (Windows/Mac/Linux)  [325]
-RoBeats!  RobeatsDev  2017/3/15 (Windows/Mac)  [326]  搭建于  Roblox  平台上的音乐游戏
-Quaver  Swan  2020/07/10 (Windows/Mac)  [327]
-Beat Player  @2zn01v  2022/12/03 (网页版)  [328]
+Intralism  KHB-Soft  2016/11/04 (Windows/Mac/Linux)  [329]
+RoBeats!  RobeatsDev  2017/3/15 (Windows/Mac)  [330]  搭建于  Roblox  平台上的音乐游戏
+Quaver  Swan  2020/07/10 (Windows/Mac)  [331]
+Beat Player  @2zn01v  2022/12/03 (网页版)  [332]
 Stepmania  StepMania Team  模拟系音乐游戏（模拟  DDR  、  Pop'n music  ）
 Etterna  theropfather  模拟系音乐游戏（模拟  DDR  ）
 Lunatic Rave 2  lavalse  模拟系音乐游戏（模拟  IIDX  、  Pop'n music  ）
@@ -882,7 +887,7 @@ Gpop.io  cer0zz
  LoveLive!学园偶像祭 ～课后活动～  （取代街机版） 
  BanG Dream! 少女乐团派对！ (switch) 
  たいみんぐぅ～  /TIMINGooo! 
- Rhythmos  [329]
+ Rhythmos  [333]
 
 街机端音乐游戏
 已结束运营的游戏
@@ -910,7 +915,7 @@ Gpop.io  cer0zz
 
  桑巴沙锤/欢乐森巴/Samba de Amigo(Arcade) 
  时尚魔女 LOVE AND BERRY 
- maimai（旧框）  [330] 
+ maimai（旧框）  [334] 
  Um Jammer Lammy: NOW! 
  节奏天国（ARCADE） 
  音乐枪枪 Music GunGun 
@@ -970,7 +975,7 @@ Gpop.io  cer0zz
 
  Pump It Up 
  （  Chrono Circle  ） 
- （  WACCA  ）  [331] 
+ （  WACCA  ）  [335] 
  太鼓之达人系列 
  吉他英雄Arcade 
  （  Neon FM  ） 
@@ -1048,10 +1053,10 @@ VR终端音乐游戏
 
 《  阴阳师  》：游戏的「归鹿之途」活动中，出现了4轨下落式的音游小游戏。 
 《  蔚蓝档案  》：活动「风纪委员会的地狱 夏季合宿训练」和  初音未来  联动活动中，附带的小游戏为横向下落式的音乐游戏。 
-《  原神  》：2.2版本的「镜花听世」、2.7版本的「荒泷极上盛世豪鼓大祭典」、3.5版本的「风物之歌」活动，均包含音游类的小游戏，其中第一个活动为浮现式玩法，后两个活动为6轨的下落式玩法。 
-《  崩坏系列  》：崩坏2中的逐火之蛾模式、以及崩坏3中的幽兰黛尔的试炼关卡，均出现了横向下落式的音游玩法。 
+《  原神  》：2.2版本的「镜花听世」、2.7版本的「荒泷极上盛世豪鼓大祭典」、3.5版本的「风物之歌」、4.6版本的「荒泷生命摇滚虹色大巡回」活动，均包含音游类的小游戏，其中第一个活动为浮现式玩法，后几个活动为6轨的下落式玩法。 
+《  崩坏系列  》：崩坏2中的逐火之蛾模式、以及崩坏3中的  幽兰黛尔  的试炼关卡，均出现了横向下落式的音游玩法。 
 《  和平精英  》：日服/韩服的3周年活动、以及国服2023年的端午节活动「竹韵舞台」中，附带了填充式、横向下落式等多种玩法的音游类小游戏。 
-《冲呀！饼干人：王国》：游戏曾举办过多次音游活动，其内容为节奏跑酷玩法、与标准下落式音游的混编。 
+《  冲呀！饼干人：王国  》：游戏曾举办过多次音游活动，其内容为节奏跑酷玩法、与标准下落式音游的混编。 
 《  奥比岛：梦想国度  》：游戏中的星乐咖模式中，玩家可以游玩4轨至8轨的下落式音游。 
 《  新世界狂欢  》：游戏的夏季活动中，出现了3轨下落式的音游小游戏。 
 《  决战平安京  》：游戏中出现了4轨下落式的音游小游戏。 

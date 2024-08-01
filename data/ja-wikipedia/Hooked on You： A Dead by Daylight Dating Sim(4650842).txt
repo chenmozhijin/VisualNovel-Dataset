@@ -14,7 +14,8 @@ Hooked on You 打ち上げトレーラー
 Interactiveから2022年8月4日に発売された、恋愛シミュレーションゲーム    。非対称型  サバイバルホラー  『  Dead by
 Daylight  』（以下『DbD』）初のスピンオフ作品    。「殺人鬼の島」と呼ばれる島を舞台に  
 、プレイヤーは4人の殺人鬼とロマンスを楽しみながら    、島の謎を解き明かしていく    。
-システム  
+システム
+
 『DbD』ではサバイバー（生存者）とキラー（殺人鬼）に分かれて競うが、本作ではキラーのうち4人が恋愛対象となる    。本作は  ノベルゲーム
 の形を取っており    、プレイヤーは海から漂着した人間として、ビーチで遭遇した4人のキラーに受け入れられ、行動を共にする  
 。進行は4Gamer.netによると  恋愛バラエティ番組  に近似しており、感情の確認とグループでの活動を実施して、最後は告白を行う    。
@@ -30,7 +31,8 @@ For Better, For Worse - 攻略対象すべての  トゥルーエンド  に最�
 Cold Blooded - 攻略対象すべての  バッドエンド  に最低1回到達する必要のあるエンディング    。プレイヤーはエンティティから  漁色家  (  The Casanova  )と称され、Dead by Daylight 2: Love Hurtsの最初のキラーに据えられる    。 
 Completionist - 全トゥルーエンドとバッドエンドに到達したプレイヤーが到達できるエンディング    。トリックスターのキーホルダーが入手できる    。 
 
-登場人物  
+登場人物
+
 本作における攻略対象はトラッパー、ハントレス、レイス、スピリットの4名となっている  
 。『DbD』では攻撃時の声程度しか発さないキラーでも、本作では会話が成立し、人となりや口調が分かるようになっている  
 。本項では攻略対象についてグッドエンド、バッドエンドの順で箇条書きに記す。
@@ -74,16 +76,19 @@ Assassin’s Blade - スピリットはプレイヤーによる彼女への拒�
 トリックスター
  非攻略対象のキラー    。主人公が攻略対象となるキラーとの交流を邪魔するなど、登場後短いセリフの後に去っていく    。
 
-開発  
+開発
+
 本作の開発は2021年4月に実施された『Dead by
 Daylight』満足度調査アンケートにて、ゲームのキャラクターが登場するゲームジャンルの希望に関する質問で、恋愛シミュレーションが最多数であったことから決定した
   。開発は過去に  ケンタッキーフライドチキン  の恋愛シミュレーション『  I Love You, Colonel Sanders! A
 Finger Lickin’ Good Dating Simulator  （  英語版  ）
 』を製作し、約20年の恋愛シミュレーションゲームの開発経験を持つPsyopが担当した    。
-販売  
+販売
+
 本作は2022年8月4日に980円で発売された    。購入すると『DbD』にて使用できるスキンアイテムとコーディネイトが特典として付属している
   。
-評価と展望  
+評価と展望
+
 評価
 レビュー結果
 媒体  結果
@@ -95,3 +100,18 @@ TechRaptor  7.5/10
 Behaviour
 Interactiveは『DbD』6周年のアニバーサリーストリーミングイベントにて本作を発表した際に、発売後の反響が好評であれば、次回作、追加コンテンツのリリース、『DbD』に登場したコラボライセンスのキラーの登場を示唆した
   。
+脚注
+
+出典
+
+
+^  a  b  c  d  e  f  g  h  i  j  k  l  m  n  高橋祐介「  『DbD』の恋愛シム『Hooked on You: A Dead by Daylight Dating Sim』プレイレポート。恋のアタックを仕掛けてくるキラーとバカンスを楽しもう  」『4Gamer.net』、Aetas、2022年8月4日。  オリジナル  の2022年8月17日時点におけるアーカイブ  。  https://web.archive.org/web/20220817025151/https://www.4gamer.net/games/647/G064772/20220804036/  。  2022年8月17日  閲覧  。 
+^  a  b  c  d  e  f  丹祐希代「  DbDの恋愛シミュレーション『Hooked on You』が配信開始！  」『IGN Japan』、産経デジタル、2022年8月4日。  オリジナル  の2022年8月20日時点におけるアーカイブ  。  https://web.archive.org/web/20220820022101/https://jp.ign.com/hooked-on-you-a-dead-by-daylight-dating-sim/61561/news/dbdhooked-on-you  。  2022年8月20日  閲覧  。 
+^  a  b  c  d  e  「  殺人鬼と恋しちゃお！『Dead by Daylight』恋愛シム『Hooked on You: A Dead by Daylight Dating Sim』発表  」『Game*Spark』、IID、2022年5月18日。  オリジナル  の2022年6月22日時点におけるアーカイブ  。  https://web.archive.org/web/20220622203450/https://www.gamespark.jp/article/2022/05/18/118593.html  。  2022年6月22日  閲覧  。 
+^  a  b  c  d  e  f  g  h  i  j  タワラ「  『DbD』の恋愛ゲーム『Hooked on You: A Dead by Daylight Dating Sim』先行プレイレビュー。機嫌を損ねれば即死なビーチでロマンチックなひとときを過ごそう  」『ファミ通.com』、KADOKAWA Game Linkage、2022年8月4日。  オリジナル  の2022年8月14日時点におけるアーカイブ  。  https://web.archive.org/web/20220814184017/https://www.famitsu.com/news/202208/04270854.html  。  2022年8月14日  閲覧  。 
+^  a  b  c  馬淵寛昭「  DbDの恋愛シミュレーション『Hooked on You: A Dead by Daylight Dating Sim』の日本語対応が決定！ゲームの内容も一部あきらかに  」『IGN Japan』、産経デジタル、2022年6月22日。  オリジナル  の2022年8月12日時点におけるアーカイブ  。  https://web.archive.org/web/20220812073327/https://jp.ign.com/hooked-on-you-a-dead-by-daylight-dating-sim/60586/news/dbdhooked-on-you-a-dead-by-daylight-dating-sim  。  2022年8月12日  閲覧  。 
+^  a  b  c  d  e  f  g  h  i  j  k  l  m  n  o  p  Acuña, Dave (2022年8月13日). “  All Endings for Hooked On You: A Dead by Daylight Dating Sim  ” (英語).  Sirus Gaming  . Sirus Media Group. 2022年8月29日時点の  オリジナル  よりアーカイブ。  2022年8月29日  閲覧。 
+^  a  b  Hunter, Jay (2022年8月7日). “  Can You Date The Trickster In Hooked On You?  ” (英語).  GinxTV  . GinxTV. 2022年8月29日時点の  オリジナル  よりアーカイブ。  2022年8月29日  閲覧。 
+^  Troughton, James (2022年8月3日). “  Hooked On You: A Dead By Daylight Dating Sim Review - Hooked, Line, And Sinker  ” (英語).  TheGamer  . TheGamer. 2022年8月8日時点の  オリジナル  よりアーカイブ。  2022年8月8日  閲覧。 
+^  Quick, Will (2022年8月10日). “  Hooked On You Review  ” (英語).  TechRaptor  . TechRaptor. 2022年8月15日時点の  オリジナル  よりアーカイブ。  2022年8月15日  閲覧。 
+^  Marshall, Cass (2022年8月11日). “  The Dead by Daylight dating simulator is cute but cowardly  ” (英語).  Polygon  . Voxmedia. 2022年8月19日時点の  オリジナル  よりアーカイブ。  2022年8月19日  閲覧。 

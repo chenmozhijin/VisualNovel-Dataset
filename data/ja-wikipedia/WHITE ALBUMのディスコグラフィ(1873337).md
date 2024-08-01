@@ -3,8 +3,8 @@ WHITE ALBUM  > **WHITE ALBUMのディスコグラフィ**
 |  **この記事は 検証可能  な  参考文献や出典  が全く示されていないか、不十分です。 ** 出典を追加  して記事の信頼性向上にご協力ください。
 （  このテンプレートの使い方  ）  
 出典検索  ?  :  "WHITE ALBUMのディスコグラフィ"  –  ニュース  **·** 書籍  **·** スカラー  **·** CiNii
-**·** J-STAGE  **·** NDL  **·** dlib.jp  **·** ジャパンサーチ  **·** TWL  （  2019年8月
-）  
+**·** J-STAGE  **·** NDL  **·** dlib.jp  **·** ジャパンサーチ  **·** TWL  _( 2019年8月
+) _  
 ---|---  
 ** WHITE ALBUM  のディスコグラフィ ** リリースリスト  
 ---  
@@ -17,13 +17,19 @@ WHITE ALBUM  > **WHITE ALBUMのディスコグラフィ**
 **WHITE ALBUMのディスコグラフィ** （ホワイト・アルバムのディスコグラフィ）では、  キングレコード  から発売された、  アダルトゲーム
 および  テレビアニメ  『  WHITE ALBUM  』の関連CDについて記述する。
 
-##  キャラクターソング  
+##  キャラクターソング
 
-###  森川由綺  
 
-####  WHITE ALBUM  
 
-「  WHITE ALBUM  」  
+###  森川由綺
+
+
+
+####  WHITE ALBUM
+
+
+
+「WHITE ALBUM」  
 ---  
 森川由綺（CV：  平野綾  ）  の  シングル  
 初出アルバム『  WHITE ALBUM Character Song Best & Sound Track  』  
@@ -82,9 +88,11 @@ WHITE ALBUM2 -introductory chapter-  』でも劇中歌として使用されて�
   3. WHITE ALBUM  off Vocals 
   4. ツイてるねノッてるね off Vocals 
 
-####  恋色空  
+####  恋色空
 
-「  恋色空  」  
+
+
+「恋色空」  
 ---  
 森川由綺（CV：  平野綾  ）  の  シングル  
 初出アルバム『  WHITE ALBUM Character Song Best & Sound Track  』  
@@ -147,11 +155,15 @@ Elements Garden
 ---|---|---|---  
 恋色空  |  『 ** WHITE ALBUM Character Song Best & Sound Track  ** 』  |  2010年3月24日  |  キャラクターソングアルバム  ＆  サウンドトラック   
   
-###  緒方理奈  
+###  緒方理奈
 
-####  SOUND OF DESTINY  
 
-「  SOUND OF DESTINY  」  
+
+####  SOUND OF DESTINY
+
+
+
+「SOUND OF DESTINY」  
 ---  
 緒方理奈（CV：  水樹奈々  ）  の  シングル  
 初出アルバム『  WHITE ALBUM Character Song Best & Sound Track  』  
@@ -220,9 +232,11 @@ ALBUM』の挿入歌をカバーしたもので、アーティストが異なる
 ---|---|---|---  
 SOUND OF DESTINY  |  『 ** WHITE ALBUM Character Song Best & Sound Track  ** 』  |  2010年3月24日  |  キャラクターソングアルバム＆サウンドトラック   
   
-####  POWDER SNOW  
+####  POWDER SNOW
 
-「  POWDER SNOW  」  
+
+
+「POWDER SNOW」  
 ---  
 緒方理奈（CV：  水樹奈々  ）  の  シングル  
 初出アルバム『  WHITE ALBUM Character Song Best & Sound Track  』  
@@ -292,7 +306,9 @@ Elements Garden
 POWDER SNOW  |  『 ** WHITE ALBUM Character Song Best & Sound Track  ** 』  |  2010年3月24日  |  キャラクターソングアルバム＆サウンドトラック   
 1986年のマリリン  |  『 **筒美京平 Hitstory Ultimate Collection 1967-1997 2013Edition** 』  |  2013年12月25日  |  筒美京平作曲作品アンソロジーアルバム（9枚組）   
   
-##  サウンドステージ  
+##  サウンドステージ
+
+
 
 2010年1月27日から  キングレコード  より発売された一連の  アルバム  シリーズ。  テレビアニメ  『  WHITE ALBUM  』の
 ドラマCD  および  キャラクターソング
@@ -301,9 +317,13 @@ POWDER SNOW  |  『 ** WHITE ALBUM Character Song Best & Sound Track  ** 』  | 
 ジャケットは、キャラクターデザインの  吉成鋼  描き下ろし。プロデュースは  主題歌  と同じく、  三嶋章夫
 が担当している。同じく三嶋が担当している『  魔法少女リリカルなのは  』シリーズのドラマCDと同じく「  サウンドステージ  」の名が付けられている。
 
-###  リリース一覧  
+###  リリース一覧
 
-####  01  
+
+
+####  01
+
+
 
 『WHITE ALBUM  
 サウンドステージ01』  
@@ -369,7 +389,9 @@ WHITE ALBUM  アルバム 年表
   * ディレクター：千葉聡司 
   * 緒方英二：  速水奨 
 
-####  02  
+####  02
+
+
 
 『WHITE ALBUM  
 サウンドステージ02』  
@@ -443,7 +465,9 @@ WHITE ALBUM アルバム 年表
   * 女子大生：堀江真生子 
   * 緒方英二：速水奨 
 
-##  コンピレーションアルバム  
+##  コンピレーションアルバム
+
+
 
 『WHITE ALBUM  
 Character Song Best & Sound Track』  
@@ -558,4 +582,65 @@ SNOW」は由綺と理奈によるバージョンも収録されている。ジ�
      歌：Suara 
      作詞：須谷尚子、作曲・編曲：松岡純也 
      後期エンディングテーマ 
+
+##  脚注
+
+
+
+  1. ** ^  ** ただし、紙の素材はボール紙となっている。 
+
+##  外部リンク
+
+
+
+  * キングレコードによる紹介ページ 
+    * WHITE ALBUM 
+    * SOUND OF DESTINY 
+    * 恋色空 
+    * POWDER SNOW 
+    * サウンドステージ 
+      * 01 
+      * 02 
+    * Character Song Best & Sound Track 
+
+この記事は以下のカテゴリでも参照できます
+
+** WHITE ALBUM (平野綾の曲)  ** に関する  カテゴリ  :
+
+  * 2009年のシングル 
+  * キングレコードの楽曲 
+  * キャラクターソング 
+
+** SOUND OF DESTINY  ** に関する  カテゴリ  :
+
+  * 2009年のシングル 
+  * キングレコードの楽曲 
+  * キャラクターソング 
+
+** 恋色空  ** に関する  カテゴリ  :
+
+  * 2010年のシングル 
+  * 藤間仁が制作した楽曲 
+  * キャラクターソング 
+
+** POWDER SNOW  ** に関する  カテゴリ  :
+
+  * 2010年のシングル 
+  * キャラクターソング 
+  * キングレコードの楽曲 
+
+** WHITE ALBUM サウンドステージ  ** に関する  カテゴリ  :
+
+  * 2010年のアルバム 
+  * キングレコードのアルバム 
+  * キャラクターソング・アルバム 
+  * ドラマCD 
+
+** WHITE ALBUM キャラクターソングBEST&サウンドトラック  ** に関する  カテゴリ  :
+
+  * 2010年のアルバム 
+  * キングレコードのアルバム 
+  * キャラクターソング・アルバム 
+  * テレビアニメのサウンドトラック 
+  * 長大な音楽作品名 
 

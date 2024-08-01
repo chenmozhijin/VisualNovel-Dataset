@@ -88,7 +88,9 @@ CGモード  |  あり
 アダルトゲーム  （  ボーイズラブゲーム  ）。Vivid Colorのデビュー作である。また、  ノベライズ  や  ドラマCD  などの
 メディアミックス  がなされた。
 
-##  シリーズ  
+##  シリーズ
+
+
 
   * 2002年  7月26日  \- **SILVER CHAOS**
     * シリーズ第1作であり、  中世  を舞台とした  恋愛アドベンチャーゲーム  作品。 
@@ -99,7 +101,9 @@ CGモード  |  あり
   * 2007年  9月28日  \- **Silver Chaos -トリプルセレクション-**
     * Vivid Colorデビュー5周年の記念作品である。第1作を含む、シリーズ全3作を一つにまとめて完全収録した。 
 
-##  あらすじ  
+##  あらすじ
+
+
 
 SILVER CHAOS（第1作）
 
@@ -113,9 +117,13 @@ Artificial Mermaid 〜SILVER CHAOS II〜（第2作）
 多発するLMCがらみの犯罪に対抗するべく、LWC(Lifemicrochip Crime Commando)なる特殊部隊が組まれた。
 その特殊部隊に、青年ユーリ=ミモリが入隊した。
 
-##  登場人物  
+##  登場人物
 
-###  本編キャラクター  
+
+
+###  本編キャラクター
+
+
 
 マイト
 
@@ -169,7 +177,9 @@ Artificial Mermaid 〜SILVER CHAOS II〜（第2作）
      声 -  紫華薫 
      天界と人間界を結ぶ"神"。 
 
-###  第2作キャラクター  
+###  第2作キャラクター
+
+
 
 ユーリ=ミモリ
 
@@ -216,7 +226,9 @@ Artificial Mermaid 〜SILVER CHAOS II〜（第2作）
      声 - 紫華薫 
      この世界の創造神とされている、謎の存在。 
 
-##  スタッフ  
+##  スタッフ
+
+
 
 SILVER CHAOS
 
@@ -283,7 +295,9 @@ Artificial Mermaid 〜SILVER CHAOS II〜
   * 制作協力：STACK software 
   * 製作：Vivid Color 
 
-##  ノベライズ版  
+##  ノベライズ版
+
+
 
   * 『シルバーカオス』 （2003年4月1日発売）  ISBN 4-8352-1435-8 
     * 著：薫織銀夜 
@@ -291,9 +305,24 @@ Artificial Mermaid 〜SILVER CHAOS II〜
     * 原作：Vivid Color 
     * 出版社：  ビブロス  （ビーゲームノベルズ） 
 
-##  関連CD  
+##  関連CD
+
+
 
   * 『ドラマCD SILVER CHAOS 〜終わりなき旅〜』 （  マリン・エンタテイメント  、2003年2月7日発売） LBS-0003 
   * 『SILVER CHAOS Original SoundTrack』 （Vivid Color、2003年8月5日発売） VCD-001 
   * 『Artificial Mermaid 〜SILVER CHAOS II〜 Original SoundTrack』 （Vivid Color、2004年2月27日発売） VCD-002 
+
+##  外部リンク
+
+
+
+  * SILVER CHAOS - Vivid Color 
+
+|  この項目は、  アダルトゲーム  に関連した ** 書きかけの項目  ** です。  この項目を加筆・訂正  などしてくださる  協力者を求めています
+（  P:コンピュータゲーム  /  PJ:美少女ゲーム系  /  P:性  /  PJ:性  ）。  
+---|---  
+  
+  * 表示 
+  * 編集 
 

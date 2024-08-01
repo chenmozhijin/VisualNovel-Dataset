@@ -1,7 +1,9 @@
 『 **Symphony Sounds** 』（シンフォニー・サウンズ）は、  2018年  8月    から発売されている  アダルト美少女ゲーム
 [注釈 1]  の主題歌をまとめた  コンピレーションアルバム  のシリーズ。制作は株式会社カーニバル、販売・発売は株式会社ハブロッツ    。
 
-##  概要  
+##  概要
+
+
 
 げっちゅ屋  を運営する株式会社ゲインズのグループ会社である株式会社ハブロッツ    と株式会社カーニバルによって、2018年8月  
 から制作・販売・発売されている  アダルト美少女ゲーム  の主題歌をまとめた  コンピレーションアルバム
@@ -13,7 +15,9 @@
 2]  によってSymphony Soundsは企画・制作された。企画の動機も「  某コンピレーションアルバム
 が発売されない……なら、自分で制作しよう思った」とげっちゅブログに掲載しているコラムにて語っている    。
 
-###  シリーズ  
+###  シリーズ
+
+
 
 Symphony Sounds Generation
 
@@ -25,9 +29,13 @@ Symphony Sounds Eternal
 
      過去に発売されたアダルト美少女ゲームのエンディング曲を1枚にまとめて収録したアルバム。Recordとは異なり、発売期間などは指定せずにランダムに選曲されている。また、アルバムのカウントは  ローマ数字  になっていることから、他との区別がしやすい。 
 
-##  作品  
+##  作品
 
-###  Symphony Sounds Generation  
+
+
+###  Symphony Sounds Generation
+
+
 
 Symphony Sounds Generation 2017
 
@@ -99,7 +107,9 @@ Symphony Sounds Generation 2019
   * イラスト：恋泉天音（  tone work's  ）   
   * 発売日：2021年5月28日 
 
-###  Symphony Sounds Record  
+###  Symphony Sounds Record
+
+
 
 Symphony Sounds Record 2018 ～from 2003 to 2017～
 
@@ -124,7 +134,9 @@ Symphony Sounds Record 2018 ～from 2003 to 2017～
   * イラスト：ほんたにかなえ（  SAGA PLANETS  ）   
   * 発売日：2018年8月31日 
 
-###  Symphony Sounds Eternal  
+###  Symphony Sounds Eternal
+
+
 
 ディスコグラフィ  タイトル  |  発売日   
 ---|---  
@@ -146,3 +158,45 @@ Symphony Sounds Eternal III  |  2022/02/25
 Symphony Sounds Request  |  2023/01/27   
 Symphony Sounds Request2  |  2024/01/26   
   
+##  脚注
+
+
+
+###  注釈
+
+
+
+  1. ^  _**a** _ _**b** _ アダルト美少女ゲームブランドの全年齢向け作品も含む。 
+  2. ** ^  ** Gyutto.comなど営業や  Lass Pixy  のブランド統括などを行っており、同じビルの同フロアに本部を置く株式会社ハブロッツと株式会社カーニバルの業務を掛け持ちしている人物と思われる。 
+  3. ** ^  ** 毎年5月発売のスケジュール固定と思われる。2017年版は2019年5月、2018年版は2020年5月、2019年版は2021年5月に発売された。 
+  4. ** ^  ** 2021年発売のアルバムの場合、2006年から2020年までの14年間となる。 
+  5. ** ^  ** Key  の作品ではあるが、作品自体は全年齢向けであるため、アダルト美少女ゲームには該当しない。 
+  6. ** ^  ** 公式サイトには「当時の雰囲気を出しつつ現代的なマスタリングを施した特別仕様」と記載されており、リマスタリングされた音源が収録されている模様。 
+
+###  出典
+
+
+
+  1. ^  _**a** _ _**b** _ Symphony Sounds Record 2018 ～from 2003 to 2017～ - Symphony Sounds 
+  2. ^  _**a** _ _**b** _ 「CLANNAD」や「Clover Heart's」など美少女ゲーム15作の主題歌コンピ盤がC94で販売 - 4Gamer 
+  3. ** ^  ** Getchu.com：げっちゅブログ:【SSR2018コラム】第1回 SSR2018誕生秘話！ そして、未来へ…… 
+  4. ** ^  ** Symphony Sounds Generation 2017 - Symphony Sounds 
+  5. ** ^  ** Symphony Sounds Generation 2018 - Symphony Sounds 
+  6. ** ^  ** Symphony Sounds Generation 2019 - Symphony Sounds 
+  7. ** ^  ** Symphony Sounds Record 2018 ～from 2003 to 2017～ - Symphony Sounds 
+
+##  関連項目
+
+
+
+  * GWAVE  \- かつて展開されていた同様のコンビネーションアルバムのシリーズ。2016年12月以降は販売休止となっている。 
+
+##  外部リンク
+
+
+
+  * Symphony Sounds official Homepage. 
+  * Getchu.com：げっちゅブログ:Symphony Sounds を含む記事（ブログ） 
+  * Symphony Sounds  (@Symphony_Sounds) -  X（旧Twitter） 
+  * Symphony Sounds  \-  YouTube  チャンネル 
+
