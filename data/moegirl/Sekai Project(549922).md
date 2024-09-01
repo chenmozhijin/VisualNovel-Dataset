@@ -240,7 +240,6 @@ HAPPY SAIN† SHEOL  |  半径122pxの冥土  |  TBA
 Memory's Dogma CODE:01  |  LizArts  |  TBA   
 记忆信条：代码  系列  |  LizArts  |  TBA   
 Narcissu ~Lumière éternelle edition~  |  Stage☆nana  |  TBA   
-猫娘乐园  |  NEKO WORKs  |  TBA   
 Rewrite Harvest festa!  |  Key  |  TBA   
 サナララR  |  猫猫社  |  TBA   
 由梦想与色彩编织而成  |  feng  |  TBA   

@@ -4,16 +4,17 @@ Sakura Spirit  ジャンル  |  ビジュアルノベル
 開発元  |  Winged Cloud  （  英語版  ）   
 発売元  |  Sekai Project   
 シリーズ  |  _Sakura_  
-発売日  |  2014年7月9日     
+発売日  |  2014年7月9日  [  1  ]   
 テンプレートを表示  
   
 『 **Sakura Spirit** 』（サクラスピリット）は  Winged Cloud  （  英語版  ）  が開発し、  Sekai
-Project  が販売している  ビジュアルノベル  である    。  Steam  と  MangaGamer
-より、2014年7月9日から販売開始された。日本国外で開発された数少ないビジュアルノベルの一つであり、英語圏の人をターゲットにしている  
-。Sekai Projectが販売した中で、英訳ではなく英語が原語である最初のビジュアルノベルでもある    。
+Project  が販売している  ビジュアルノベル  である  [  1  ]  。  Steam  と  MangaGamer
+より、2014年7月9日から販売開始された。日本国外で開発された数少ないビジュアルノベルの一つであり、英語圏の人をターゲットにしている  [  1  ]
+。Sekai Projectが販売した中で、英訳ではなく英語が原語である最初のビジュアルノベルでもある  [  2  ]  。
 
 このゲームは、  アニメ  風の絵とともに画面上の文章を読んでいく  ビジュアルノベル
-であるが、一般的なビジュアルノベルと異なり、（終盤の一つを除いて）プレイヤーの意思を反映するための選択肢を一切出さない      。
+であるが、一般的なビジュアルノベルと異なり、（終盤の一つを除いて）プレイヤーの意思を反映するための選択肢を一切出さない  [  1  ]  [  2  ]
+。
 
 ##  ストーリー
 
@@ -21,49 +22,51 @@ Project  が販売している  ビジュアルノベル  である    。  Stea
 
 Sakura Spiritは、日本を代表する柔道選手になりたい17歳の少年、Gushiken
 Takahiroの物語である。十分に技術を身に着けたころには、日本代表を決める大会の数週間前になっていた。緊張をほぐすため、Takahiroは友人たちのアドバイスに従って、精霊の力が宿るとされる森の中に隠れた神社を見つける。試合で良い結果が出せるように祈ると、精霊が現れ、戦士として重要な役割を持っていると告げられ、別に世界に送られる
-  。そこで  狐娘  に会う    。Takahiroは精霊が住む  中世日本  にタイムスリップしたと気づく    。
+[  3  ]  。そこで  狐娘  に会う  [  2  ]  。Takahiroは精霊が住む  中世日本  にタイムスリップしたと気づく  [  1
+]  。
 
 Takahiroは、抗争の結果として狐娘は人間から信用されていないことを知る。このゲームは、人間と精霊の懸け橋として過ごしながら、元の世界に戻す方法を探すことに話の終点を置いている
-  。
+[  1  ]  。
 
 ##  評価
 
 
 
-Sakura Spiritに対しては賛否両論である。  Hardcore Gamer    のBradly Stormは、Sakura
+Sakura Spiritに対しては賛否両論である。  Hardcore Gamer  [  4  ]  のBradly Stormは、Sakura
 Spiritについて、「Sakura
 Spiritの問題点はニッチなことではない。（中略）ストーリーの深さやキャラクターの魅力が弱いが、ユーモアが良く効いている。流れを伴わないコメディは、一連の物語というよりは、ジョークの行列のようである。この手のジャンルをよく知っている人には印象的で、見た目という意味ではよい。正直、これより優れたビジュアルノベルは普通にある。」と論じている
-  。
+[  5  ]  。
 
-Capsule Computers    のCravis Brunoは肯定的に評しており、「Sakura
+Capsule Computers  [  6  ]  のCravis Brunoは肯定的に評しており、「Sakura
 Spiritは短いが楽しく、王道ストーリーのおかげで、プレイヤーは魅力あるキャラクターなどその他の部分に集中できる。豊富なユーモアや、意味深長な文章もあり、Sakura
 Spiritは愉快なビジュアルノベルという意味で、マイナスな部分は少ない。」として、10点中7点としている。絵と音楽は高く評価しているが、スペルミスが見当たることと、プレイヤーがストーリーに介入できないのことを問題としている
-  。Niche GamerのChris
+[  1  ]  。Niche GamerのChris
 Gollmerも肯定的であり、「紙の上では表現しきれない、ビジュアルノベルの潜在能力を生かしている。このゲームのセーリングポイントは、$9.99という価格であるが、これは絵に対しての値段ともいえる。」としたが、ストーリーの不安定さ、スペルミスを問題点とし、10点中7点を最終的につけている
-  。
+[  3  ]  。
 
 Technology Tell  のJerimiah
 Muellerは否定的であり、ストーリーや絵、ゲームプレイの問題点について、「でたらめに交錯しているファンタジーの塊を、「  ベイウォッチ
-」のキャストがコスプレして演じている。（中略）完全な失敗としか言えない。」とし、「F」と評価した    。
+」のキャストがコスプレして演じている。（中略）完全な失敗としか言えない。」とし、「F」と評価した  [  2  ]  。
 
 Destructoid  のBrittany
-Vincentは、未熟なストーリーと、方向性の無さを批評し、「見た目はよいが、それだけで他の価値はない。」として、10点中3点としている    。
+Vincentは、未熟なストーリーと、方向性の無さを批評し、「見た目はよいが、それだけで他の価値はない。」として、10点中3点としている  [  7  ]
+。
 
 4Gamer.net
 のgingerは、「イベントシーンの絵は日本人好みのものがほとんどで質の高いものが多いが、メインストーリーの展開が雑すぎるうえ、選択肢が全編を通じて1つしかないのが残念である。物語は含みを持たせた終わり方をしているので、もし続編を出すならストーリーにももう少し力を入れてほしかった」と評し、「日本語版の発売を待つ価値があるかは微妙なところなので、ストーリーについては考えず、海外製の萌えイラスト集として英語版を楽しむのもありかもしれない。」としめくくった
-  。
+[  8  ]  。
 
 ##  脚注
 
 
 
-  1. ^  _**a** _ _**b** _ _**c** _ _**d** _ _**e** _ _**f** _ _**g** _ Bruno, Travis. “  Sakura Spirit Review  ”. Capsule Computers.  2016年9月28日  閲覧。 
-  2. ^  _**a** _ _**b** _ _**c** _ _**d** _ Mueller, Jerimiah. “  Sakura Spirit Review: Why does this exist?  ”. Technology Tell.  2016年9月28日  閲覧。 
-  3. ^  _**a** _ _**b** _ Gollmer, Chris. “  Sakura Spirit Review – Spirits, Furries, & Bewbs  ”. Niche Gamer. 2014年7月29日時点の  オリジナル  よりアーカイブ。  2016年9月28日  閲覧。 
+  1. ^  _**a** _ _**b** _ _**c** _ _**d** _ _**e** _ _**f** _ _**g** _ Bruno, Travis. “  Sakura Spirit Review  ”. Capsule Computers.  28 September 2016  閲覧。 
+  2. ^  _**a** _ _**b** _ _**c** _ _**d** _ Mueller, Jerimiah. “  Sakura Spirit Review: Why does this exist?  ”. Technology Tell.  28 September 2016  閲覧。 
+  3. ^  _**a** _ _**b** _ Gollmer, Chris. “  Sakura Spirit Review – Spirits, Furries, & Bewbs  ”. Niche Gamer. 29 July 2014時点の  オリジナル  よりアーカイブ。  28 September 2016  閲覧。 
   4. ** ^  ** Hardcore Gamer Hardcore Gamer No Nonsense, Just Games  公式サイト 
-  5. ** ^  ** Storm, Bradly. “  Review: Sakura Spirit  ”. Hardcore Gamer.  2016年9月28日  閲覧。 
+  5. ** ^  ** Storm, Bradly. “  Review: Sakura Spirit  ”. Hardcore Gamer.  28 September 2016  閲覧。 
   6. ** ^  ** Capsule Computers  公式サイト 
-  7. ** ^  ** Vincent, Brittany. “  Review: Sakura Spirit  ”. Destructoid.  2016年9月28日  閲覧。 
+  7. ** ^  ** Vincent, Brittany. “  Review: Sakura Spirit  ”. Destructoid.  28 September 2016  閲覧。 
   8. ** ^  ** ginger (2014年7月16日). “  インディーズゲームの小部屋：Room＃340「Sakura Spirit」  ”.  4Gamer.net  .  2017年4月4日  閲覧。 
 
 ##  外部リンク

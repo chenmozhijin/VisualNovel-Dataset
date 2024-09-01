@@ -13,7 +13,7 @@ DoCoMo FOMA900/901シリーズ[携帯iアプリ]
 キャラクター名設定  不可
 エンディング数  6※
 セーブファイル数  60
-ゲームエンジン  Ethornell  
+ゲームエンジン  Ethornell  [  1  ]
 メディア  DVD-ROM  1枚
 画面サイズ  800×600
 BGMフォーマット  DirectSound

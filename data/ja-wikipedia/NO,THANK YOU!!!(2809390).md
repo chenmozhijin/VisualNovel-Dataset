@@ -37,8 +37,8 @@ XP  /  Vista  /  7  /  8  （日本語版）
 『 **NO,THANK YOU!!!** 』（ノーサンキュー）は、  2013年  6月28日
 に新設のボーイズラブゲームブランド・parade（パレード）より発売された  Windows  専用  18禁  ボーイズラブゲーム  。
 
-初回限定特典として、スペシャルブックレットとオリジナルサウンドトラックが同梱。  MangaGamer  によって海外版が制作され    
-  、2015年2月27日に発売された    。
+初回限定特典として、スペシャルブックレットとオリジナルサウンドトラックが同梱。  MangaGamer  によって海外版が制作され  [  1  ]  [
+2  ]  [  3  ]  、2015年2月27日に発売された  [  4  ]  。
 
 アダルトBLアニメーションブランド・parAdl Ce（パラダイス）より  アニメ化  の決定を発表した。
 
@@ -171,9 +171,9 @@ sótano（ソターノ）
 
 
 
-  1. ** ^  ** “MangaGamer Announces Otome and BL Games At Anime Expo”  .  Anime News Network  . (2014年7月4日)  .  http://www.animenewsnetwork.com/press-release/2014-07-05/mangagamer-announces-otome-and-bl-games-at-anime-expo/.76313  2014年8月24日  閲覧。 
-  2. ** ^  ** “Announcements from Anime Expo 2014!”  .  MangaGamer  . (2014年7月4日)  .  http://blog.mangagamer.org/2014/07/03/announcements-from-anime-expo-2014/  2014年8月24日  閲覧。 
-  3. ** ^  ** “AX '14: MangaGamer announces OZMAFIA, No, Thank You!!, and more”  . Japanator. (2014年7月4日)  .  http://www.japanator.com/ax-14-mangagamer-announces-ozmafia-no-thank-you-and-more-32806.phtml  2014年8月24日  閲覧。 
+  1. ** ^  ** “MangaGamer Announces Otome and BL Games At Anime Expo”  .  Anime News Network  . (July 4, 2014)  .  http://www.animenewsnetwork.com/press-release/2014-07-05/mangagamer-announces-otome-and-bl-games-at-anime-expo/.76313  August 24, 2014  閲覧。 
+  2. ** ^  ** “Announcements from Anime Expo 2014!”  .  MangaGamer  . (July 4, 2014)  .  http://blog.mangagamer.org/2014/07/03/announcements-from-anime-expo-2014/  August 24, 2014  閲覧。 
+  3. ** ^  ** “AX '14: MangaGamer announces OZMAFIA, No, Thank You!!, and more”  . Japanator. (July 4, 2014)  .  http://www.japanator.com/ax-14-mangagamer-announces-ozmafia-no-thank-you-and-more-32806.phtml  August 24, 2014  閲覧。 
   4. ** ^  ** “  No, Thank You!!! Available for Preorder!  ”.  MangaGamer  (2015年1月30日).  2015年2月1日  閲覧。 
 
 ##  外部リンク

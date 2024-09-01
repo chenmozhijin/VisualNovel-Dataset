@@ -6,7 +6,7 @@ NDL  ·  dlib.jp  ·  ジャパンサーチ  ·  TWL  (  2015年7月  )
 ゲーム
 ゲームジャンル  ADV
 対応機種  Windows 95/98/Me/2000/XP
-ゲームエンジン  Ethornell  
+ゲームエンジン  Ethornell  [  1  ]
 開発元  CLOVER
 発売元  CLOVER
 キャラクターデザイン  雨音響

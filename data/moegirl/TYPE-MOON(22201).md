@@ -149,7 +149,7 @@ Fate/EXTRA Record  |  未定  |  2010年发售的Fate/EXTRA的重制版，利用
 为TYPE-MOON旗下工作室Studio BB制作的第一部作品。  
 迦勒底事件簿  |  第一卷：2020年2月16日  |   
   
-#invoke:Nav
+加载中……
 
 ###  空之境界
 
@@ -186,18 +186,17 @@ DDD  |  第一卷：2007年1月
   
   
 
-Template:Navbox
-
-#invoke:Nav  Template:Fire Girl  Template:世界征服谋略之星  Template:CANAAN
-Template:TYPE-MOON
-
 ##  型月帝国军
 
-Template:Main  TYPE-MOON旗下游戏的支持者的自称。
+     主条目：  型月帝国 
+
+TYPE-MOON旗下游戏的支持者的自称。
 
 ##  型月梗
 
-Template:Main  TYPE-MOON因为其作品广泛的受众而获得了很高的人气，在其他ACG作品中也经常有玩TYPE-MOON旗下作品的梗。
+     主条目：  型月梗 
+
+TYPE-MOON因为其作品广泛的受众而获得了很高的人气，在其他ACG作品中也经常有玩TYPE-MOON旗下作品的梗。
 
 ##  公司动态
 
@@ -211,5 +210,3 @@ Template:Main  TYPE-MOON因为其作品广泛的受众而获得了很高的人�
   * PSV/PS4平台动作游戏《  Fate/EXTELLA  》发表，2016年11月10日繁体中文版同步发售预定！ 
   * 全年龄向手机网游RPG《  Fate/Grand Order  》第六特异点“神圣圆桌领域”7月下旬配信开始！ 
   * 全年龄向ADV游戏《  魔法使之夜  》续作企划中！ 
-
-Template:Galgame公司  Template:ACG社团  Template:游戏公司

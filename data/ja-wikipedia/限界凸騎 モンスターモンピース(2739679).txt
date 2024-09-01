@@ -4,36 +4,36 @@
 開発元  コンパイルハート
 ハイド
 発売元  コンパイルハート
-アイデアファクトリーインターナショナル    
+アイデアファクトリーインターナショナル  [  1  ]  [  2  ]
 美術  フカヒレ  （メインキャラクターデザイン）
 人数  1 - 2人
-発売日  2013年  1月24日  
-2014年  5月27日  
-2014年  6月4日  
+発売日  2013年  1月24日  [  3  ]
+2014年  5月27日  [  4  ]
+2014年  6月4日  [  5  ]
 対象年齢  CERO  ：  D  （17才以上対象）
 PEGI  ：  12
 ESRB  ：  M（17歳以上）
-売上本数  33,782本  
+売上本数  33,782本  [  6  ]
 テンプレートを表示  
 『  限界凸騎 モンスターモンピース  』（げんかいとっき モンスターモンピース）は、  コンパイルハート  から  2013年  1月24日
 に発売された  PlayStation Vita  用ソフト。
 リリース
 
-当初2013年春に発売を予定していたが、2012年11月、発売日がその予定より早い2013年1月24日に決定したという告知が行われた    。『
-超次元ゲイム ネプテューヌ  』の開発チームによって作られた    本作は、  モンスター娘
-と呼ばれる神話・伝説上の生物をモチーフとした少女たちが登場し、50人を超えるイラストレーターたちがカードを手掛けた    。
+当初2013年春に発売を予定していたが、2012年11月、発売日がその予定より早い2013年1月24日に決定したという告知が行われた  [  3  ]
+。『  超次元ゲイム ネプテューヌ  』の開発チームによって作られた  [  7  ]  本作は、  モンスター娘
+と呼ばれる神話・伝説上の生物をモチーフとした少女たちが登場し、50人を超えるイラストレーターたちがカードを手掛けた  [  3  ]  。
 海外版
 
-本作の英語版のストーリーやプレイスタイルは日本語版とは変わらないが、性表現があるということで北米およびヨーロッパで販売されるバージョンは一部のカード
-[注釈 1]  のデザインがカットされるという事態になった    。その結果  PEGI  でのレイティングは12になった  
+本作の英語版のストーリーやプレイスタイルは日本語版とは変わらないが、性表現があるということで北米およびヨーロッパで販売されるバージョンは一部のカード  [
+注釈 1  ]  のデザインがカットされるという事態になった  [  2  ]  。その結果  PEGI  でのレイティングは12になった  [  9  ]
 。一方、アメリカでは販売元であるアイデアファクトリー・インターナショナルがレーティングを厳しくしていいからゲーム内の性表現はそのままにしてほしいという要望を出した結果、
-ESRB  レイティングがMになった    。
+ESRB  レイティングがMになった  [  10  ]  。
 システム
 
 ワールドマップのエリア上で主人公・メイのアイコンを動かし、その地点上にあるポイント（イベント）をクリアして、そのエリアの目的地を目指す仕組みになっている。バトルはカードバトルの形式をとっており、バトルに勝利するとこすりPを入手することができる。こすりPは、"胸キュン♥スクラッチ"というポイントをクリアする際に消費される。"胸キュン♥スクラッチ"は、カードをこすってカードのモンスター娘を興奮させて、そのカードを強化するというシステムである。優しくこするほうがポイント上昇に有利であるが、同じさわり方でもテンションの上がり方に違いがみられるという仕組みをとっている。
 カードバトル関連
 
-横7×縦3のフィールド上のうち、青い方がプレイヤー側の陣地となり、赤い方が敵陣となる  
+横7×縦3のフィールド上のうち、青い方がプレイヤー側の陣地となり、赤い方が敵陣となる  [  11  ]
 。自陣にカードを配置すると、モンスター娘たちのユニット凸騎が現れ、自動で動く。
 あらすじ
 
@@ -115,11 +115,11 @@ ESRB  レイティングがMになった    。
 クナグヴァ
 反響
 
-欧米では、カードをこすって興奮させ、モン娘をカードに封じるという方法が批判を呼んだ    
-。初週での出荷本数は27,000本で、コンパイルハート側から品切れのお詫びが出たほどだった    
-。本作は初週でパッケージ25,000本を売上げ、PlayStation Networkからのダウンロードは 5,000回に上り  
-、2013年2月9日  (  2013-02-09  )  現在  [update]  の時点で50,000本を突破した  
-。そして、本作は2013年の日本のPlayStation Networkにおいて、9番目に売れたVita用ソフトとなった    。
+欧米では、カードをこすって興奮させ、モン娘をカードに封じるという方法が批判を呼んだ  [  12  ]  [  7  ]
+。初週での出荷本数は27,000本で、コンパイルハート側から品切れのお詫びが出たほどだった  [  13  ]  [  14  ]
+。本作は初週でパッケージ25,000本を売上げ、PlayStation Networkからのダウンロードは 5,000回に上り  [  15  ]
+、2013年2月9日  (  2013-02-09  )  現在  [update]  の時点で50,000本を突破した  [  16  ]
+。そして、本作は2013年の日本のPlayStation Networkにおいて、9番目に売れたVita用ソフトとなった  [  17  ]  。
 スマートフォン版
 
 限界凸騎 モンスターモンピース NAKED
@@ -148,27 +148,27 @@ CD
 注釈
 
 
-^  具体的には以下のモンスター娘の高レベル進化時のカードのイラストがカットされている。ヴァンパイア、クラーケン、ゴブリン、コカトリス、コボルド、スケルトン、ティターニア、バハムート、フィア、ブラウニー、ペガサス、モーショボー、ラフレシア、デススコーピオン、ファントム、天狗    。 
+^  具体的には以下のモンスター娘の高レベル進化時のカードのイラストがカットされている。ヴァンパイア、クラーケン、ゴブリン、コカトリス、コボルド、スケルトン、ティターニア、バハムート、フィア、ブラウニー、ペガサス、モーショボー、ラフレシア、デススコーピオン、ファントム、天狗  [  8  ]  。 
 
 出典
 
 
 ^  2014-01-13,  English Monster Monpiece screenshots surface on Idea Factory International website  , Gematsu 
 ^  a  b  2014-01-20, Colin Moriarty,  Introducing Vita’s New Card-Battling JRPG: Monster Monpiece  , IGN 
-^  a  b  c  Spencer. “  Monster Monpiece Shuffles From Spring To January 24, 2013  ”. SiliconEra.  2012年12月  閲覧。 
+^  a  b  c  Spencer. “  Monster Monpiece Shuffles From Spring To January 24, 2013  ”. SiliconEra.  December 2012  閲覧。 
 ^  “  Monster Monpiece  ”. IGN.  2014年6月5日  閲覧。 
 ^  “Monster Monpiece European release rescheduled for June 4”  . Made For Gaming. (2014年5月21日).  オリジナル  の2014年6月7日時点におけるアーカイブ。  .  https://web.archive.org/web/20140607031916/http://madeforgaming.com/news/197-monster-monpiece-european-release-rescheduled-for-june-4  2014年6月5日  閲覧。 
 ^  “  【ゲームソフト販売本数ランキング TOP30】集計期間：2013年02月04日〜2013年02月10日 - ファミ通.com  ” (2013年2月13日).  2013年4月11日  閲覧。 
-^  a  b  Ashcraft, Brian. “  This Is the Most Inappropriate PS Vita Game Yet  ”. Kotaku.  2012年12月  閲覧。 
+^  a  b  Ashcraft, Brian. “  This Is the Most Inappropriate PS Vita Game Yet  ”. Kotaku.  December 2012  閲覧。 
 ^  Disclaimer for the North American and European versions of Monster Monpiece  , Idea Factory International 
 ^  2014-01-14,  Monster Monpiece rated 12 by PEGI  , Gematsu 
 ^  2014-01-22,  Why Monster Monpiece Is Rated "M" In The U.S. And "12" In Europe  , Siliconera 
-^  “Extensive Introduction to Monster Monpiece's Cards and Gameplay”  .  電撃オンライン  (  アスキー・メディアワークス  ). (2012年12月4日)  .  http://news.dengeki.com/elem/000/000/567/567648/index-6.html  2012年12月11日  閲覧。 
-^  North, Dale. “  Monster Monpiece has you stroking your Vita longways  ”. Destructoid.  2012年12月  閲覧。 
+^  “Extensive Introduction to Monster Monpiece's Cards and Gameplay”  .  電撃オンライン  (  アスキー・メディアワークス  ). (December 4, 2012)  .  http://news.dengeki.com/elem/000/000/567/567648/index-6.html  December 11, 2012  閲覧。 
+^  North, Dale. “  Monster Monpiece has you stroking your Vita longways  ”. Destructoid.  December 2012  閲覧。 
 ^  “  「限界凸騎モンスターモンピース」品切れのお詫びと次回入荷のお知らせ  ”. コンパイルハート.  2014年2月14日  閲覧。 
-^  Ishaan (2013年1月28日). “  Monster Monpiece Doing Well; Compile Heart Apologize For Shortages  ”. SiliconEra.  2013年8月  閲覧。 
+^  Ishaan (January 28, 2013). “  Monster Monpiece Doing Well; Compile Heart Apologize For Shortages  ”. SiliconEra.  August 2013  閲覧。 
 ^  2013-01-30,  Media Create Sales: 1/21/13 – 1/27/13  , Gematsu 
-^  Ishaan. “  Monster Monpiece Crosses 50,000 In Japan  ”. SiliconEra.  2013年2月  閲覧。 
+^  Ishaan. “  Monster Monpiece Crosses 50,000 In Japan  ”. SiliconEra.  February 2013  閲覧。 
 ^  2013年にPS Storeで販売されたゲームの人気ランキングを各部門ごとに発表します！  , PlayStation Japan、2024年4月18日閲覧、2013年12月30日時点の  オリジナル  よりアーカイブ 
 
 外部リンク

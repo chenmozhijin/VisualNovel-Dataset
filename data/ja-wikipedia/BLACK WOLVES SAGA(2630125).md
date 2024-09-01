@@ -19,7 +19,7 @@ PSP
 発売日  |  2012年4月26日（PC版・Bloody Nightmare）   
 2012年12月20日（PSP版・Last Hope）  
 対象年齢  |  CERO  ：  **C** （15才以上対象）   
-売上本数  |  8,027本（PSP版）     
+売上本数  |  8,027本（PSP版）  [  1  ]   
 テンプレートを表示  
   
 『 **BLACK WOLVES SAGA** 』(ブラック ウルヴス サーガ)は  Rejet  が企画/開発、PC版はRejetより発売、  PSP

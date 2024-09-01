@@ -161,13 +161,13 @@ LAST EPISODE BLOODY GUY
   * 装甲姫バルフィス  （第2作） 
   * BALDR BULLET  （第3作） 
   * BALDR FORCE  （BALDR FORCE EXE）（第4作） 
-  * BALDR BULLET "REVELLION"（3作目のリメイク作）   
+  * BALDR BULLET "REVELLION"（3作目のリメイク作）  [  1  ] 
   * Xross Scramble 〜TEAM BALDRHEAD Perfect Collection〜  （外伝集） 
   * BALDR SKY  "Lost Memory" Dive1（5作目、第一部） 
   * BALDR SKY "RECORDARE" Dive2（5作目、第二部） 
   * BALDR SKY DiveX "DREAM WORLD"（5作目のファンディスク） 
-  * BALDR SKY ZERO（6作目）   
-  * BALDR SKY ZERO 2（7作目）   
+  * BALDR SKY ZERO（6作目）  [  2  ] 
+  * BALDR SKY ZERO 2（7作目）  [  3  ] 
   * BALDR HEART  （BALDR HEART EXE）（8作目） 
   * BALDR BRINGER  （BALDR BRINGER EXTEND CODE）（9作目、シリーズ最終章） 
   * SKY & HEART LAST SURVIVAL 

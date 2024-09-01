@@ -3,17 +3,31 @@ CROSS†CHANNEL
 原名  |  CROSS†CHANNEL   
 常用译名  |  ~~交错频道~~  
 类型  |  学园青春ADV   
-平台  |  PC、PS2、PSP、XBOS360、PS3、PS Vita、Nintendo Switch、macOS高清重制版、Linux、iOS、安卓   
+平台  |  Mircosoft Windows   
+PlayStation 2  
+PlayStation Portable  
+XBOX 360  
+PlayStation 3  
+PlayStation Vita  
+Nintendo Switch  
 分级  |  |  CERO  :  |  \- 17岁以上   
 ---|---  
-开发  |  FlyingShine   
-发行  |  KID、サイバーフロント、FlyingShine、5pb.、Regista   
+开发  |  FlyingShine    
+Regista  
+发行  |  FlyingShine   
+**PS2版**  
+KID  
+**PSP、Xbox 360版**  
+Cyberfront  
+**PS3/PSV版**  
+5pb.  
+**NS版**  
+Regista  
 音乐  |  Funczion SOUNDS   
-发行时间  |  2003年9月26日 （Windows）   
+发行时间  |  2003年9月26日 （Windows原版）   
 2004年3月18日 （PS2）  
-2006年5月18日 （PS2再版）  
 2010年2月25日 （PSP）  
-2011年4月14日 （XBOX360）  
+2011年4月14日 （XBOX 360）  
 2012年11月22日 （Win复刻）  
 2014年6月24日 （PS3 / PS Vita）  
 2014年9月24日 （FINAL COMPLETE）  

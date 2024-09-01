@@ -138,7 +138,7 @@ DAYLIGHT 全13巻
 |キャラクターデザイン    さとい|
 |プレイ人数    1人|
 |発売日    2012年  10月11日<br>2013年  12月19日  （LIMITED V EDITION）  |
-|売上本数    27,995本  |
+|売上本数    27,995本  [  1  ]|
 |レイティング    CERO  ：  **C** （15才以上対象）|
 |キャラクターボイス    あり<br>ゲーム：DIABOLIK LOVERS MORE,BLOOD  <br>DIABOLIK LOVERS MORE,BLOOD LIMITED V EDITION  |
 |対応機種    PSP<br>PS Vita（LIMITED V EDITION）  |
@@ -267,7 +267,7 @@ MORE,BLOOD』を期間限定公開した（現在は視聴不可）。
 Night〜新作情報もお届け！』の生放送内で、シリーズ完全新作シチュエーションCD『 **DIABOLIK LOVERS DAYLIGHT** 』（ -
 デイライト）が2021年3月から13ヶ月連続（2021年3月〜  2022年  3月）リリースされることと、原作初の公式漫画である『 **DIABOLIK
 LOVERS YOUNG BLOOD** 』（ - ヤングブラッド）が2021年3月より連載開始されることが発表され、同日には、『DIABOLIK
-LOVERS』9周年記念の特設サイト    が開設された。
+LOVERS』9周年記念の特設サイト  [  2  ]  が開設された。
 
 また、  ポータルサイト  のトップページで  バナー  も公開された。 その新作2タイトルを生放送内で発表する際に使用した  PV
 を、現在『DIABOLIK LOVERS』公式YouTubeチャンネルで公開している。 2021年  4月3日
@@ -294,7 +294,7 @@ DAYLIGHT** 』で、 ゲームシリーズ最新作は、2019年  11月21日  �
 **』** の限定コラボ(同年  7月31日  告知PV公開)、同年  11月5日  からは『不死の薔薇園 -UNDEAD ROSE GARDEN-』(同年
 10月25日  告知PV公開)の描き下ろしグッズが、Rejet ShopとSKiT Dolceで期間限定販売された。
 
-2021年12月23日にDIABOLIK LOVERSは10周年を迎えた(記念の特設サイトも公開された    )。これに伴い、  アニメイト
+2021年12月23日にDIABOLIK LOVERSは10周年を迎えた(記念の特設サイトも公開された  [  3  ]  )。これに伴い、  アニメイト
 池袋本店(2022年1月15日～同年1月30日)・大阪日本橋店(2022年2月5日～同年2月20日)・福岡パルコ店(2022年2月26日～同年3月13日)に開催されたオンリーショップをはじめ、描き下ろしグッズの販売や、コラボカフェといった催しが行われている。
 
 2022年  3月11日  からは『SADISTIC HOROSCOPE』(同年2月25日告知PV公開)の描き下ろしグッズが、Rejet ShopとSKiT
@@ -330,7 +330,7 @@ Dolceで期間限定販売されている。
      3月22日生、17歳。嶺帝学院高校二年生。身長174cm、体重62kg。O型。毛髪は赤色、瞳は緑色。 
      逆巻家三男。母は第一夫人コーデリア。三つ子の中では一番上の兄にあたる。 
      尊大で傲岸不遜な性格。勉強は苦手だがスポーツは得意。逆巻家の当主になるよう母コーデリアから大変厳しく躾けられたため、自分が一番強くて偉いと思っている。しょっちゅう他の兄弟と喧嘩になっており、逆巻家で起こる多くの揉め事の発端でもある。 
-     特技はバスケットボール、好物はたこ焼き。普通の人間の血よりはたこ焼きが好きだが、たこ焼きとユイの血だったら断然ユイの血の方が好きとのこと    。 
+     特技はバスケットボール、好物はたこ焼き。普通の人間の血よりはたこ焼きが好きだが、たこ焼きとユイの血だったら断然ユイの血の方が好きとのこと  [  4  ]  。 
      周囲に妙なあだ名を付けることがあり（ただしある程度的を射ている）、主人公を「チチナシ」と呼ぶ。 
      イメージカラー  は赤。 
 逆巻 カナト（さかまき カナト）
@@ -468,7 +468,7 @@ Dolceで期間限定販売されている。
 
 カールハインツ / 逆巻 透吾（さかまき とうご）
 
-     声 -  澤田将孝  （MORE,BLOOD）、  竹内良太    （VANDEAD CARNIVAL,DARK FATE） 
+     声 -  澤田将孝  （MORE,BLOOD）、  竹内良太  [  5  ]  （VANDEAD CARNIVAL,DARK FATE） 
      逆巻兄弟の父親。子供達の母親は腹違いの兄弟もいるものの、父親は全員カールハインツである。 
      姿形を自在に変えることが出来、人間界では大物政治家の「逆巻透吾」で通っている。 
      無印ではセリフなどはなく、名前のみの登場。『MORE,BLOOD』ではラインハルトと名乗り、アヤトたちが通う高校の保健医をしている。ルキのみラインハルトがカールハインツと同一人物であることを知っている。 
@@ -556,115 +556,115 @@ DIABOLIK LOVERS DAYLIGHT
 タイトル名  |  発売日  |  規格品番  |  オリコン   
 初週位  
 ---|---|---|---  
-DIABOLIK LOVERS ドS吸血CD Vol.1 逆巻アヤト (CV.緑川 光)  [注 1]  |  2011年12月21日  |  REC-006  |  圏外   
-DIABOLIK LOVERS ドS吸血CD Vol.2 逆巻スバル (CV.近藤 隆)  [注 1]  |  2012年1月25日  |  REC-007  |  圏外   
-DIABOLIK LOVERS ドS吸血CD Vol.3 逆巻カナト (CV.梶 裕貴)  [注 1]  |  2012年2月22日  |  REC-008  |  圏外   
-DIABOLIK LOVERS ドS吸血CD Vol.4 逆巻ライト (CV.平川大輔)  [注 1]  |  2012年3月21日  |  REC-009  |  圏外   
-DIABOLIK LOVERS ドS吸血CD Vol.5 逆巻レイジ (CV.小西克幸)  [注 1]  |  2012年4月25日  |  REC-010  |  圏外   
-DIABOLIK LOVERS ドS吸血CD Vol.6 逆巻シュウ (CV.鳥海浩輔)  [注 1]  |  2012年5月23日  |  REC-011  |  圏外   
-DIABOLIK LOVERS ドS吸血CD VERSUS 1 アヤトVSシュウ 逆巻アヤト（CV.緑川光）/ 逆巻シュウ（CV.鳥海浩輔）  [注 1]  |  2012年8月29日  |  REC-021  |  16位   
-DIABOLIK LOVERS ドS吸血CD VERSUS 2 ライトVSスバル 逆巻ライト（CV.平川大輔）/ 逆巻スバル（CV.近藤隆）  [注 1]  |  2012年9月26日  |  REC-022  |  28位   
-DIABOLIK LOVERS ドS吸血CD VERSUS 3 カナトVSレイジ 逆巻カナト（CV.梶裕貴）/ 逆巻レイジ（CV.小西克幸）  [注 1]  |  2012年10月24日  |  REC-023  |  16位   
-DIABOLIK LOVERS ドS吸血CD MORE,BLOOD Vol.1 逆巻アヤト (CV.緑川 光)  |  2013年4月24日    |  REC-034  |  23位   
-DIABOLIK LOVERS ドS吸血CD MORE,BLOOD Vol.2 無神コウ (CV.木村 良平)  |  2013年5月29日    |  REC-035  |  21位   
-DIABOLIK LOVERS ドS吸血CD MORE,BLOOD Vol.3 無神ルキ (CV.櫻井 孝宏)  |  2013年6月26日    |  REC-036  |  26位   
-DIABOLIK LOVERS ドS吸血CD MORE,BLOOD Vol.4 無神アズサ (CV.岸尾 だいすけ)  |  2013年7月31日    |  REC-037  |  29位   
-DIABOLIK LOVERS ドS吸血CD MORE,BLOOD Vol.5 無神ユーマ (CV.鈴木 達央)  |  2013年8月28日    |  REC-038  |  22位   
-DIABOLIK LOVERS ドS吸血CD MORE,BLOOD Vol.6 逆巻カナト (CV.梶 裕貴)  |  2013年9月25日    |  REC-039  |  35位   
-DIABOLIK LOVERS ドS吸血CD MORE,BLOOD Vol.7 逆巻ライト (CV.平川 大輔)  |  2013年10月30日    |  REC-040  |  25位   
-DIABOLIK LOVERS ドS吸血CD MORE,BLOOD Vol.8 逆巻スバル (CV.近藤 隆)  |  2013年11月27日    |  REC-041  |  35位   
-DIABOLIK LOVERS ドS吸血CD MORE,BLOOD Vol.9 逆巻シュウ (CV.鳥海 浩輔)  |  2013年12月25日    |  REC-042  |  30位   
-DIABOLIK LOVERS ドS吸血CD MORE,BLOOD Vol.10 逆巻レイジ (CV.小西 克幸)  |  2014年1月29日    |  REC-043  |  27位   
-DIABOLIK LOVERS ドS吸血CD VERSUSII Vol.1 アヤトVSライト 逆巻アヤト（CV.緑川光）/ 逆巻ライト（CV.平川大輔）  |  2014年4月16日    |  REC-121  |  17位   
-DIABOLIK LOVERS ドS吸血CD VERSUSII Vol.2 シュウVSレイジ 逆巻シュウ（CV.鳥海浩輔）/ 逆巻レイジ（CV.小西克幸）  |  2014年5月21日    |  REC-122  |  22位   
-DIABOLIK LOVERS ドS吸血CD VERSUSII Vol.3 カナトVSスバル 逆巻カナト（CV.梶裕貴）/ 逆巻スバル（CV.近藤隆）  |  2014年6月18日    |  REC-123  |  34位   
-DIABOLIK LOVERS ドS吸血CD VERSUSII Vol.4 カルラVSシン 月浪カルラ（CV.森川智之）/ 月浪シン（CV.森久保祥太郎）  |  2014年7月16日    |  REC-124  |  30位   
-DIABOLIK LOVERS ドS吸血CD VERSUSII Vol.5 ルキVSコウ 無神ルキ（CV.櫻井孝宏）/ 無神コウ（CV.木村良平）  |  2014年8月20日    |  REC-125  |  18位   
-DIABOLIK LOVERS ドS吸血CD VERSUSII Vol.6 ユーマVSアズサ 無神ユーマ（CV.鈴木達央）/ 無神アズサ（CV.岸尾だいすけ）  |  2014年9月17日    |  REC-126  |  28位   
-DIABOLIK LOVERS ドS吸血CD BLOODY BOUQUET Vol.1 逆巻アヤト (CV.緑川 光)  |  2015年4月22日    |  REC-235  |  29位   
-DIABOLIK LOVERS ドS吸血CD BLOODY BOUQUET Vol.2 無神ルキ (CV.櫻井 孝宏)  |  2015年5月20日    |  REC-236  |  18位   
-DIABOLIK LOVERS ドS吸血CD BLOODY BOUQUET Vol.3 月浪カルラ (CV.森川 智之)  |  2015年6月17日    |  REC-237  |  40位   
-DIABOLIK LOVERS ドS吸血CD BLOODY BOUQUET Vol.4 逆巻シュウ (CV.鳥海 浩輔)  |  2015年7月22日    |  REC-238  |  33位   
-DIABOLIK LOVERS ドS吸血CD BLOODY BOUQUET Vol.5 無神コウ(CV.木村 良平)  |  2015年8月19日    |  REC-239  |  25位   
-DIABOLIK LOVERS ドS吸血CD BLOODY BOUQUET Vol.6 逆巻レイジ (CV.小西 克幸)  |  2015年9月23日    |  REC-240  |  25位   
-DIABOLIK LOVERS ドS吸血CD BLOODY BOUQUET Vol.7 月浪シン (CV.森久保 祥太郎)  |  2015年10月21日    |  REC-241  |  36位   
-DIABOLIK LOVERS ドS吸血CD BLOODY BOUQUET Vol.8 無神ユーマ (CV.鈴木 達央)  |  2015年11月18日    |  REC-242  |  35位   
-DIABOLIK LOVERS ドS吸血CD BLOODY BOUQUET Vol.9 逆巻カナト (CV.梶 裕貴)  |  2015年12月16日    |  REC-243  |  49位   
-DIABOLIK LOVERS ドS吸血CD BLOODY BOUQUET Vol.10 逆巻ライト (CV.平川 大輔)  |  2016年1月20日    |  REC-244  |  37位   
-DIABOLIK LOVERS ドS吸血CD BLOODY BOUQUET Vol.11 無神アズサ (CV.岸尾 だいすけ)  |  2016年2月17日    |  REC-245  |  41位   
-DIABOLIK LOVERS ドS吸血CD BLOODY BOUQUET Vol.12 逆巻スバル (CV.近藤 隆)  |  2016年3月23日    |  REC-246  |  30位   
+DIABOLIK LOVERS ドS吸血CD Vol.1 逆巻アヤト (CV.緑川 光)  [  注 1  ]  |  2011年12月21日  |  REC-006  |  圏外   
+DIABOLIK LOVERS ドS吸血CD Vol.2 逆巻スバル (CV.近藤 隆)  [  注 1  ]  |  2012年1月25日  |  REC-007  |  圏外   
+DIABOLIK LOVERS ドS吸血CD Vol.3 逆巻カナト (CV.梶 裕貴)  [  注 1  ]  |  2012年2月22日  |  REC-008  |  圏外   
+DIABOLIK LOVERS ドS吸血CD Vol.4 逆巻ライト (CV.平川大輔)  [  注 1  ]  |  2012年3月21日  |  REC-009  |  圏外   
+DIABOLIK LOVERS ドS吸血CD Vol.5 逆巻レイジ (CV.小西克幸)  [  注 1  ]  |  2012年4月25日  |  REC-010  |  圏外   
+DIABOLIK LOVERS ドS吸血CD Vol.6 逆巻シュウ (CV.鳥海浩輔)  [  注 1  ]  |  2012年5月23日  |  REC-011  |  圏外   
+DIABOLIK LOVERS ドS吸血CD VERSUS 1 アヤトVSシュウ 逆巻アヤト（CV.緑川光）/ 逆巻シュウ（CV.鳥海浩輔）  [  注 1  ]  |  2012年8月29日  |  REC-021  |  16位   
+DIABOLIK LOVERS ドS吸血CD VERSUS 2 ライトVSスバル 逆巻ライト（CV.平川大輔）/ 逆巻スバル（CV.近藤隆）  [  注 1  ]  |  2012年9月26日  |  REC-022  |  28位   
+DIABOLIK LOVERS ドS吸血CD VERSUS 3 カナトVSレイジ 逆巻カナト（CV.梶裕貴）/ 逆巻レイジ（CV.小西克幸）  [  注 1  ]  |  2012年10月24日  |  REC-023  |  16位   
+DIABOLIK LOVERS ドS吸血CD MORE,BLOOD Vol.1 逆巻アヤト (CV.緑川 光)  |  2013年4月24日  [  6  ]  |  REC-034  |  23位   
+DIABOLIK LOVERS ドS吸血CD MORE,BLOOD Vol.2 無神コウ (CV.木村 良平)  |  2013年5月29日  [  6  ]  |  REC-035  |  21位   
+DIABOLIK LOVERS ドS吸血CD MORE,BLOOD Vol.3 無神ルキ (CV.櫻井 孝宏)  |  2013年6月26日  [  6  ]  |  REC-036  |  26位   
+DIABOLIK LOVERS ドS吸血CD MORE,BLOOD Vol.4 無神アズサ (CV.岸尾 だいすけ)  |  2013年7月31日  [  6  ]  |  REC-037  |  29位   
+DIABOLIK LOVERS ドS吸血CD MORE,BLOOD Vol.5 無神ユーマ (CV.鈴木 達央)  |  2013年8月28日  [  6  ]  |  REC-038  |  22位   
+DIABOLIK LOVERS ドS吸血CD MORE,BLOOD Vol.6 逆巻カナト (CV.梶 裕貴)  |  2013年9月25日  [  6  ]  |  REC-039  |  35位   
+DIABOLIK LOVERS ドS吸血CD MORE,BLOOD Vol.7 逆巻ライト (CV.平川 大輔)  |  2013年10月30日  [  6  ]  |  REC-040  |  25位   
+DIABOLIK LOVERS ドS吸血CD MORE,BLOOD Vol.8 逆巻スバル (CV.近藤 隆)  |  2013年11月27日  [  6  ]  |  REC-041  |  35位   
+DIABOLIK LOVERS ドS吸血CD MORE,BLOOD Vol.9 逆巻シュウ (CV.鳥海 浩輔)  |  2013年12月25日  [  6  ]  |  REC-042  |  30位   
+DIABOLIK LOVERS ドS吸血CD MORE,BLOOD Vol.10 逆巻レイジ (CV.小西 克幸)  |  2014年1月29日  [  6  ]  |  REC-043  |  27位   
+DIABOLIK LOVERS ドS吸血CD VERSUSII Vol.1 アヤトVSライト 逆巻アヤト（CV.緑川光）/ 逆巻ライト（CV.平川大輔）  |  2014年4月16日  [  7  ]  |  REC-121  |  17位   
+DIABOLIK LOVERS ドS吸血CD VERSUSII Vol.2 シュウVSレイジ 逆巻シュウ（CV.鳥海浩輔）/ 逆巻レイジ（CV.小西克幸）  |  2014年5月21日  [  7  ]  |  REC-122  |  22位   
+DIABOLIK LOVERS ドS吸血CD VERSUSII Vol.3 カナトVSスバル 逆巻カナト（CV.梶裕貴）/ 逆巻スバル（CV.近藤隆）  |  2014年6月18日  [  7  ]  |  REC-123  |  34位   
+DIABOLIK LOVERS ドS吸血CD VERSUSII Vol.4 カルラVSシン 月浪カルラ（CV.森川智之）/ 月浪シン（CV.森久保祥太郎）  |  2014年7月16日  [  7  ]  |  REC-124  |  30位   
+DIABOLIK LOVERS ドS吸血CD VERSUSII Vol.5 ルキVSコウ 無神ルキ（CV.櫻井孝宏）/ 無神コウ（CV.木村良平）  |  2014年8月20日  [  7  ]  |  REC-125  |  18位   
+DIABOLIK LOVERS ドS吸血CD VERSUSII Vol.6 ユーマVSアズサ 無神ユーマ（CV.鈴木達央）/ 無神アズサ（CV.岸尾だいすけ）  |  2014年9月17日  [  7  ]  |  REC-126  |  28位   
+DIABOLIK LOVERS ドS吸血CD BLOODY BOUQUET Vol.1 逆巻アヤト (CV.緑川 光)  |  2015年4月22日  [  8  ]  |  REC-235  |  29位   
+DIABOLIK LOVERS ドS吸血CD BLOODY BOUQUET Vol.2 無神ルキ (CV.櫻井 孝宏)  |  2015年5月20日  [  8  ]  |  REC-236  |  18位   
+DIABOLIK LOVERS ドS吸血CD BLOODY BOUQUET Vol.3 月浪カルラ (CV.森川 智之)  |  2015年6月17日  [  8  ]  |  REC-237  |  40位   
+DIABOLIK LOVERS ドS吸血CD BLOODY BOUQUET Vol.4 逆巻シュウ (CV.鳥海 浩輔)  |  2015年7月22日  [  8  ]  |  REC-238  |  33位   
+DIABOLIK LOVERS ドS吸血CD BLOODY BOUQUET Vol.5 無神コウ(CV.木村 良平)  |  2015年8月19日  [  8  ]  |  REC-239  |  25位   
+DIABOLIK LOVERS ドS吸血CD BLOODY BOUQUET Vol.6 逆巻レイジ (CV.小西 克幸)  |  2015年9月23日  [  8  ]  |  REC-240  |  25位   
+DIABOLIK LOVERS ドS吸血CD BLOODY BOUQUET Vol.7 月浪シン (CV.森久保 祥太郎)  |  2015年10月21日  [  8  ]  |  REC-241  |  36位   
+DIABOLIK LOVERS ドS吸血CD BLOODY BOUQUET Vol.8 無神ユーマ (CV.鈴木 達央)  |  2015年11月18日  [  8  ]  |  REC-242  |  35位   
+DIABOLIK LOVERS ドS吸血CD BLOODY BOUQUET Vol.9 逆巻カナト (CV.梶 裕貴)  |  2015年12月16日  [  8  ]  |  REC-243  |  49位   
+DIABOLIK LOVERS ドS吸血CD BLOODY BOUQUET Vol.10 逆巻ライト (CV.平川 大輔)  |  2016年1月20日  [  8  ]  |  REC-244  |  37位   
+DIABOLIK LOVERS ドS吸血CD BLOODY BOUQUET Vol.11 無神アズサ (CV.岸尾 だいすけ)  |  2016年2月17日  [  8  ]  |  REC-245  |  41位   
+DIABOLIK LOVERS ドS吸血CD BLOODY BOUQUET Vol.12 逆巻スバル (CV.近藤 隆)  |  2016年3月23日  [  8  ]  |  REC-246  |  30位   
 ドS吸血CD「DIABOLIK LOVERS」プレミアム Rejet BOX  |  2015年11月18日  |  REC-412  |  圏外   
-DIABOLIK LOVERS ドS吸血CD VERSUSⅢ Vol.1 アヤトVSカルラ 逆巻アヤト（CV.緑川 光）/ 月浪カルラ（CV.森川智之）  |  2016年4月20日    |  REC-437  |  50位   
-DIABOLIK LOVERS ドS吸血CD VERSUSⅢ Vol.2 ライトVSシン 逆巻ライト（CV.平川大輔）/ 月浪シン（CV.森久保祥太郎）  |  2016年5月18日    |  REC-438  |  52位   
-DIABOLIK LOVERS ドS吸血CD VERSUSⅢ Vol.3 スバルVSコウ 逆巻スバル（CV.近藤 隆）/ 無神コウ（CV.木村良平）  |  2016年6月15日    |  REC-439  |  39位   
-DIABOLIK LOVERS ドS吸血CD VERSUSⅢ Vol.4 レイジVSルキ 逆巻レイジ（CV.小西克幸）/ 無神ルキ（CV.櫻井孝宏）  |  2016年7月20日    |  REC-440  |  47位   
-DIABOLIK LOVERS ドS吸血CD VERSUSⅢ Vol.5 シュウVSユーマ 逆巻シュウ（CV.鳥海浩輔）/ 無神ユーマ（CV.鈴木達央）  |  2016年8月17日    |  REC-441  |  25位   
-DIABOLIK LOVERS ドS吸血CD VERSUSⅢ Vol.6 カナトVSアズサ 逆巻カナト（CV.梶 裕貴）/ 無神アズサ（CV.岸尾だいすけ）  |  2016年9月21日    |  REC-442  |  40位   
-DIABOLIK LOVERS Para-Selene Vol.1 逆巻アヤト（CV.緑川光）  |  2017年4月26日    |  REC-655  |  80位   
-DIABOLIK LOVERS Para-Selene Vol.2 キノ（CV.前野智昭）  |  2017年5月24日    |  REC-656  |  65位   
-DIABOLIK LOVERS Para-Selene Vol.3 無神コウ（CV.木村良平）  |  2017年6月28日    |  REC-657  |  48位   
-DIABOLIK LOVERS Para-Selene Vol.4 月浪シン（CV.森久保祥太郎）  |  2017年7月26日    |  REC-658  |  92位   
-DIABOLIK LOVERS Para-Selene Vol.5 逆巻ライト（CV.平川大輔）  |  2017年8月23日    |  REC-659  |  74位   
-DIABOLIK LOVERS Para-Selene Vol.6 逆巻スバル（CV.近藤隆）  |  2017年9月27日    |  REC-660  |  76位   
-DIABOLIK LOVERS Para-Selene Vol.7 逆巻レイジ（CV.小西克幸）  |  2017年10月25日    |  REC-661  |  81位   
-DIABOLIK LOVERS Para-Selene Vol.8 無神アズサ（CV.岸尾だいすけ）  |  2017年11月22日    |  REC-662  |  103位   
-DIABOLIK LOVERS Para-Selene Vol.9 逆巻カナト（CV.梶 裕貴）  |  2017年12月27日    |  REC-663  |  78位   
-DIABOLIK LOVERS Para-Selene Vol.10 無神ユーマ（CV.鈴木達央）  |  2018年1月24日    |  REC-664  |  63位   
-DIABOLIK LOVERS Para-Selene Vol.11 月浪カルラ（CV.森川智之）  |  2018年2月28日    |  REC-665  |  85位   
-DIABOLIK LOVERS Para-Selene Vol.12 無神ルキ（CV.櫻井孝宏）  |  2018年3月28日    |  REC-666  |  69位   
-DIABOLIK LOVERS Para-Selene Vol.13 逆巻シュウ（CV.鳥海浩輔）  |  2018年4月25日    |  REC-667  |  62位   
-DIABOLIK LOVERS ドS吸血CD VERSUSⅣ Vol.1 アヤトVSキノVSシン 逆巻アヤト（CV.緑川光）/ キノ（CV.前野智昭）/ 月浪シン（CV.森久保祥太郎）  |  2017年10月25日    |  REC-740  |  99位   
-DIABOLIK LOVERS ドS吸血CD VERSUSⅣ Vol.2 シュウVSルキ 逆巻シュウ（CV.鳥海浩輔）/ 無神ルキ（CV.櫻井孝宏）  |  2017年11月22日    |  REC-741  |  76位   
-DIABOLIK LOVERS ドS吸血CD VERSUSⅣ Vol.3 スバルVSカルラ 逆巻スバル（CV.近藤隆）/ 月浪カルラ（CV.森川智之）  |  2017年12月27日    |  REC-742  |  74位   
-DIABOLIK LOVERS ドS吸血CD VERSUSⅣ Vol.4 レイジVSアズサ 逆巻レイジ（CV.小西克幸）/ 無神アズサ（CV.岸尾だいすけ）  |  2018年1月24日    |  REC-743  |  111位   
-DIABOLIK LOVERS ドS吸血CD VERSUSⅣ Vol.5 カナトVSコウ 逆巻カナト（CV.梶裕貴）/ 無神コウ（CV.木村良平）  |  2018年2月28日    |  REC-744  |  69位   
-DIABOLIK LOVERS ドS吸血CD VERSUSⅣ Vol.6 ライトVSユーマ 逆巻ライト（CV.平川大輔）/ 無神ユーマ（CV.鈴木達央）  |  2018年3月28日    |  REC-745  |  100位   
-DIABOLIK LOVERS ドS吸血CD 無神家5th Eternal Blood Vol.1 無神ルキ（CV.櫻井孝宏）  |  2017年12月27日    |  REC-736  |  50位   
-DIABOLIK LOVERS ドS吸血CD 無神家5th Eternal Blood Vol.2 無神ユーマ（CV.鈴木達央）  |  2017年12月27日    |  REC-737  |  53位   
-DIABOLIK LOVERS ドS吸血CD 無神家5th Eternal Blood Vol.3 無神コウ（CV.木村良平）  |  2018年1月24日    |  REC-738  |  60位   
-DIABOLIK LOVERS ドS吸血CD 無神家5th Eternal Blood Vol.4 無神アズサ（CV.岸尾だいすけ）  |  2018年1月24日    |  REC-739  |  79位   
-DIABOLIK LOVERS ZERO Floor.1 逆巻アヤト（CV.緑川光）  |  2018年8月22日    |  REC-808  |  59位   
-DIABOLIK LOVERS ZERO Floor.2 無神コウ（CV.木村良平）  |  2018年9月26日    |  REC-809  |  44位   
-DIABOLIK LOVERS ZERO Floor.3 逆巻スバル（CV.近藤隆）  |  2018年10月24日    |  REC-810  |  59位   
-DIABOLIK LOVERS ZERO Floor.4 月浪シン（CV.森久保祥太郎）  |  2018年11月28日    |  REC-811  |  102位   
-DIABOLIK LOVERS ZERO Floor.5 逆巻カナト（CV.梶裕貴）  |  2018年12月26日    |  REC-812  |  77位   
-DIABOLIK LOVERS ZERO Floor.6 無神ユーマ（CV.鈴木達央）  |  2019年1月23日    |  REC-813  |  57位   
-DIABOLIK LOVERS ZERO Floor.7 キノ（CV.前野智昭）  |  2019年2月27日    |  REC-814  |  83位   
-DIABOLIK LOVERS ZERO Floor.8 逆巻レイジ（CV.小西克幸）  |  2019年3月27日    |  REC-815  |  92位   
-DIABOLIK LOVERS ZERO Floor.9 月浪カルラ（CV.森川智之）  |  2019年4月24日    |  REC-816  |  102位   
-DIABOLIK LOVERS ZERO Floor.10 逆巻シュウ（CV.鳥海浩輔）  |  2019年5月22日    |  REC-817  |  46位   
-DIABOLIK LOVERS ZERO Floor.11 逆巻ライト（CV.平川大輔）  |  2019年6月26日    |  REC-818  |  80位   
-DIABOLIK LOVERS ZERO Floor.12 無神アズサ（CV.岸尾だいすけ）  |  2019年7月24日    |  REC-819  |  91位   
-DIABOLIK LOVERS ZERO Floor.13 無神ルキ（CV.櫻井孝宏）  |  2019年8月28日    |  REC-820  |  45位   
-DIABOLIK LOVERS ドS吸血CD 月浪＆キノ Born To Die Vol.1 月浪カルラ（CV.森川智之）  |  2019年3月27日    |  REC-870  |  158位   
-DIABOLIK LOVERS ドS吸血CD 月浪＆キノ Born To Die Vol.2 月浪シン（CV.森久保祥太郎）  |  2019年4月24日    |  REC-871  |  159位   
-DIABOLIK LOVERS ドS吸血CD 月浪＆キノ Born To Die Vol.3 キノ（CV.前野智昭）  |  2019年5月22日    |  REC-872  |  97位   
-DIABOLIK LOVERS MORE, MORE BLOOD Vol.1 逆巻アヤト（CV.緑川光）  [注 2]  |  2019年12月25日    |  REC-897  |  137位   
-DIABOLIK LOVERS MORE, MORE BLOOD Vol.2 無神コウ（CV.木村良平）  [注 2]  |  2020年1月22日    |  REC-898  |  61位   
-DIABOLIK LOVERS MORE, MORE BLOOD Vol.3 逆巻シュウ（CV.鳥海浩輔）  [注 2]  |  2020年2月26日    |  REC-899  |  56位   
-DIABOLIK LOVERS MORE, MORE BLOOD Vol.4 月浪シン（CV.森久保祥太郎）  [注 2]  |  2020年3月25日    |  REC-900  |  151位   
-DIABOLIK LOVERS MORE, MORE BLOOD Vol.5 無神ユーマ（CV.鈴木達央）  [注 2]  |  2020年4月22日    |  REC-901  |  88位   
-DIABOLIK LOVERS MORE, MORE BLOOD Vol.6 逆巻レイジ（CV.小西克幸）  [注 2]  |  2020年5月27日    |  REC-902  |  78位   
-DIABOLIK LOVERS MORE, MORE BLOOD Vol.7 逆巻スバル（CV.近藤隆）  [注 2]  |  2020年6月24日    |  REC-903  |  57位   
-DIABOLIK LOVERS MORE, MORE BLOOD Vol.8 月浪カルラ（CV.森川智之）  [注 2]  |  2020年7月22日    |  REC-904  |  89位   
-DIABOLIK LOVERS MORE, MORE BLOOD Vol.9 逆巻カナト（CV.梶裕貴）  [注 2]  |  2020年8月26日    |  REC-905  |  105位   
-DIABOLIK LOVERS MORE, MORE BLOOD Vol.10 無神アズサ（CV.岸尾だいすけ）  [注 2]  |  2020年9月23日    |  REC-906  |  107位   
-DIABOLIK LOVERS MORE, MORE BLOOD Vol.11 逆巻ライト（CV.平川大輔）  [注 2]  |  2020年10月28日    |  REC-907  |  100位   
-DIABOLIK LOVERS MORE, MORE BLOOD Vol.12 無神ルキ（CV.櫻井孝宏）  [注 2]  |  2020年11月25日    |  REC-908  |  87位   
-DIABOLIK LOVERS MORE, MORE BLOOD Vol.13 キノ（CV.前野智昭）  [注 2]  |  2020年12月23日    |  REC-909  |  145位   
-DIABOLIK LOVERS DAYLIGHT Vol.1 逆巻アヤト（CV:緑川光）  |  2021年3月24日    |  REC-937  |  98位   
-DIABOLIK LOVERS DAYLIGHT Vol.2 逆巻シュウ（CV:鳥海浩輔）  |  2021年4月28日    |  REC-938  |  36位   
-DIABOLIK LOVERS DAYLIGHT Vol.3 逆巻レイジ（CV:小西克幸）  |  2021年5月26日    |  REC-939  |  55位   
-DIABOLIK LOVERS DAYLIGHT Vol.4 逆巻スバル（CV:近藤隆）  |  2021年6月23日    |  REC-940  |  50位   
-DIABOLIK LOVERS DAYLIGHT Vol.5 逆巻カナト（CV:梶裕貴）  |  2021年7月28日    |  REC-941  |  80位   
-DIABOLIK LOVERS DAYLIGHT Vol.6 逆巻ライト（CV:平川大輔）  |  2021年8月25日    |  REC-942  |  71位   
-DIABOLIK LOVERS DAYLIGHT Vol.7 無神ルキ（CV:櫻井孝宏）  |  2021年9月22日    |  REC-943  |  52位   
-DIABOLIK LOVERS DAYLIGHT Vol.8 無神コウ（CV:木村良平）  |  2021年10月27日    |  REC-944  |  63位   
-DIABOLIK LOVERS DAYLIGHT Vol.9 無神ユーマ（CV:鈴木達央）  |  2021年11月24日    |  REC-945  |  110位   
-DIABOLIK LOVERS DAYLIGHT Vol.10 無神アズサ（CV:岸尾だいすけ）  |  2021年12月22日    |  REC-946  |  143位   
-DIABOLIK LOVERS DAYLIGHT Vol.11 月浪カルラ（CV:森川智之）  |  2022年1月26日    |  REC-947  |  100位   
-DIABOLIK LOVERS DAYLIGHT Vol.12 月浪シン（CV:森久保祥太郎）  |  2022年2月23日    |  REC-948  |  135位   
-DIABOLIK LOVERS DAYLIGHT Vol.13 キノ（CV:前野智昭）  |  2022年3月23日    |  REC-949  |  127位   
+DIABOLIK LOVERS ドS吸血CD VERSUSⅢ Vol.1 アヤトVSカルラ 逆巻アヤト（CV.緑川 光）/ 月浪カルラ（CV.森川智之）  |  2016年4月20日  [  9  ]  |  REC-437  |  50位   
+DIABOLIK LOVERS ドS吸血CD VERSUSⅢ Vol.2 ライトVSシン 逆巻ライト（CV.平川大輔）/ 月浪シン（CV.森久保祥太郎）  |  2016年5月18日  [  9  ]  |  REC-438  |  52位   
+DIABOLIK LOVERS ドS吸血CD VERSUSⅢ Vol.3 スバルVSコウ 逆巻スバル（CV.近藤 隆）/ 無神コウ（CV.木村良平）  |  2016年6月15日  [  9  ]  |  REC-439  |  39位   
+DIABOLIK LOVERS ドS吸血CD VERSUSⅢ Vol.4 レイジVSルキ 逆巻レイジ（CV.小西克幸）/ 無神ルキ（CV.櫻井孝宏）  |  2016年7月20日  [  9  ]  |  REC-440  |  47位   
+DIABOLIK LOVERS ドS吸血CD VERSUSⅢ Vol.5 シュウVSユーマ 逆巻シュウ（CV.鳥海浩輔）/ 無神ユーマ（CV.鈴木達央）  |  2016年8月17日  [  9  ]  |  REC-441  |  25位   
+DIABOLIK LOVERS ドS吸血CD VERSUSⅢ Vol.6 カナトVSアズサ 逆巻カナト（CV.梶 裕貴）/ 無神アズサ（CV.岸尾だいすけ）  |  2016年9月21日  [  9  ]  |  REC-442  |  40位   
+DIABOLIK LOVERS Para-Selene Vol.1 逆巻アヤト（CV.緑川光）  |  2017年4月26日  [  10  ]  |  REC-655  |  80位   
+DIABOLIK LOVERS Para-Selene Vol.2 キノ（CV.前野智昭）  |  2017年5月24日  [  10  ]  |  REC-656  |  65位   
+DIABOLIK LOVERS Para-Selene Vol.3 無神コウ（CV.木村良平）  |  2017年6月28日  [  10  ]  |  REC-657  |  48位   
+DIABOLIK LOVERS Para-Selene Vol.4 月浪シン（CV.森久保祥太郎）  |  2017年7月26日  [  10  ]  |  REC-658  |  92位   
+DIABOLIK LOVERS Para-Selene Vol.5 逆巻ライト（CV.平川大輔）  |  2017年8月23日  [  10  ]  |  REC-659  |  74位   
+DIABOLIK LOVERS Para-Selene Vol.6 逆巻スバル（CV.近藤隆）  |  2017年9月27日  [  10  ]  |  REC-660  |  76位   
+DIABOLIK LOVERS Para-Selene Vol.7 逆巻レイジ（CV.小西克幸）  |  2017年10月25日  [  10  ]  |  REC-661  |  81位   
+DIABOLIK LOVERS Para-Selene Vol.8 無神アズサ（CV.岸尾だいすけ）  |  2017年11月22日  [  10  ]  |  REC-662  |  103位   
+DIABOLIK LOVERS Para-Selene Vol.9 逆巻カナト（CV.梶 裕貴）  |  2017年12月27日  [  10  ]  |  REC-663  |  78位   
+DIABOLIK LOVERS Para-Selene Vol.10 無神ユーマ（CV.鈴木達央）  |  2018年1月24日  [  10  ]  |  REC-664  |  63位   
+DIABOLIK LOVERS Para-Selene Vol.11 月浪カルラ（CV.森川智之）  |  2018年2月28日  [  10  ]  |  REC-665  |  85位   
+DIABOLIK LOVERS Para-Selene Vol.12 無神ルキ（CV.櫻井孝宏）  |  2018年3月28日  [  10  ]  |  REC-666  |  69位   
+DIABOLIK LOVERS Para-Selene Vol.13 逆巻シュウ（CV.鳥海浩輔）  |  2018年4月25日  [  10  ]  |  REC-667  |  62位   
+DIABOLIK LOVERS ドS吸血CD VERSUSⅣ Vol.1 アヤトVSキノVSシン 逆巻アヤト（CV.緑川光）/ キノ（CV.前野智昭）/ 月浪シン（CV.森久保祥太郎）  |  2017年10月25日  [  11  ]  |  REC-740  |  99位   
+DIABOLIK LOVERS ドS吸血CD VERSUSⅣ Vol.2 シュウVSルキ 逆巻シュウ（CV.鳥海浩輔）/ 無神ルキ（CV.櫻井孝宏）  |  2017年11月22日  [  11  ]  |  REC-741  |  76位   
+DIABOLIK LOVERS ドS吸血CD VERSUSⅣ Vol.3 スバルVSカルラ 逆巻スバル（CV.近藤隆）/ 月浪カルラ（CV.森川智之）  |  2017年12月27日  [  11  ]  |  REC-742  |  74位   
+DIABOLIK LOVERS ドS吸血CD VERSUSⅣ Vol.4 レイジVSアズサ 逆巻レイジ（CV.小西克幸）/ 無神アズサ（CV.岸尾だいすけ）  |  2018年1月24日  [  11  ]  |  REC-743  |  111位   
+DIABOLIK LOVERS ドS吸血CD VERSUSⅣ Vol.5 カナトVSコウ 逆巻カナト（CV.梶裕貴）/ 無神コウ（CV.木村良平）  |  2018年2月28日  [  11  ]  |  REC-744  |  69位   
+DIABOLIK LOVERS ドS吸血CD VERSUSⅣ Vol.6 ライトVSユーマ 逆巻ライト（CV.平川大輔）/ 無神ユーマ（CV.鈴木達央）  |  2018年3月28日  [  11  ]  |  REC-745  |  100位   
+DIABOLIK LOVERS ドS吸血CD 無神家5th Eternal Blood Vol.1 無神ルキ（CV.櫻井孝宏）  |  2017年12月27日  [  12  ]  |  REC-736  |  50位   
+DIABOLIK LOVERS ドS吸血CD 無神家5th Eternal Blood Vol.2 無神ユーマ（CV.鈴木達央）  |  2017年12月27日  [  12  ]  |  REC-737  |  53位   
+DIABOLIK LOVERS ドS吸血CD 無神家5th Eternal Blood Vol.3 無神コウ（CV.木村良平）  |  2018年1月24日  [  12  ]  |  REC-738  |  60位   
+DIABOLIK LOVERS ドS吸血CD 無神家5th Eternal Blood Vol.4 無神アズサ（CV.岸尾だいすけ）  |  2018年1月24日  [  12  ]  |  REC-739  |  79位   
+DIABOLIK LOVERS ZERO Floor.1 逆巻アヤト（CV.緑川光）  |  2018年8月22日  [  13  ]  |  REC-808  |  59位   
+DIABOLIK LOVERS ZERO Floor.2 無神コウ（CV.木村良平）  |  2018年9月26日  [  13  ]  |  REC-809  |  44位   
+DIABOLIK LOVERS ZERO Floor.3 逆巻スバル（CV.近藤隆）  |  2018年10月24日  [  13  ]  |  REC-810  |  59位   
+DIABOLIK LOVERS ZERO Floor.4 月浪シン（CV.森久保祥太郎）  |  2018年11月28日  [  13  ]  |  REC-811  |  102位   
+DIABOLIK LOVERS ZERO Floor.5 逆巻カナト（CV.梶裕貴）  |  2018年12月26日  [  13  ]  |  REC-812  |  77位   
+DIABOLIK LOVERS ZERO Floor.6 無神ユーマ（CV.鈴木達央）  |  2019年1月23日  [  13  ]  |  REC-813  |  57位   
+DIABOLIK LOVERS ZERO Floor.7 キノ（CV.前野智昭）  |  2019年2月27日  [  13  ]  |  REC-814  |  83位   
+DIABOLIK LOVERS ZERO Floor.8 逆巻レイジ（CV.小西克幸）  |  2019年3月27日  [  13  ]  |  REC-815  |  92位   
+DIABOLIK LOVERS ZERO Floor.9 月浪カルラ（CV.森川智之）  |  2019年4月24日  [  13  ]  |  REC-816  |  102位   
+DIABOLIK LOVERS ZERO Floor.10 逆巻シュウ（CV.鳥海浩輔）  |  2019年5月22日  [  13  ]  |  REC-817  |  46位   
+DIABOLIK LOVERS ZERO Floor.11 逆巻ライト（CV.平川大輔）  |  2019年6月26日  [  13  ]  |  REC-818  |  80位   
+DIABOLIK LOVERS ZERO Floor.12 無神アズサ（CV.岸尾だいすけ）  |  2019年7月24日  [  13  ]  |  REC-819  |  91位   
+DIABOLIK LOVERS ZERO Floor.13 無神ルキ（CV.櫻井孝宏）  |  2019年8月28日  [  13  ]  |  REC-820  |  45位   
+DIABOLIK LOVERS ドS吸血CD 月浪＆キノ Born To Die Vol.1 月浪カルラ（CV.森川智之）  |  2019年3月27日  [  14  ]  |  REC-870  |  158位   
+DIABOLIK LOVERS ドS吸血CD 月浪＆キノ Born To Die Vol.2 月浪シン（CV.森久保祥太郎）  |  2019年4月24日  [  14  ]  |  REC-871  |  159位   
+DIABOLIK LOVERS ドS吸血CD 月浪＆キノ Born To Die Vol.3 キノ（CV.前野智昭）  |  2019年5月22日  [  14  ]  |  REC-872  |  97位   
+DIABOLIK LOVERS MORE, MORE BLOOD Vol.1 逆巻アヤト（CV.緑川光）  [  注 2  ]  |  2019年12月25日  [  15  ]  |  REC-897  |  137位   
+DIABOLIK LOVERS MORE, MORE BLOOD Vol.2 無神コウ（CV.木村良平）  [  注 2  ]  |  2020年1月22日  [  15  ]  |  REC-898  |  61位   
+DIABOLIK LOVERS MORE, MORE BLOOD Vol.3 逆巻シュウ（CV.鳥海浩輔）  [  注 2  ]  |  2020年2月26日  [  15  ]  |  REC-899  |  56位   
+DIABOLIK LOVERS MORE, MORE BLOOD Vol.4 月浪シン（CV.森久保祥太郎）  [  注 2  ]  |  2020年3月25日  [  15  ]  |  REC-900  |  151位   
+DIABOLIK LOVERS MORE, MORE BLOOD Vol.5 無神ユーマ（CV.鈴木達央）  [  注 2  ]  |  2020年4月22日  [  15  ]  |  REC-901  |  88位   
+DIABOLIK LOVERS MORE, MORE BLOOD Vol.6 逆巻レイジ（CV.小西克幸）  [  注 2  ]  |  2020年5月27日  [  15  ]  |  REC-902  |  78位   
+DIABOLIK LOVERS MORE, MORE BLOOD Vol.7 逆巻スバル（CV.近藤隆）  [  注 2  ]  |  2020年6月24日  [  15  ]  |  REC-903  |  57位   
+DIABOLIK LOVERS MORE, MORE BLOOD Vol.8 月浪カルラ（CV.森川智之）  [  注 2  ]  |  2020年7月22日  [  15  ]  |  REC-904  |  89位   
+DIABOLIK LOVERS MORE, MORE BLOOD Vol.9 逆巻カナト（CV.梶裕貴）  [  注 2  ]  |  2020年8月26日  [  15  ]  |  REC-905  |  105位   
+DIABOLIK LOVERS MORE, MORE BLOOD Vol.10 無神アズサ（CV.岸尾だいすけ）  [  注 2  ]  |  2020年9月23日  [  15  ]  |  REC-906  |  107位   
+DIABOLIK LOVERS MORE, MORE BLOOD Vol.11 逆巻ライト（CV.平川大輔）  [  注 2  ]  |  2020年10月28日  [  15  ]  |  REC-907  |  100位   
+DIABOLIK LOVERS MORE, MORE BLOOD Vol.12 無神ルキ（CV.櫻井孝宏）  [  注 2  ]  |  2020年11月25日  [  15  ]  |  REC-908  |  87位   
+DIABOLIK LOVERS MORE, MORE BLOOD Vol.13 キノ（CV.前野智昭）  [  注 2  ]  |  2020年12月23日  [  15  ]  |  REC-909  |  145位   
+DIABOLIK LOVERS DAYLIGHT Vol.1 逆巻アヤト（CV:緑川光）  |  2021年3月24日  [  16  ]  |  REC-937  |  98位   
+DIABOLIK LOVERS DAYLIGHT Vol.2 逆巻シュウ（CV:鳥海浩輔）  |  2021年4月28日  [  16  ]  |  REC-938  |  36位   
+DIABOLIK LOVERS DAYLIGHT Vol.3 逆巻レイジ（CV:小西克幸）  |  2021年5月26日  [  16  ]  |  REC-939  |  55位   
+DIABOLIK LOVERS DAYLIGHT Vol.4 逆巻スバル（CV:近藤隆）  |  2021年6月23日  [  16  ]  |  REC-940  |  50位   
+DIABOLIK LOVERS DAYLIGHT Vol.5 逆巻カナト（CV:梶裕貴）  |  2021年7月28日  [  16  ]  |  REC-941  |  80位   
+DIABOLIK LOVERS DAYLIGHT Vol.6 逆巻ライト（CV:平川大輔）  |  2021年8月25日  [  16  ]  |  REC-942  |  71位   
+DIABOLIK LOVERS DAYLIGHT Vol.7 無神ルキ（CV:櫻井孝宏）  |  2021年9月22日  [  16  ]  |  REC-943  |  52位   
+DIABOLIK LOVERS DAYLIGHT Vol.8 無神コウ（CV:木村良平）  |  2021年10月27日  [  16  ]  |  REC-944  |  63位   
+DIABOLIK LOVERS DAYLIGHT Vol.9 無神ユーマ（CV:鈴木達央）  |  2021年11月24日  [  16  ]  |  REC-945  |  110位   
+DIABOLIK LOVERS DAYLIGHT Vol.10 無神アズサ（CV:岸尾だいすけ）  |  2021年12月22日  [  16  ]  |  REC-946  |  143位   
+DIABOLIK LOVERS DAYLIGHT Vol.11 月浪カルラ（CV:森川智之）  |  2022年1月26日  [  16  ]  |  REC-947  |  100位   
+DIABOLIK LOVERS DAYLIGHT Vol.12 月浪シン（CV:森久保祥太郎）  |  2022年2月23日  [  16  ]  |  REC-948  |  135位   
+DIABOLIK LOVERS DAYLIGHT Vol.13 キノ（CV:前野智昭）  |  2022年3月23日  [  16  ]  |  REC-949  |  127位   
   
 ###  ドラマCD
 
@@ -674,16 +674,16 @@ DIABOLIK LOVERS DAYLIGHT Vol.13 キノ（CV:前野智昭）  |  2022年3月23日
 初週位  
 ---|---|---|---  
 DIABOLIK LOVERS Blood & LoveSweet  |  2012年8月10日  |  REC-024  |  なし   
-DIABOLIK LOVERS DARK FATE Vol.1 蝕の章  |  2014年8月20日    |  REC-127  |  36位   
-DIABOLIK LOVERS DARK FATE Vol.2 上弦の章  |  2014年9月17日    |  REC-128  |  38位   
-DIABOLIK LOVERS DARK FATE Vol.3 下弦の章  |  2014年10月15日    |  REC-129  |  20位   
-DIABOLIK LOVERS LOST EDEN Vol.1 逆巻編  |  2016年8月17日    |  REC-443  |  43位   
-DIABOLIK LOVERS LOST EDEN Vol.2 キノ編  |  2016年9月21日    |  REC-444  |  45位   
-DIABOLIK LOVERS LOST EDEN Vol.3 月浪編  |  2016年10月19日    |  REC-445  |  79位   
-DIABOLIK LOVERS LOST EDEN Vol.4 無神編  |  2016年11月16日    |  REC-446  |  69位   
-DIABOLIK LOVERS CHAOS LINEAGE Vol.1 SCARLET  |  2017年7月26日    |  REC-652  |  49位   
-DIABOLIK LOVERS CHAOS LINEAGE Vol.2 VIOLET  |  2017年8月23日    |  REC-653  |  42位   
-DIABOLIK LOVERS CHAOS LINEAGE Vol.3 ORANGE  |  2017年9月27日    |  REC-654  |  66位   
+DIABOLIK LOVERS DARK FATE Vol.1 蝕の章  |  2014年8月20日  [  17  ]  |  REC-127  |  36位   
+DIABOLIK LOVERS DARK FATE Vol.2 上弦の章  |  2014年9月17日  [  17  ]  |  REC-128  |  38位   
+DIABOLIK LOVERS DARK FATE Vol.3 下弦の章  |  2014年10月15日  [  17  ]  |  REC-129  |  20位   
+DIABOLIK LOVERS LOST EDEN Vol.1 逆巻編  |  2016年8月17日  [  18  ]  |  REC-443  |  43位   
+DIABOLIK LOVERS LOST EDEN Vol.2 キノ編  |  2016年9月21日  [  18  ]  |  REC-444  |  45位   
+DIABOLIK LOVERS LOST EDEN Vol.3 月浪編  |  2016年10月19日  [  18  ]  |  REC-445  |  79位   
+DIABOLIK LOVERS LOST EDEN Vol.4 無神編  |  2016年11月16日  [  18  ]  |  REC-446  |  69位   
+DIABOLIK LOVERS CHAOS LINEAGE Vol.1 SCARLET  |  2017年7月26日  [  19  ]  |  REC-652  |  49位   
+DIABOLIK LOVERS CHAOS LINEAGE Vol.2 VIOLET  |  2017年8月23日  [  19  ]  |  REC-653  |  42位   
+DIABOLIK LOVERS CHAOS LINEAGE Vol.3 ORANGE  |  2017年9月27日  [  19  ]  |  REC-654  |  66位   
 DIABOLIK LOVERS HOUSE OF VAMPIRE  |  発売日未定  |  |   
   
 ###  キャラクターソングCD
@@ -695,22 +695,22 @@ DIABOLIK LOVERS HOUSE OF VAMPIRE  |  発売日未定  |  |
 ---|---|---|---|---  
 DIABOLIK LOVERS キャラクターソングVol.1 逆巻アヤト (CV.緑川 光)  |  「ADDICTED（2）PHANTOM」   
 「ADDICTED（2）PHANTOM -off vocal-」  
-録り下ろしミニドラマ「月光浴」  |  2013年6月5日    |  REC-044  |  23位   
+録り下ろしミニドラマ「月光浴」  |  2013年6月5日  [  20  ]  |  REC-044  |  23位   
 DIABOLIK LOVERS キャラクターソングVol.2 逆巻カナト (CV.梶 裕貴)  |  「切断★舞踏会」   
 「切断★舞踏会 -off vocal-」  
-録り下ろしミニドラマ「僕だけのもの」  |  2013年7月3日    |  REC-045  |  17位   
+録り下ろしミニドラマ「僕だけのもの」  |  2013年7月3日  [  20  ]  |  REC-045  |  17位   
 DIABOLIK LOVERS キャラクターソングVol.3 逆巻ライト (CV.平川 大輔)  |  「血濡れた密会」   
 「血濡れた密会 -off vocal-」  
-録り下ろしミニドラマ「中毒」  |  2013年8月7日    |  REC-046  |  35位   
+録り下ろしミニドラマ「中毒」  |  2013年8月7日  [  20  ]  |  REC-046  |  35位   
 DIABOLIK LOVERS キャラクターソングVol.4 逆巻スバル (CV.近藤 隆)  |  「ZERO」   
 「ZERO -off vocal-」  
-録り下ろしミニドラマ「もっと熱く」  |  2013年9月4日    |  REC-047  |  30位   
+録り下ろしミニドラマ「もっと熱く」  |  2013年9月4日  [  20  ]  |  REC-047  |  30位   
 DIABOLIK LOVERS キャラクターソングVol.5 逆巻シュウ (CV.鳥海 浩輔)  |  「Farewell Song」   
 「Farewell Song -off vocal-」  
-録り下ろしミニドラマ「絡まる気持ち」  |  2013年10月2日    |  REC-048  |  20位   
+録り下ろしミニドラマ「絡まる気持ち」  |  2013年10月2日  [  20  ]  |  REC-048  |  20位   
 DIABOLIK LOVERS キャラクターソングVol.6 逆巻レイジ (CV.小西 克幸)  |  「とある預言者の、運命」   
 「とある預言者の、運命 -off vocal-」  
-録り下ろしミニドラマ「美しい花たち」  |  2013年11月6日    |  REC-049  |  31位   
+録り下ろしミニドラマ「美しい花たち」  |  2013年11月6日  [  20  ]  |  REC-049  |  31位   
 DIABOLIK LOVERS Bloody Songs -SUPER BEST-  |  「ADDICTED（2）PHANTOM」   
 「切断★舞踏会」  
 「血濡れた密会」  
@@ -722,38 +722,38 @@ DIABOLIK LOVERS Bloody Songs -SUPER BEST-  |  「ADDICTED（2）PHANTOM」
 「極限（UNLIMITED）BLOOD」  
 「月蝕（Eclipse）」  
 「真夜中の饗宴（MIDNIGHT PLEASURE） -Remix-」  
-「極限（UNLIMITED）BLOOD -Remix-」  |  2014年5月21日    |  REC-100:初回限定盤   
+「極限（UNLIMITED）BLOOD -Remix-」  |  2014年5月21日  [  21  ]  |  REC-100:初回限定盤   
 REC-100:通常盤  |  24位   
 DIABOLIK LOVERS MORE CHARACTER SONG Vol.1 逆巻アヤト (CV.緑川光)  |  「アルカディア」   
 「アルカディア -off vocal-」  
-録り下ろしミニドラマ「勝敗の行方」  |  2014年7月16日    |  REC-130  |  39位   
+録り下ろしミニドラマ「勝敗の行方」  |  2014年7月16日  [  22  ]  |  REC-130  |  39位   
 DIABOLIK LOVERS MORE CHARACTER SONG Vol.2 逆巻カナト (CV.梶裕貴)  |  「GRATEFUL★DEAD★MARCH」   
 「GRATEFUL★DEAD★MARCH -off vocal-」  
-録り下ろしミニドラマ「嫉妬で奏でるセレナーデ」  |  2014年8月20日    |  REC-131  |  28位   
+録り下ろしミニドラマ「嫉妬で奏でるセレナーデ」  |  2014年8月20日  [  22  ]  |  REC-131  |  28位   
 DIABOLIK LOVERS MORE CHARACTER SONG Vol.3 無神ルキ (CV.櫻井孝宏)  |  「冷たい血」   
 「冷たい血 -off vocal-」  
-録り下ろしミニドラマ「甘い忠誠」  |  2014年9月17日    |  REC-132  |  37位   
+録り下ろしミニドラマ「甘い忠誠」  |  2014年9月17日  [  22  ]  |  REC-132  |  37位   
 DIABOLIK LOVERS MORE CHARACTER SONG Vol.4 無神コウ (CV.木村良平)  |  「悪魔的Spire!!!!」   
 「悪魔的Spire!!!! -off vocal-」  
-録り下ろしミニドラマ「ふたりだけの楽屋」  |  2014年10月15日    |  REC-133  |  18位   
+録り下ろしミニドラマ「ふたりだけの楽屋」  |  2014年10月15日  [  22  ]  |  REC-133  |  18位   
 DIABOLIK LOVERS MORE CHARACTER SONG Vol.5 逆巻ライト (CV.平川大輔)  |  「Q.E.D」   
 「Q.E.D -off vocal-」  
-録り下ろしミニドラマ「秘密のクローゼット」  |  2014年11月19日    |  REC-134  |  37位   
+録り下ろしミニドラマ「秘密のクローゼット」  |  2014年11月19日  [  22  ]  |  REC-134  |  37位   
 DIABOLIK LOVERS MORE CHARACTER SONG Vol.6 逆巻スバル (CV.近藤隆)  |  「愛しきPain」   
 「愛しきPain -off vocal-」  
-録り下ろしミニドラマ「ケンカの後で」  |  2014年12月17日    |  REC-135  |  42位   
+録り下ろしミニドラマ「ケンカの後で」  |  2014年12月17日  [  22  ]  |  REC-135  |  42位   
 DIABOLIK LOVERS MORE CHARACTER SONG Vol.7 無神ユーマ (CV.鈴木達央)  |  「暴言シンドローム」   
 「暴言シンドローム -off vocal-」  
-録り下ろしミニドラマ「甘美な教え」  |  2015年1月21日    |  REC-136  |  31位   
+録り下ろしミニドラマ「甘美な教え」  |  2015年1月21日  [  22  ]  |  REC-136  |  31位   
 DIABOLIK LOVERS MORE CHARACTER SONG Vol.8 無神アズサ (CV.岸尾だいすけ)  |  「KILLYOU,AGAIN」   
 「KILLYOU,AGAIN -off vocal-」  
-録り下ろしミニドラマ「たったひとつの光はここに」  |  2015年2月18日    |  REC-137  |  41位   
+録り下ろしミニドラマ「たったひとつの光はここに」  |  2015年2月18日  [  22  ]  |  REC-137  |  41位   
 DIABOLIK LOVERS MORE CHARACTER SONG Vol.9 逆巻シュウ (CV.鳥海浩輔)  |  「KISS♡MARK」   
 「KISS♡MARK -off vocal-」  
-録り下ろしミニドラマ「所有の刻印」  |  2015年3月18日    |  REC-138  |  37位   
+録り下ろしミニドラマ「所有の刻印」  |  2015年3月18日  [  22  ]  |  REC-138  |  37位   
 DIABOLIK LOVERS MORE CHARACTER SONG Vol.10 逆巻レイジ (CV.小西克幸)  |  「苺の罪」   
 「苺の罪 -off vocal-」  
-録り下ろしミニドラマ「価値の見極め」  |  2015年4月15日    |  REC-139  |  30位   
+録り下ろしミニドラマ「価値の見極め」  |  2015年4月15日  [  22  ]  |  REC-139  |  30位   
 DIABOLIK LOVERS Bloody Songs -SUPER BESTII- 逆巻家ver  |  「アルカディア」   
 「GRATEFUL★DEAD★MARCH」  
 「冷たい血」  
@@ -768,7 +768,7 @@ DIABOLIK LOVERS Bloody Songs -SUPER BESTII- 逆巻家ver  |  「アルカディ�
 「誓いのカンパネラ」  
 「Guilty×Guilty!!!」  
 「S.O.S-ΑtoΩ-」  
-「Bloody★Mayim★Mayim」  |  2015年8月19日    |  REC-327  |  7位   
+「Bloody★Mayim★Mayim」  |  2015年8月19日  [  23  ]  |  REC-327  |  7位   
 DIABOLIK LOVERS Bloody Songs -SUPER BESTII- 無神家ver  |  「アルカディア」   
 「GRATEFUL★DEAD★MARCH」  
 「冷たい血」  
@@ -783,7 +783,7 @@ DIABOLIK LOVERS Bloody Songs -SUPER BESTII- 無神家ver  |  「アルカディ�
 「誓いのカンパネラ」  
 「Guilty×Guilty!!!」  
 「S.O.S-ΑtoΩ-」  
-「罠-If You’re Diablo-」  |  2015年8月19日    |  REC-328  |  7位   
+「罠-If You’re Diablo-」  |  2015年8月19日  [  23  ]  |  REC-328  |  7位   
 DIABOLIK LOVERS Bloody Songs -SUPER BESTII- 月浪家ver  |  「アルカディア」   
 「GRATEFUL★DEAD★MARCH」  
 「冷たい血」  
@@ -798,55 +798,55 @@ DIABOLIK LOVERS Bloody Songs -SUPER BESTII- 月浪家ver  |  「アルカディ�
 「誓いのカンパネラ」  
 「Guilty×Guilty!!!」  
 「S.O.S-ΑtoΩ-」  
-「血戦のDies irae」  |  2015年8月19日    |  REC-329  |  7位   
+「血戦のDies irae」  |  2015年8月19日  [  23  ]  |  REC-329  |  7位   
 DIABOLIK LOVERS VERSUS SONG Requiem（2）Bloody Night Vol.I アヤトVSスバル（CV.緑川光） / （CV.近藤隆）  |  「→REDRUM←」   
 「→REDRUM←-アヤト ver-」  
 「→REDRUM←-スバル ver-」  
 「→REDRUM←-off vocal-」  
-録り下ろしミニドラマ「アヤトＶＳスバル」  |  2015年10月21日    |  REC-331  |  33位   
+録り下ろしミニドラマ「アヤトＶＳスバル」  |  2015年10月21日  [  24  ]  |  REC-331  |  33位   
 DIABOLIK LOVERS VERSUS SONG Requiem（2）Bloody Night Vol.II ルキVSアズサ（CV.櫻井孝宏 / CV.岸尾だいすけ）  |  「Luv Apple Juice」   
 「Luv Apple Juice -Reading ver.ルキ-」  
 「Luv Apple Juice -アズサ ver-」  
 「Luv Apple Juice -off vocal-」  
-録り下ろしミニドラマ「ルキＶＳアズサ」  |  2015年11月18日    |  REC-332  |  45位   
+録り下ろしミニドラマ「ルキＶＳアズサ」  |  2015年11月18日  [  24  ]  |  REC-332  |  45位   
 DIABOLIK LOVERS VERSUS SONG Requiem（2）Bloody Night Vol.III カルラVSシン（CV.森川智之） / （CV.森久保祥太郎）  |  「Operation X」   
 「Operation X -カルラ ver-」  
 「Operation X -シン ver-」  
 「Operation X -off vocal-」  
-録り下ろしミニドラマ「カルラＶＳシン」  |  2015年12月16日    |  REC-333  |  58位   
+録り下ろしミニドラマ「カルラＶＳシン」  |  2015年12月16日  [  24  ]  |  REC-333  |  58位   
 DIABOLIK LOVERS VERSUS SONG Requiem（2）Bloody Night Vol.IV レイジVSカナト（CV.小西克幸） / （CV.梶裕貴）  |  「蠱惑のParade」   
 「蠱惑のParade -レイジ ver-」  
 「蠱惑のParade -カナト ver-」  
 「蠱惑のParade -off vocal-」  
-録り下ろしミニドラマ「レイジＶＳカナト」  |  2016年1月20日    |  REC-334  |  50位   
+録り下ろしミニドラマ「レイジＶＳカナト」  |  2016年1月20日  [  24  ]  |  REC-334  |  50位   
 DIABOLIK LOVERS VERSUS SONG Requiem（2）Bloody Night Vol.V コウVSユーマ（CV.木村良平） / （CV.鈴木達央）  |  「DIE IS CAST」   
 「DIE IS CAST -コウ ver-」  
 「DIE IS CAST -ユーマ ver-」  
 「DIE IS CAST -off vocal-」  
-録り下ろしミニドラマ「コウＶＳユーマ」  |  2016年2月17日    |  REC-335  |  32位   
+録り下ろしミニドラマ「コウＶＳユーマ」  |  2016年2月17日  [  24  ]  |  REC-335  |  32位   
 DIABOLIK LOVERS VERSUS SONG Requiem（2）Bloody Night Vol.VI シュウVSライト（CV.鳥海浩輔） / （CV.平川大輔）  |  「カモフラージュ」   
 「カモフラージュ -シュウ ver-」  
 「カモフラージュ -ライト ver-」  
 「カモフラージュ -off vocal-」  
-録り下ろしミニドラマ「シュウＶＳライト」  |  2016年3月23日    |  REC-336  |  40位   
+録り下ろしミニドラマ「シュウＶＳライト」  |  2016年3月23日  [  24  ]  |  REC-336  |  40位   
 DIABOLIK LOVERS Sadistic Song Vol.1 逆巻アヤト（CV.緑川光）  |  「血極NIGHT」   
 「血極NIGHT -off vocal-」  
-録り下ろしミニドラマ  |  2017年1月25日    |  REC-526  |  78位   
+録り下ろしミニドラマ  |  2017年1月25日  [  25  ]  |  REC-526  |  78位   
 DIABOLIK LOVERS Sadistic Song Vol.2 逆巻カナト（CV.梶裕貴）  |  「快感DEATH-TRUCTION」   
 「快感DEATH-TRUCTION -off vocal-」  
-録り下ろしミニドラマ  |  2017年2月8日    |  REC-527  |  76位   
+録り下ろしミニドラマ  |  2017年2月8日  [  25  ]  |  REC-527  |  76位   
 DIABOLIK LOVERS Sadistic Song Vol.3 逆巻ライト（CV.平川大輔）  |  「CHAOS★PARTY」   
 「CHAOS★PARTY -off vocal-」  
-録り下ろしミニドラマ  |  2017年2月22日    |  REC-528  |  95位   
+録り下ろしミニドラマ  |  2017年2月22日  [  25  ]  |  REC-528  |  95位   
 DIABOLIK LOVERS Sadistic Song Vol.4 逆巻シュウ（CV.鳥海浩輔）  |  「アイオライト」   
 「アイオライト -off vocal-」  
-録り下ろしミニドラマ  |  2017年3月8日    |  REC-529  |  63位   
+録り下ろしミニドラマ  |  2017年3月8日  [  25  ]  |  REC-529  |  63位   
 DIABOLIK LOVERS Sadistic Song Vol.5 逆巻レイジ（CV.小西克幸）  |  「Mr.ButterflyMask」   
 「Mr.ButterflyMask -off vocal-」  
-録り下ろしミニドラマ  |  2017年3月15日    |  REC-530  |  72位   
+録り下ろしミニドラマ  |  2017年3月15日  [  25  ]  |  REC-530  |  72位   
 DIABOLIK LOVERS Sadistic Song Vol.6 逆巻スバル（CV.近藤隆）  |  「SQueeze...」   
 「SQueeze... -off vocal-」  
-録り下ろしミニドラマ  |  2017年3月22日    |  REC-531  |  66位   
+録り下ろしミニドラマ  |  2017年3月22日  [  25  ]  |  REC-531  |  66位   
 DIABOLIK LOVERS Bloody Songs -SUPER BESTIII-  |  「→REDRUM←」   
 「Luv Apple Juice」  
 「Operation X」  
@@ -857,7 +857,7 @@ DIABOLIK LOVERS Bloody Songs -SUPER BESTIII-  |  「→REDRUM←」
 「VoiD」  
 「愛の檻」  
 「絶対感度のリビドー」  
-「カレイドナイト」  |  2017年4月26日    |  REC-650  |  31位   
+「カレイドナイト」  |  2017年4月26日  [  26  ]  |  REC-650  |  31位   
   
 ###  サウンドトラック
 
@@ -1578,7 +1578,7 @@ MXとBS11では17分枠に拡大して放送した上でエンディング、次
 
 2015年9月より12月まで第2期『 **DIABOLIK LOVERS MORE,BLOOD** 』が15分枠で放送された。これは、
 PlayStation Vita  専用ソフト『 **DIABOLIK LOVERS DARK FATE**
-』のアニメイト限定セットの特典のオリジナルアニメーションDVDに対する期待が高かったからである    。
+』のアニメイト限定セットの特典のオリジナルアニメーションDVDに対する期待が高かったからである  [  27  ]  。
 
 ###  スタッフ
 
@@ -1691,12 +1691,12 @@ episode 12  |  吉田りさこ  |  高橋敦子
 
 
 
-日本国内 テレビ / 第1期 放送期間および放送時間    放送期間  |  放送時間  |  放送局  |  対象地域    |  備考   
+日本国内 テレビ / 第1期 放送期間および放送時間  [  28  ]  放送期間  |  放送時間  |  放送局  |  対象地域  [  29  ]  |  備考   
 ---|---|---|---|---  
 2013年  9月16日  \-  12月9日  |  月曜 23:30 - 23:45  |  AT-X  |  日本全域  |  リピート放送あり   
-2014年  4月8日  \-  6月24日  |  火曜 1:18 - 1:35（月曜深夜）  |  TOKYO MX    |  東京都  |   
-2014年  4月15日  \-  6月30日  |  火曜 0:43 - 1:00（月曜深夜）  |  BS11    |  日本全域  |  『  ANIME+  』枠   
-日本国内 インターネット放送 / 第1期 放送期間および放送時間    配信期間  |  配信時間  |  配信サイト  |  備考   
+2014年  4月8日  \-  6月24日  |  火曜 1:18 - 1:35（月曜深夜）  |  TOKYO MX  [  30  ]  |  東京都  |   
+2014年  4月15日  \-  6月30日  |  火曜 0:43 - 1:00（月曜深夜）  |  BS11  [  30  ]  |  日本全域  |  『  ANIME+  』枠   
+日本国内 インターネット放送 / 第1期 放送期間および放送時間  [  31  ]  配信期間  |  配信時間  |  配信サイト  |  備考   
 ---|---|---|---  
 2013年  9月22日  \-  12月15日  |  日曜 1:30 - 1:45（土曜深夜）  |  ニコニコ生放送  |   
 |  日曜 1:45 更新（土曜深夜）  |  ニコニコチャンネル  |  第1話と最新話は1週間無料   
@@ -1704,11 +1704,11 @@ episode 12  |  吉田りさこ  |  高橋敦子
 日本国内 国外テレビ / 第1期 放送期間および放送時間  放送期間  |  放送時間  |  放送局  |  対象地域  |  備考   
 ---|---|---|---|---  
 2013年  9月26日  \-  12月19日  |  木曜 23:30 - 金曜 0:00  |  ANIPLUS  |  韓国全域  |  15歳以上視聴可で放送 /  韓国語  字幕あり   
-日本国内 テレビ / 第2期 放送期間および放送時間    放送期間  |  放送時間  |  放送局  |  対象地域    |  備考   
+日本国内 テレビ / 第2期 放送期間および放送時間  [  32  ]  放送期間  |  放送時間  |  放送局  |  対象地域  [  29  ]  |  備考   
 ---|---|---|---|---  
 2015年  9月24日  \-  12月10日  |  木曜 0:30 - 0:45（水曜深夜）  |  AT-X  |  日本全域  |  リピート放送あり   
 2015年  10月4日  \-  |  日曜 22:00 - 22:15  |  TOKYO MX  |  東京都  |   
-日本国内 インターネット放送 / 第2期 放送期間および放送時間    配信期間  |  配信時間  |  配信サイト  |  備考   
+日本国内 インターネット放送 / 第2期 放送期間および放送時間  [  33  ]  配信期間  |  配信時間  |  配信サイト  |  備考   
 ---|---|---|---  
 2015年10月4日 -  |  日曜 22:00 - 22:15  |  ニコニコ生放送  |   
 2015年  10月11日  \-  10月18日  （第1話・第2話）  
@@ -1748,18 +1748,19 @@ DVD-BOX  |  \-  |  \-  |  2016年1月8日  |  第1話 - 第12話  |  \-  |  \-  
 
 
 
-2015年8月26日から8月30日まで『 **舞台「DIABOLIK LOVERS」** 』が六行会ホールにて上演  
-。2016年8月24日から8月28日まで『 **舞台「DIABOLIK LOVERS〜re:requiem〜」** 』がクラブexにて上演  
-。2018年1月24日から1月28日まで『 **舞台「DIABOLIK LOVERS MORE,BLOOD」** 』がクラブeXにて上演    。
+2015年8月26日から8月30日まで『 **舞台「DIABOLIK LOVERS」** 』が六行会ホールにて上演  [  34  ]
+。2016年8月24日から8月28日まで『 **舞台「DIABOLIK LOVERS〜re:requiem〜」** 』がクラブexにて上演  [  35
+]  。2018年1月24日から1月28日まで『 **舞台「DIABOLIK LOVERS MORE,BLOOD」** 』がクラブeXにて上演  [  36
+]  。
 
 ###  スタッフ（舞台）
 
 
 
-  * 脚本 -  太田ぐいや   
-  * 演出 -  なるせゆうせい   
-  * 制作 - 株式会社オフィス・インベーダー   
-  * 製作委員会 - 株式会社オフィス・インベーダー、  株式会社  フロンティアワークス   
+  * 脚本 -  太田ぐいや  [  37  ] 
+  * 演出 -  なるせゆうせい  [  37  ] 
+  * 制作 - 株式会社オフィス・インベーダー  [  37  ] 
+  * 製作委員会 - 株式会社オフィス・インベーダー、  株式会社  フロンティアワークス  [  37  ] 
 
 ###  キャスト（舞台）
 
@@ -1824,8 +1825,8 @@ DVD-BOX  |  \-  |  \-  |  2016年1月8日  |  第1話 - 第12話  |  \-  |  \-  
 
 
 2018年12月26日から2019年4月7日まで  バンダイナムコアミューズメント
-のなぞともカフェ全店舗（新宿店、渋谷店、京都新京極店、なんばパークス店、名古屋栄店）において、コラボイベントとしてナゾラリー  [注 3]  『
-**DIABOLIK LOVERS ZERO in なぞともカフェ 忘却の美術館** 』が催された    。
+のなぞともカフェ全店舗（新宿店、渋谷店、京都新京極店、なんばパークス店、名古屋栄店）において、コラボイベントとしてナゾラリー  [  注 3  ]  『
+**DIABOLIK LOVERS ZERO in なぞともカフェ 忘却の美術館** 』が催された  [  38  ]  。
 
 ##  関連書籍
 

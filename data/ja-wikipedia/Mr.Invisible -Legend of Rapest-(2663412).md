@@ -28,9 +28,10 @@ CGモード  |  CG鑑賞モードあり
 
 
 
-softhouse-seal  の姉妹ブランド・Re:verseの第5作で、デビュー作『the world of rapest』の続編に当たる  
-。Re:verseは本作を最後に活動を休止しているが、softhouse-sealから  2012年  6月29日  に発売された『  seal Best
-collection3 seal vs. Re:verse -俺よりエロい奴に会いに行く…-  』に前作と合わせて収録された    。
+softhouse-seal  の姉妹ブランド・Re:verseの第5作で、デビュー作『the world of rapest』の続編に当たる  [  1
+]  。Re:verseは本作を最後に活動を休止しているが、softhouse-sealから  2012年  6月29日  に発売された『  seal
+Best collection3 seal vs. Re:verse -俺よりエロい奴に会いに行く…-  』に前作と合わせて収録された  [  2  ]
+。
 
 ##  ストーリー
 

@@ -8,7 +8,7 @@
 キャラクター名設定  |  設定不可（PC）   
 エンディング数  |  5   
 セーブファイル数  |  100   
-ゲームエンジン  |  retouch/ExHIBIT（PC）     
+ゲームエンジン  |  retouch/ExHIBIT（PC）  [  1  ]   
 メディア  |  DVD-ROM1枚   
 画面サイズ  |  1024×640 HighColor以上   
 BGMフォーマット  |  あり   

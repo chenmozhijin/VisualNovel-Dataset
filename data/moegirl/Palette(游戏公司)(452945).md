@@ -17,7 +17,7 @@
 **Palette** （日语：  ぱれっと  ）是隶属于  CLEAR RAVE  （日语：  クリアレーヴ  ）的一个游戏品牌，通称“调色板”，代表作有
 9-nine-  系列。
 
-有姐妹品牌  Palette darkside  和  Palette QUALIA  （  ぱれっとクオリア  ）。
+有姐妹品牌  Palette darkside  和  Palette QUALIA（  ぱれっとクオリア  ）  。
 
 ##  目录
 

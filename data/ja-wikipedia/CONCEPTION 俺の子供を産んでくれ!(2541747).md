@@ -482,8 +482,8 @@ BS11  水曜 1:30 - 2:00（火曜深夜） 枠
   4. ^  _**a** _ _**b** _ “2018年秋アニメ『CONCEPTION』10月9日より放送開始！ 小野友樹さん、加藤英美里さんら出演声優＆キャラクタービジュアルなど公開”  . _ アニメイトタイムズ  _ (  アニメイト  ). (2018年8月28日)  .  https://www.animatetimes.com/news/details.php?id=1535356183  2018年10月28日  閲覧。 
   5. ** ^  ** “『CONCEPTION PLUS 俺の子供を産んでくれ！』が今冬発売。オリジナル版からの新要素が追加予定”  . _ 電撃オンライン  _ (  KADOKAWA  ). (2018年9月25日)  .  http://dengekionline.com/elem/000/001/805/1805891  2018年10月28日  閲覧。 
   6. ^  _**a** _ _**b** _ “『CONCEPTION 俺の子供を産んでくれ！』巫女と絆を深めて「愛好の儀」を交わす”  . _ インサイド  _ (イード). (2012年2月20日)  .  https://s.inside-games.jp/article/2012/02/20/54657.html  2018年10月28日  閲覧。 
-  7. ^  _**a** _ _**b** _ Anoop Gantayat (2011年10月26日). “  More Facts About Conception  ”. Andriasang.com. 2013年5月6日時点の  オリジナル  よりアーカイブ。  2011年10月26日  閲覧。 
-  8. ** ^  ** Spencer (2011年10月27日). “  Conception, Spike’s Baby Making RPG, Has Dungeons And Battles  ”. siliconera.  2011年10月28日  閲覧。 
+  7. ^  _**a** _ _**b** _ Anoop Gantayat (October 26, 2011). “  More Facts About Conception  ”. Andriasang.com. May 6, 2013時点の  オリジナル  よりアーカイブ。  October 26, 2011  閲覧。 
+  8. ** ^  ** Spencer (October 27, 2011). “  Conception, Spike’s Baby Making RPG, Has Dungeons And Battles  ”. siliconera.  October 28, 2011  閲覧。 
   9. ** ^  ** “『CONCEPTION 俺の子供を産んでくれ！』使命は巫女との間に子供をつくること 10枚目の写真・画像”  . _ インサイド  _ (イード). (2012年2月13日)  .  https://www.inside-games.jp/article/img/2012/02/13/54522/240613.html  2018年10月28日  閲覧。 
   10. ^  _**a** _ _**b** _ _**c** _ _**d** _ _**e** _ _**f** _ _**g** _ _**h** _ _**i** _ _**j** _ _**k** _ _**l** _ _**m** _ _**n** _ _**o** _ _**p** _ _**q** _ _**r** _ _**s** _ _**t** _ _**u** _ _**v** _ _**w** _ _**x** _ “  Staff & Cast  ”. _テレビアニメ「CONCEPTION」公式サイト_ .  2018年10月28日  閲覧。 
   11. ^  _**a** _ _**b** _ _**c** _ “『CONCEPTION 俺の子供を産んでくれ！』使命は巫女との間に子供をつくること”  . _ インサイド  _ (イード). (2012年2月13日)  .  https://www.inside-games.jp/article/2012/02/13/54522.html  2018年10月28日  閲覧。 

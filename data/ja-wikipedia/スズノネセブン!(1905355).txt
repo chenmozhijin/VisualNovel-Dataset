@@ -13,7 +13,7 @@ PlayStation Portable
 エンディング数  [PC]4
 [PS2]6
 セーブファイル数  [PS2]80
-ゲームエンジン  [PC]  CatSystem2  
+ゲームエンジン  [PC]  CatSystem2  [  1  ]
 メディア  DVD-ROM
 キャラクターボイス  主人公以外全員
 CGモード  あり

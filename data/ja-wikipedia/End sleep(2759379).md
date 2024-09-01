@@ -21,7 +21,7 @@ PlayStation Vita
 テンプレートを表示  
   
 『 **end sleep** 』（エンド スリープ）は、  Lilac Soft  より  2013年  5月31日  に発売された  アダルトゲーム
-  。
+[  1  ]  。
 
 2017年  4月27日  に  PlayStation Vita  版が発売され、Lilac Softが直接移植を行っている。
 

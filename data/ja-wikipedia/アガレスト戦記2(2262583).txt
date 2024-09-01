@@ -9,32 +9,31 @@ Microsoft Windows
 Laughing Jackal
 発売元  PlayStation 3
 コンパイルハート
-サイバーフロント  
-Ghostlight  
-Aksys Games  
+サイバーフロント  [  1  ]
+Ghostlight  [  1  ]
+Aksys Games  [  1  ]
 Microsoft Windows
-Ghostlight  
+Ghostlight  [  2  ]
 販売元  アイディアファクトリー
 メディア  PS3 :  BD-ROM
 Windows :  Steam
 発売日  PlayStation 3
 2010年  11月18日
-2011年10月5日  
-2012年6月26日  
-2012年8月10日  
+2011年10月5日  [  1  ]
+2012年6月26日  [  1  ]
+2012年8月10日  [  1  ]
 Microsoft Windows
-2015年2月19日    
+2015年2月19日  [  3  ]  [  2  ]
 対象年齢  CERO  ：  C  （15才以上対象）
 ESRB  ：  T（13歳以上）
 PEGI  ：  16
-コンテンツ
-アイコン  セクシャル
+コンテンツ  アイコン  セクシャル
 その他  Windows :
 Steam 実績, Steam トレーディングカード, Steam クラウド, Steam ランキング対応
 テンプレートを表示  
 『  アガレスト戦記2  』（アガレストせんきツー）は、  コンパイルハート  より発売された  ファンタジー  RPG  。  2010年  11月18日
-に  PlayStation 3  で発売された（当初は  2010年  10月21日  に発売予定であったが、諸事情により延期された    ）。
-海外向けに  Microsoft Windows  版も  2015年  2月19日  に発売された。詳細は  後述する  。
+に  PlayStation 3  で発売された（当初は  2010年  10月21日  に発売予定であったが、諸事情により延期された  [  4  ]
+）。 海外向けに  Microsoft Windows  版も  2015年  2月19日  に発売された。詳細は  後述する  。
 制作は  アイディアファクトリー  、  レッド・エンタテインメント  および  コンパイルハート  。日本での販売は  コンパイルハート  が担当。
 概要
 
@@ -137,7 +136,7 @@ AAS（アクティブアニメーションシステム）  はより洗練され
 
 ユーミル
  声：  高本めぐみ 
- 第二世代のヒロインの一人。グラッセアを守護する守人「ユルレ」の民の一人で、ハルピュイアの少女。病に冒された兄・ラスターを救うため、魔器の材料集めをシュバルツ達に依頼する。報酬としてユーミル自身をシュバルツに求められるが    、兄を救うためならとその交換条件を呑む。兄であり許婚でもあるラスターを慕っているが、それが異性としての好意なのかは彼女自身もよく分かっていない。
+ 第二世代のヒロインの一人。グラッセアを守護する守人「ユルレ」の民の一人で、ハルピュイアの少女。病に冒された兄・ラスターを救うため、魔器の材料集めをシュバルツ達に依頼する。報酬としてユーミル自身をシュバルツに求められるが  [  5  ]  、兄を救うためならとその交換条件を呑む。兄であり許婚でもあるラスターを慕っているが、それが異性としての好意なのかは彼女自身もよく分かっていない。
 
 ジュード
  声：  早志勇紀 
@@ -190,7 +189,7 @@ AAS（アクティブアニメーションシステム）  はより洗練され
  歌・作詞：  yozuca*  / 作曲：  俊龍  / 編曲：  安瀬聖
 
 エンディングテーマ「変らない奇跡」
- 歌：  Rita  / 作詞：  綾葉    / 作曲・編曲：  鈴木達也  [  要曖昧さ回避  ]
+ 歌：  Rita  / 作詞：  綾葉  [  6  ]  / 作曲・編曲：  鈴木達也  [  要曖昧さ回避  ]
 
 グランドエンディングテーマ「果てなき道」
  歌・作詞・作曲：yozuca* / 編曲：戸田章世
@@ -201,8 +200,8 @@ AAS（アクティブアニメーションシステム）  はより洗練され
 Microsoft Windows版
 
 本作のMicrosoft Windows版は  イギリス  の  Ghostlight  から  2015年  2月19日  に  Steam
-にて発売された    。  移植  は  イギリス  の  Laughing Jackal  が  初代  、  ZERO  に引き続き担当した
-  。タイトルは欧州版と同じ  Agarest: Generations of War 2  。
+にて発売された  [  3  ]  。  移植  は  イギリス  の  Laughing Jackal  が  初代  、  ZERO
+に引き続き担当した  [  7  ]  。タイトルは欧州版と同じ  Agarest: Generations of War 2  。
 Microsoft Windows版においては、Steam 実績、Steam トレーディングカード、Steam クラウドおよびSteam
 ランキングへの対応がなされている。 日本国内からの購入も可能だが、海外向けに発売されているため英語版の移植となっており、日本語は吹き替えのみサポートする。
 脚注
@@ -210,7 +209,7 @@ Microsoft Windows版においては、Steam 実績、Steam トレーディング
 
 ^  a  b  c  d  e  f  “  Record of Agarest War 2 Release Information for PlayStation 3  ”.  GameFAQs  . CBS Interactive Inc..  2014年10月21日  閲覧。 
 ^  a  b  “  Agarest: Generations of War 2 Release Information for PC  ”.  GameFAQs  . CBS Interactive Inc..  2015年8月2日  閲覧。 
-^  a  b  “  Agarest: Generations of War 2 is out now  ”. Ghostlight Blog (2015年2月19日).  2015年8月2日  閲覧。 
+^  a  b  “  Agarest: Generations of War 2 is out now  ”. Ghostlight Blog (19 Feb 2015).  2015年8月2日  閲覧。 
 ^  『  PS3専用ソフト『アガレスト戦記２』発売日変更のご案内  』（プレスリリース）株式会社コンパイルハート、2010年9月24日  。  https://www.compileheart.com/agarest_2nd/news/enki/  。  2014年10月21日  閲覧  。 
 ^  使命のために仕方なくであり、シュバルツも好きで求めたわけではない 
 ^  綾菓の別名義。 

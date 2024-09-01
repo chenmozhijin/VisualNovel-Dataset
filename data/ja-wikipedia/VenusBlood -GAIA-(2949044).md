@@ -22,7 +22,7 @@ CGモード  |  あり
 『 **VenusBlood -GAIA-** 』(ヴィーナスブラッドガイア)は  2013年  11月29日
 にdualtailより発売された拠点防衛&魔族産卵触手  SLG  である。
 
-リメイク  版『VenusBlood GAIA International』が  2023年  7月28日  発売予定。  
+リメイク  版『VenusBlood GAIA International』が  2023年  7月28日  発売予定。  [  1  ]
 
 ##  概要
 

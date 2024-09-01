@@ -45,7 +45,7 @@ HiBiKi Radio Station
 **オープニング**
 
   * 『  聖戦スペクタル  』  Ceui  （第0回 - 第13回） 
-  * 『Happy days』    （第14回 - 第45回） 
+  * 『Happy days』  [  1  ]  （第14回 - 第45回） 
 
 **エンディング**
 
