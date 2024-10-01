@@ -5,7 +5,7 @@ EVE rebirth terror  ジャンル  |  アドベンチャーゲーム
 対応機種  |  PlayStation 4    
 PlayStation Vita  
 Nintendo Switch  
-Windows10/11  
+Windows 10/11  
 開発元  |  El Dia   
 発売元  |  Red Flagship   
 キャラクターデザイン  |  巌本英利   

@@ -490,12 +490,12 @@ tale.』に相当する、新藤千尋・麻生蓮治・火村夕らを中心に
 大沼心  大沼心  潮月一也
 古川英樹
 西田美弥子
-杉山延寛  N/A
+杉山延寛  —
 coda.  d  ream  
 主題歌（第1期）
 
 話数  OP曲  ED曲  EDバージョン  BD・DVD収録時変更になったED
-01.  N/A  I'm here  ノーマルバージョン  N/A
+01.  —  I'm here  ノーマルバージョン  —
 02.  euphoric field feat.ELISA
 （English）  OPバージョン
 03.  euphoric field feat.ELISA
@@ -503,10 +503,10 @@ coda.  d  ream
 04.  刻む季節  景バージョン
 05.  空の夢
 06.  空の夢  千尋バージョン
-07.  I'm here  みやこバージョン  N/A
+07.  I'm here  みやこバージョン  —
 08.  空の夢  千尋バージョン
 09.  刻む季節  景バージョン
-10.  N/A  I'm here  ノーマルバージョン
+10.  —  I'm here  ノーマルバージョン
 11.  euphoric field feat.ELISA
 （English）  空の夢  千尋バージョン
 12.  euphoric field feat.ELISA
@@ -608,12 +608,12 @@ future  」になる。
 宮崎修治
 板村智幸  大沼心  伊藤良明  鈴平ひろ
 11.  re  r  ead  宮崎修治  七尾奈留
-12.  for  e  ver  島津裕行  大沼心  杉山延寛  N/A
+12.  for  e  ver  島津裕行  大沼心  杉山延寛  —
 fine.  ef  
 主題歌（第2期）
 
 話数  OP曲  ED曲
-01.  ebullient future（English）  N/A
+01.  ebullient future（English）  —
 02.  笑顔のチカラ
 03.
 04.
@@ -622,9 +622,9 @@ fine.  ef
 07.  ebullient future（English）  笑顔のチカラ
 08.  願いのカケラ
 09.  笑顔のチカラ
-10.  N/A  ebullient future（English）
+10.  —  ebullient future（English）
 11.  ebullient future（English）  笑顔のチカラ
-12.  N/A  ebullient future（Japanese）
+12.  —  ebullient future（Japanese）
 ever forever  
 放送局（第2期）
 

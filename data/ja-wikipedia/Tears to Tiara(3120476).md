@@ -181,7 +181,7 @@ EDテーマ「Until」
 Heart To Heart（  中山愛梨沙  ）
 
      2005年6月22日（KICA-1344）、OPとED主題歌を収録。 
-「Tears to Tiara」オリジナルサウンドトラック  [注 1]
+「Tears to Tiara」オリジナルサウンドトラック  [  注 1  ]
 
      2005年6月10日（AQMC-004） 
 AQUAPLUS VOCAL COLLECTION VOL.5

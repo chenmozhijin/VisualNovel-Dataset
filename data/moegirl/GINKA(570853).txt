@@ -1,13 +1,17 @@
 GINKA
 类型  视觉小说
 平台  Microsoft Windows
-分级  全年龄
+Nintendo Switch
+分级  CERO  :  - 12岁以上
+ESRB  :  - 青少年
 开发  FrontWing
 发行  FrontWing
 角色设计  ゆさの
 编剧  紺野アスタ
 音乐  松本文纪
-发行时间  2023年10月26日
+引擎  吉里吉里
+发行时间  PC:2023年10月26日
+NS:2024年  0  9月19日
 相关作品  ATRI -My Dear Moments-
 “  回去吧，回到有你的夏天——  ”  
 《  GINKA  》是由  FrontWing  制作发行的一款  视觉小说  作品，于2023年10月26日发行，同步支持简体中文、英文。
