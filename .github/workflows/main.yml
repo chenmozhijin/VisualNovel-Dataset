@@ -16,7 +16,7 @@ jobs:
         runs-on: ubuntu-22.04
         steps: 
             - name: 将存储库签出到运行器
-              uses: actions/checkout@v3
+              uses: actions/checkout@V4
 
             - name: 输出运行器硬件信息
               run: |
@@ -46,7 +46,7 @@ jobs:
 
             - name: 上传维基百科的json文本
               if: success() || failure()
-              uses: actions/upload-artifact@v3
+              uses: actions/upload-artifact@V4
               with:
                   name: ja-wikipedia-json
                   path: "workdir/ja-wikipedia.json"
@@ -55,7 +55,7 @@ jobs:
         runs-on: ubuntu-22.04
         steps: 
             - name: 将存储库签出到运行器
-              uses: actions/checkout@v3
+              uses: actions/checkout@V4
 
             - name: 输出运行器硬件信息
               run: |
@@ -85,7 +85,7 @@ jobs:
 
             - name: 上传萌娘百科的json文本
               if: success() || failure()
-              uses: actions/upload-artifact@v3
+              uses: actions/upload-artifact@V4
               with:
                   name: moegirl-json
                   path: "workdir/moegirl.json"
